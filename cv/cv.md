@@ -15,4 +15,4 @@ permalink: /cv/
 - 2005 Sept — 2007 July, `Bachelor student`, [School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/eecs_english/aboutUs.shtml), [Peking University](http://english.pku.edu.cn/)
 - 1987 Jan 15, `Born`, [Yuyao City](http://en.wikipedia.org/wiki/Yuyao), [Zhejiang China](http://en.wikipedia.org/wiki/Zhejiang)
 
-**[Link](./shao-cv.pdf) to full CV**
+**Click here for the [Link](./shao-cv.pdf) to full CV**

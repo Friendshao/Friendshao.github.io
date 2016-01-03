@@ -9,7 +9,7 @@ Because the heavy unworthy effort in maintaining pure basic-`html` pages, and my
 
 For the new homepage, [`jekyll`](https://jekyllrb.com/) is being used, that allows least efforts to gain greatest flexibility --- for the record --- at the beginning of 2016 (I have no idea what is in the future of websites, but pretty sure that things get outdated easily!) 
 
-Currently i am using the default `.css` style together with [`jekyll (version 3.0.1)`](https://jekyllrb.com/). It is simple and functioning. The style also gives the possibility of (less serious --- in my sense) posting in the (more serious --- again, in my sense) personal homepage.
+Currently i am using the default `.css` style together with `jekyll (version 3.0.1)`. It is simple and functioning. The style also gives the possibility of posting in the personal homepage.
 
 **All in all, welcome to my new homepage `plus` blog!** It is a good start-up for the new year.
 
