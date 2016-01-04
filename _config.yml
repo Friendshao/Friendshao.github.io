@@ -17,5 +17,6 @@ url: "http://friendshao.github.io" # the base hostname & protocol for your site
 facebook_username: Friendshao
 # twitter_username: Friendshao
 github_username:  Friendshao
+# bitbucket_username: Friendshao
 # Build settings
 markdown: kramdown

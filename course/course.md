@@ -14,4 +14,4 @@ permalink: /course/
   - <sub>lectured by Prof. Zhenxi Dong
 - **Linear Algebra**, Peking University, Autumn 2009
   - <sub>lectured by Prof. Maoying Tian
-  - <sub>obtained an `Excellent TA` Award
+  - <sub>obtained an **Excellent TA** Award

@@ -6,7 +6,7 @@ permalink: /contact/
 
 ### Emails
 
-- Friendshao<img src="at.jpg" width="20">gmail.com [skype]
+- **Friendshao**<img src="at.jpg" width="20">**gmail.com** [skype]
 - lshao<img src="at.jpg" width="20">aei.mpg.de
 - lshao<img src="at.jpg" width="20">pku.edu.cn
 
