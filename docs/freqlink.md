@@ -25,6 +25,7 @@
   [Calendar](https://www.google.com/calendar);
   [Maps](https://www.google.com/maps);
   [bookmark](https://www.google.com/bookmarks/);
+  [evernote](https://www.evernote.com/Home.action);
   [Baidu](http://www.baidu.com)
 - [feedReader](http://feedreader.com/online/);
   [Dropdox](https://www.dropbox.com/home);
