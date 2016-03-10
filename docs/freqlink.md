@@ -22,7 +22,6 @@
 ### Tools  
   
 - [Google](http://www.google.com/ncr); 
-  [Calendar](https://www.google.com/calendar);
   [Maps](https://www.google.com/maps);
   [bookmark](https://www.google.com/bookmarks/);
   [evernote](https://www.evernote.com/Home.action);
