@@ -6,6 +6,8 @@ permalink: /publication/
 
 ## Selected Publications
 
+- **[L. Shao](http://friendshao.github.io/), Physical Review D, in press.** [arXiv:1602.05725](http://arxiv.org/abs/1602.05725)
+  - <sub>"Testing the strong equivalence principle with the triple pulsar PSR J0337+1715"
 - **[L. Shao](http://friendshao.github.io/), Physical Review D 90 (2014) 122009.** [arXiv:1412.2320](http://arxiv.org/abs/1412.2320)
   - <sub>"New pulsar limit on local Lorentz invariance violation of gravity in the standard-model extension"
 - **[L. Shao](http://friendshao.github.io/), I.H. Stairs, et al., Proceedings of Science, PoS(AASKA14)042.** [arXiv:1501.00058](http://arxiv.org/abs/1501.00058)
