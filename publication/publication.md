@@ -6,13 +6,13 @@ permalink: /publication/
 
 ## Selected Publications
 
-- **[L. Shao](http://friendshao.github.io/), Physical Review D, in press.** [arXiv:1602.05725](http://arxiv.org/abs/1602.05725)
+- **[L. Shao](http://friendshao.github.io/), Physical Review D XXX (2016) XXX.** [arXiv:1602.05725](http://arxiv.org/abs/1602.05725)
   - <sub>"Testing the strong equivalence principle with the triple pulsar PSR J0337+1715"
-- **[L. Shao](http://friendshao.github.io/), Physical Review D 90 (2014) 122009.** [arXiv:1412.2320](http://arxiv.org/abs/1412.2320)
-  - <sub>"New pulsar limit on local Lorentz invariance violation of gravity in the standard-model extension"
 - **[L. Shao](http://friendshao.github.io/), I.H. Stairs, et al., Proceedings of Science, PoS(AASKA14)042.** [arXiv:1501.00058](http://arxiv.org/abs/1501.00058)
   - <sub>"Testing gravity with pulsars in the SKA era"
   - <sub>A chapter in the book ["Advancing Astrophysics with the Square Kilometre Array"](http://pos.sissa.it/cgi-bin/reader/conf.cgi?confid=215) (SKA Organisation 2015)
+- **[L. Shao](http://friendshao.github.io/), Physical Review D 90 (2014) 122009.** [arXiv:1412.2320](http://arxiv.org/abs/1412.2320)
+  - <sub>"New pulsar limit on local Lorentz invariance violation of gravity in the standard-model extension"
 - **[L. Shao](http://friendshao.github.io/), Physical Review Letters 112 (2014) 111103.** [arXiv:1402.6452](http://arxiv.org/abs/1402.6452)
   - <sub>"Tests of local Lorentz invariance violation of gravity in the standard model extension"
   - <sub>Reported by School of Physics, Peking University: [English](http://www.phy.pku.edu.cn/english/news/140304.xml)/[Chinese](http://www.phy.pku.edu.cn/research/projects/140304.xml)

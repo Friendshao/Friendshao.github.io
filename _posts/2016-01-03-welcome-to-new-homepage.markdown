@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to new homepage"
+title:  "Welcome to New Homepage"
 date:   2016-01-03 14:12:44 +0100
 categories: News
 ---

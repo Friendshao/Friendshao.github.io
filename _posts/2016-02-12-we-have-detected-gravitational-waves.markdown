@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We have detected gravitational waves!"
+title:  "We have Detected Gravitational Waves!"
 date:   2016-02-12 00:00:01 +0100
 categories: News
 ---
