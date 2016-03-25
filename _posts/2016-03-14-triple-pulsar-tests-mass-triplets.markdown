@@ -20,4 +20,4 @@ PSR J0337+1715 turns out one of the best testbeds for SEP. It composes of one ne
 
 In my work, in addition to the extensively studied violation in the equality of inertial mass and (passive) gravitational mass, the possibility of a violation in the equality of **active** gravitational mass and **passive** gravitational mass was also investigated. The latter would be the first test of such kind for pulsar timing, and also would be the first test of Newton's 3rd law (namely *"actio = reactio"*) with compact objects. Extensive simulation showed that the pulsar timing data might have a sensitivity of SEP down to 3e-8, improving current best limits by thousands to millions.
 
-The paper [[arXiv:1602.05725](http://arxiv.org/abs/1602.05725)] is accepted by **Physical Review D**.
+The paper [[arXiv:1602.05725](http://arxiv.org/abs/1602.05725)] is highlighted by **Physical Review D**.
