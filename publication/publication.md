@@ -15,7 +15,7 @@ permalink: /publication/
   - <sub>"New pulsar limit on local Lorentz invariance violation of gravity in the standard-model extension"
 - **[L. Shao](http://friendshao.github.io/), Physical Review Letters 112 (2014) 111103.** [arXiv:1402.6452](http://arxiv.org/abs/1402.6452)
   - <sub>"Tests of local Lorentz invariance violation of gravity in the standard model extension"
-  - <sub>Reported by School of Physics, Peking University: [English](http://www.phy.pku.edu.cn/english/news/140304.xml)/[Chinese](http://www.phy.pku.edu.cn/research/projects/140304.xml)
+  - <sub>Featured by School of Physics, Peking University: [English](http://www.phy.pku.edu.cn/english/news/140304.xml)/[Chinese](http://www.phy.pku.edu.cn/research/projects/140304.xml)
 - **[L. Shao](http://friendshao.github.io/), R.N. Caballero, M. Kramer, et al., Classical and Quantum Gravity 30 (2013) 165019.** [arXiv:1307.2552](http://arxiv.org/abs/1307.2552)
   - <sub>"A new limit on local Lorentz invariance violation of gravity from solitary pulsars"
   - <sub>[Highlighted by Classical and Quantum Gravity](IOP_sck+13.pdf)
