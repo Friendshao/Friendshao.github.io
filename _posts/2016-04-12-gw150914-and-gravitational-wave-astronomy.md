@@ -15,4 +15,8 @@ In the post-GW150914 era, the future of gravitational-wave astronomy is even bri
 
 There are also two missions that are in discussion from the Chinese side. They are called **TianQin** (天琴) and **Taiji** (太极). Both of them are space-based missions that are aiming to fly in, more or less, next decade. I heartfeltly wish them big success, and am willing to contribute without any doubt.
 
+![TianQin_Taiji](http://www.nature.com/polopoly_fs/7.34815.1457452433!/image/nature-china-g-waves-10-03-16-online.jpg_gen/derivatives/landscape_630/nature-china-g-waves-10-03-16-online.jpg "TianQin_Taiji")
+
+**Preliminary desings of Taiji and TianQin.** *(C) eLISA/Wu Yue-Liang/Luo Jun*
+
 *For more about our popular-science review paper (in Chinese) [Liu, Wang, Hu, Zhang, Luo, Wang, Shao 2016, Chinese Science Bulletin (科学通报)], check [this link](to be inserted)!*

@@ -13,6 +13,7 @@ Einstein's General Relativity (GR) crucially relies on the equivalence principle
 2. the lack of suitable systems thereof.
 
 ![TriplePulsar](https://public.nrao.edu/images/non-gallery/2014/d-finley/01-05/Triple_System_nrao.jpg "Triple Pulsar")
+
 **Millisecond pulsar (left foreground) is orbited by a hot white dwarf (center), both of which are orbited by another more-distant and cooler white dwarf (top right).** *(C) Bill Saxton; NRAO/AUI/NSF*
 
 
