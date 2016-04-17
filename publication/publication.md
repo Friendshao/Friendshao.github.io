@@ -30,7 +30,7 @@ permalink: /publication/
   - <sub>"Lorentz-violation-induced vacuum birefringence and its astrophysical consequences"
 - **[L. Shao](http://friendshao.github.io/) & B.-Q. Ma, Physica A 389 (2010) 3109.** [arXiv:1005.0660](http://arxiv.org/abs/1005.0660)
   - <sub>"The significant digit law in statistical physics"
-  - <sub>Invited to [Wolfram Demonstrations Projectd](http://demonstrations.wolfram.com/BenfordsLawInStatisticalPhysics/)
+  - <sub>Invited to [Wolfram Demonstrations Project](http://demonstrations.wolfram.com/BenfordsLawInStatisticalPhysics/)
 
 
 ## Other Publications
