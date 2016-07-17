@@ -57,7 +57,8 @@
 - [smallpdf](http://smallpdf.com/)
 - [E-Science](http://www.escience.cn/people/shao);
   [Github-shao](http://friendshao.github.io);
-  [wordpress](https://myfriendshao.wordpress.com/)
+  [wordpress](https://myfriendshao.wordpress.com/);
+  [google-scholar](https://scholar.google.de/citations?user=x7Rnzn8AAAAJ&hl=en&oi=ao)
 - [PKU](http://www.pku.edu.cn/);
   [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en)
 - [XueTangX](http://www.xuetangx.com/dashboard);
