@@ -12,8 +12,6 @@ permalink: /publication/
 - **[L. Shao](http://friendshao.github.io/), I.H. Stairs, et al., Proceedings of Science, PoS(AASKA14)042.** [arXiv:1501.00058](http://arxiv.org/abs/1501.00058)
   - <sub>"Testing gravity with pulsars in the SKA era"
   - <sub>A chapter in the book ["Advancing Astrophysics with the Square Kilometre Array"](http://pos.sissa.it/cgi-bin/reader/conf.cgi?confid=215) (SKA Organisation 2015)
-- **[L. Shao](http://friendshao.github.io/), Physical Review D 90 (2014) 122009.** [arXiv:1412.2320](http://arxiv.org/abs/1412.2320)
-  - <sub>"New pulsar limit on local Lorentz invariance violation of gravity in the standard-model extension"
 - **[L. Shao](http://friendshao.github.io/), Physical Review Letters 112 (2014) 111103.** [arXiv:1402.6452](http://arxiv.org/abs/1402.6452)
   - <sub>"Tests of local Lorentz invariance violation of gravity in the standard model extension"
   - <sub>Featured by School of Physics, Peking University: [English](http://www.phy.pku.edu.cn/english/news/140304.xml)/[Chinese](http://www.phy.pku.edu.cn/research/projects/140304.xml)
@@ -26,8 +24,6 @@ permalink: /publication/
 - **[L. Shao](http://friendshao.github.io/) & N. Wex, Classical and Quantum Gravity 29 (2012) 215018.** [arXiv:1209.4503](http://arxiv.org/abs/1209.4503)
   - <sub>"New tests of local Lorentz invariance of gravity with small-eccentricity binary pulsars"
   - <sub>[Highlighted by Classical and Quantum Gravity](IOP_sw12.pdf)
-- **[L. Shao](http://friendshao.github.io/) & B.-Q. Ma, Physical Review D 83 (2011) 127702.** [arXiv:1104.4438](http://arxiv.org/abs/1104.4438)
-  - <sub>"Lorentz-violation-induced vacuum birefringence and its astrophysical consequences"
 - **[L. Shao](http://friendshao.github.io/) & B.-Q. Ma, Physica A 389 (2010) 3109.** [arXiv:1005.0660](http://arxiv.org/abs/1005.0660)
   - <sub>"The significant digit law in statistical physics"
   - <sub>Invited to [Wolfram Demonstrations Project](http://demonstrations.wolfram.com/BenfordsLawInStatisticalPhysics/)
