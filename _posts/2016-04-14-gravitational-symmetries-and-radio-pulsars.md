@@ -9,9 +9,9 @@ Symmetry is awful. Symmetry breaking adds more.
 
 We all know that in current modern theories of physics, symmetry plays an important role, maybe more important than anything else. The Standard Model (SM) of particle physics enjoys the symmetry of SU(3)×SU(2)×U(1), while the General Relativity (GR) of gravity enjoys a full diffeomorphism symmetry of coordinate transformation. Symmetry breaking adds patterns onto the otherwise boringly symmetrical world. For example, Higgs mechanism is a mechanism where an underlying symmetry breaks into its subgroup, and brings masses to the world.
 
-![symm](https://qph.cr.quoracdn.net/main-qimg-a885d25c065a6a0a3ccb5e78e41c46b4 "symm")
+![symm](http://s30.postimg.org/8u9289szl/main_qimg_a885d25c065a6a0a3ccb5e78e41c46b4.jpg "symm")
 
-**Symmetry and symmetry breaking.** *(C) Figure taken from http://web.hallym.ac.kr/~physics/course/*
+**Symmetry and symmetry breaking.** *(C) Figure taken from http://functionspace.com/*
 
 [//]: #(http://web.hallym.ac.kr/~physics/course/a2u/ep/img/pencil.jpg)
 
