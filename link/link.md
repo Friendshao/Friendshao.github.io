@@ -19,14 +19,16 @@ permalink: /link/
 
 - [**Python**](https://www.python.org/)
     + [NumPy](http://www.numpy.org/),
-      [SciPy](http://www.scipy.org/)
+      [SciPy](http://www.scipy.org/),
+      [matplotlib](http://matplotlib.org/)
     + [Jupyter](http://jupyter.org/),
       [JupyterLab](http://jupyterlab-tutorial.readthedocs.io/en/latest/)
     + [astropy](http://www.astropy.org/),
       [emcee](http://dan.iel.fm/emcee/),
       [pandas](http://pandas.pydata.org/),
       [bokeh](http://bokeh.pydata.org/),
-      [gwpy](https://github.com/gwpy/gwpy)
+      [gwpy](https://github.com/gwpy/gwpy),
+      [seaborn](https://stanford.edu/~mwaskom/software/seaborn/)
     + [argparse](https://docs.python.org/3/howto/argparse.html),
       [re](https://docs.python.org/3/howto/regex.html),
       [h5py](http://www.h5py.org/),
@@ -34,7 +36,8 @@ permalink: /link/
       [threading](https://pymotw.com/2/threading/),
       [corner](https://pypi.python.org/pypi/corner/1.0.0),
       [altair](https://github.com/ellisonbg/altair),
-      [avoplot](https://github.com/jreeder/avoplot)
+      [avoplot](https://github.com/jreeder/avoplot),
+      [chainconsumer](https://github.com/Samreay/ChainConsumer)
 
 - Data Analysis:
 [ROOT](https://root.cern.ch/),
@@ -69,4 +72,6 @@ permalink: /link/
 [NX01](https://github.com/stevertaylor/NX01),
 [PINT](https://github.com/nanograv/PINT)
 
-- Web: [Jekyll](http://jekyllrb.com/)
+- Web: [Jekyll](http://jekyllrb.com/),
+       [Fluid](http://fluidapp.com/),
+       [Asana](http://www.asana.com)
