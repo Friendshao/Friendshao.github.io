@@ -11,12 +11,12 @@ email: 				Friendshao@gmail.com
 encoding:			utf-8
 
 description: > # this means to ignore newlines until "baseurl:"
-  He does not play dice.
+  Does he play dice?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://friendshao.github.io" # the base hostname & protocol for your site
-facebook_username: Friendshao
+# facebook_username: Friendshao
 # twitter_username: Friendshao
-github_username:  Friendshao
+# github_username:  Friendshao
 # bitbucket_username: Friendshao
 # Build settings
 markdown: kramdown

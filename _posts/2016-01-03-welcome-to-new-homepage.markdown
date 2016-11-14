@@ -15,6 +15,5 @@ Currently i am using the default `.css` style together with `jekyll (version 3.0
 
 Hope i will have news to share with you, and not too lazy/busy to do bloggings.;-)
 
-![Happy New Year 2016](http://happynewyear2016-imageshd.com/wp-content/uploads/2015/12/happy-new-year-3d-wallpaper-photos-2016.jpg)
 
 <p align="right"> Lijing (Potsdam-Golm)</p>

@@ -10,6 +10,7 @@ permalink: /link/
 
 - [**C/C++**](http://www.cplusplus.com/)
     + [GSL](http://www.gnu.org/software/gsl/),
+      [gdb](https://www.gnu.org/software/gdb/),
       [swig](http://www.swig.org/),
       [valgrind](http://valgrind.org/)
 
@@ -75,3 +76,5 @@ permalink: /link/
 - Web: [Jekyll](http://jekyllrb.com/),
        [Fluid](http://fluidapp.com/),
        [Asana](http://www.asana.com)
+
+
