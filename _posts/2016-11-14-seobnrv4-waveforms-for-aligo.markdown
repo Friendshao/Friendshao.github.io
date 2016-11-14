@@ -19,7 +19,7 @@ SEOBNRv4 is based on numerous early efforts of EOBNR models, and recent data of 
 
 SEOBNRv4 has been implemented in the LIGO Algorithm Library ([LAL](https://wiki.ligo.org/DASWG/LALSuite)). Please use it and enjoy it!
 
-More details can be found in our paper [[arXiv:1611.xxxxx](https://arxiv.org/abs/1611.03703)].
+More details can be found in our paper [[arXiv:1611.03703](https://arxiv.org/abs/1611.03703)].
 
 <figure>
 <img src="http://friendshao.github.io/img/v4wf.png" align="middle" alt="waveform" style="width: 700px;"/>
