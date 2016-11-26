@@ -6,11 +6,19 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
+          <li>{{ site.institute }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
+
+          <b><font color="Fuchsia">He</font>
+              <font color="blue">does</font>
+              <font color="red">not</font>
+              <font color="cyan">play</font></b>
+          <img src="http://www.thinkgeek.com/images/products/frontsquare/e588_giant_foam_polyhedral_dice.jpg" style="width:100px;"></img>
+
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -20,7 +28,7 @@
 
           {% if site.bitbucket_username %}
           <li>
-            {% include icon-bitbucket.html username=site.bitbucket_username %} 
+            {% include icon-bitbucket.html username=site.bitbucket_username %}
           </li>
           {% endif %}
 
