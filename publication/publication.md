@@ -34,4 +34,4 @@ permalink: /publication/
 
 ## Other Publications
 
-**Please check at [this link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Shao,+Lijing&libid=4fe85f3e52)**, provided by The SAO/NASA Astrophysics Data System
+**Please check at [this link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=shao&libid=58649aafb9)**, provided by The SAO/NASA Astrophysics Data System
