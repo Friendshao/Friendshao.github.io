@@ -6,6 +6,16 @@ permalink: /publication/
 
 ## Selected Publications
 
+- **A. Bohé, [L. Shao](http://friendshao.github.io/),
+    A. Taracchini, A. Buonanno, et al.,
+    Physical Review D 95 (2017) 044028.**
+    [arXiv:1611.03703](http://arxiv.org/abs/1611.03703)
+  - <sub>"Improved effective-one-body model of spinning, nonprecessing
+  binary black holes for the era of gravitational-wave astrophysics
+  with advanced detectors"
+  - <sub>Implemented as the *SEOBNRv4* waveform model in *LIGO
+         Algorithm Library*
+  <img src="LIGO.jpg" alt="LIGO" style="height:30px;">
 - **[L. Shao](http://friendshao.github.io/), Physical Review D 93 (2016) 084023.** [arXiv:1602.05725](http://arxiv.org/abs/1602.05725)
   - <sub>"Testing the strong equivalence principle with the triple pulsar PSR J0337+1715"
   - <sub>Featured by PRD editors as an "*Editors' Suggestion*"
