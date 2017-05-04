@@ -101,6 +101,7 @@ permalink: /link/
 - [RGTC](http://www.inp.demokritos.gr/~sbonano/RGTC/): Riemannian Geometry & Tensor Calculus @ Mathematica
 - [RNS](http://www.gravity.phys.uwm.edu/rns/): Rapidly rotating NSs
 - [sage](https://github.com/sagemath/sage): Mirror of the Sage source tree
+- [scri](https://github.com/moble/scri/): manipulating time-dependent functions of spin-weighted spherical harmonics
 - [simulationtools](http://simulationtools.org/): SimulationTools
 - [slice_posterior](https://github.com/vivienr/slice_posterior): Slices and interpolate a LIGO CBC-PE posterior file
 - [synthlisa](https://github.com/vallis/synthlisa): Synthetic LISA: a noise and signal simulator for LISA-like gravitational-wave observatories
@@ -139,3 +140,5 @@ permalink: /link/
 - [Physics hypertextbook](http://physics.info/): The Physics Hypertextbook
 - [RIT NR](http://ccrg.rit.edu/~RITCatalog/): RIT catalog
 - [supernova](https://sne.space/): The Open Supernova Catalog
+
+

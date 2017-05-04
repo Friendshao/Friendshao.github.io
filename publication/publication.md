@@ -44,4 +44,6 @@ permalink: /publication/
 
 ## Other Publications
 
-**For a nearly complete list, please check at [this link [SAO/NASA ADS]](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=shao&libid=58649aafb9)**
+**For a nearly complete list, please check at [this link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=shao&libid=58649aafb9)**
+
+
