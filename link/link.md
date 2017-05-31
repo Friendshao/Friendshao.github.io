@@ -16,6 +16,7 @@ permalink: /link/
 - [dropbox](https://www.dropbox.com/home): dropbox
 - [emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor — and more
 - [gdb](https://www.gnu.org/software/gdb/): The GNU Project Debugger
+- [George](http://dan.iel.fm/george/current/): a fast and flexible Python library for Gaussian Process Regression
 - [git](https://git-scm.com/): git --everything-is-local
 - [github](https://github.com/): git repositories
 - [gnuplot](http://www.gnuplot.info/): Gnuplot
@@ -47,6 +48,7 @@ permalink: /link/
 - [astroVis](https://bitbucket.org/Siggi_za/astrovis): visulizing astronomical data cubes
 - [avoplot](https://github.com/jreeder/avoplot): An extensible scientific plotting tool based on matplotlib
 - [bokeh-notebook](https://github.com/bokeh/bokeh-notebooks): Interactive Web Plotting with Bokeh in IPython notebook
+- [celerite](https://github.com/dfm/celerite): Scalable 1D Gaussian Processes in C++, Python, and Julia
 - [chainconsumer](https://github.com/Samreay/ChainConsumer): Corner plots, LaTeX tables and plotting walks
 - [contbin](http://www-xray.ast.cam.ac.uk/papers/contbin/): Contour binning
 - [corner](https://pypi.python.org/pypi/corner/1.0.0): Make some beautiful corner plots of samples
@@ -88,6 +90,7 @@ permalink: /link/
 - [piccard](https://github.com/vhaasteren/piccard): pulsar timing data analysis package
 - [PINT](https://github.com/nanograv/PINT): PINT is not TEMPO3 -- New software for high-precision pulsar timing
 - [precession](https://github.com/dgerosa/precession): precession
+- [pwkit](https://github.com/pkgw/pwkit/): miscellaneous Python for science and astronomy
 - [pycbc](https://github.com/ligo-cbc/pycbc): Analyze gravitational-wave data, find signals, and study their parameters
 - [pycodestyle](https://github.com/PyCQA/pycodestyle): Python style guide checker
 - [pydde](https://github.com/hensing/PyDDE): Python/C DDE solver
@@ -100,6 +103,7 @@ permalink: /link/
 - [reproject](https://reproject.readthedocs.io/en/stable/): Image reprojection
 - [RGTC](http://www.inp.demokritos.gr/~sbonano/RGTC/): Riemannian Geometry & Tensor Calculus @ Mathematica
 - [RNS](http://www.gravity.phys.uwm.edu/rns/): Rapidly rotating NSs
+- [ROMSpline](https://bitbucket.org/chadgalley/romspline): compressing and interpolating 1d data using reduced-order modeling and statistical learning methods
 - [sage](https://github.com/sagemath/sage): Mirror of the Sage source tree
 - [scri](https://github.com/moble/scri/): manipulating time-dependent functions of spin-weighted spherical harmonics
 - [simulationtools](http://simulationtools.org/): SimulationTools
@@ -129,6 +133,7 @@ permalink: /link/
 - [datadryad](http://www.datadryad.org/): Browse for data
 - [eigenvalue](http://library.wolfram.com/infocenter/MathSource/8762/): Eigenvalue differential equation solver
 - [EPTA](http://www.epta.eu.org/aom.html): EPTA additional online material
+- [Exoplanets](http://exoplanets.org/): Exoplanet Data Explorer
 - [eXTP](http://www.isdc.unige.ch/extp/): eXTP
 - [figshare](https://figshare.com/): store, share, discover research
 - [FRBcat](http://www.astronomy.swin.edu.au/pulsar/frbcat/): FRB catalog

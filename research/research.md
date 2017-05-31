@@ -11,6 +11,7 @@ permalink: /research/
 - Lorentz violation
 - Pulsars and neutron stars
 - Quantuam gravity phenomena
+- Bayesian data analysis
 
 ### Memberships in Research Activities
 
