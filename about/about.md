@@ -22,10 +22,10 @@ I received a doctor degree, **Theoretical Physics 2015**, from [School of Physic
 
 - Tests of gravity theories
 - Gravitational waves
-- Lorentz violation
 - Pulsars and neutron stars
-- Quantuam gravity phenomena
-- Bayesian data analysis
+- Black hole physics
+- Precision tests of fundamental physics
+- Bayesian data analysis and statistics
 
 ---
 
