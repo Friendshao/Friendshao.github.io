@@ -113,6 +113,7 @@ permalink: /link/
 - [tempo2](http://www.atnf.csiro.au/research/pulsar/tempo2/): TEMPO2 pulsar timing package
 - [tensorflow](https://www.tensorflow.org/): An open-source software library for Machine Intelligence
 - [threading](https://pymotw.com/2/threading/): Manage concurrent threads
+- [theano](http://deeplearning.net/software/theano/index.html): a Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays
 - [three.js](https://github.com/mrdoob/three.js): JavaScript 3D library
 - [uncertainties](http://pythonhosted.org/uncertainties/): uncertainties package
 - [vim fugitive](https://github.com/tpope/vim-fugitive): VIM fugitive
@@ -128,6 +129,7 @@ permalink: /link/
 
 - [Atom handbook](https://mba811.gitbooks.io/mac-dev/content/Atom/): atom handbook
 - [B1913+16](https://zenodo.org/record/54764#.WN68ZBKGORt): Binary Pulsar PSR B1913+16 arrival time and associated files
+- [Bayesian hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers): Bayesian Methods for Hackers
 - [cosmos gravity](http://aliojjati.github.io/MGCAMB/home.html): cosmological tests of modified gravity
 - [CS231n](https://cs231n.github.io/): Convolutional Neural Networks for Visual Recognition
 - [datadryad](http://www.datadryad.org/): Browse for data
