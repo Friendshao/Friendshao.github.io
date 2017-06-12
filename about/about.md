@@ -32,8 +32,8 @@ I received a doctor degree, **Theoretical Physics 2015**, from [School of Physic
 ### Contact
 
 
-<img src="email.jpg" width="30"> **Friendshao**<img src="at.jpg" width="20">**gmail.com** [skype]; lijing.shao<img src="at.jpg" width="20">aei.mpg.de
+<img src="email.png" width="30"> **Friendshao**<img src="at.jpg" width="20">**gmail.com** [skype]; lijing.shao<img src="at.jpg" width="20">aei.mpg.de
 
-<img src="phone.ico" width="30"> +49-(0)331-567-7115 (office)
+<img src="phone.png" width="30"> +49-(0)331-567-7115 (office)
 
 <img src="office.png" width="30"> Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Am Mühlenberg 1, D-14476 Potsdam-Golm, Germany
