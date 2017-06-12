@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Link
-permalink: /link/
+title: Toolbox
+permalink: /Toolbox/
 ---
 
 <img style="float: right;" src="weapons-cartoon.jpg" width="200">
