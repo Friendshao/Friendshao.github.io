@@ -7,7 +7,7 @@ categories: News
 
 <figure>
 <center>
-<img src="https://img.purch.com/w/660/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAzMS8xNjgvb3JpZ2luYWwvbmV1dHJvbi1zdGFyLWNyZWF0aW9uLWlsbHVzdHJhdGlvbi0yLmpwZw==" align="middle" alt="NS" style="width: 500px;"/></center>
+<img src="http://os4elridr.bkt.clouddn.com/17-7-7/43821359.jpg" align="middle" alt="NS" style="width: 500px;"/></center>
 <figcaption><center><b>A neutron star.</b> (C) NASA/Dana Berry</center></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ stars, as well as for binary neutron stars.
 
 <figure>
 <center>
-<img src="http://aasnova.org/wp-content/uploads/2016/09/fig16.jpg" align="middle" alt="BNS" style="width: 500px;"/></center>
+<img src="http://os4elridr.bkt.clouddn.com/17-7-7/11736530.jpg" align="middle" alt="BNS" style="width: 500px;"/></center>
 <figcaption><center><b>A binary neutron star.</b> (C) NASA/Goddard Space Flight Center/Dana Berry</center></figcaption>
 </figure>
 

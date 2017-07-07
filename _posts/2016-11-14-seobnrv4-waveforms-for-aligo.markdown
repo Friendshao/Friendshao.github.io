@@ -7,7 +7,7 @@ categories: News
 
 <figure>
 <center>
-<img src="https://www.sciencenews.org/sites/default/files/2016/02/main/blogposts/context_gravwaves_free.jpg" align="middle" alt="BBH" style="width: 500px;"/></center>
+<img src="http://os4elridr.bkt.clouddn.com/17-7-7/82867994.jpg" align="middle" alt="BBH" style="width: 500px;"/></center>
 <figcaption><center><b>A merging black-hole binary</b> [figure linked from sciencenews.org]</center></figcaption>
 </figure>
 

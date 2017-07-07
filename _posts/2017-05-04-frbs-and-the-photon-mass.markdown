@@ -7,7 +7,7 @@ categories: News
 
 <figure>
 <center>
-<img src="https://cdn-images-1.medium.com/max/2000/0*t8DwSxJJD4NExuK2." align="middle" alt="photon" style="width: 500px;"/></center>
+<img src="http://os4elridr.bkt.clouddn.com/17-7-7/98104129.jpg" align="middle" alt="photon" style="width: 500px;"/></center>
 <figcaption><center><b>Photons of different energies travel differently</b> (C) NASA/Sonoma State University/Aurore Simonnet</center></figcaption>
 </figure>
 
