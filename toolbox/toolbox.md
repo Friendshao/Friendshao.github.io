@@ -6,6 +6,9 @@ permalink: /toolbox/
 
 <img style="float: right;" src="weapons-cartoon.jpg" width="200">
 
+- [astro-gravity](https://astro-gravity.github.io/): Lijing Shao's Chinese blog
+  where he occasionally writes research notes and translates science articles
+
 ## General Purposes
 
 - [anaconda](https://www.continuum.io/downloads): Anaconda
