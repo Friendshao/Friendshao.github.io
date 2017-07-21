@@ -34,9 +34,10 @@ in Classical and Quantum Gravity (see [arXiv preprint
 here](https://arxiv.org/abs/1707.06535)). 
 
 The test from the triple pulsar has some distict advantages over previous test.
-It involves a dynamical 3-body system, and has a self-gravitating strong-field
-neutron star.  Therefore, it might add to new constraints for some specific
-formulation of gravity.
+It is a direct test (opposing to a probabilistic test); it involves a dynamical
+3-body system; and it has a self-gravitating strong-field neutron star.
+Therefore, it might add to new constraints for some specific formulation of
+gravity.
 
 For more details, check out this [arXiv preprint
 here](https://arxiv.org/abs/1707.06535)!
