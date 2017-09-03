@@ -6,7 +6,8 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-- 2015 Sept — now, **Junior scientist**/**Postdoc**, [Astrophysical and Cosmological Relativity](http://www.aei.mpg.de/1282161/Astrophysical_and_Cosmological_Relativity), [Max Planck Institut für Gravitationsphysik (Albert Einstein Institut)](http://www.aei.mpg.de/)
+- 2017 Sept — present, **Scientific Staff**/**Postdoc**, [Fundamental Physics in Radio Astronomy](http://www3.mpifr-bonn.mpg.de/div/fundamental/index.html), [Max Planck Institut für Radioastronomie](http://www.mpifr-bonn.mpg.de/2169/en)
+- 2015 Sept — 2017 Aug, **Junior scientist**/**Postdoc**, [Astrophysical and Cosmological Relativity](http://www.aei.mpg.de/1282161/Astrophysical_and_Cosmological_Relativity), [Max Planck Institut für Gravitationsphysik (Albert Einstein Institut)](http://www.aei.mpg.de/)
 - 2010 Sept — 2015 July, **Doctoral student**, [School of Physics](http://www.phy.pku.edu.cn/English.html), [Peking University](http://english.pku.edu.cn/)
 - 2011 Sept — 2013 Aug, **Visiting scholar**, [Fundamental Physics in Radio Astronomy](http://www3.mpifr-bonn.mpg.de/div/fundamental/index.html), [Max Planck Institut für Radioastronomie](http://www.mpifr-bonn.mpg.de/2169/en)
 - 2006 Sept — 2010 July, **Bachelor student**/**Double degree**, [National School of Development](http://en.nsd.edu.cn/), [Peking University](http://english.pku.edu.cn/)
