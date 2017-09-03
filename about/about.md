@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-<img style="float: right;" src="2015innerMongolia.png" width="200">
+<img style="float: right;" src="2015innerMongolia.png" width="180">
 
 ## About me
 
@@ -41,7 +41,7 @@ Institute)](http://www.aei.mpg.de/) in Potsdam, Germany.
 width="20">**gmail.com** [skype]; lshao<img src="at.jpg"
 width="20">mpifr-bonn.mpg.de
 
-<img src="phone.png" width="30"> +49(0)228 525-505 (office)
+<img src="phone.png" width="30"> +49(0)228-525-505 (office)
 
 <img src="office.png" width="30"> Max Planck Institute for Radio Astronomy, Auf
 dem Hügel 69, D-53121 Bonn, Germany
