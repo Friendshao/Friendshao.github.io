@@ -6,6 +6,13 @@ permalink: /publication/
 
 ## Selected Publications
 
+- **[L. Shao](http://friendshao.github.io/),
+    N. Sennett, A. Buonanno, M. Kramer, N. Wex,
+    Physical Review X (accepted).**
+    [arXiv:1704.07561](http://arxiv.org/abs/1704.07561)
+  - <sub>"Constraining nonperturbative strong-field effects in scalar-tensor
+    gravity by combining pulsar timing and laser-interferometer
+    gravitational-wave detectors"
 - **A. Bohé, [L. Shao](http://friendshao.github.io/),
     A. Taracchini, A. Buonanno, et al.,
     Physical Review D 95 (2017) 044028.**
