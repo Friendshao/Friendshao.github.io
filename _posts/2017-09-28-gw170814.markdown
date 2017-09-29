@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "GW170814: Observed by Triple Detectors"
+date:   2017-09-28 12:00:00 +0100
+categories: News
+---
+
+Before the Nobel prize is made for 2017, LIGO and Virgo published a
+gravitational-wave event that was observed by both LIGO and Virgo. It is
+(again) a binary black hole merger.
+
+<figure>
+<center>
+<img src="http://os4elridr.bkt.clouddn.com/17-9-29/19211745.jpg" align="middle" style="width: 600px;"/></center>
+<figcaption><center><b> GW170814 signal was detected by three detectors. </b> (C) LIGO and Virgo </center></figcaption>
+</figure>
+
+It is very significant, because it is the first time that Virgo simultaneously
+and independently saw a GW event, which verifies the results by the LIGO
+detector alone. Cross check is always very important in science, especially
+when dealing with tiny signals and important claims.
+
+<figure>
+<center>
+<img src="http://os4elridr.bkt.clouddn.com/17-9-29/9191136.jpg" align="middle" style="width: 400px;"/></center>
+<figcaption><center><b> Sky localization of the event with LIGO (yellow), with
+LIGO & Virgo (green and purple). </b> (C) LIGO and Virgo </center></figcaption>
+</figure>
+
+Also, because of the Virgo detection, with triangularization, the sky
+localization improves by a factor of ten. It helps electromagnetic followups.
+This is extremely important for the future.
+
+For more details, see [our LVC paper on arXiv](https://arxiv.org/abs/1709.09660).
+
