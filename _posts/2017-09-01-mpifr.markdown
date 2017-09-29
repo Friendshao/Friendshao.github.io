@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Back to MPIfR!"
+date:   2017-09-01 12:00:00 +0100
+categories: News
+---
+
+The first time I walked out of China was September 1, 2011. The flight took me
+to the Bonn city in Germany where I spent two years. That was a very nice time,
+and I made many friends with people in the Max Planck Institute for Radio
+Astronomy (MPIfR) and the Argelander Institute for Astronomy. The period also
+focused my research to pulsars and tests of general relativity since then; and
+I enjoyed it.
+
+Exactly six years later, I stepped onto the Bonn city again, as a scientific
+staff in MPIfR this time. It is very nice because my family (the love and the
+little) moved with me to Bonn as well. We will have a fruitful and wonderful
+time, I believe!
+
+<figure>
+<center>
+<img src="http://os4elridr.bkt.clouddn.com/17-9-29/12258536.jpg" align="middle" style="width: 700px;"/></center>
+<figcaption><center><b>Before I left MPIfR, in 2013. Now I am back! </b> </center></figcaption>
+</figure>
+
