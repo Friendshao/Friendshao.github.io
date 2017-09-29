@@ -48,6 +48,7 @@ permalink: /toolbox/
 - [astroblend](http://www.astroblend.com/): Combine artistic 3D models with computational astrophysics datasets and win the internet
 - [astroML](https://github.com/astroML/astroML): Machine learning, statistics, and data mining for astronomy and astrophysics
 - [astropy](http://www.astropy.org/): python library for astronomy
+- [astroquery](https://github.com/astropy/astroquery): Functions and classes to access online data resources
 - [astroVis](https://bitbucket.org/Siggi_za/astrovis): visulizing astronomical data cubes
 - [avoplot](https://github.com/jreeder/avoplot): An extensible scientific plotting tool based on matplotlib
 - [bokeh-notebook](https://github.com/bokeh/bokeh-notebooks): Interactive Web Plotting with Bokeh in IPython notebook
@@ -70,6 +71,7 @@ permalink: /toolbox/
 - [GalPot](https://github.com/PaulMcMillan-Astro/GalPot): A stand-alone version of Dehnen's GalaxyPotential code
 - [galpy](https://github.com/jobovy/galpy): Galactic Dynamics in python
 - [gatspy](https://github.com/astroML/gatspy): General tools for Astronomical Time Series in Python
+- [GMM](http://www-personal.umich.edu/~ognedin/gmm/): Gaussian Mixture Modeling
 - [GRTensorII](http://grtensor.phy.queensu.ca/): GRTensorII
 - [gwframe](https://github.com/moble/GWFrames): Manipulate gravitational waveforms—changing frames, and so on
 - [gwpy](https://github.com/gwpy/gwpy): Package for analysing and characterising gravitational wave data in python
