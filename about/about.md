@@ -38,7 +38,7 @@ Institute)](http://www.aei.mpg.de/) in Potsdam, Germany.
 
 
 <img src="email.png" width="30"> **Friendshao**<img src="at.jpg"
-width="20">**gmail.com** [skype]; lshao<img src="at.jpg"
+width="20">**gmail.com**; lshao<img src="at.jpg"
 width="20">mpifr-bonn.mpg.de
 
 <img src="phone.png" width="30"> +49(0)228-525-505 (office)
