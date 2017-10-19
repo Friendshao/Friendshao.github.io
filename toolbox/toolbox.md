@@ -147,6 +147,7 @@ permalink: /toolbox/
 - [GaTech NR](http://www.einstein.gatech.edu/catalog/): Einstein at Georgia Tech
 - [High performance python](https://github.com/mynameisfiber/high_performance_python):  book "High Performance Python" by Micha Gorelick and Ian Ozsvald with OReilly
 - [LVC NR](https://geo2.arcca.cf.ac.uk/~c1548640/LVC/lvcnrweb/): NR simulations for LVC
+- [Magnetar](http://magnetars.ice.csic.es/): Magnetar Outburst Online Catalog
 - [online MCMC](http://www.theonlinemcmc.com/): The online MCMC
 - [Palettes](https://personal.sron.nl/~pault/): Palettes and templates
 - [Physics hypertextbook](http://physics.info/): The Physics Hypertextbook

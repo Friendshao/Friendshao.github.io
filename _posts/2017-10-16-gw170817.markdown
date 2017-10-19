@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "GW170817: A Party for Multimessengers"
+date:   2017-10-16 19:00:00 +0100
+categories: News
+---
+
+The first observation of binary neutron star merger was made by LIGO/Virgo
+Collaboration and multiple electromagnetic groups around the world. It is a
+true party for a new era!
+
+<figure>
+<center>
+<img src="http://os4elridr.bkt.clouddn.com/17-10-19/87839763.jpg" align="middle" style="width: 400px;"/></center>
+<figcaption><center><b> GW170814 signal in optical and near-infrared spectra. </b> (C) ESO/E. Pian et al./S. Smartt & ePESSTO </center></figcaption>
+</figure>
+
+For more details, see [our LVC paper on arXiv](https://arxiv.org/abs/1710.05832).
+
