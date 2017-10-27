@@ -8,11 +8,14 @@ permalink: /publication/
 
 - **[L. Shao](http://friendshao.github.io/),
     N. Sennett, A. Buonanno, M. Kramer, N. Wex,
-    Physical Review X (accepted).**
+    Physical Review X 7 (2017) 041025.**
     [arXiv:1704.07561](http://arxiv.org/abs/1704.07561)
   - <sub>"Constraining nonperturbative strong-field effects in scalar-tensor
     gravity by combining pulsar timing and laser-interferometer
     gravitational-wave detectors"
+  - <sub>[Featured by the Max Planck Institute for Gravitational Physics (Albert
+    Einstein Institute)](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity)
+    <img src="aei.png" alt="aei" style="height:40px;">
 - **A. Bohé, [L. Shao](http://friendshao.github.io/),
     A. Taracchini, A. Buonanno, et al.,
     Physical Review D 95 (2017) 044028.**
@@ -22,7 +25,7 @@ permalink: /publication/
   with advanced detectors"
   - <sub>Implemented as the *SEOBNRv4* waveform model in *LIGO
          Algorithm Library*
-  <img src="LIGO.jpg" alt="LIGO" style="height:30px;">
+  <img src="LIGO.jpg" alt="LIGO" style="height:28px;">
 - **[L. Shao](http://friendshao.github.io/), Physical Review D 93 (2016) 084023.** [arXiv:1602.05725](http://arxiv.org/abs/1602.05725)
   - <sub>"Testing the strong equivalence principle with the triple pulsar PSR J0337+1715"
   - <sub>Featured by PRD editors as an "*Editors' Suggestion*"
@@ -34,15 +37,15 @@ permalink: /publication/
 - **[L. Shao](http://friendshao.github.io/), R.N. Caballero, M. Kramer, et al., Classical and Quantum Gravity 30 (2013) 165019.** [arXiv:1307.2552](http://arxiv.org/abs/1307.2552)
   - <sub>"A new limit on local Lorentz invariance violation of gravity from solitary pulsars"
   - <sub>[Highlighted by Classical and Quantum Gravity](IOP_sck+13.pdf)
-  <img src="iop.gif" alt="IOP" style="height:40px;">
+  <img src="iop.gif" alt="IOP" style="height:38px;">
 - **[L. Shao](http://friendshao.github.io/) & N. Wex, Classical and Quantum Gravity 30 (2013) 165020.** [arXiv:1307.2637](http://arxiv.org/abs/1307.2637)
   - <sub>"New limits on the violation of local position invariance of gravity"
   - <sub>[Highlighted by Classical and Quantum Gravity](IOP_sw13.pdf)
-  <img src="iop.gif" alt="IOP" style="height:40px;">
+  <img src="iop.gif" alt="IOP" style="height:38px;">
 - **[L. Shao](http://friendshao.github.io/) & N. Wex, Classical and Quantum Gravity 29 (2012) 215018.** [arXiv:1209.4503](http://arxiv.org/abs/1209.4503)
   - <sub>"New tests of local Lorentz invariance of gravity with small-eccentricity binary pulsars"
   - <sub>[Highlighted by Classical and Quantum Gravity](IOP_sw12.pdf)
-  <img src="iop.gif" alt="IOP" style="height:40px;">
+  <img src="iop.gif" alt="IOP" style="height:38px;">
 - **[L. Shao](http://friendshao.github.io/) & B.-Q. Ma, Physica A 389 (2010) 3109.** [arXiv:1005.0660](http://arxiv.org/abs/1005.0660)
   - <sub>"The significant digit law in statistical physics"
   - <sub>Invited to [Wolfram Demonstrations Project](http://demonstrations.wolfram.com/BenfordsLawInStatisticalPhysics/)
