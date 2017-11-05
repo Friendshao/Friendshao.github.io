@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-<img style="float: right;" src="2015innerMongolia.png" width="180">
+<img style="float: right;" src="Poland2016.jpg" width="180">
 
 ## About me
 
