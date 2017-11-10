@@ -70,3 +70,10 @@ are looking forward to it!
 More details can be found in our paper
 [[arXiv:1704.07561](https://arxiv.org/abs/1704.07561)].
 
+### Media Coverages
+
+- [Albert Einstein Institute](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity): Stronger Tests of Einstein's Theory of General Relativity with Binary Neutron Stars
+- [Pro Physik](http://www.pro-physik.de/details/news/10675849/Wo_rohe_Kraefte_walten.html): Wo rohe Kräfte walten
+- [Media INAF (IT)](http://www.media.inaf.it/2017/10/25/einstein-stelle-neutroni/): Einstein e l’equazione di stato delle pulsar [[link2](http://www.videoaggiornati.com/einstein-e-lequazione-di-stato-delle-pulsar/)]
+- [ Observatori Astronòmic de la Universitat de València (ES)](https://observatori.uv.es/un-test-mas-estricto-de-la-teoria-general-de-la-relatividad-con-estrellas-binarias-de-neutrones/): Un test más estricto de la teoría general de la relatividad con estrellas binarias de neutrones
+- [PhysOrg u.a.](https://phys.org/news/2017-10-stronger-einstein-theory-relativity-binary.html): Stronger Tests of Einstein's Theory of General Relativity with Binary Neutron Stars [[link2](http://www.spacedaily.com/reports/Stronger_Tests_of_Einsteins_Theory_of_General_Relativity_with_Binary_Neutron_Stars_999.html), [link3](http://sciencefactz.com/stronger-tests-einsteins-theory-general-relativity-binary-neutron-stars/)]
