@@ -14,8 +14,10 @@ permalink: /toolbox/
 - [anaconda](https://www.continuum.io/downloads): Anaconda
 - [atom](https://atom.io/): A hackable text editor
 - [bitbucket](https://bitbucket.org/): Code, Manage, Collaborate
+- [bmcmc](https://github.com/sanjibs/bmcmc/): MCMC package for Bayesian data analysis
 - [bokeh](http://bokeh.pydata.org/): Python interactive visualization library
 - [C/C++](http://www.cplusplus.com/): References to C/C++ libraries
+- [engauge-digitizer](https://github.com/markummitchell/engauge-digitizer): Extracts data points from images of graphs
 - [dropbox](https://www.dropbox.com/home): dropbox
 - [emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor — and more
 - [gdb](https://www.gnu.org/software/gdb/): The GNU Project Debugger
@@ -64,6 +66,7 @@ permalink: /toolbox/
 - [DNest4](https://github.com/eggplantbren/DNest4): Diffusive Nested Sampling
 - [emcee](http://dan.iel.fm/emcee/): Affine Invariant Markov chain Monte Carlo Ensemble sampler
 - [eob_ihes](https://eob.ihes.fr/): EOB IHES
+- [FATS](http://ascl.net/1711.017): Feature Analysis for Time Series
 - [FEniCS](https://fenicsproject.org/): computing platform for partial differential equations
 - [Fluid](http://fluidapp.com/): Turn Your Favorite Web Apps into Real Mac Apps
 - [gala](http://gala.adrian.pw/en/latest/): Python package for Galactic astronomy and gravitational dynamics
@@ -95,6 +98,8 @@ permalink: /toolbox/
 - [piccard](https://github.com/vhaasteren/piccard): pulsar timing data analysis package
 - [PINT](https://github.com/nanograv/PINT): PINT is not TEMPO3 -- New software for high-precision pulsar timing
 - [precession](https://github.com/dgerosa/precession): precession
+- [PSPLINE](http://w3.pppl.gov/ntcc/PSPLINE/): Princeton Spline and Hermite Cubic Interpolation Routines
+- [PsrPopPy](https://github.com/samb8s/PsrPopPy): Python implementation of PSRPOP, designed to be run from the command line or from Python scripts/interpreter
 - [pwkit](https://github.com/pkgw/pwkit/): miscellaneous Python for science and astronomy
 - [pycbc](https://github.com/ligo-cbc/pycbc): Analyze gravitational-wave data, find signals, and study their parameters
 - [pycodestyle](https://github.com/PyCQA/pycodestyle): Python style guide checker
@@ -105,6 +110,7 @@ permalink: /toolbox/
 - [re](https://docs.python.org/3/howto/regex.html): Regular Expression
 - [rebound](https://github.com/hannorein/rebound): An open-source multi-purpose N-body code
 - [reboundx](https://github.com/dtamayo/reboundx): A library for adding additional forces to the REBOUND N-body integration package
+- [RGW](http://ascl.net/1711.006): Goodman-Weare Affine-Invariant Sampling in R-language
 - [reproject](https://reproject.readthedocs.io/en/stable/): Image reprojection
 - [RGTC](http://www.inp.demokritos.gr/~sbonano/RGTC/): Riemannian Geometry & Tensor Calculus @ Mathematica
 - [RNS](http://www.gravity.phys.uwm.edu/rns/): Rapidly rotating NSs
@@ -148,6 +154,7 @@ permalink: /toolbox/
 - [High performance python](https://github.com/mynameisfiber/high_performance_python):  book "High Performance Python" by Micha Gorelick and Ian Ozsvald with OReilly
 - [LVC NR](https://geo2.arcca.cf.ac.uk/~c1548640/LVC/lvcnrweb/): NR simulations for LVC
 - [Magnetar](http://magnetars.ice.csic.es/): Magnetar Outburst Online Catalog
+- [NANOGrav](https://data.nanograv.org/): NANOGrav data release
 - [online MCMC](http://www.theonlinemcmc.com/): The online MCMC
 - [Palettes](https://personal.sron.nl/~pault/): Palettes and templates
 - [Physics hypertextbook](http://physics.info/): The Physics Hypertextbook
