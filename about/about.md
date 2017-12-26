@@ -8,14 +8,14 @@ permalink: /about/
 
 ## About me
 
-I am a **Scientific Staff**/**Postdoc** in the group [Fundamental Physics in
+I am a **Scientific Staff** in the group [Fundamental Physics in
 Radio Astronomy](http://www3.mpifr-bonn.mpg.de/div/fundamental/index.html),
 [Max Planck Institute for Radio
 Astronomy](http://www.mpifr-bonn.mpg.de/2169/en) in Bonn, Germany.
 
 <img src="historically.png" alt="Historically" style="width: 120px;"/>
 
-I was a **Junior Scientist**/**Postdoc** in the group [Astrophysical and
+I was a **Junior Scientist** in the group [Astrophysical and
 Cosmological
 Relativity](http://www.aei.mpg.de/1282161/Astrophysical_and_Cosmological_Relativity),
 [Max Planck Institute for Gravitational Physics (Albert Einstein

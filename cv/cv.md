@@ -6,11 +6,11 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-- 2017 Sept — present, **Scientific Staff**/**Postdoc**, [Fundamental Physics
+- 2017 Sept — present, **Scientific Staff**, [Fundamental Physics
   in Radio
   Astronomy](http://www3.mpifr-bonn.mpg.de/div/fundamental/index.html), [Max
   Planck Institute for Radio Astronomy](http://www.mpifr-bonn.mpg.de/2169/en)
-- 2015 Sept — 2017 Aug, **Junior Scientist**/**Postdoc**, [Astrophysical and
+- 2015 Sept — 2017 Aug, **Junior Scientist**, [Astrophysical and
   Cosmological
   Relativity](http://www.aei.mpg.de/1282161/Astrophysical_and_Cosmological_Relativity),
   [Max Planck Institute for Gravitational Physics (Albert Einstein

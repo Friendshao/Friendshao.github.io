@@ -17,6 +17,7 @@ permalink: /toolbox/
 - [bmcmc](https://github.com/sanjibs/bmcmc/): MCMC package for Bayesian data analysis
 - [bokeh](http://bokeh.pydata.org/): Python interactive visualization library
 - [C/C++](http://www.cplusplus.com/): References to C/C++ libraries
+- [colorbrewer](http://colorbrewer2.org): Color-bind friendly colors
 - [engauge-digitizer](https://github.com/markummitchell/engauge-digitizer): Extracts data points from images of graphs
 - [dropbox](https://www.dropbox.com/home): dropbox
 - [emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor — and more
@@ -84,6 +85,7 @@ permalink: /toolbox/
 - [Jekyll](http://jekyllrb.com/): Transform your plain text into static websites and blogs
 - [jrnl](http://jrnl.sh/): Collect your thoughts and notes without leaving the command line
 - [lalsuite](https://github.com/lscsoft/lalsuite): LALSuite Mirror
+- [languagecheck](https://github.com/JohannesBuchner/languagecheck): Improve the language of your paper before submission
 - [lightning](http://lightning-viz.org/): API-based access to reproducible web visualizations
 - [lisatools](https://github.com/vallis/lisatools): LISA tools
 - [MCcubed](https://github.com/pcubillos/MCcubed): Python Differential Evolution MCMC
