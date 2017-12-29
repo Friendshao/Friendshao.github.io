@@ -2,6 +2,12 @@
 layout: default
 ---
 
+**With stars &#9733; marking first-author/corresponding-author papers**
+
+---
+
+<p></p>
+
 0. B.P. Abbott, *et al.*, 
    [GW170817: Implications for the stochastic gravitational-wave background from compact binary coalescences](https://arxiv.org/abs/1710.05837),
    arXiv:1710.05837
@@ -10,7 +16,8 @@ layout: default
    [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203),
    arXiv:1709.09203 
 
-0. Y.W. Wu, G. Torricelli-Ciamponi, M. Massi, R.J. Reid, B. Zhang, **L. Shao**, X.W. Zheng,
+0. Y.W. Wu, G. Torricelli-Ciamponi, M. Massi, R.J. Reid, B. Zhang, **L. Shao**,
+   X.W. Zheng,
    [Revisiting LS I +61$^\circ$303 with VLBI astrometry](https://arxiv.org/abs/1711.07598),
    *Mon. Not. R. Astron. Soc.* 474 (2018) 4245 
 
@@ -18,7 +25,7 @@ layout: default
    [Constraints on cosmic strings using data from the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
    arXiv:1712.01168
 
-0. **L. Shao**, N. Sennett, A. Buonanno, M. Kramer, N. Wex, 
+0. <sup>&#9733;</sup> **L. Shao**, N. Sennett, A. Buonanno, M. Kramer, N. Wex, 
    [Constraining nonperturbative strong-field effects in scalar-tensor gravity by combining pulsar timing and laser-interferometer gravitational-wave detectors](https://arxiv.org/abs/1704.07561),
    *Phys. Rev. X* 7 (2017) 041025 
 
@@ -34,7 +41,7 @@ layout: default
    [Estimating the contribution of dynamical ejecta in the kilonova associated with GW170817](https://arxiv.org/abs/1710.05836),
    *Astrophys. J. Lett.* 850 (2017) L39  
 
-0. **L. Shao**, B. Zhang, 
+0. <sup>&#9733;</sup> **L. Shao**, B. Zhang, 
    [Bayesian framework to constrain the photon mass with a catalog of fast radio bursts](https://arxiv.org/abs/1705.01278),
    *Phys. Rev. D* 95 (2017) 123010 
 
@@ -50,7 +57,7 @@ layout: default
    [GW170817: Observation of gravitational waves from a binary neutron star inspiral](https://arxiv.org/abs/1710.05832),
    *Phys. Rev. Lett.* 119 (2017) 161101
 
-0. **L. Shao**, 
+0. <sup>&#9733;</sup> **L. Shao**, 
    [An independent test on the local position invariance of gravity with the triple pulsar PSR J0337+1715](https://arxiv.org/abs/1707.06535),
    *Class. Quantum Grav.* 34 (2017) 175011
 
@@ -66,7 +73,7 @@ layout: default
    [Search for post-merger gravitational waves from the remnant of the binary neutron star merger GW170817](https://arxiv.org/abs/1710.09320),
    *Astrophys. J. Lett.* 851 (2017) L16
 
-0. N. Sennett, **L. Shao**, J. Steinhoff, 
+0. <sup>&#9733;</sup> N. Sennett, **L. Shao**, J. Steinhoff, 
    [Effective action model of dynamically scalarizing binary neutron stars](https://arxiv.org/abs/1708.08285),
    *Phys. Rev. D* 96 (2017) 084019  
 
@@ -102,10 +109,10 @@ layout: default
    [Search for gravitational waves from Scorpius X-1 in the first Advanced LIGO observing run with a hidden Markov model](https://arxiv.org/abs/1704.03719),
    *Phys. Rev. D* 95 (2017) 122003
 
-0. A. Bohé, **L. Shao**, A. Taracchini, A. Buonanno, S. Babak, I.W. Harry, I.
-   Hinder, S. Ossokine, M. Pürrer, V. Raymond, T. Chu, H. Fong, P. Kumar, H.P.
-   Pfeiffer, M. Boyle, D.A. Hemberger, L.E. Kidder, G. Lovelace, M.A. Scheel, B.
-   Szilágyi, 
+0. <sup>&#9733;</sup> A. Bohé, **L. Shao**, A. Taracchini, A. Buonanno, S.
+   Babak, I.W. Harry, I.  Hinder, S. Ossokine, M. Pürrer, V. Raymond, T. Chu,
+   H. Fong, P. Kumar, H.P.  Pfeiffer, M. Boyle, D.A. Hemberger, L.E. Kidder, G.
+   Lovelace, M.A. Scheel, B.  Szilágyi, 
    [Improved effective-one-body model of spinning, nonprecessing binary black holes for the era of gravitational-wave astrophysics with advanced detectors](https://arxiv.org/abs/1611.03703),
    *Phys. Rev. D* 95 (2017) 044028
 
@@ -113,31 +120,33 @@ layout: default
   [The astropy problem](https://arxiv.org/abs/1610.03159),
   arXiv:1610.03159
 
-0. **L. Shao**,
+0. <sup>&#9733;</sup> **L. Shao**,
    [Experimental studies on the Lorentz symmetry in post-Newtonian gravity with pulsars](http://dx.doi.org/10.3390/universe2040029),
    *Universe* 2 (2016) 29
 
-0. J. Liu, G. Wang, Y.-M. Hu, T. Zhang, Z. Luo, Q.-L. Wang, **L. Shao**, 
+0. <sup>&#9733;</sup> J. Liu, G. Wang, Y.-M. Hu, T. Zhang, Z. Luo, Q.-L. Wang,
+   **L. Shao**, 
    [GW150914 and gravitational-wave astronomy](https://doi.org/10.1360/N972016-00429) (in Chinese),
    *Chin. Sci. Bull.* 61 (2016) 1502
 
-0. **L. Shao**, N. Wex, 
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, 
    [Tests of gravitational symmetries with radio pulsars](https://arxiv.org/abs/1604.03662),
    *Sci. China Phys. Mech. Astron.* 59 (2016) 699501
 
-0. **L. Shao**, 
+0. <sup>&#9733;</sup> **L. Shao**, 
    [Testing the strong equivalence principle with the triple pulsar PSR J0337+1715](https://arxiv.org/abs/1602.05725),
    *Phys. Rev. D* 93 (2016) 084023
 
-0. **L. Shao**, I.H. Stairs, J. Antoniadis, A.T. Deller, P.C.C. Freire, J.W.T.
-   Hessels, G.H. Janssen, M. Kramer, J. Kunz, C. Lämmerzahl, V. Perlick, A.
-   Possenti, S. Ransom, B.W. Stappers, W. van Straten,
+0. <sup>&#9733;</sup> **L. Shao**, I.H. Stairs, J. Antoniadis, A.T. Deller,
+   P.C.C. Freire, J.W.T.  Hessels, G.H. Janssen, M. Kramer, J. Kunz, C.
+   Lämmerzahl, V. Perlick, A.  Possenti, S. Ransom, B.W. Stappers, W. van
+   Straten,
    [Testing gravity with pulsars in the SKA era](https://arxiv.org/abs/1501.00058),
    *PoS* (AASKA14) 042
 
 0. G.H. Janssen, G. Hobbs, M. McLaughlin, C.G. Bassa, A.T. Deller, M. Kramer,
-   K.J. Lee, C.M.F. Mingarelli, P.A. Rosado, S. Sanidas, A. Sesana, **L. Shao**,
-   I.H. Stairs, B.W. Stappers, J.P.W. Verbiest,
+   K.J. Lee, C.M.F. Mingarelli, P.A. Rosado, S. Sanidas, A. Sesana, **L.
+   Shao**, I.H. Stairs, B.W. Stappers, J.P.W. Verbiest,
    [Gravitational wave astronomy with the SKA](https://arxiv.org/abs/1501.00127),
    *PoS* (AASKA14) 037
 
@@ -146,15 +155,16 @@ layout: default
    [The type of Vela-like pulsars: a normal neutron star or a hybrid star?](http://adsabs.harvard.edu/abs/2015AcASn..56S..22L),
    *Acta Astron. Sin. Suppl.* 56 (2015) 22
 
-0. **L. Shao**, N. Wex, M. Kramer,
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer,
    [New tests of local Lorentz invariance and local position invariance of gravity with pulsars](https://arxiv.org/abs/1211.6558),
-   in *Proceedings of the Thirteenth Marcel Grossmann Meeting on General Relativity* (World Scientific, Singapore, 2015), p. 1704
+   in *Proceedings of the Thirteenth Marcel Grossmann Meeting on General
+   Relativity* (World Scientific, Singapore, 2015), p. 1704
 
-0. **L. Shao**, 
+0. <sup>&#9733;</sup> **L. Shao**, 
    [New pulsar limit on local Lorentz invariance violation of gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
    *Phys. Rev. D* 90 (2014) 122009
 
-0. **L. Shao**,
+0. <sup>&#9733;</sup> **L. Shao**,
    [Tests of local Lorentz invariance violation of gravity in the standard model extension with pulsars](https://arxiv.org/abs/1402.6452),
    *Phys. Rev. Lett.* 112 (2014) 111103
 
@@ -163,36 +173,38 @@ layout: default
    arXiv:1406.4994
 
 
-0. **L. Shao**, N. Wex,
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex,
    [New limits on the violation of local position invariance of gravity](https://arxiv.org/abs/1307.2637),
    *Class. Quantum Grav.* 30 (2013) 165020
 
-0. **L. Shao**, R.N. Caballero, M. Kramer, N. Wex, D.J. Champion, A. Jessner,
+0. <sup>&#9733;</sup> **L. Shao**, R.N. Caballero, M. Kramer, N. Wex, D.J.
+   Champion, A. Jessner,
    [A new limit on local Lorentz invariance violation of gravity from solitary pulsars](https://arxiv.org/abs/1307.2552),
    *Class. Quantum Grav.* 30 (2013) 165019
 
-0. **L. Shao**, N. Wex, M. Kramer, 
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, 
    [New constraints on preferred frame effects from binary pulsars](https://arxiv.org/abs/1209.5171),
-   in *Proceedings of the International Astronomical Union*, Symposium S291 (Cambridge University Press, 2013), p. 496
+   in *Proceedings of the International Astronomical Union*, Symposium S291
+   (Cambridge University Press, 2013), p. 496
 
-0. **L. Shao**, N. Wex,
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex,
    [New tests of local Lorentz invariance of gravity with small-eccentricity binary pulsars](https://arxiv.org/abs/1209.4503),
    *Class. Quantum Grav.* 29 (2012) 215018
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [Note on a new fundamental length scale $l$ instead of the Newtonian constant $G$](https://arxiv.org/abs/1006.3031),
    *Sci. China Phys. Mech. Astron.* 54 (2011) 1771 
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [Lorentz violation induced vacuum birefringence and its astrophysical consequences](https://arxiv.org/abs/1104.4438),
    *Phys. Rev. D* 83 (2011) 127702
 
-0. **L. Shao**, B.-Q. Ma, 
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma, 
    [OPERA superluminal neutrinos and evolutions of spacetime concepts](http://d.wanfangdata.com.cn/periodical/qykex201104003) (in Chinese),
    *Frontier Sci.* 5 (2011) 4
 
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [Quantum gravitational relic effects on low energy photons](http://en.cnki.com.cn/Article_en/CJFDTotal-YBSF201105006.htm) (in Chinese),
    *J. Shanxi Datong Univ.* 27 (2011) 19
 
@@ -208,40 +220,40 @@ layout: default
    [Eikonal equation of the Lorentz-violating Maxwell theory](https://arxiv.org/abs/1011.5074),
    *Eur. Phys. J. C* 70 (2010) 1153
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [Lorentz violation effects on astrophysical propagation of very high energy photons](https://arxiv.org/abs/1007.2269)
    *Mod. Phys. Lett. A* 25 (2010) 3251
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [First digit law in non-extensive statistics](https://arxiv.org/abs/1010.2699),
    *Phys. Rev. E* 82 (2010) 041110
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [The significant digit law in statistical physics](https://arxiv.org/abs/1005.0660),
    *Physica A* 389 (2010) 3109
 
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [Applications of the first digit law in physics](http://www.kjdb.org/CN/Y2010/V28/I18/98) (in Chinese),
    *Sci. Tech. Rev.* 28 (2010) 98
 
-0. **L. Shao**, Z. Xiao, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, Z. Xiao, B.-Q. Ma,
    [Lorentz violation from cosmological objects with very high energy photon emissions](https://arxiv.org/abs/0911.2276),
    *Astropart. Phys.* 33 (2010) 312
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [Empirical mantissa distributions of pulsars](https://arxiv.org/abs/1005.1702),
    *Astropart. Phys.* 33 (2010) 255
 
-0. **L. Shao**, Y.-J. Zhang, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, Y.-J. Zhang, B.-Q. Ma,
    [Sea quark contents of octet baryons](https://arxiv.org/abs/1002.4747),
    *Phys. Lett. B* 686 (2010) 136
 
-0. **L. Shao**, Y. Zhang, B.-Q. Ma, 
+0. <sup>&#9733;</sup> **L. Shao**, Y. Zhang, B.-Q. Ma, 
    [Parton distribution functions and nuclear EMC effect in a statistical model](https://arxiv.org/abs/1008.1689),
    *Chin.  Phys. C* 34 (2010) 1417
 
-0. **L. Shao**, B.-Q. Ma,
+0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [First digit distribution of hadron full width](https://arxiv.org/abs/1004.3077),
    *Mod. Phys. Lett. A* 24 (2009) 3275
 
