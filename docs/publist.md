@@ -221,7 +221,7 @@ layout: default
    *Eur. Phys. J. C* 70 (2010) 1153
 
 0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
-   [Lorentz violation effects on astrophysical propagation of very high energy photons](https://arxiv.org/abs/1007.2269)
+   [Lorentz violation effects on astrophysical propagation of very high energy photons](https://arxiv.org/abs/1007.2269),
    *Mod. Phys. Lett. A* 25 (2010) 3251
 
 0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
