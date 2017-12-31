@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course
-permalink: /course/
+title: Teaching
+permalink: /teaching/
 ---
 
 ### As a Teaching Asistant
@@ -15,3 +15,4 @@ permalink: /course/
 - **Linear Algebra**, Peking University, Autumn 2009
   - <sub>lectured by Prof. Maoying Tian
   - <sub>obtained an **Excellent TA** Award
+
