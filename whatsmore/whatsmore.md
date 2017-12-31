@@ -8,6 +8,6 @@ permalink: /whatsmore/
 - A loosely written blog (in Chinese): [astro-gravity](https://astro-gravity.github.io/) 
 - [Some collection of websites](https://friendshao.github.io/docs/general) for general purposes, mostly on programming
 - [Some collection of websites](https://friendshao.github.io/docs/specific) for specific purposes, again mostly on programming 
-- [Some collection of datasets](https://friendshao.github.io/docs/specific/dataset), mostly on pulsars and gravitational waves
+- [Some collection of datasets](https://friendshao.github.io/docs/dataset), mostly on pulsars and gravitational waves
 
 
