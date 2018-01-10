@@ -71,6 +71,11 @@ layout: default
   gravitational waves](https://arxiv.org/abs/0903.0338), *Living Rev.
   Relativity* 12:2
 
+- **Freire *et al.* 2012**, [The relativistic pulsar-white dwarf binary PSR
+  J1738+0333. II. The most stringent test of scalar-tensor
+  gravity](https://arxiv.org/abs/1205.1450), *Mon. Not. Roy. Astron. Soc.*
+  423:3328 
+
 - **Amelino-Camelia 2013**, [Quantum-spacetime
   phenomenology](https://arxiv.org/abs/0806.0339), *Living Rev. Relativity*
   16:5
@@ -82,6 +87,10 @@ layout: default
 
 - **Will 2014**, [The confrontation between general relativity and
   experiment](https://arxiv.org/abs/1403.7377), *Living Rev. Relativity* 17:4
+
+- **Berti *et al.* 2015**, [Testing general relativity with present and future
+  astrophysical observations](https://arxiv.org/abs/1501.07274), *Class.
+  Quantum Grav.* 32:243001
 
 - **Buonanno &  Sathyaprakash 2015**, [Sources of gravitational waves: Theory
   and observations](https://arxiv.org/abs/1410.7832), in *General Relativity
