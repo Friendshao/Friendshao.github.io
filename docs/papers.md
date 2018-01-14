@@ -8,6 +8,15 @@ layout: default
 
 <p></p>
 
+- **Will & Nordtvedt 1972**, [Conservation laws and preferred frames in
+  relativistic gravity. I. Preferred-frame theories and an extended PPN
+  formalism](http://adsabs.harvard.edu/abs/1972ApJ...177..757W), *Astrophys.
+  J.* 177:757
+
+- **Blandford & Teukolsky 1976**, [Arrival-time analysis for a pulsar in a
+  binary system](http://adsabs.harvard.edu/abs/1976ApJ...205..580B),
+  *Astrophys. J.* 205:580
+
 - **Damour & Deruelle 1985**, [General relativistic celestial mechanics of
   binary systems. I. The post-Newtonian
   motion](http://adsabs.harvard.edu/abs/1985AIHS...43..107D), *Ann. Inst.
@@ -23,6 +32,10 @@ layout: default
   data](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.66.2549),
   *Phys. Rev. Lett.* 66:2549
 
+- **Damour & Esposito-Farèse 1992**, [Tensor multiscalar theories of
+  gravitation](http://dx.doi.org/10.1088/0264-9381/9/9/015), *Class. Quantum
+  Grav.* 9:2093
+
 - **Damour & Taylor 1992**, [Strong-field tests of relativistic gravity and
   binary
   pulsars](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.45.1840),
@@ -30,6 +43,16 @@ layout: default
 
 - **Finn 1992**, [Detection, measurement and gravitational
   radiation](https://arxiv.org/abs/gr-qc/9209010), *Phys. Rev. D* 46:5236
+
+- **Damour & Esposito-Farèse 1993**, [Nonperturbative strong field effects in
+  tensor-scalar theories of
+  gravitation](http://dx.doi.org/10.1103/PhysRevLett.70.2220), *Phys. Rev.
+  Lett.* 70:2220
+
+- **Cutler & Flanagan 1994**, [Gravitational waves from merging compact
+  binaries: How accurately can one extract the binary's parameters from the
+  inspiral wave form?](https://arxiv.org/abs/gr-qc/9402014), *Phys. Rev. D*
+  49:2658
 
 - **Will 1994**, [Testing scalar-tensor gravity with gravitational-wave
   observations of inspiralling compact
@@ -40,6 +63,10 @@ layout: default
 
 - **Cutler 1998**, [Angular resolution of the LISA gravitational wave
   detector](https://arxiv.org/abs/gr-qc/9703068), *Phys. Rev. D* 57:7089
+
+- **Will 1998**, [Bounding the mass of the graviton using gravitational wave
+  observations of inspiralling compact
+  binaries](https://arxiv.org/abs/gr-qc/9709011), *Phys. Rev. D* 57:2061
 
 - **Stairs 2003**, [Testing general relativity with pulsar
   timing](https://arxiv.org/abs/astro-ph/0307536), *Living Rev.  Relativity*
@@ -59,6 +86,9 @@ layout: default
 - **Kramer *et al.* 2006**, [Tests of general relativity from timing the double
   pulsar](https://arxiv.org/abs/astro-ph/0609417), *Science* 314:97
 
+- **Breton *et al.* 2008**, [Relativistic spin precession in the double
+  pulsar](https://arxiv.org/abs/0807.2644), *Science* 321:104
+
 - **Gibbons & Will 2008**, [On the multiple deaths of Whitehead's theory of
   gravity](https://arxiv.org/abs/gr-qc/0611006), *Stud. Hist. Philos. Mod.
   Phys.* 39:41
@@ -66,6 +96,15 @@ layout: default
 - **Kramer & Stairs 2008**, [The double
   pulsar](http://adsabs.harvard.edu/abs/2008ARA%26A..46..541K), *Annu. Rev.
   Astron. Astrophys.* 46:541
+
+- **Adelberger *et al.* 2009**, [Torsion balance experiments: A low-energy
+  frontier of particle physics](http://dx.doi.org/10.1016/j.ppnp.2008.08.002),
+  *Prog. Part. Nucl. Phys.* 62:102
+
+- **Damour 2009**, [Binary systems as test-beds of gravity
+  theories](https://arxiv.org/abs/0704.0749), in *Physics of Relativistic
+  Objects in Compact Binaries: From Birth to Coalescence* (Springer,
+  Netherlands), p. 1
 
 - **Sathyaprakash & Schutz 2009**, [Physics, astrophysics and cosmology with
   gravitational waves](https://arxiv.org/abs/0903.0338), *Living Rev.
@@ -104,5 +143,9 @@ layout: default
 - **Abbott *et al.* 2017**, [GW170817: Observation of gravitational waves from
   a binary neutron star inspiral](https://arxiv.org/abs/1710.05832), *Phys.
   Rev. Lett.* 119:161101
+
+- **Touboul *et al.* 2017**, [MICROSCOPE mission: First results of a space test
+  of the equivalence principle](https://arxiv.org/abs/1712.01176), *Phys. Rev.
+  Lett.* 119:231101
 
 [^note]: Please don't tell me if your favorite papers are not included here, because (1) this list is never supposed to be complete and, (2) I am still reading your papers
