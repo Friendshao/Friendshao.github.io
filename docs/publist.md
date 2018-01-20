@@ -13,17 +13,16 @@ layout: default
    arXiv:1710.05837
 
 0. B.P. Abbott, *et al.*, 
-   [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203),
-   arXiv:1709.09203 
+   [Constraints on cosmic strings using data from the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
+   arXiv:1712.01168
+
+0. B.P. Abbott, *et al.*,
+   [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203), *Phys. Rev. Lett.* 120 (2018) 031104
 
 0. Y.W. Wu, G. Torricelli-Ciamponi, M. Massi, R.J. Reid, B. Zhang, **L. Shao**,
    X.W. Zheng,
    [Revisiting LS I +61$^\circ$303 with VLBI astrometry](https://arxiv.org/abs/1711.07598),
    *Mon. Not. R. Astron. Soc.* 474 (2018) 4245 
-
-0. B.P. Abbott, *et al.*, 
-   [Constraints on cosmic strings using data from the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
-   arXiv:1712.01168
 
 0. <sup>&#9733;</sup> **L. Shao**, N. Sennett, A. Buonanno, M. Kramer, N. Wex, 
    [Constraining nonperturbative strong-field effects in scalar-tensor gravity by combining pulsar timing and laser-interferometer gravitational-wave detectors](https://arxiv.org/abs/1704.07561),

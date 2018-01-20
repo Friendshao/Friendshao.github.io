@@ -24,7 +24,8 @@ layout: default
 **Tools**
 
 - [Google](http://www.google.com/ncr)
-  ([maps](https://www.google.com/maps),
+  ([Calendar](https://calendar.google.com/calendar/r),
+  [maps](https://www.google.com/maps),
   [translate](https://translate.google.com/),
   [keep](https://keep.google.com/)),
   [Bing](https://www.bing.com/),
