@@ -9,6 +9,10 @@ layout: default
 <p></p>
 
 0. B.P. Abbott, *et al.*, 
+   [Full band all-sky search for periodic gravitational waves in the O1 LIGO
+   data](https://arxiv.org/abs/1802.05241), arXiv:1802.05241
+
+0. B.P. Abbott, *et al.*, 
    [GW170817: Implications for the stochastic gravitational-wave background from compact binary coalescences](https://arxiv.org/abs/1710.05837),
    arXiv:1710.05837
 

@@ -30,6 +30,7 @@ layout: default
 - [ROOT](https://root.cern.ch/): modular scientific software framework
 - [seaborn](https://stanford.edu/~mwaskom/software/seaborn/): statistical data visualization
 - [SciPy](http://www.scipy.org/): Python-based ecosystem of open-source software for mathematics, science, and engineering
+- [Slurm](https://slurm.schedmd.com/): an open source, fault-tolerant, and highly scalable cluster management and job scheduling system
 - [swig](http://www.swig.org/): Connect C/C++ with high-level programming languages
 - [valgrind](http://valgrind.org/): Build dynamic analysis
 - [vim](http://www.vim.org/): Vim - the ubiquitous text editor
