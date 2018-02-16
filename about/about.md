@@ -4,9 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-<img style="float: right;" src="Poland2016.jpg" width="180">
-
 ## About me
+
+<img style="float: right;" src="shao2017.png" width="170">
 
 I am a **Scientific Staff** in the group [Fundamental Physics in
 Radio Astronomy](http://www3.mpifr-bonn.mpg.de/div/fundamental/index.html),
