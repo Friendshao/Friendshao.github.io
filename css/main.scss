@@ -3,7 +3,25 @@
 ---
 @charset "utf-8";
 
+div.container {
+  float: right;
+  display: table;
+  width: 30%;
+  height: auto; /* auto is default, you can have ur height here */
+}
 
+div.figure {
+  float: right;
+  width: 98%;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+  text-align: center;
+  font-style: normal;
+  font-size: smaller;
+  text-indent: 0;
+  display:inline-block;
+}
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
