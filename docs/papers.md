@@ -115,6 +115,9 @@ layout: default
   gravity](https://arxiv.org/abs/1205.1450), *Mon. Not. Roy. Astron. Soc.*
   423:3328 
 
+- **Wagner *et al.* 2012**, [Torsion-balance tests of the weak equivalence
+  principle](https://arxiv.org/abs/1207.2442), *Class. Quantum Grav.* 29:184002 
+
 - **Amelino-Camelia 2013**, [Quantum-spacetime
   phenomenology](https://arxiv.org/abs/0806.0339), *Living Rev. Relativity*
   16:5

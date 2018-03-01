@@ -9,16 +9,29 @@ layout: default
 <p></p>
 
 0. B.P. Abbott, *et al.*, 
+   [A Search for tensor, vector, and scalar polarizations in the stochastic
+   gravitational-wave background](https://arxiv.org/abs/1802.10194),
+   arXiv:1802.10194 
+
+0. B.P. Abbott, *et al.*, 
    [Full band all-sky search for periodic gravitational waves in the O1 LIGO
    data](https://arxiv.org/abs/1802.05241), arXiv:1802.05241
 
-0. B.P. Abbott, *et al.*, 
-   [GW170817: Implications for the stochastic gravitational-wave background from compact binary coalescences](https://arxiv.org/abs/1710.05837),
-   arXiv:1710.05837
+0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
+   [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
+   *Sci. China Phys. Mech. Astron.* (submitted) 
+
+0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*,
+   [Observatory science with eXTP](http://friendshao.github.io/),
+   *Sci. China Phys. Mech. Astron.* (accepted) 
 
 0. B.P. Abbott, *et al.*, 
    [Constraints on cosmic strings using data from the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
    arXiv:1712.01168
+
+0. B.P. Abbott, *et al.*, 
+   [GW170817: Implications for the stochastic gravitational-wave background from compact binary coalescences](https://arxiv.org/abs/1710.05837),
+   *Phys. Rev. Lett.* 120 (2018) 091101
 
 0. B.P. Abbott, *et al.*,
    [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203), *Phys. Rev. Lett.* 120 (2018) 031104
