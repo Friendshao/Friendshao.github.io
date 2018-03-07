@@ -2,6 +2,10 @@
 layout: default
 ---
 
+- **Mar 2018 &#9671; Oral Presentation**, [BlackHoleCam Face-to-Face
+  Meeting](https://blackholecam.org/bhc2018), Max Planck Institute for Radio
+  Astronomy, Bonn Germany
+
 - **Dec 2017 &#9671; Oral Presentation**, [Testing Strong-Field Gravity with
   Pulsars and
   GWs](http://kiaa.pku.edu.cn/colloquia/testing-strong-field-gravity-pulsars-and-gws),

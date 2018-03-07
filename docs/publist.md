@@ -17,14 +17,6 @@ layout: default
    [Full band all-sky search for periodic gravitational waves in the O1 LIGO
    data](https://arxiv.org/abs/1802.05241), arXiv:1802.05241
 
-0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
-   [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
-   *Sci. China Phys. Mech. Astron.* (submitted) 
-
-0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*,
-   [Observatory science with eXTP](http://friendshao.github.io/),
-   *Sci. China Phys. Mech. Astron.* (accepted) 
-
 0. B.P. Abbott, *et al.*, 
    [Constraints on cosmic strings using data from the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
    arXiv:1712.01168
@@ -35,6 +27,11 @@ layout: default
 
 0. B.P. Abbott, *et al.*,
    [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203), *Phys. Rev. Lett.* 120 (2018) 031104
+
+0. B.P. Gong, Y.P. Li, J.P. Yuan, J. Tian, Y.Y. Zhang, D. Li, B. Jiang, X.D.
+   Li, H.G. Wang, Y.C. Zou, **L. Shao**, 
+   [Searching ultra-compact pulsar binaries with abnormal timing behavior](https://doi.org/10.3847/1538-4357/aaac34),
+   *Astrophys. J.* 855 (2018) 35
 
 0. Y.W. Wu, G. Torricelli-Ciamponi, M. Massi, R.J. Reid, B. Zhang, **L. Shao**,
    X.W. Zheng,

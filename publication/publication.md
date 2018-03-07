@@ -73,6 +73,6 @@ permalink: /publication/
 
 ## Other Publications
 
-**For a nearly complete list, please check at [this link](http://friendshao.github.io/docs/publist) or [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=shao&libid=58649aafb9)**
+**For a nearly complete list, please check at [this link](http://friendshao.github.io/docs/publist), or [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=shao&libid=58649aafb9) / [Inspirehep](https://inspirehep.net/search?ln=en&ln=en&p=author%3ALi.Jing.Shao.1&of=hb&action_search=Search&sf=&so=d&rm=citation&rg=25&sc=0)**
 
 
