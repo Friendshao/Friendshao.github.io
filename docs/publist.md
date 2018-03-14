@@ -213,7 +213,7 @@ layout: default
    *Phys. Rev. D* 83 (2011) 127702
 
 0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma, 
-   [OPERA superluminal neutrinos and evolutions of spacetime concepts](http://d.wanfangdata.com.cn/periodical/qykex201104003) (in Chinese),
+   [OPERA superluminal neutrinos and evolutions of spacetime concepts](https://doi.org/10.3969/j.issn.1673-8128.2011.04.003) (in Chinese),
    *Frontier Sci.* 5 (2011) 4
 
 
