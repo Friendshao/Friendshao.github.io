@@ -64,9 +64,13 @@ layout: default
 - **Cutler 1998**, [Angular resolution of the LISA gravitational wave
   detector](https://arxiv.org/abs/gr-qc/9703068), *Phys. Rev. D* 57:7089
 
+- **Feldman & Cousins 1998**, [Unified approach to the classical statistical analysis of small signals](https://arxiv.org/abs/physics/9711021), *Phys. Rev. D* 57:3873
+
 - **Will 1998**, [Bounding the mass of the graviton using gravitational wave
   observations of inspiralling compact
   binaries](https://arxiv.org/abs/gr-qc/9709011), *Phys. Rev. D* 57:2061
+
+- **Finn & Sutton 2002**, [Bounding the mass of the graviton using binary pulsar observations](https://arxiv.org/abs/gr-qc/0109049), *Phys. Rev. D* 65:044022
 
 - **Stairs 2003**, [Testing general relativity with pulsar
   timing](https://arxiv.org/abs/astro-ph/0307536), *Living Rev.  Relativity*
@@ -152,3 +156,5 @@ layout: default
   Lett.* 119:231101
 
 [^note]: Please don't tell me if your favorite papers are not included here, because (1) this list is never supposed to be complete and, (2) I am still reading your papers
+
+

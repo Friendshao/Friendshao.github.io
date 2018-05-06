@@ -2,6 +2,20 @@
 layout: default
 ---
 
+- **June 2018 &#9671; Oral Talk**, [The Sound of Spacetime: The Dawn of
+  Gravitational Wave
+Science](https://indico.mitp.uni-mainz.de/event/124/overview), Mainz Institute
+for Theoretical Physics, Johannes Gutenberg University, Mainz Germany
+
+- **May 2018 &#9671; Invited Talk**, [The 2nd Workshop on "Gravitational Wave
+  Astrophysics"](http://astro.xmu.edu.cn/conference/2018GWastro/Home), Xiamen
+Aqua Resort, Xiamen China
+
+- **May 2018 &#9671; Invited Talk**, [The 12th Bonn Workshop on Formation and
+  Evolution of Neutron
+Stars](https://events.mpifr-bonn.mpg.de/indico/event/73/overview), Max Planck
+Institute for Radio Astronomy & University of Bonn, Bonn Germany
+
 - **Mar 2018 &#9671; Oral Presentation**, [BlackHoleCam Face-to-Face
   Meeting](https://blackholecam.org/bhc2018), Max Planck Institute for Radio
   Astronomy, Bonn Germany

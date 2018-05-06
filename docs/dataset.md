@@ -25,6 +25,7 @@ layout: default
 - [Palettes](https://personal.sron.nl/~pault/): Palettes and templates
 - [Physics hypertextbook](http://physics.info/): The Physics Hypertextbook
 - [RIT NR](http://ccrg.rit.edu/~RITCatalog/): RIT catalog
+- [Space-based GW PSDs](http://www.srl.caltech.edu/~shane/sensitivity/index.html): Sensitivity curves for spaceborne GW observatories
 - [supernova](https://sne.space/): The Open Supernova Catalog
 
 
