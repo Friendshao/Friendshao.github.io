@@ -6,12 +6,17 @@ permalink: /about/
 
 ## About me
 
-<img style="float: right;" src="shao2017.png" width="170">
+<img style="float: right;" src="Barcelona2018.jpeg" width="260" hspace="20"> 
 
-I am a **Scientific Staff** in the group [Fundamental Physics in
+Currently I am a **Scientific Staff** in the group [Fundamental Physics in
 Radio Astronomy](http://www3.mpifr-bonn.mpg.de/div/fundamental/index.html),
 [Max Planck Institute for Radio
-Astronomy](http://www.mpifr-bonn.mpg.de/2169/en) in Bonn, Germany.
+Astronomy](http://www.mpifr-bonn.mpg.de/2169/en) in Bonn, Germany. 
+
+In the upcoming September, I will move to the [Kavli Institute for Astronomy
+and Astrophysics](http://kiaa.pku.edu.cn/), [Peking
+University](http://www.pku.edu.cn/) as an Assistant Professor in Beijing,
+China.
 
 <img src="historically.png" alt="Historically" style="width: 120px;"/>
 
