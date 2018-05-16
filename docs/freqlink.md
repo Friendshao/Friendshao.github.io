@@ -56,7 +56,7 @@ layout: default
   ([fundi](https://docs.google.com/spreadsheets/d/1TNXUOtpSE_jpnf7HiiAqEhLjF1yrItN1j6r0IIg7CR8/edit#gid=0),
   [wiki](https://fpra.mpifr-bonn.mpg.de/doku.php?id=start)),
   [PKU](http://www.pku.edu.cn/)
-  ([PHY](http://www.phy.pku.edu.cn/), [BBS](http://bbs.pku.edu.cn/)),
+  ([LIB](http://www.lib.pku.edu.cn/portal/), [PHY](http://www.phy.pku.edu.cn/), [BBS](http://bbs.pku.edu.cn/)),
   [AEI](http://www.aei.mpg.de/)
   ([ACR](http://www.aei.mpg.de/1282161/Astrophysical_and_Cosmological_Relativity))
 

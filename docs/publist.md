@@ -8,25 +8,29 @@ layout: default
 
 <p></p>
 
+
 0. B.P. Abbott, *et al.*, 
-   [A Search for tensor, vector, and scalar polarizations in the stochastic
+   [Search for tensor, vector, and scalar polarizations in the stochastic
    gravitational-wave background](https://arxiv.org/abs/1802.10194),
-   arXiv:1802.10194 
+   *Phys. Rev. Lett.* 120 (2018) 201102
 
 0. B.P. Abbott, *et al.*, 
    [Full band all-sky search for periodic gravitational waves in the O1 LIGO
-   data](https://arxiv.org/abs/1802.05241), arXiv:1802.05241
+   data](https://arxiv.org/abs/1802.05241), 
+   *Phys. Rev. D* 97 (2018) 102003
 
 0. B.P. Abbott, *et al.*, 
    [Constraints on cosmic strings using data from the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
-   arXiv:1712.01168
+   *Phys. Rev. D* 97 (2018) 102002
+   
 
 0. B.P. Abbott, *et al.*, 
    [GW170817: Implications for the stochastic gravitational-wave background from compact binary coalescences](https://arxiv.org/abs/1710.05837),
    *Phys. Rev. Lett.* 120 (2018) 091101
 
 0. B.P. Abbott, *et al.*,
-   [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203), *Phys. Rev. Lett.* 120 (2018) 031104
+   [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203),
+   *Phys. Rev. Lett.* 120 (2018) 031104
 
 0. B.P. Gong, Y.P. Li, J.P. Yuan, J. Tian, Y.Y. Zhang, D. Li, B. Jiang, X.D.
    Li, H.G. Wang, Y.C. Zou, **L. Shao**, 

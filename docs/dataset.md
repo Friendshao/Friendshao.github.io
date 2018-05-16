@@ -27,5 +27,6 @@ layout: default
 - [RIT NR](http://ccrg.rit.edu/~RITCatalog/): RIT catalog
 - [Space-based GW PSDs](http://www.srl.caltech.edu/~shane/sensitivity/index.html): Sensitivity curves for spaceborne GW observatories
 - [supernova](https://sne.space/): The Open Supernova Catalog
+- [Swinburne Astronomy Media](http://www.astronomy.swin.edu.au/production/medialibrary/): Media Library
 
 
