@@ -6,6 +6,11 @@ permalink: /publication/
 
 ## Selected Publications
 
+0. **L. Shao**, N. Wex, M. Kramer,
+   [Testing the universality of free fall towards dark matter with radio
+   pulsars](https://arxiv.org/abs/1805.08408),
+   *Physical Review Letters* (accepted)
+
 0. **L. Shao**, N. Sennett, A. Buonanno, M. Kramer, N. Wex,
     [Constraining nonperturbative strong-field effects in scalar-tensor gravity
     by combining pulsar timing and laser-interferometer gravitational-wave

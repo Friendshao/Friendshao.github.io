@@ -155,6 +155,10 @@ layout: default
   of the equivalence principle](https://arxiv.org/abs/1712.01176), *Phys. Rev.
   Lett.* 119:231101
 
+- **Berti *et al.* 2018**, [Extreme gravity tests with gravitational waves from compact binary coalescences: (I) inspiral-merger](https://arxiv.org/abs/1801.03208), *Gen. Relativ. Gravit.* 50:46
+  
+- **Berti *et al.* 2018**, [Extreme gravity tests with gravitational waves from compact binary coalescences: (II) ringdown](https://arxiv.org/abs/1801.03587), *Gen. Relativ. Gravit.* 50:49
+
 [^note]: Please don't tell me if your favorite papers are not included here, because (1) this list is never supposed to be complete and, (2) I am still reading your papers
 
 
