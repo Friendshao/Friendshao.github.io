@@ -8,7 +8,7 @@ layout: default
 
 <p></p>
 
-0. **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall
    towards dark matter with radio pulsars](https://arxiv.org/abs/1805.08408),
    *Phys. Rev. Lett.* (accepted)
 
