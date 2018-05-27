@@ -11,7 +11,7 @@ permalink: /publication/
    pulsars](https://arxiv.org/abs/1805.08408),
    *Physical Review Letters* (accepted)
   - <sub>Featured by PRL editors as an "Editors' Suggestion"
-  <img src="suggestion_PRD.png" alt="PRL" style="width:30px;height:30px;">
+  <img src="suggestion_PRL.jpg" alt="PRL" style="width:30px;height:30px;">
 
 0. **L. Shao**, N. Sennett, A. Buonanno, M. Kramer, N. Wex,
     [Constraining nonperturbative strong-field effects in scalar-tensor gravity
