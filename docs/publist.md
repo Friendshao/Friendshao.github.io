@@ -8,6 +8,15 @@ layout: default
 
 <p></p>
 
+0. B.P. Abbott, *et al.*, 
+   [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
+   arXiv:1805.11579
+
+0. B.P. Abbott, *et al.*, 
+   [GW170817: Measurements of neutron star radii and equation of
+   state](https://arxiv.org/abs/1805.11581), 
+   arXiv:1805.11581
+
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall
    towards dark matter with radio pulsars](https://arxiv.org/abs/1805.08408),
    *Phys. Rev. Lett.* (accepted)
