@@ -5,6 +5,7 @@ layout: default
 - [Atom handbook](https://mba811.gitbooks.io/mac-dev/content/Atom/): atom handbook
 - [B1913+16](https://zenodo.org/record/54764#.WN68ZBKGORt): Binary Pulsar PSR B1913+16 arrival time and associated files
 - [Bayesian hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers): Bayesian Methods for Hackers
+- [CoRe](http://www.computational-relativity.org/)
 - [cosmos gravity](http://aliojjati.github.io/MGCAMB/home.html): cosmological tests of modified gravity
 - [CS231n](https://cs231n.github.io/): Convolutional Neural Networks for Visual Recognition
 - [datadryad](http://www.datadryad.org/): Browse for data

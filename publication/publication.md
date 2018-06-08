@@ -18,10 +18,18 @@ permalink: /publication/
     by combining pulsar timing and laser-interferometer gravitational-wave
     detectors](http://arxiv.org/abs/1704.07561), 
     *Physical Review X* 7 (2017) 041025
-  - <sub>[Featured by the Max Planck Institute for Gravitational Physics
+  - <sub>Featured by the Max Planck Institute for Gravitational Physics
     (Albert Einstein
-    Institute)](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity)
-    <img src="aei.png" alt="aei" style="height:40px;">
+    Institute): [press release](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity)
+  and example media coverage
+    ([link1](http://www.pro-physik.de/details/news/10675849/Wo_rohe_Kraefte_walten.html),
+    [link2](http://www.media.inaf.it/2017/10/25/einstein-stelle-neutroni/),
+    [link3](http://www.videoaggiornati.com/einstein-e-lequazione-di-stato-delle-pulsar/),
+    [link4](https://observatori.uv.es/un-test-mas-estricto-de-la-teoria-general-de-la-relatividad-con-estrellas-binarias-de-neutrones/),
+    [link5](https://phys.org/news/2017-10-stronger-einstein-theory-relativity-binary.html),
+    [link6](http://www.spacedaily.com/reports/Stronger_Tests_of_Einsteins_Theory_of_General_Relativity_with_Binary_Neutron_Stars_999.html),
+    [link7](http://sciencefactz.com/stronger-tests-einsteins-theory-general-relativity-binary-neutron-stars/))
+    <img src="aei.png" alt="aei" style="height:35px;"> 
 
 0. A. Bohé, **L. Shao**, A. Taracchini, A. Buonanno, *et al.*, 
     [Improved effective-one-body model of spinning, nonprecessing binary black
@@ -51,29 +59,29 @@ permalink: /publication/
     [A new limit on local Lorentz invariance violation of gravity from solitary
     pulsars](http://arxiv.org/abs/1307.2552),
     *Classical and Quantum Gravity* 30 (2013) 165019 
-  - <sub>[Highlighted by Classical and Quantum Gravity](IOP_sck+13.pdf)
+  - <sub>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sck+13.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
 0. **L. Shao** & N. Wex, 
     [New limits on the violation of local position invariance of
     gravity](http://arxiv.org/abs/1307.2637),
     *Classical and Quantum Gravity* 30 (2013) 165020
-  - <sub>[Highlighted by Classical and Quantum Gravity](IOP_sw13.pdf)
+  - <sub>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sw13.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
 0. **L. Shao** & N. Wex,
     [New tests of local Lorentz invariance of gravity with small-eccentricity
     binary pulsars](http://arxiv.org/abs/1209.4503),
     *Classical and Quantum Gravity* 29 (2012) 215018
-  - <sub>[Highlighted by Classical and Quantum Gravity](IOP_sw12.pdf)
+  - <sub>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sw12.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
 0. **L. Shao** & B.-Q. Ma,
     [The significant digit law in statistical
     physics](http://arxiv.org/abs/1005.0660),
     *Physica A* 389 (2010) 3109
-  - <sub>Invited to [Wolfram Demonstrations
-    Project](http://demonstrations.wolfram.com/BenfordsLawInStatisticalPhysics/)
+  - <sub>Invited to Wolfram Demonstrations
+    Project: [link](http://demonstrations.wolfram.com/BenfordsLawInStatisticalPhysics/)
   <img src="mathematica.png" alt="Math" style="height:30px;">
 {: reversed="reversed"}
 

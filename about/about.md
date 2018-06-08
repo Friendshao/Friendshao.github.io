@@ -15,8 +15,7 @@ Astronomy](http://www.mpifr-bonn.mpg.de/2169/en) in Bonn, Germany.
 
 In the upcoming September, I will move to the [Kavli Institute for Astronomy
 and Astrophysics](http://kiaa.pku.edu.cn/), [Peking
-University](http://www.pku.edu.cn/) as an Assistant Professor in Beijing,
-China.
+University](http://www.pku.edu.cn/) as a faculty member in Beijing, China.
 
 <img src="historically.png" alt="Historically" style="width: 120px;"/>
 
