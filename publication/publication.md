@@ -9,9 +9,14 @@ permalink: /publication/
 0. **L. Shao**, N. Wex, M. Kramer,
    [Testing the universality of free fall towards dark matter with radio
    pulsars](https://arxiv.org/abs/1805.08408),
-   *Physical Review Letters* (accepted)
-  - <sub>To be featured by PRL editors as an "Editors' Suggestion"
-  <img src="suggestion_PRL.jpg" alt="PRL" style="width:30px;height:30px;">
+   *Physical Review Letters* 120 (2018) 241104
+  - <sub>Featured by PRL editors as an "Editors' Suggestion" 
+  <img src="suggestion_PRL.jpg" alt="PRL" style="width:30px;height:30px;"> 
+  - <sub>Featured by
+    the Max Planck Institute for Radio Astronomy: 
+[English](https://www.mpifr-bonn.mpg.de/pressreleases/2018/8) /
+[German](https://www.mpifr-bonn.mpg.de/pressemeldungen/2018/8)
+  <img src="mpifr.jpg" alt="PRL" style="width:32px;height:32px;"> 
 
 0. **L. Shao**, N. Sennett, A. Buonanno, M. Kramer, N. Wex,
     [Constraining nonperturbative strong-field effects in scalar-tensor gravity
@@ -21,7 +26,7 @@ permalink: /publication/
   - <sub>Featured by the Max Planck Institute for Gravitational Physics
     (Albert Einstein
     Institute): [press release](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity)
-  and example media coverage
+  and media coverage
     ([link1](http://www.pro-physik.de/details/news/10675849/Wo_rohe_Kraefte_walten.html),
     [link2](http://www.media.inaf.it/2017/10/25/einstein-stelle-neutroni/),
     [link3](http://www.videoaggiornati.com/einstein-e-lequazione-di-stato-delle-pulsar/),
