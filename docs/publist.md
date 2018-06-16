@@ -17,10 +17,6 @@ layout: default
    state](https://arxiv.org/abs/1805.11581), 
    arXiv:1805.11581
 
-0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall
-   towards dark matter with radio pulsars](https://arxiv.org/abs/1805.08408),
-   *Phys. Rev. Lett.* (accepted)
-
 0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
    [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
    *Sci. China Phys. Mech. Astron.* (accepted) 
@@ -28,6 +24,10 @@ layout: default
 0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*,
    [Observatory science with eXTP](http://friendshao.github.io/),
    *Sci. China Phys. Mech. Astron.* (accepted) 
+
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall
+   towards dark matter with radio pulsars](https://arxiv.org/abs/1805.08408),
+   *Phys. Rev. Lett.* 120 (2018) 241104
 
 0. B.P. Abbott, *et al.*, 
    [Search for tensor, vector, and scalar polarizations in the stochastic
