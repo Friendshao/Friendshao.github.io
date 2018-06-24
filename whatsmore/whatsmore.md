@@ -5,7 +5,6 @@ permalink: /whatsmore/
 ---
 
 - Serving as a referee for [these journals](https://friendshao.github.io/docs/referee)
-- A loosely written blog (in Chinese): [astro-gravity](https://astro-gravity.github.io/) 
 - An incomplete compilation of [academic activities](https://friendshao.github.io/docs/activity) 
 - An incomplete [list of papers](https://friendshao.github.io/docs/papers) that I enjoyed a lot
 - [Some collection of websites](https://friendshao.github.io/docs/general) for general purposes, mostly on programming

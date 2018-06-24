@@ -37,4 +37,4 @@ permalink: /cv/
 - 1987 Jan 15, **Born**, [Yuyao City](http://en.wikipedia.org/wiki/Yuyao),
   [Zhejiang China](http://en.wikipedia.org/wiki/Zhejiang)
 
-**Click here for [the link](./shao-cv.pdf) to full CV**
+**If you want a full CV, please contact me**

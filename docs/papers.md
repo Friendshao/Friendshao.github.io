@@ -161,7 +161,7 @@ layout: default
 
 - **Harry & Hinderer 2018**, [Observing and measuring the neutron-star
   equation-of-state in spinning binary neutron star
-systems](https://arxiv.org/abs/1801.09972), arXiv:1801.09972
+systems](https://arxiv.org/abs/1801.09972), *Class. Quantum Grav.* 35:145010
 
 [^note]: Please don't tell me if your favorite papers are not included here, because (1) this list is never supposed to be complete and, (2) I am still reading your papers
 
