@@ -13,6 +13,8 @@ layout: default
   formalism](http://adsabs.harvard.edu/abs/1972ApJ...177..757W), *Astrophys.
   J.* 177:757
 
+- &#128214; **Misner *et al.* 1973**, Gravitation, Princeton University Press
+
 - **Blandford & Teukolsky 1976**, [Arrival-time analysis for a pulsar in a
   binary system](http://adsabs.harvard.edu/abs/1976ApJ...205..580B),
   *Astrophys. J.* 205:580
@@ -129,6 +131,9 @@ layout: default
   phenomenology](https://arxiv.org/abs/0806.0339), *Living Rev. Relativity*
   16:5
 
+- &#128214; **Poisson & Will 2014**, Gravity: Newtonian, Post-Newtonian,
+  Relativistic, Cambridge University Press
+
 - **Wex 2014**, [Testing relativistic gravity with radio
   pulsars](https://arxiv.org/abs/1402.5594), in *Frontiers in Relativistic
   Celestial Mechanics: Applications and Experiments* (Walter de Gruyter GmbH,
@@ -154,6 +159,10 @@ layout: default
   a binary neutron star inspiral](https://arxiv.org/abs/1710.05832), *Phys.
   Rev. Lett.* 119:161101
 
+- &#128214; **Thorne & Blandford 2017**, Modern Classical Physics: Optics,
+  Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics, Princeton
+  University Press
+
 - **Touboul *et al.* 2017**, [MICROSCOPE mission: First results of a space test
   of the equivalence principle](https://arxiv.org/abs/1712.01176), *Phys. Rev.
   Lett.* 119:231101
@@ -168,6 +177,9 @@ systems](https://arxiv.org/abs/1801.09972), *Class. Quantum Grav.* 35:145010
 
 - &#128214; **Maggiore 2018**, Gravitational Waves (Volume 2): Astrophysics and
   Cosmology, Oxford University Press
+
+- &#128214; **Will 2018**, Theory and Experiment in Gravitational Physics,
+  Cambridge University Press
 
 [^note]: Please don't tell me if your favorite papers or books are not included here, because (1) this list is never supposed to be complete and, (2) I am still reading your papers/books!
 
