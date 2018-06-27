@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Here goes a list of papers that I enjoyed a lot**[^note]
+**Here goes a list of papers and books that I enjoyed a lot**[^note]
 
 ---
 
@@ -90,6 +90,10 @@ layout: default
 - **Kramer *et al.* 2006**, [Tests of general relativity from timing the double
   pulsar](https://arxiv.org/abs/astro-ph/0609417), *Science* 314:97
 
+- <img src="book.png" alt="book" style="width:30px;height:30px;">
+  **Maggiore 2007**, Gravitational Waves (Volume 1): Theory and Experiments,
+  Oxford University Press
+
 - **Breton *et al.* 2008**, [Relativistic spin precession in the double
   pulsar](https://arxiv.org/abs/0807.2644), *Science* 321:104
 
@@ -163,6 +167,6 @@ layout: default
   equation-of-state in spinning binary neutron star
 systems](https://arxiv.org/abs/1801.09972), *Class. Quantum Grav.* 35:145010
 
-[^note]: Please don't tell me if your favorite papers are not included here, because (1) this list is never supposed to be complete and, (2) I am still reading your papers
+[^note]: Please don't tell me if your favorite papers or books are not included here, because (1) this list is never supposed to be complete and, (2) I am still reading your papers/books!
 
 
