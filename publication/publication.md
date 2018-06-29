@@ -25,15 +25,7 @@ permalink: /publication/
     *Physical Review X* 7 (2017) 041025
   - <sub>Featured by the Max Planck Institute for Gravitational Physics
     (Albert Einstein
-    Institute): [press release](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity)
-  and media coverage
-    ([link1](http://www.pro-physik.de/details/news/10675849/Wo_rohe_Kraefte_walten.html),
-    [link2](http://www.media.inaf.it/2017/10/25/einstein-stelle-neutroni/),
-    [link3](http://www.videoaggiornati.com/einstein-e-lequazione-di-stato-delle-pulsar/),
-    [link4](https://observatori.uv.es/un-test-mas-estricto-de-la-teoria-general-de-la-relatividad-con-estrellas-binarias-de-neutrones/),
-    [link5](https://phys.org/news/2017-10-stronger-einstein-theory-relativity-binary.html),
-    [link6](http://www.spacedaily.com/reports/Stronger_Tests_of_Einsteins_Theory_of_General_Relativity_with_Binary_Neutron_Stars_999.html),
-    [link7](http://sciencefactz.com/stronger-tests-einsteins-theory-general-relativity-binary-neutron-stars/))
+    Institute): [English](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity)
     <img src="aei.png" alt="aei" style="height:35px;"> 
 
 0. A. Bohé, **L. Shao**, A. Taracchini, A. Buonanno, *et al.*, 
