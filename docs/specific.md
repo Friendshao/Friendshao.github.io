@@ -16,6 +16,7 @@ layout: default
 - [chainconsumer](https://github.com/Samreay/ChainConsumer): Corner plots, LaTeX tables and plotting walks
 - [contbin](http://www-xray.ast.cam.ac.uk/papers/contbin/): Contour binning
 - [corner](https://pypi.python.org/pypi/corner/1.0.0): Make some beautiful corner plots of samples
+- [cosmoPMC](http://www2.iap.fr/users/kilbinge/CosmoPMC/): Cosmology sampling with Population Monte Carlo
 - [cosmoslik](https://github.com/marius311/cosmoslik): Cosmology Sampler of LIKelihoods
 - [cuba](http://www.feynarts.de/cuba/): a library for multidimensional numerical integration
 - [daft](http://daft-pgm.org/): BEAUTIFULLY RENDERED PROBABILISTIC GRAPHICAL MODELS
@@ -86,6 +87,7 @@ layout: default
 - [theano](http://deeplearning.net/software/theano/index.html): a Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays
 - [three.js](https://github.com/mrdoob/three.js): JavaScript 3D library
 - [uncertainties](http://pythonhosted.org/uncertainties/): uncertainties package
+- [VBBinaryLensing](https://github.com/valboz/VBBinaryLensing): forward modelling of gravitational microlensing events
 - [vim fugitive](https://github.com/tpope/vim-fugitive): VIM fugitive
 - [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/screenshots): data visualization
 - [vpython](http://vpython.org/contents/docs/VisualIntro.html): Simple 3D Programming Using VPython
@@ -94,3 +96,5 @@ layout: default
 - [xAct-contrib](http://contrib.xact.es/): Community contributions to xAct
 - [zotfile](http://zotfile.com/): Zotero plugin to manage your attachments
 - [zsh](http://sourabhbajaj.com/mac-setup/iTerm/zsh.html): Zsh
+
+

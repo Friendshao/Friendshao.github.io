@@ -60,6 +60,10 @@ layout: default
   observations of inspiralling compact
   binaries](https://arxiv.org/abs/gr-qc/9406022), *Phys. Rev.  D* 50:6058
 
+- **Kidder 1995**, [Coalescing binary systems of compact objects to
+  (post)$^{5/2}$-Newtonian order. V. Spin
+effects](https://arxiv.org/abs/gr-qc/9506022), *Phys. Rev. D* 52:821
+
 - **Damour & Esposito-Farèse 1996**, [Tensor-scalar gravity and binary-pulsar
   experiments](https://arxiv.org/abs/gr-qc/9602056), *Phys. Rev. D* 54:1474
 
@@ -154,6 +158,9 @@ layout: default
 - **Abbott *et al.* 2016**, [Observation of gravitational waves from a binary
   black hole merger](https://arxiv.org/abs/1602.03837), *Phys. Rev. Lett.*
   116:061102
+
+- **Ramazanoğlu & Pretorius 2016**, [Spontaneous scalarization with massive
+  fields](https://arxiv.org/abs/1601.07475), *Phys. Rev. D* 93:064005
 
 - **Abbott *et al.* 2017**, [GW170817: Observation of gravitational waves from
   a binary neutron star inspiral](https://arxiv.org/abs/1710.05832), *Phys.
