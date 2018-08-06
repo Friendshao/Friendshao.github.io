@@ -27,12 +27,13 @@ Institute)](http://www.aei.mpg.de/) in Potsdam, Germany.
 
 ---
 
-### Research Interests
+### Research Interests <small><small>([Group Members](http://friendshao.github.io/docs/people/))</small></small>
 
 - Tests of gravity theories
 - Gravitational waves
 - Pulsars and neutron stars
-- Black hole physics
+- Astrophysical studies of dark matter
+- Black hole spacetime
 - Precision tests of fundamental physics
 - Bayesian data analysis and statistics
 
@@ -43,7 +44,7 @@ Institute)](http://www.aei.mpg.de/) in Potsdam, Germany.
 
 <img src="email.png" width="30"> **Friendshao**<img src="at.jpg"
 width="20">**gmail.com**; lshao<img src="at.jpg"
-width="20">mpifr-bonn.mpg.de
+width="20">pku.edu.cn
 
 <img src="phone.png" width="30"> +49(0)228-525-505 (office)
 
