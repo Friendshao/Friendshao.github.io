@@ -9,6 +9,10 @@ layout: default
 <p></p>
 
 0. B.P. Abbott, *et al.*, 
+   [Search for sub-solar mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
+   arXiv:1808.04771
+
+0. B.P. Abbott, *et al.*, 
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
    arXiv:1805.11579
 
