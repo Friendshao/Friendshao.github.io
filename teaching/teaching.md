@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ### As a Lecturer
 
-- TBA
+- Soon to come
 
 ### As a Teaching Asistant
 
