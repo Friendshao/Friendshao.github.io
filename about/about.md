@@ -46,7 +46,7 @@ Bonn, Germany.
 width="20">**pku.edu.cn**; Friendshao<img src="at.jpg"
 width="20">gmail.com 
 
-<img src="phone.png" width="30"> +86-(0)10-6275-3487 (office)
+<img src="phone.png" width="30"> +86-(0)10-6275-8461 (office)
 
 <img src="office.png" width="30"> Kavli Institute for Astronomy and
 Astrophysics, Peking University, Beijing 100871, China
