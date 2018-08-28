@@ -6,7 +6,7 @@ layout: default
 
 - [Gmail](http://www.gmail.com/),
   [MPIfR](https://webmail.mpifr-bonn.mpg.de/),
-  [PKU](http://water.pku.edu.cn/),
+  [PKU](http://mail.pku.edu.cn/),
   [QQ](http://mail.qq.com/)
 
 **Academics**
@@ -23,16 +23,14 @@ layout: default
 
 **Tools**
 
-- [Google](http://www.google.com/ncr)
-  ([Calendar](https://calendar.google.com/calendar/r),
-  [driver](https://drive.google.com/drive/my-drive),
-  [maps](https://www.google.com/maps),
-  [translate](https://translate.google.com/),
-  [keep](https://keep.google.com/)),
+- [Calendar](https://outlook.live.com/calendar/view/week),
+  [Onenote](https://www.onenote.com/),
+  [Google](http://www.google.com/ncr)
+  ([maps](https://www.google.com/maps),
+  [translate](https://translate.google.com/)),
   [Bing](https://www.bing.com/),
   [Evernote](https://www.evernote.com/Home.action),
-  [Baidu](http://www.baidu.com/)
-  ([pan](http://pan.baidu.com/)),
+  [Baidu](http://www.baidu.com/),
   [smallpdf](http://smallpdf.com/)
 - [feedReader](http://feedreader.com/online/),
   [Dropbox](https://www.dropbox.com/home),
@@ -52,12 +50,12 @@ layout: default
 **Working**
 
 - [KIAA](http://kiaa.pku.edu.cn/),
-  [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en)
-  ([fundi](https://docs.google.com/spreadsheets/d/1TNXUOtpSE_jpnf7HiiAqEhLjF1yrItN1j6r0IIg7CR8/edit#gid=0),
-  [wiki](https://fpra.mpifr-bonn.mpg.de/doku.php?id=start)),
+  [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en),
   [PKU](http://www.pku.edu.cn/)
-  ([LIB](http://www.lib.pku.edu.cn/portal/), [PHY](http://www.phy.pku.edu.cn/), [BBS](http://bbs.pku.edu.cn/)),
-  [AEI](http://www.aei.mpg.de/)
+  ([LIB](http://www.lib.pku.edu.cn/portal/), 
+   [PHY](http://www.phy.pku.edu.cn/), 
+   [BBS](http://bbs.pku.edu.cn/)),
+   [AEI](http://www.aei.mpg.de/)
   ([ACR](http://www.aei.mpg.de/1282161/Astrophysical_and_Cosmological_Relativity))
 
 **Collections**
