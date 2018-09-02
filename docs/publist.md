@@ -8,6 +8,9 @@ layout: default
 
 <p></p>
 
+
+<big><big>**Academic Papers**</big></big>
+
 0. B.P. Abbott, *et al.*, 
    [Search for sub-solar mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
    arXiv:1808.04771
@@ -165,11 +168,6 @@ layout: default
    [Experimental studies on the Lorentz symmetry in post-Newtonian gravity with pulsars](http://dx.doi.org/10.3390/universe2040029),
    *Universe* 2 (2016) 29
 
-0. <sup>&#9733;</sup> J. Liu, G. Wang, Y.-M. Hu, T. Zhang, Z. Luo, Q.-L. Wang,
-   **L. Shao**, 
-   [GW150914 and gravitational-wave astronomy](https://doi.org/10.1360/N972016-00429) (in Chinese),
-   *Chin. Sci. Bull.* 61 (2016) 1502
-
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex, 
    [Tests of gravitational symmetries with radio pulsars](https://arxiv.org/abs/1604.03662),
    *Sci. China Phys. Mech. Astron.* 59 (2016) 699501
@@ -240,15 +238,6 @@ layout: default
    [Lorentz violation induced vacuum birefringence and its astrophysical consequences](https://arxiv.org/abs/1104.4438),
    *Phys. Rev. D* 83 (2011) 127702
 
-0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma, 
-   [OPERA superluminal neutrinos and evolutions of spacetime concepts](https://doi.org/10.3969/j.issn.1673-8128.2011.04.003) (in Chinese),
-   *Frontier Sci.* 5 (2011) 4
-
-
-0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
-   [Quantum gravitational relic effects on low energy photons](http://en.cnki.com.cn/Article_en/CJFDTotal-YBSF201105006.htm) (in Chinese),
-   *J. Shanxi Datong Univ.* 27 (2011) 19
-
 0. H. Liu, Y. Chi, **L. Shao**, B.-Q. Ma,
    [Octet quark contents from SU(3) flavor symmetry](https://arxiv.org/abs/1104.3737),
    *Europhys. Lett.* 94 (2011) 31001
@@ -272,11 +261,6 @@ layout: default
 0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [The significant digit law in statistical physics](https://arxiv.org/abs/1005.0660),
    *Physica A* 389 (2010) 3109
-
-
-0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
-   [Applications of the first digit law in physics](http://www.kjdb.org/CN/Y2010/V28/I18/98) (in Chinese),
-   *Sci. Tech. Rev.* 28 (2010) 98
 
 0. <sup>&#9733;</sup> **L. Shao**, Z. Xiao, B.-Q. Ma,
    [Lorentz violation from cosmological objects with very high energy photon emissions](https://arxiv.org/abs/0911.2276),
@@ -306,6 +290,34 @@ layout: default
    [Statistical effect in the parton distribution functions of the nucleon](https://arxiv.org/abs/0812.3294),
    *Phys. Lett. B* 671 (2009) 30
 {: reversed="reversed"}
+
+<p></p>
+
+<big><big>**Popular Articles**</big></big>
+
+0. <sup>&#9733;</sup> **邵立晶** [编译], 
+   [“亲爱的，开心点，你刚有了个重大发现！”](http://www.wuli.ac.cn/CN/abstract/abstract71787.shtml),
+   *物理* 47 (2018) 177
+
+0. <sup>&#9733;</sup>  刘见, 王刚, 胡一鸣, 张腾, 罗子人, 王晴岚, **邵立晶**, 
+   [首例引力波探测事件 GW150914 与引力波天文学](https://doi.org/10.1360/N972016-00429),
+   *科学通报* 61 (2016) 1502
+
+0. <sup>&#9733;</sup> **邵立晶**,  马伯强,
+   [OPERA 超光速中微子与人类对时空观的认识历程](https://doi.org/10.3969/j.issn.1673-8128.2011.04.003),
+   *前沿科学* 5 (2011) 4
+
+0. <sup>&#9733;</sup> **邵立晶**,  马伯强,
+   [低能光子的量子引力“遗迹”效应](http://en.cnki.com.cn/Article_en/CJFDTotal-YBSF201105006.htm),
+   *山西大同大学学报 (自然科学版)* 27 (2011) 19
+
+0. <sup>&#9733;</sup> **邵立晶**,  马伯强,
+   [首位数规律在物理学中的应用](http://www.kjdb.org/CN/Y2010/V28/I18/98),
+   *科技导报* 28 (2010) 98
+{: reversed="reversed"}
+
+
+
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
