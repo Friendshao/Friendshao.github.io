@@ -57,7 +57,8 @@ layout: default
    [LIB](http://www.lib.pku.edu.cn/portal/), 
    [ITS](http://its.pku.edu.cn/),
    [PHY](http://www.phy.pku.edu.cn/), 
-   [Portal](https://portal.pku.edu.cn/))
+   [PHY-FTP](ftp://pts.phy.pku.edu.cn/),
+   [Portal](https://portal.pku.edu.cn/)),
    [AEI](http://www.aei.mpg.de/)
   ([ACR](http://www.aei.mpg.de/1282161/Astrophysical_and_Cosmological_Relativity))
 
