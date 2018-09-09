@@ -11,6 +11,14 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
+   with eXTP](https://link.springer.com/article/10.1007/s11433-017-9186-1),
+   *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
+
+0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing velocity-dependent
+   CPT-violating gravitational forces with radio
+   pulsars](http://friendshao.github.io/), *Phys. Rev. D* (to be submitted)
+
 0. B.P. Abbott, *et al.*, 
    [Search for sub-solar mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
    arXiv:1808.04771
@@ -26,10 +34,6 @@ layout: default
 
 0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
    [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
-   *Sci. China Phys. Mech. Astron.* (accepted) 
-
-0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*,
-   [Observatory science with eXTP](http://friendshao.github.io/),
    *Sci. China Phys. Mech. Astron.* (accepted) 
 
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall

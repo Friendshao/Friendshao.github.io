@@ -65,7 +65,7 @@ layout: default
 **Collections**
 
 - [Github-shao](http://friendshao.github.io/),
-  [google scholar](https://scholar.google.de/citations?user=x7Rnzn8AAAAJ&hl=en&oi=ao)
+  [google scholar](https://scholar.google.com/citations?user=x7Rnzn8AAAAJ&hl=en)
 - [hyperspace](http://hyperspace.uni-frankfurt.de/),
   [pulsarastronomy](http://pulsarastronomy.net/pulsar/preprints),
   [benty-fields](http://www.benty-fields.com/),
