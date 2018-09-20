@@ -23,10 +23,11 @@ layout: default
 
 **Tools**
 
-- [Calendar](https://outlook.live.com/calendar/view/week),
+- [Calendar](https://calendar.google.com/calendar/r),
   [Onenote](https://www.onenote.com/),
   [Google](http://www.google.com/ncr)
-  ([maps](https://www.google.com/maps),
+  ([Calendar](https://calendar.google.com/calendar/r/month),
+  [maps](https://www.google.com/maps),
   [translate](https://translate.google.com/)),
   [Bing](https://www.bing.com/),
   [Evernote](https://www.evernote.com/Home.action),

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+- **Sep 2018 &#9671; Oral Talk**, [Advanced Gravitational-wave
+  Workshop](http://english.hunnu.edu.cn/), Hunan Normal University, Changsha China 
 
 - **Aug 2018 &#9671; Oral Talk**, [GrEAT Kick-off Meeting & 7th Beijing GW
   Workshop](http://astrowww.bnu.edu.cn/meeting/GW-WB/index.html), Beijing
