@@ -33,11 +33,11 @@ a position when available. Please contact me!
 - 2017 — present, **George Lampropoulos**, master thesis, University of Bonn;
   co-advised with Dr. Norbert Wex
 - 2018 — present, **Yong Gao (高勇)**, PhD student, Department of Astronomy at
-  School of physics, Peking University
+  School of Physics, Peking University
 
 <big>**Undergraduates**</big>
 
 - 2018 — present, **Zhongpeng Sun (孙忠鹏)**, bachelor thesis, Department of
-  Astronomy at School of physics, Peking University
+  Astronomy at School of Physics, Peking University
 
 

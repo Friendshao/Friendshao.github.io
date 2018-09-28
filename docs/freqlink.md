@@ -29,8 +29,8 @@ layout: default
   [Google](http://www.google.com/ncr)
   ([Calendar](https://calendar.google.com/calendar/r/month),
   [maps](https://www.google.com/maps),
-  [translate](https://translate.google.com/)),
-  [Bing](https://www.bing.com/),
+  [translate](https://translate.google.com/))
+- [Bing](https://www.bing.com/),
   [Evernote](https://www.evernote.com/Home.action),
   [Baidu](http://www.baidu.com/),
   [smallpdf](http://smallpdf.com/)
