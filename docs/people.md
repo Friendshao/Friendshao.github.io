@@ -37,5 +37,7 @@ a position when available. Please contact me!
 
 <big>**Undergraduates**</big>
 
-- More to come
+- 2018 — present, **Zhongpeng Sun (孙忠鹏)**, bachelor thesis, Department of
+  Astronomy at School of physics, Peking University
+
 

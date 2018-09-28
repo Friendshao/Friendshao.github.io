@@ -24,6 +24,7 @@ layout: default
 **Tools**
 
 - [Calendar](https://calendar.google.com/calendar/r),
+  [Eisenhower](https://app.eisenhower.me/),
   [Onenote](https://www.onenote.com/),
   [Google](http://www.google.com/ncr)
   ([Calendar](https://calendar.google.com/calendar/r/month),
