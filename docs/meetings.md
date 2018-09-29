@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -16,10 +15,11 @@ Since October 16, 2018, our group meetings take place in the meeting room on
 the second floor at KIAA (location to be confirmed). To avoid conflicts with
 students' classes, the time is fixed to 19:00—20:30.
 
-The format of group meetings is the following:
-- General news (less than 5 mins)
-- Paper presentation (about 45 mins)
-- Updates on projects (indefinite time; those who are not involved are free to
+**The Format**
+
+0. General news (less than 5 mins)
+0. Paper presentation (about 45 mins including discussions)
+0. Updates on projects (indefinite time; those who are not involved are free to
   leave)
 
 <p></p>
@@ -34,7 +34,7 @@ The format of group meetings is the following:
 The presenter **must** inform the other group members the paper to be discussed
 at least three days in advance. It is **suggested** to use English whenever
 there are foreigners in the audience. Otherwise it is **suggested** to talk in
-Chinese, but using English in slides.
+Chinese, but use English in slides.
 
 <p></p>
 
