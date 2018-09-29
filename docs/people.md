@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<big>**Welcome to join our research**</big>
+<big>**Welcome to Join our Research**</big>
 
 I am interested in supervising **senior undergraduates**, and **graduates at
 all levels**.  Those who are good at either mathematics or computer science are
@@ -38,6 +38,8 @@ a position when available. Please contact me!
 <big>**Undergraduates**</big>
 
 - 2018 — present, **Zhongpeng Sun (孙忠鹏)**, bachelor thesis, Department of
+  Astronomy at School of Physics, Peking University
+- 2018 — present, **Wenlong Li (李汶隆)**, bachelor thesis, Department of
   Astronomy at School of Physics, Peking University
 
 
