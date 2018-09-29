@@ -40,7 +40,8 @@ Chinese, but use English in slides.
 
 **2018**
 
-- Oct 16, Junjie Zhao
+- Oct 16, Junjie Zhao, [Relaxation in a fuzzy dark matter
+  halo](https://arxiv.org/abs/1809.07673), arXiv:1809.07673
 
 <p></p>
 
