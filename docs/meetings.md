@@ -11,9 +11,9 @@ in science, to learn different methods in solving problems, to strengthen the
 capability in scientifically sound presentations, even to develop close
 collaborations via inspiring discussions.
 
-Since October 16, 2018, our group meetings take place in the meeting room on
-the second floor at KIAA (location to be confirmed). To avoid conflicts with
-students' classes, the time is fixed to 19:00—20:30.
+Since October 16, 2018, our group meetings take place in the **meeting room on
+the second floor at KIAA (location to be confirmed)**. To avoid conflicts with
+students' classes, the time is fixed to **Tuesdays 19:00—20:30**.
 
 **The Format**
 
