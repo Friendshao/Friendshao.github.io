@@ -11,6 +11,10 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
+   [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
+   *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
+
 0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
    with eXTP](https://link.springer.com/article/10.1007/s11433-017-9186-1),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
@@ -31,10 +35,6 @@ layout: default
    [GW170817: Measurements of neutron star radii and equation of
    state](https://arxiv.org/abs/1805.11581), 
    arXiv:1805.11581
-
-0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
-   [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
-   *Sci. China Phys. Mech. Astron.* (accepted) 
 
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall
    towards dark matter with radio pulsars](https://arxiv.org/abs/1805.08408),
