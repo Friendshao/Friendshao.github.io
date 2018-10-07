@@ -42,13 +42,15 @@ Chinese, but use English in slides.
 
 - Oct 16, Junjie Zhao, [Relaxation in a fuzzy dark matter
   halo](https://arxiv.org/abs/1809.07673), arXiv:1809.07673
+- Oct 23, Yong Gao, Chapters 1—3 of [Physics, astrophysics and cosmology with
+  gravitational waves](https://arxiv.org/abs/0903.0338), arXiv:0903.0338
+- Oct 30, no group meeting
+- Nov 6, Xueli Miu, ...
 
 <p></p>
 
 **Upcoming paper presenters**
 
-- Yong Gao
-- Xueli Miu
 - Zihang Wang
 - Junjie Zhao
 - Yong Gao
