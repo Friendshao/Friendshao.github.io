@@ -11,6 +11,11 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. <sup>&#9733;</sup> P. Bull, S. Camera, K. Kelley, H. Padmanabhan, J.
+   Pritchard, A. Raccanelli, S. Riemer-Sørensen, **L. Shao**, *et al.*,
+[Fundamental physics with the Square Kilometre
+Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
 0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
    [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
