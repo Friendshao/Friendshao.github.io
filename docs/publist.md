@@ -19,9 +19,16 @@ layout: default
    with eXTP](https://link.springer.com/article/10.1007/s11433-017-9186-1),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
 
+0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
+   remnant of the binary neutron star merger
+GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
+
 0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing velocity-dependent
    CPT-violating gravitational forces with radio
-   pulsars](http://friendshao.github.io/), *Phys. Rev. D* (to be submitted)
+   pulsars](http://friendshao.github.io/), *Phys. Rev. D* (submitted)
+
+0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
+   with GW170817](https://arxiv.org/abs/1808.08676), arXiv:1808.08676
 
 0. B.P. Abbott, *et al.*, 
    [Search for sub-solar mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
