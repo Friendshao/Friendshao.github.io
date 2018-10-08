@@ -11,18 +11,16 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. E. Burns, A. Goldstein, C.M. Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor
+   search for electromagnetic signals coincident with gravitational-wave
+candidates in Advanced LIGO’s first observing
+run](https://arxiv.org/abs/1810.02764), arXiv:1810.02764
+
 0. <sup>&#9733;</sup> P. Bull, S. Camera, K. Kelley, H. Padmanabhan, J.
    Pritchard, A. Raccanelli, S. Riemer-Sørensen, **L. Shao**, *et al.*,
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
-0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
-   [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
-   *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
-
-0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
-   with eXTP](https://link.springer.com/article/10.1007/s11433-017-9186-1),
-   *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
 
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
    remnant of the binary neutron star merger
@@ -47,6 +45,14 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
    [GW170817: Measurements of neutron star radii and equation of
    state](https://arxiv.org/abs/1805.11581), 
    arXiv:1805.11581
+
+0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
+   [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
+   *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
+
+0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
+   with eXTP](https://link.springer.com/article/10.1007/s11433-017-9186-1),
+   *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
 
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall
    towards dark matter with radio pulsars](https://arxiv.org/abs/1805.08408),
