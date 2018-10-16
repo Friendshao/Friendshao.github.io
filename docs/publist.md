@@ -41,10 +41,6 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
    arXiv:1805.11579
 
-0. B.P. Abbott, *et al.*, [GW170817: Measurements of neutron star radii and
-   equation of state](https://arxiv.org/abs/1805.11581), *Phys. Rev. Lett.* 121
-   (2018) 161101 
-
 0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
    [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
@@ -52,6 +48,10 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
    with eXTP](https://link.springer.com/article/10.1007/s11433-017-9186-1),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
+
+0. B.P. Abbott, *et al.*, [GW170817: Measurements of neutron star radii and
+   equation of state](https://arxiv.org/abs/1805.11581), *Phys. Rev. Lett.* 121
+   (2018) 161101 
 
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, [Testing the universality of free fall
    towards dark matter with radio pulsars](https://arxiv.org/abs/1805.08408),

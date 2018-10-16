@@ -45,13 +45,16 @@ Chinese, but use English in slides.
 - Oct 23, Yong Gao, Chapters 1—3 of [Physics, astrophysics and cosmology with
   gravitational waves](https://arxiv.org/abs/0903.0338), arXiv:0903.0338
 - Oct 30, no group meeting
-- Nov 6, Xueli Miu, ...
+- Nov 6, Xueli Miu, [Bounding the mass of the graviton using binary pulsar
+  observations](https://arxiv.org/abs/gr-qc/0109049), arXiv:gr-qc/0109049 AND
+[Solar system versus gravitational-wave bounds on the graviton
+mass](https://arxiv.org/abs/1805.10523), arXiv:1805.10523
+- Nov 13, Zihang Wang, ...
 
 <p></p>
 
 **Upcoming paper presenters**
 
-- Zihang Wang
 - Junjie Zhao
 - Yong Gao
 - Xueli Miu
