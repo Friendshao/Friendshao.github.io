@@ -40,14 +40,20 @@ Chinese, but use English in slides.
 
 **2018**
 
-| Time | Presenter | Paper Title | Link | Extra Info |
-| --- | --- | --- | --- | --- | --- |
-| Oct 16 | **Junjie Zhao** | Relaxation in a fuzzy dark matter halo | [arXiv:1809.07673](https://arxiv.org/abs/1809.07673) | |
-| Oct 23 | **Yong Gao** | Physics, astrophysics and cosmology<br>with gravitational waves | [arXiv:1809.07673](https://arxiv.org/abs/0903.0338) | Chapters 1—3 |
-| Oct 30 | | no group meeting | | |
-| Nov 6 | **Xueli Miu** | Bounding the mass of the graviton<br>using binary pulsar observations | [arXiv:gr-qc/0109049](https://arxiv.org/abs/gr-qc/0109049) | |
-| | | Solar system versus gravitational-wave<br>bounds on the graviton mass | [arXiv:1805.10523](https://arxiv.org/abs/1805.10523) | |
-| Nov 13 | **Zihang Wang** | ... | | |
+- Oct 16, **Junjie Zhao**
+  + Relaxation in a fuzzy dark matter halo,
+    [arXiv:1809.07673](https://arxiv.org/abs/1809.07673)
+- Oct 23, **Yong Gao**
+  + Physics, astrophysics and cosmology with gravitational waves (Chapters 1-3),
+    [arXiv:0903.0338](https://arxiv.org/abs/0903.0338)
+- Oct 30, **no group meeting**
+- Nov 6, **Xueli Miu**
+  + Bounding the mass of the graviton using binary pulsar observations,
+    [arXiv:gr-qc/0109049](https://arxiv.org/abs/gr-qc/0109049) 
+  + Solar system versus gravitational-wave bounds on the graviton mass,
+    [arXiv:1805.10523](https://arxiv.org/abs/1805.10523) 
+- Nov 13, **Zihang Wang**
+  + ...
 
 <p></p>
 
