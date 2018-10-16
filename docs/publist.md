@@ -28,7 +28,7 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
 0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing velocity-dependent
    CPT-violating gravitational forces with radio
-   pulsars](http://friendshao.github.io/), *Phys. Rev. D* (submitted)
+   pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D* (accepted)
 
 0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
    with GW170817](https://arxiv.org/abs/1808.08676), arXiv:1808.08676
@@ -41,10 +41,9 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
    arXiv:1805.11579
 
-0. B.P. Abbott, *et al.*, 
-   [GW170817: Measurements of neutron star radii and equation of
-   state](https://arxiv.org/abs/1805.11581), 
-   arXiv:1805.11581
+0. B.P. Abbott, *et al.*, [GW170817: Measurements of neutron star radii and
+   equation of state](https://arxiv.org/abs/1805.11581), *Phys. Rev. Lett.* 121
+   (2018) 161101 
 
 0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
    [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
