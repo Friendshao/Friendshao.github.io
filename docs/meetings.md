@@ -40,18 +40,20 @@ Chinese, but use English in slides.
 
 **2018**
 
-- Oct 16, **Junjie Zhao**
-  + Relaxation in a fuzzy dark matter halo,
-    [arXiv:1809.07673](https://arxiv.org/abs/1809.07673)
-- Oct 23, **Yong Gao**
-  + Physics, astrophysics and cosmology with gravitational waves (Chapters 1-3),
-    [arXiv:0903.0338](https://arxiv.org/abs/0903.0338)
-- Oct 30, **no group meeting**
-- Nov 6, **Xueli Miu**
-  + Bounding the mass of the graviton using binary pulsar observations,
-    [arXiv:gr-qc/0109049](https://arxiv.org/abs/gr-qc/0109049) 
-  + Solar system versus gravitational-wave bounds on the graviton mass,
-    [arXiv:1805.10523](https://arxiv.org/abs/1805.10523) 
+- Oct 16, **Junjie Zhao**, [arXiv:1809.07673](https://arxiv.org/abs/1809.07673)
+  + <sub>*Relaxation in a fuzzy dark matter halo*, by B. Bar-Or, J.-B.  Fouvry,
+    S. Tremaine
+- Oct 23, **Yong Gao**, [arXiv:0903.0338](https://arxiv.org/abs/0903.0338)
+  + <sub>*Physics, astrophysics and cosmology with gravitational waves*
+    (Chapters 1-3), by B.S. Sathyaprakash, B.F. Schutz
+- Oct 30, **No Group Meeting**
+- Nov 6, **Xueli Miu**,
+  [arXiv:gr-qc/0109049](https://arxiv.org/abs/gr-qc/0109049) &
+[arXiv:1805.10523](https://arxiv.org/abs/1805.10523)
+  + <sub>*Bounding the mass of the graviton using binary pulsar observations*,
+    by L.S. Finn, P.J. Sutton
+  + <sub>*Solar system versus gravitational-wave bounds on the graviton mass*,
+    by C.M. Will
 - Nov 13, **Zihang Wang**
   + ...
 
