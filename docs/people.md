@@ -42,6 +42,10 @@ welcome to attend!
   co-advised with Dr. Norbert Wex
 - 2018 — present, **Yong Gao (高勇)**, PhD student, Department of Astronomy at
   School of Physics, Peking University
+- 2018 — present, **Junjie Zhao (赵俊杰)**, PhD student, Institute for
+  Theoretical Physics at School of Physics, Peking University 
+- 2018 — present, **Xueli Miu (缪雪丽)**, PhD student, Institute for
+  Theoretical Physics at School of Physics, Peking University 
 
 <big>**Undergraduates**</big>
 
