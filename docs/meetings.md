@@ -56,6 +56,7 @@ Chinese, but use English in slides.
     by C.M. Will
 - Nov 13, **Zihang Wang**
   + ...
+- Nov 20, **No Group Meeting**
 
 <p></p>
 

@@ -11,6 +11,11 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
+   M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
+[Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
+arXiv:1810.06623
+
 0. E. Burns, A. Goldstein, C.M. Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor
    search for electromagnetic signals coincident with gravitational-wave
 candidates in Advanced LIGO’s first observing
