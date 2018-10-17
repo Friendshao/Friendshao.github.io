@@ -46,12 +46,16 @@ welcome to attend!
   Theoretical Physics at School of Physics, Peking University 
 - 2018 — present, **Xueli Miu (缪雪丽)**, PhD student, Institute for
   Theoretical Physics at School of Physics, Peking University 
+- 2018 — present, **Zihang Wang (王子航)**, PhD student, Department of
+  Astronomy at School of Physics, Peking University
 
 <big>**Undergraduates**</big>
 
 - 2018 — present, **Zhongpeng Sun (孙忠鹏)**, bachelor thesis, Department of
   Astronomy at School of Physics, Peking University
 - 2018 — present, **Wenlong Li (李汶隆)**, bachelor thesis, Department of
+  Astronomy at School of Physics, Peking University
+- 2018 — present, **Yacheng Kang (康亚城)**, undergraduate, Department of
   Astronomy at School of Physics, Peking University
 
 
