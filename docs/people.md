@@ -44,7 +44,7 @@ welcome to attend!
   School of Physics, Peking University
 - 2018 — present, **Junjie Zhao (赵俊杰)**, PhD student, Institute for
   Theoretical Physics at School of Physics, Peking University 
-- 2018 — present, **Xueli Miu (缪雪丽)**, PhD student, Institute for
+- 2018 — present, **Xueli Miao (缪雪丽)**, PhD student, Institute for
   Theoretical Physics at School of Physics, Peking University 
 - 2018 — present, **Zihang Wang (王子航)**, PhD student, Department of
   Astronomy at School of Physics, Peking University

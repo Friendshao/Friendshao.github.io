@@ -47,7 +47,7 @@ Chinese, but use English in slides.
   + <sub>*Physics, astrophysics and cosmology with gravitational waves*
     (Chapters 1-3), by B.S. Sathyaprakash, B.F. Schutz
 - Oct 30, **No Group Meeting**
-- Nov 6, **Xueli Miu**,
+- Nov 6, **Xueli Miao**,
   [arXiv:gr-qc/0109049](https://arxiv.org/abs/gr-qc/0109049) &
 [arXiv:1805.10523](https://arxiv.org/abs/1805.10523)
   + <sub>*Bounding the mass of the graviton using binary pulsar observations*,
@@ -64,13 +64,13 @@ Chinese, but use English in slides.
 
 - Junjie Zhao
 - Yong Gao
-- Xueli Miu
+- Xueli Miao
 - Zihang Wang
 - Wenlong Li
 - Zhongpeng Sun
 - Junjie Zhao
 - Yong Gao
-- Xueli Miu
+- Xueli Miao
 - Zihang Wang
 
 <p></p>
