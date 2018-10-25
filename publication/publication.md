@@ -10,7 +10,7 @@ permalink: /publication/
    [Testing the universality of free fall towards dark matter with radio
    pulsars](https://arxiv.org/abs/1805.08408),
    *Physical Review Letters* 120 (2018) 241104
-  - <sub>Featured by PRL editors as an "Editors' Suggestion" 
+  - <sub>Featured by PRL editors as an "Editors' Suggestion" [[certificate]](LQ16789.pdf)
   <img src="suggestion_PRL.jpg" alt="PRL" style="width:30px;height:30px;"> 
   - <sub>Featured by
     the Max Planck Institute for Radio Astronomy: 
