@@ -11,6 +11,9 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. A. Albert, *et al.*, 
+   [Search for multi-messenger sources of gravitational waves and high-energy neutrinos with Advanced LIGO during its first observing run, ANTARES and IceCube](https://arxiv.org/abs/1810.10693), arXiv:1810.10693
+
 0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
    M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
 [Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
@@ -40,7 +43,7 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
 0. B.P. Abbott, *et al.*, 
    [Search for sub-solar mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
-   arXiv:1808.04771
+   arXiv:1808.04771, *Phys. Rev. Lett.* (accepted)
 
 0. B.P. Abbott, *et al.*, 
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
