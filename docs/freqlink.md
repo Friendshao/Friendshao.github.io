@@ -24,7 +24,6 @@ layout: default
 **Tools**
 
 - [Calendar](https://calendar.google.com/calendar/r),
-  [Eisenhower](https://app.eisenhower.me/),
   [Onenote](https://www.onenote.com/),
   [Google](http://www.google.com/ncr)
   ([Calendar](https://calendar.google.com/calendar/r/month),
@@ -70,7 +69,7 @@ layout: default
   [google scholar](https://scholar.google.com/citations?user=x7Rnzn8AAAAJ&hl=en)
 - [hyperspace](http://hyperspace.uni-frankfurt.de/),
   [pulsarastronomy](http://pulsarastronomy.net/pulsar/preprints),
-  [benty-fields](http://www.benty-fields.com/),
+  [benty-fields](https://benty-fields.com/benty-search),
   [arxivist](http://arxivist.com/)
 - [Deutsche Bank](https://meine.deutsche-bank.de/trxm/db/)
 
