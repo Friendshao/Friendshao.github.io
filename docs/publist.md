@@ -34,10 +34,6 @@ Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
    remnant of the binary neutron star merger
 GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
-0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing velocity-dependent
-   CPT-violating gravitational forces with radio
-   pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D* (accepted)
-
 0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
    with GW170817](https://arxiv.org/abs/1808.08676), arXiv:1808.08676
 
@@ -56,6 +52,10 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
    with eXTP](https://link.springer.com/article/10.1007/s11433-017-9186-1),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
+
+0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing velocity-dependent
+   CPT-violating gravitational forces with radio
+   pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D* 98 (2018) 084049
 
 0. B.P. Abbott, *et al.*, [GW170817: Measurements of neutron star radii and
    equation of state](https://arxiv.org/abs/1805.11581), *Phys. Rev. Lett.* 121

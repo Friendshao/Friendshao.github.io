@@ -27,6 +27,10 @@ layout: default
 - **梁昆淼**, 《力学 (第四版) 上册》, 高等教育出版社 (2010)
 - **梁昆淼** [原著], 鞠国兴 & 施毅 [修订], 《力学 (第四版) 下册 理论力学》,
   高等教育出版社 (2009)
+- **Charles W. Misner**, **Kip S. Thorne** & **John Archibald Wheeler**,
+  *Gravitation*, Princeton University Press (1973)
+- **James Binney** & **Scott Tremaine**, *Galactic Dynamics (2nd edition)*,
+  Princeton University Press (2008)
 
 <p></p>
 
