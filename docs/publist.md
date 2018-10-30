@@ -324,6 +324,9 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
 <big><big>**Popular Articles**</big></big>
 
+0. <sup>&#9733;</sup> **邵立晶** [编译],
+   [一“波”发现](http://friendshao.github.io/), *物理* 47 (2018) 657
+
 0. <sup>&#9733;</sup> **邵立晶** [编译], 
    [“亲爱的，开心点，你刚有了个重大发现！”](http://www.wuli.ac.cn/CN/abstract/abstract71787.shtml),
    *物理* 47 (2018) 177
