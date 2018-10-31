@@ -12,6 +12,10 @@ interested in gravitational physics or searching for new physics from
 astrophysical observations, please send your CV and I will help you in getting
 a position when available. Please contact me!
 
+<big>[**Group Meetings**](https://friendshao.github.io/docs/meetings)</big>
+
+Since Oct 16, 2018, our group meetings take place in the **meeting room on the
+2nd floor at KIAA** on **Tuesdays 19:00—20:30**. All are welcome to attend!
 
 <p></p>
 
@@ -19,12 +23,6 @@ a position when available. Please contact me!
 
 <p></p>
 
-**Group Meetings**
-
-Since Oct 16, 2018, our [group
-meetings](https://friendshao.github.io/docs/meetings) take place in the
-**meeting room on the 2nd floor at KIAA** on **Tuesdays 19:00—20:30**. All are
-welcome to attend!
 
 <big>**Faculty**</big>
 
