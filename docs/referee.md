@@ -13,6 +13,7 @@ I serve as a referee for the following journals:
 0. [European Physical Journal C](https://link.springer.com/journal/10052)
 0. [European Physical Journal Plus](https://epjplus.epj.org/)
 0. [Frontiers of Physics](https://link.springer.com/journal/11467)
+0. [Galaxies](https://www.mdpi.com/journal/galaxies)
 0. [International Journal of Modern Physics D](http://www.worldscientific.com/worldscinet/ijmpd)
 0. [New Astronomy](https://www.journals.elsevier.com/new-astronomy/)
 0. [Physical Review D](https://journals.aps.org/prd/)

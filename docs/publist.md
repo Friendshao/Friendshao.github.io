@@ -11,6 +11,9 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. B.P. Abbott, *et al.*,  [Tests of general relativity with
+   GW170817](https://arxiv.org/abs/1811.00364), arXiv:1811.00364
+
 0. A. Albert, *et al.*, 
    [Search for multi-messenger sources of gravitational waves and high-energy neutrinos with Advanced LIGO during its first observing run, ANTARES and IceCube](https://arxiv.org/abs/1810.10693), arXiv:1810.10693
 
