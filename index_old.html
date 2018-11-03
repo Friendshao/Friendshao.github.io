@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">News</h1>
+
+<div class=container>
+
+    <div class=figure>
+      <p><img src="http://friendshao.github.io/img/footnote.png">
+      <p><b>Theoretical Physics</b> <font size="1"> <br /> that governs the 
+          vacuum, dusts, and stars (probably not including our minds &#x270C;)</font>
+    </div>
+
+    <div class=figure>
+      <p><img src="http://friendshao.github.io/img/bns2017.jpg">
+      <p><b>Binary Neutron Star Merger (2017)</b>  <br /> <font size="1"> &copy;
+          NSF/LIGO/Sonoma State Univ./A. Simonnet</font>
+    </div>
+
+    <div class=figure>
+      <p><img src="http://friendshao.github.io/img/bbh2015.jpg">
+      <p><b>Binary Black Hole Merger (2015)</b>  <br /> <font size="1"> &copy;
+          LIGO/Caltech/MIT/Sonoma/A. Simonnet</font>
+    </div>
+
+    <div class=figure>
+      <p><img src="http://friendshao.github.io/img/higgs2012.jpg">
+      <p><b>Higgs Boson (2012)</b>  <br /> <font size="1"> &copy;
+          CERN/CMS</font>
+    </div>
+
+    <div class=figure>
+      <p><img src="http://friendshao.github.io/img/pulsar2004.jpg">
+      <p><b>Double Pulsar (2004)</b> <font size="1"> <br /> &copy; MPIfR/Manchester
+          Univ./M. Kramer</font>
+    </div>
+
+    <!--
+    <div class=figure>
+      <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/1911_Solvay_conference.jpg/1024px-1911_Solvay_conference.jpg">
+      <p><b>Solvay Conference (1911)</b> <font size="1"> <br /> &copy; Public
+          Domain </font>
+    </div>
+    <div class=figure>
+      <p><img src="https://steamuserimages-a.akamaihd.net/ugc/270595996996483839/B2461911BB86549103AB1F535E6441797082FD6D/">
+      <p><b>Gargantua in Moive <i>Interstellar</i></b> <font size="1"> <br />
+          &copy; Paramount Pictures</font>
+    </div>
+
+    <div class=figure>
+      <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/700px-Solvay_conference_1927.jpg">
+      <p><b>Solvay Conference (1927)</b> <font size="1"> <br /> &copy; Public
+          Domain </font>
+    </div>
+    -->
+</div>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe"><img src="img/rss.gif" width=15> Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
