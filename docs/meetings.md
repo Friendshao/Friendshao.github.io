@@ -68,12 +68,10 @@ Chinese, but use English in slides.
 
 **Upcoming paper presenters**
 
-- Junjie Zhao
-- Yong Gao
-- Xueli Miao
-- Zihang Wang
 - Wenlong Li
 - Zhongpeng Sun
+- Xueli Miao
+- Zihang Wang
 - Junjie Zhao
 - Yong Gao
 - Xueli Miao
