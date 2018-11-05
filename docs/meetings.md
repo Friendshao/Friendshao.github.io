@@ -55,7 +55,7 @@ Chinese, but use English in slides.
   + <sub>*Solar system versus gravitational-wave bounds on the graviton mass*,
     by C.M. Will
 - Nov 13, **Zihang Wang**, [arXiv:1708.08464](https://arxiv.org/abs/1708.08464)
-  + *Probing axions with neutron star inspirals and other stellar processes* by
+  + <sub>*Probing axions with neutron star inspirals and other stellar processes* by
     A. Hook, J. Huang
 - Nov 20, **No Group Meeting**
 
