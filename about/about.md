@@ -42,9 +42,9 @@ Bonn, Germany.
 ### Contact
 
 
-<img src="email.png" width="30"> **lshao**<img src="at.jpg"
-width="20">**pku.edu.cn**; Friendshao<img src="at.jpg"
-width="20">gmail.com 
+<img src="email.png" width="30"> **Friendshao**<img src="at.jpg"
+width="20">**gmail.com**; lshao<img src="at.jpg"
+width="20">pku.edu.cn
 
 <img src="phone.png" width="30"> +86-(0)10-6275-8461 (office)
 
