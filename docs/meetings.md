@@ -62,7 +62,7 @@ Chinese, but use English in slides.
 - Dec 4, **Junjie Zhao**
   + <sub>...
 - Dec 11, **Yong Gao**, [arXiv:1804.08583](https://arxiv.org/abs/1804.08583)
-  + <sub>*Tidal Deformabilities and Radii of Neutron Stars from the Observation
+  + <sub>*Tidal deformabilities and radii of neutron stars from the observation
     of GW170817*, by S. De *et al.*
 
 <p></p>
