@@ -61,8 +61,9 @@ Chinese, but use English in slides.
 - Nov 27, **No Group Meeting**
 - Dec 4, **Junjie Zhao**
   + <sub>...
-- Dec 11, **Yong Gao**
-  + <sub>...
+- Dec 11, **Yong Gao**, [arXiv:1804.08583](https://arxiv.org/abs/1804.08583)
+  + <sub>*Tidal Deformabilities and Radii of Neutron Stars from the Observation
+    of GW170817*, by S. De *et al.*
 
 <p></p>
 
