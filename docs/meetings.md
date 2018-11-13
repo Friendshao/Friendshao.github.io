@@ -17,8 +17,8 @@ fixed to **Tuesdays 19:00—20:30**.
 
 **The Format**
 
-0. General news (less than 5 mins)
-0. Paper presentation (about 45 mins including discussions)
+0. General news (less than 5 minutes)
+0. Paper presentation (about 1 hour)
 0. Updates on projects (indefinite time; those who are not involved are free to
   leave)
 

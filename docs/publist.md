@@ -49,7 +49,8 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
    arXiv:1805.11579
 
 0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
-   [Accretion in strong field gravity with eXTP](http://friendshao.github.io/),
+   [Accretion in strong field gravity with
+   eXTP](https://doi.org/10.1007/s11433-018-9297-0),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
 
 0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
