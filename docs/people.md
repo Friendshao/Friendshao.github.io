@@ -50,7 +50,7 @@ Since Oct 16, 2018, our group meetings take place in the **meeting room on the
   Astronomy at School of Physics, Peking University
 - 2018 — present, **Dewang Xu (徐德望)**, PhD student, Department of
   Astronomy at School of Physics, Peking University
-- 2018 — present, **Jiangwei (徐江伟)**, PhD student, Department of
+- 2018 — present, **Jiangwei Xu (徐江伟)**, PhD student, Department of
   Astronomy at School of Physics, Peking University
 
 <big>**Undergraduates**</big>
