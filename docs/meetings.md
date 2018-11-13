@@ -71,21 +71,21 @@ Chinese, but use English in slides.
 
 **Upcoming paper presenters**
 
-- Wenlong Li
-- Zhongpeng Sun
-- Xueli Miao
-- Zihang Wang
-- Zhongfu Zhang
-- Dewang Xu
-- Jiangwei Xu
-- Junjie Zhao
-- Yong Gao
-- Xueli Miao
-- Zihang Wang
-- Wenlong Li
-- Zhongpeng Sun
-- Zhongfu Zhang
-- Dewang Xu
-- Jiangwei Xu
+0. Wenlong Li
+0. Zhongpeng Sun
+0. Xueli Miao
+0. Zihang Wang
+0. Zhongfu Zhang
+0. Dewang Xu
+0. Jiangwei Xu
+0. Junjie Zhao
+0. Yong Gao
+0. Xueli Miao
+0. Zihang Wang
+0. Wenlong Li
+0. Zhongpeng Sun
+0. Zhongfu Zhang
+0. Dewang Xu
+0. Jiangwei Xu
 
 <p></p>
