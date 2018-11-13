@@ -75,9 +75,17 @@ Chinese, but use English in slides.
 - Zhongpeng Sun
 - Xueli Miao
 - Zihang Wang
+- Zhongfu Zhang
+- Dewang Xu
+- Jiangwei Xu
 - Junjie Zhao
 - Yong Gao
 - Xueli Miao
 - Zihang Wang
+- Wenlong Li
+- Zhongpeng Sun
+- Zhongfu Zhang
+- Dewang Xu
+- Jiangwei Xu
 
 <p></p>
