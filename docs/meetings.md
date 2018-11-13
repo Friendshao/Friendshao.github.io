@@ -59,8 +59,10 @@ Chinese, but use English in slides.
     A. Hook, J. Huang
 - Nov 20, **No Group Meeting**
 - Nov 27, **No Group Meeting**
-- Dec 4, **Junjie Zhao**
-  + <sub>...
+- Dec 4, **Junjie Zhao**,
+  [Statistics](http://pdg.lbl.gov/2018/reviews/rpp2018-rev-statistics.pdf) in
+*The Review of Particle Physics (2018)*
+  + <sub> *(Bayesian) Statistics*, by G. Cowan
 - Dec 11, **Yong Gao**, [arXiv:1804.08583](https://arxiv.org/abs/1804.08583)
   + <sub>*Tidal deformabilities and radii of neutron stars from the observation
     of GW170817*, by S. De *et al.*
