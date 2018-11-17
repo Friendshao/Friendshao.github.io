@@ -22,6 +22,9 @@ fixed to **Tuesdays 19:00—20:30**.
 0. Updates on projects (indefinite time; those who are not involved are free to
   leave)
 
+We have a Journal Club **Gravitational Astrophysics** on
+[benty-fields](https://benty-fields.com/). Everyone is free to join.
+
 <p></p>
 
 ---
