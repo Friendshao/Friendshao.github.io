@@ -2,7 +2,11 @@
 layout: default
 ---
 
-I serve as a referee for the following journals:
+<big><b>Serving as an Editor</b></big>
+
+- 2018—present, [Universe](http://www.mdpi.com/journal/universe)
+
+<big><b>Serving as a Referee</b></big>
 
 0. [Astrophysical Journal](http://iopscience.iop.org/journal/0004-637X) 
 0. [Astrophysical Journal Letters](http://iopscience.iop.org/journal/2041-8205) 
