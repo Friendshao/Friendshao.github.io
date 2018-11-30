@@ -74,11 +74,10 @@ Chinese, but use English in slides.
 
 **Upcoming paper presenters**
 
-0. Wenlong Li
-0. Zhongpeng Sun
+0. Wenlong Li & Zhongpeng Sun
+0. Zhongfu Zhang
 0. Xueli Miao
 0. Zihang Wang
-0. Zhongfu Zhang
 0. Dewang Xu
 0. Jiangwei Xu
 0. Junjie Zhao
