@@ -69,13 +69,15 @@ Chinese, but use English in slides.
 - Dec 11, **Yong Gao**, [arXiv:1804.08583](https://arxiv.org/abs/1804.08583)
   + <sub>*Tidal deformabilities and radii of neutron stars from the observation
     of GW170817*, by S. De *et al.*
+- Dec 18 (?), **Wenlong Li & Zhongpeng Sun**
+  + <sub>Rehearsal for bachelor-thesis defenses
+- Dec 25 (?), **Zhongfu Zhang**
+  + <sub>...
 
 <p></p>
 
 **Upcoming paper presenters**
 
-0. Wenlong Li & Zhongpeng Sun
-0. Zhongfu Zhang
 0. Xueli Miao
 0. Zihang Wang
 0. Dewang Xu
