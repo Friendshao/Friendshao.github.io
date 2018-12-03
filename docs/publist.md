@@ -11,6 +11,14 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
+   compact binary mergers observed by LIGO and Virgo during the first and
+second observing runs](https://arxiv.org/abs/1811.12907), arXiv:1811.12907
+
+0. B.P. Abbott, *et al.*,  [Binary black hole population properties inferred
+   from the first and second observing runs of Advanced LIGO and Advanced
+Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
+
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with
    GW170817](https://arxiv.org/abs/1811.00364), arXiv:1811.00364
 
