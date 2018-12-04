@@ -36,8 +36,6 @@ Since Oct 16, 2018, our group meetings take place in the **meeting room on the
 
 <big>**Graduates**</big>
 
-- 2017 — present, **George Lampropoulos**, master thesis, University of Bonn;
-  co-advised with Dr. Norbert Wex
 - 2018 — present, **Yong Gao (高勇)**, PhD student, Department of Astronomy at
   School of Physics, Peking University
 - 2018 — present, **Junjie Zhao (赵俊杰)**, PhD student, Institute for
@@ -69,10 +67,10 @@ Since Oct 16, 2018, our group meetings take place in the **meeting room on the
   Astronomy at School of Physics, Peking University
 
 
-<big>**Former Members with Theses/Projects**</big>
+<big>**Former Members**</big>
 
-- to come
+- to add
 
 <big>**Former Visitors**</big>
 
-- to come
+- to add
