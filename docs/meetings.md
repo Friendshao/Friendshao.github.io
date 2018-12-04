@@ -13,7 +13,7 @@ collaborations via inspiring discussions.
 
 Since October 16, 2018, our group meetings take place in the **meeting room on
 the 2nd floor at KIAA**. To avoid conflicts with students' classes, the time is
-fixed to **Tuesdays 19:00—20:30**.
+fixed to **Tuesdays 19:00—21:00**.
 
 **The Format**
 
@@ -35,7 +35,7 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 
 The presenter **MUST** inform the other group members the paper to be discussed
-at least three days in advance. It is **suggested** to use English whenever
+at least 5 days in advance. It is **suggested** to use English whenever
 there are foreigners in the audience. Otherwise it is **suggested** to talk in
 Chinese, but use English in slides.
 
@@ -71,8 +71,10 @@ Chinese, but use English in slides.
     of GW170817*, by S. De *et al.*
 - Dec 18 (?), **Wenlong Li & Zhongpeng Sun**
   + <sub>Rehearsal for bachelor-thesis defenses
-- Dec 25 (?), **Zhongfu Zhang**
-  + <sub>...
+- Dec 25 (?), **Zhongfu Zhang**,
+  [arXiv:0906.3752](https://arxiv.org/abs/0906.3752)
+  + <sub>*Ultra-high precision cosmology from gravitational waves*, by C.
+    Cutler, D.E. Holz
 
 <p></p>
 

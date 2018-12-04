@@ -15,7 +15,7 @@ a position when available. Please contact me!
 <big>[**Group Meetings**](https://friendshao.github.io/docs/meetings)</big>
 
 Since Oct 16, 2018, our group meetings take place in the **meeting room on the
-2nd floor at KIAA** on **Tuesdays 19:00—20:30**. All are welcome to attend!
+2nd floor at KIAA** on **Tuesdays 19:00—21:00**. All are welcome to attend!
 
 <p></p>
 
@@ -41,9 +41,11 @@ Since Oct 16, 2018, our group meetings take place in the **meeting room on the
 - 2018 — present, **Yong Gao (高勇)**, PhD student, Department of Astronomy at
   School of Physics, Peking University
 - 2018 — present, **Junjie Zhao (赵俊杰)**, PhD student, Institute for
-  Theoretical Physics at School of Physics, Peking University 
+  Theoretical Physics at School of Physics, Peking University; co-supervised
+  with Prof.Dr. Bo-Qiang Ma
 - 2018 — present, **Xueli Miao (缪雪丽)**, PhD student, Institute for
-  Theoretical Physics at School of Physics, Peking University 
+  Theoretical Physics at School of Physics, Peking University; co-supervised
+  with Prof.Dr. Bo-Qiang Ma
 - 2018 — present, **Zihang Wang (王子航)**, PhD student, Department of
   Astronomy at School of Physics, Peking University
 - 2018 — present, **Zhongfu Zhang (张中府)**, PhD student, Department of
@@ -67,3 +69,10 @@ Since Oct 16, 2018, our group meetings take place in the **meeting room on the
   Astronomy at School of Physics, Peking University
 
 
+<big>**Former Members with Theses/Projects**</big>
+
+- to come
+
+<big>**Former Visitors**</big>
+
+- to come
