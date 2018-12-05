@@ -69,12 +69,16 @@ Chinese, but use English in slides.
 - Dec 11, **Yong Gao**, [arXiv:1804.08583](https://arxiv.org/abs/1804.08583)
   + <sub>*Tidal deformabilities and radii of neutron stars from the observation
     of GW170817*, by S. De *et al.*
-- Dec 18 (?), **Wenlong Li & Zhongpeng Sun**
-  + <sub>Rehearsal for bachelor-thesis defenses
-- Dec 25 (?), **Zhongfu Zhang**,
+- Dec 18, **No Group Meeting**
+- Dec 25, **Zhongfu Zhang**,
   [arXiv:0906.3752](https://arxiv.org/abs/0906.3752)
   + <sub>*Ultra-high precision cosmology from gravitational waves*, by C.
     Cutler, D.E. Holz
+
+**2019**
+
+- Jan 1 (?), **Wenlong Li & Zhongpeng Sun**
+  + <sub>Rehearsal for bachelor-thesis defenses
 
 <p></p>
 
