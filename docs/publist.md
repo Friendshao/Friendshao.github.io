@@ -63,7 +63,7 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
 0. B.P. Abbott, *et al.*, 
    [Search for subsolar-mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
-   arXiv:1808.04771, *Phys. Rev. Lett.* 121 (2018) 231103
+   *Phys. Rev. Lett.* 121 (2018) 231103
 
 0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing velocity-dependent
    CPT-violating gravitational forces with radio
