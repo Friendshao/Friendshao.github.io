@@ -77,7 +77,7 @@ Chinese, but use English in slides.
 
 **2019**
 
-- Jan 8, **Wenlong Li & Zhongpeng Sun**
+- Jan 1 (?), **Wenlong Li & Zhongpeng Sun**
   + <sub>mid-term examination for bachelor theses
 
 <p></p>
