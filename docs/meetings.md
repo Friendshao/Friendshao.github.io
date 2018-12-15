@@ -74,11 +74,8 @@ Chinese, but use English in slides.
   [arXiv:0906.3752](https://arxiv.org/abs/0906.3752)
   + <sub>*Ultra-high precision cosmology from gravitational waves*, by C.
     Cutler, D.E. Holz
-
-**2019**
-
-- Jan 1 (?), **Wenlong Li & Zhongpeng Sun**
-  + <sub>mid-term examination for bachelor theses
+  + <sub>**Wenlong Li & Zhongpeng Sun**: rehearsal for the mid-term examination
+    of bachelor theses
 
 <p></p>
 

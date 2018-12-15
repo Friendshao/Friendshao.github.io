@@ -50,6 +50,7 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
 0. B.P. Abbott, *et al.*, 
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
+   *Phys. Rev. X* (accepted),
    arXiv:1805.11579
 
 0. A. De Rosa, P. Uttley, L. Gou, Y. Liu, *et al.*,
