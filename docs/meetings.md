@@ -41,6 +41,16 @@ Chinese, but use English in slides.
 
 <p></p>
 
+**2019**
+
+- TBD (?), **Xueli Miao**, [arXiv:1205.1450](https://arxiv.org/abs/1205.1450) 
+  + <sub>*The relativistic pulsar-white dwarf binary PSR J1738+0333 II. The
+    most stringent test of scalar-tensor gravity*, by P.C.C. Freire *et al.*
+- TBD (?), **Zihang Wang**
+  + <sub>...
+
+<p></p>
+
 **2018**
 
 - Oct 16, **Junjie Zhao**, [arXiv:1809.07673](https://arxiv.org/abs/1809.07673)
@@ -81,8 +91,6 @@ Chinese, but use English in slides.
 
 **Upcoming paper presenters**
 
-0. Xueli Miao
-0. Zihang Wang
 0. Dewang Xu
 0. Jiangwei Xu
 0. Junjie Zhao
