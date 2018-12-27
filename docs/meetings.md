@@ -28,13 +28,13 @@ fixed to **Tuesdays 19:00—21:00**.
 
 <br>
 
-<b>(*) Literature Readings (LR): </b>
+<b>(*) Literature Reading (LR): </b>
 
 Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper!
 
 <br>
 
-<b>(*) Paper Presentations (PP): </b>
+<b>(*) Paper Presentation (PP): </b>
 
 
 The presenter <b>MUST</b> inform the other group members the paper to be discussed
