@@ -15,12 +15,34 @@ Since October 16, 2018, our group meetings take place in the **meeting room on
 the 2nd floor at KIAA**. To avoid conflicts with students' classes, the time is
 fixed to **Tuesdays 19:00—21:00**.
 
-**The Format**
+<p style="border:3px; border-style:dashed; border-color:#AAAAAB; padding: 1em;">
+<font size="+1"><b>The Format</b></font>
 
-0. General news (less than 5 minutes)
-0. Paper presentation (about 1 hour)
-0. Updates on projects (indefinite time; those who are not involved are free to
-  leave)
+<br><br>
+
+1. General news (less than 5 minutes) <br>
+2. Literature reading (strictly limited to 10+5 minutes) <br>
+3. Paper presentation (about 1 hour) <br>
+4. Updates on projects (indefinite time; those who are not involved are free to
+  leave) <br>
+
+<br>
+
+<b>(*) Literature Readings (LR): </b>
+
+Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper!
+
+<br>
+
+<b>(*) Paper Presentations (PP): </b>
+
+
+The presenter <b>MUST</b> inform the other group members the paper to be discussed
+at least 5 days in advance. It is suggested to use English whenever
+there are foreigners in the audience. Otherwise it is suggested to talk in
+Chinese, but use English in slides.
+
+</p>
 
 We have a Journal Club **Gravitational Astrophysics** on
 [benty-fields](https://benty-fields.com/). Everyone is free to join.
@@ -31,25 +53,63 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 <p></p>
 
-<big>**Paper Presentations**</big>
-
-
-The presenter **MUST** inform the other group members the paper to be discussed
-at least 5 days in advance. It is **suggested** to use English whenever
-there are foreigners in the audience. Otherwise it is **suggested** to talk in
-Chinese, but use English in slides.
-
-<p></p>
-
 **2019**
 
-- TBD (?), **Xueli Miao**, [arXiv:1205.1450](https://arxiv.org/abs/1205.1450) 
-  + <sub>*The relativistic pulsar-white dwarf binary PSR J1738+0333 II. The
+- Feb 19, **Xueli Miao** (PP), [arXiv:1205.1450](https://arxiv.org/abs/1205.1450); **Junjie Zhao** (LR)
+  + <sub>(PP) *The relativistic pulsar-white dwarf binary PSR J1738+0333 II. The
     most stringent test of scalar-tensor gravity*, by P.C.C. Freire *et al.*
-- TBD (?), **Zihang Wang**
-  + <sub>...
+  + <sub>(LR) ...
+- Feb 26, **Zihang Wang** (PP); **Yong Gao** (LR)
+  + <sub>(PP) ...
+  + <sub>(LR) ...
+- Mar 5, **Dewang Xu** (PP); **Zhongfu Zhang** (LR)
+  + <sub>(PP) ...
+  + <sub>(LR) ...
+- Mar 12, **Jiangwei Xu** (PP); **Xueli Miao** (LR)
+  + <sub>(PP) ...
+  + <sub>(LR) ...
+
 
 <p></p>
+
+**Upcoming paper presenters (PP)**
+
+0. Chang Liu
+0. Junjie Zhao
+0. Yong Gao
+0. Xueli Miao
+0. Zihang Wang
+0. Wenlong Li
+0. Zhongpeng Sun
+0. Zhongfu Zhang
+0. Dewang Xu
+0. Jiangwei Xu
+
+<p></p>
+
+**Upcoming literature readers (LR)**
+
+0. Zihang Wang
+0. Dewang Xu
+0. Jiangwei Xu
+0. Chang Liu
+0. Junjie Zhao
+0. Yong Gao
+0. Xueli Miao
+0. Zihang Wang
+0. Wenlong Li
+0. Zhongpeng Sun
+0. Zhongfu Zhang
+0. Dewang Xu
+0. Jiangwei Xu
+
+<p></p>
+
+---
+
+<p></p>
+
+<big>**Archived**</big>
 
 **2018**
 
@@ -86,21 +146,5 @@ Chinese, but use English in slides.
     Cutler, D.E. Holz
   + <sub>**Wenlong Li & Zhongpeng Sun**: rehearsal for the mid-term examination
     of bachelor theses
-
-<p></p>
-
-**Upcoming paper presenters**
-
-0. Dewang Xu
-0. Jiangwei Xu
-0. Junjie Zhao
-0. Yong Gao
-0. Xueli Miao
-0. Zihang Wang
-0. Wenlong Li
-0. Zhongpeng Sun
-0. Zhongfu Zhang
-0. Dewang Xu
-0. Jiangwei Xu
 
 <p></p>
