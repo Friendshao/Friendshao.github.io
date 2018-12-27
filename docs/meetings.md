@@ -11,11 +11,15 @@ in science, to learn different methods in solving problems, to strengthen the
 capability in scientifically sound presentations, even to develop close
 collaborations via inspiring discussions.
 
-Since October 16, 2018, our group meetings take place in the **meeting room on
-the 2nd floor at KIAA**. To avoid conflicts with students' classes, the time is
-fixed to **Tuesdays 19:00—21:00**.
 
 <p style="border:3px; border-style:dashed; border-color:#AAAAAB; padding: 1em;">
+
+Since October 16, 2018, our group meetings take place in the <b>meeting room on
+the 2nd floor at KIAA</b>. To avoid conflicts with students' classes, the time is
+fixed to <b>Tuesdays 19:00—21:00</b>.
+
+<br><br>
+
 <font size="+1"><b>The Format</b></font>
 
 <br><br>
