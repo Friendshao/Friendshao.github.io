@@ -11,6 +11,8 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. B.P. Abbott, *et al.*,  [Searches for continuous gravitational waves from fifteen supernova remnants and Fomalhaut b with Advanced LIGO](https://arxiv.org/abs/1812.11656), arXiv:1812.11656
+
 0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
    compact binary mergers observed by LIGO and Virgo during the first and
 second observing runs](https://arxiv.org/abs/1811.12907), arXiv:1811.12907
