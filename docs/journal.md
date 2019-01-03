@@ -20,6 +20,7 @@ layout: default
 0. [Galaxies](https://www.mdpi.com/journal/galaxies)
 0. [General Relativity and Gravitation](http://www.springer.com/journal/10714)
 0. [International Journal of Modern Physics D](http://www.worldscientific.com/worldscinet/ijmpd)
+0. [Modern Physics Letters A](https://www.worldscientific.com/worldscinet/mpla)
 0. [New Astronomy](https://www.journals.elsevier.com/new-astronomy/)
 0. [Physical Review D](https://journals.aps.org/prd/)
 0. [Physical Review Letters](https://journals.aps.org/prl/)
