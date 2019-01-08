@@ -11,6 +11,11 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. M. Soares-Santos, *et al.*, [First measurement of the Hubble constant from a
+   dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo
+binary-black-hole merger GW170814](https://arxiv.org/abs/1901.01540),
+arXiv:1901.01540
+
 0. B.P. Abbott, *et al.*,  [Searches for continuous gravitational waves from fifteen supernova remnants and Fomalhaut b with Advanced LIGO](https://arxiv.org/abs/1812.11656), arXiv:1812.11656
 
 0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
