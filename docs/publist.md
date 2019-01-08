@@ -32,11 +32,6 @@ Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
 0. A. Albert, *et al.*, 
    [Search for multi-messenger sources of gravitational waves and high-energy neutrinos with Advanced LIGO during its first observing run, ANTARES and IceCube](https://arxiv.org/abs/1810.10693), arXiv:1810.10693
 
-0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
-   M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
-[Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
-arXiv:1810.06623
-
 0. E. Burns, A. Goldstein, C.M. Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor
    search for electromagnetic signals coincident with gravitational-wave
 candidates in Advanced LIGO’s first observing
@@ -67,6 +62,11 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
    with eXTP](https://arxiv.org/abs/1812.04023),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
+
+0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
+   M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
+[Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
+in *Science with a Next Generation Very Large Array* (ASP Conference Series, San Francisco, 2018), p.793
 
 0. B.P. Abbott, *et al.*, 
    [Search for subsolar-mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
