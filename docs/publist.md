@@ -11,6 +11,9 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+
+0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for multi-messenger astronomy during the second Advanced LIGO and Virgo observing run](https://arxiv.org/abs/1901.03310), arXiv:1901.03310
+
 0. M. Soares-Santos, *et al.*, [First measurement of the Hubble constant from a
    dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo
 binary-black-hole merger GW170814](https://arxiv.org/abs/1901.01540),
