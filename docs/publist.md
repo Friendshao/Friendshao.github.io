@@ -32,8 +32,6 @@ Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with
    GW170817](https://arxiv.org/abs/1811.00364), arXiv:1811.00364
 
-0. A. Albert, *et al.*, 
-   [Search for multi-messenger sources of gravitational waves and high-energy neutrinos with Advanced LIGO during its first observing run, ANTARES and IceCube](https://arxiv.org/abs/1810.10693), arXiv:1810.10693
 
 0. E. Burns, A. Goldstein, C.M. Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor
    search for electromagnetic signals coincident with gravitational-wave
@@ -52,6 +50,10 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
 0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
    with GW170817](https://arxiv.org/abs/1808.08676), arXiv:1808.08676
+
+0. A. Albert, *et al.*, 
+   [Search for multimessenger sources of gravitational waves and high-energy neutrinos with Advanced LIGO during its first observing run, ANTARES and IceCube](https://arxiv.org/abs/1810.10693), 
+   *Astrophys. J.* 870 (2019) 134
 
 0. B.P. Abbott, *et al.*, 
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
