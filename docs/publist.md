@@ -12,6 +12,10 @@ layout: default
 <big><big>**Academic Papers**</big></big>
 
 
+0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
+   equation of state and modified gravity with neutron
+   stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
+
 0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for multi-messenger astronomy during the second Advanced LIGO and Virgo observing run](https://arxiv.org/abs/1901.03310), arXiv:1901.03310
 
 0. M. Soares-Santos, *et al.*, [First measurement of the Hubble constant from a
@@ -49,7 +53,8 @@ Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
 0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
-   with GW170817](https://arxiv.org/abs/1808.08676), arXiv:1808.08676
+   with GW170817](https://arxiv.org/abs/1808.08676), 
+*Phys. Rev. Lett.* (accepted), arXiv:1808.08676
 
 0. A. Albert, *et al.*, 
    [Search for multimessenger sources of gravitational waves and high-energy neutrinos with Advanced LIGO during its first observing run, ANTARES and IceCube](https://arxiv.org/abs/1810.10693), 
