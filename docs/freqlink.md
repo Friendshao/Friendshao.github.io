@@ -23,6 +23,13 @@ layout: default
 
 **Tools**
 
+- [Rambler](https://r0.ru/), 
+  [Bird](http://bird.so/),
+  [Yahoo](https://sg.search.yahoo.com),
+  [Mezw](https://so.mezw.com/),
+  [avira](https://search.avira.com/),
+  [ecosia](http://www.ecosia.org/),
+  [DuckDuckGo](https://duckduckgo.com/)
 - [Calendar](https://calendar.google.com/calendar/r),
   [Onenote](https://www.onenote.com/),
   [Google](http://www.google.com/ncr)
