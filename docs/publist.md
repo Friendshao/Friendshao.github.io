@@ -36,12 +36,6 @@ Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with
    GW170817](https://arxiv.org/abs/1811.00364), arXiv:1811.00364
 
-
-0. E. Burns, A. Goldstein, C.M. Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor
-   search for electromagnetic signals coincident with gravitational-wave
-candidates in Advanced LIGO’s first observing
-run](https://arxiv.org/abs/1810.02764), arXiv:1810.02764
-
 0. <sup>&#9733;</sup> P. Bull, S. Camera, K. Kelley, H. Padmanabhan, J.
    Pritchard, A. Raccanelli, S. Riemer-Sørensen, **L. Shao**, *et al.*,
 [Fundamental physics with the Square Kilometre
@@ -55,6 +49,11 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
    with GW170817](https://arxiv.org/abs/1808.08676), 
 *Phys. Rev. Lett.* (accepted), arXiv:1808.08676
+
+0. E. Burns, A. Goldstein, C.M. Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor
+   search for electromagnetic signals coincident with gravitational-wave
+candidates in Advanced LIGO’s first observing
+run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 
 0. A. Albert, *et al.*, 
    [Search for multimessenger sources of gravitational waves and high-energy neutrinos with Advanced LIGO during its first observing run, ANTARES and IceCube](https://arxiv.org/abs/1810.10693), 
