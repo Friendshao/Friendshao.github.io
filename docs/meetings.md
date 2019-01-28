@@ -65,14 +65,26 @@ We have a Journal Club **Gravitational Astrophysics** on
     most stringent test of scalar-tensor gravity*, by P.C.C. Freire *et al.*
   + <sub>(LR) *A two-solar-mass neutron star measured using Shapiro delay*, by
     P.B. Demorest *et al.*
-- Feb 26, **Zihang Wang** (PP); **Yong Gao** (LR)
+- Feb 26, **Zihang Wang** (PP); **Yong Gao** (LR),
+  [arXiv:astro-ph/9605140](https://arxiv.org/abs/astro-ph/9605140)
   + <sub>(PP) ...
-  + <sub>(LR) ...
+  + <sub>(LR) *Gravitational lensing of gravitational waves from merging neutron star binaries*, by Y. Wang, A. Stebbins, E.L. Turner
 - Mar 5, **Dewang Xu** (PP); **Zhongfu Zhang** (LR)
   + <sub>(PP) ...
   + <sub>(LR) ...
 - Mar 12, **Jiangwei Xu** (PP); **Xueli Miao** (LR)
   + <sub>(PP) ...
+  + <sub>(LR) ...
+- Mar 19, **Chang Liu** (PP); **Zihang Wang** (LR)
+  + <sub>(PP) ...
+  + <sub>(LR) ...
+- Mar 26, **Junjie Zhao** (PP); **Dewang Xu** (LR)
+  + <sub>(PP) ...
+  + <sub>(LR) ...
+- Apr 2, **Yong Gao** (PP),
+  [ApJ 150:1005, 1967](http://adsabs.harvard.edu/abs/1967ApJ...150.1005H); **Jiangwei Xu** (LR)
+  + <sub>(PP) *Slowly rotating relativistic stars. I. Equations of structure*,
+    by J.B. Hartle
   + <sub>(LR) ...
 
 
@@ -80,9 +92,6 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 **Upcoming paper presenters (PP)**
 
-0. Chang Liu
-0. Junjie Zhao
-0. Yong Gao
 0. Xueli Miao
 0. Zihang Wang
 0. Wenlong Li
@@ -95,9 +104,6 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 **Upcoming literature readers (LR)**
 
-0. Zihang Wang
-0. Dewang Xu
-0. Jiangwei Xu
 0. Chang Liu
 0. Junjie Zhao
 0. Yong Gao
