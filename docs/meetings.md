@@ -24,11 +24,10 @@ fixed to <b>Tuesdays 19:00—21:00</b>.
 
 <br><br>
 
-1. General news (less than 5 minutes) <br>
-2. Literature reading (strictly limited to 10+5 minutes) <br>
-3. Paper presentation (about 1 hour) <br>
-4. Updates on projects (indefinite time; those who are not involved are free to
-  leave) <br>
+1. <font color='blue'>General news</font> (less than 5 minutes) <br>
+2. <font color='blue'>Literature reading</font> (strictly limited to 10+5 minutes) <br>
+3. <font color='blue'>Paper presentation</font> (about 1 hour) <br>
+4. <font color='blue'>Updates on projects</font> (indefinite time; those who are not involved are free to leave) <br>
 
 <br>
 
