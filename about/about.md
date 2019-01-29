@@ -27,7 +27,7 @@ Bonn, Germany.
 
 ---
 
-### Research Interests <small><small>([Group Members](https://friendshao.github.io/docs/people))</small></small>
+### Research Interests <small><small>([Research Group](https://friendshao.github.io/docs/people))</small></small>
 
 - Tests of gravity theories
 - Gravitational waves

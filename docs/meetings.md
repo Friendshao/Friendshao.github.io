@@ -159,4 +159,9 @@ We have a Journal Club **Gravitational Astrophysics** on
   + <sub>**Wenlong Li & Zhongpeng Sun**: rehearsal for the mid-term examination
     of bachelor theses
 
+<figure>
+<img src="img/group_meeting_Dec25_2018.jpeg" style="width:85%">
+<figcaption><font color="grey"><b>Group meeting on December 25, 2018.</b></font></figcaption>
+</figure>
+
 <p></p>
