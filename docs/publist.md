@@ -11,6 +11,7 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. B.P. Abbott, *et al.*,  [Search for transient gravitational wave signals associated with magnetar bursts during Advanced LIGO's second observing run](https://arxiv.org/abs/1902.01557), arXiv:1902.01557
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron

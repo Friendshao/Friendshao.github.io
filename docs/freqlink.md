@@ -34,6 +34,7 @@ layout: default
   [Onenote](https://www.onenote.com/),
   [Google](http://www.google.com/ncr)
   ([Calendar](https://calendar.google.com/calendar/r/month),
+  [keep](https://keep.google.com/),
   [maps](https://www.google.com/maps),
   [translate](https://translate.google.com/))
 - [Bing](https://www.bing.com/),
