@@ -14,9 +14,9 @@ collaborations via inspiring discussions.
 
 <p style="border:3px; border-style:dashed; border-color:#AAAAAB; padding: 1em;">
 
-Since October 16, 2018, our group meetings take place in the <b>meeting room on
-the 2nd floor at KIAA</b>. To avoid conflicts with students' classes, the time is
-fixed to <b>Tuesdays 19:00—21:00</b>.
+Our group meetings take place in the <b>meeting room on the 2nd floor at
+KIAA</b>. To avoid conflicts with students' classes, the time is fixed to
+<b>Saturday 9:00—11:00</b>.
 
 <br><br>
 
@@ -58,30 +58,30 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 **2019**
 
-- Feb 19, **Xueli Miao** (PP), [arXiv:1205.1450](https://arxiv.org/abs/1205.1450); 
+- Feb 23, **Xueli Miao** (PP), [arXiv:1205.1450](https://arxiv.org/abs/1205.1450); 
           **Junjie Zhao** (LR), [arXiv:1010.5788](https://arxiv.org/abs/1010.5788)
   + <sub>(PP) *The relativistic pulsar-white dwarf binary PSR J1738+0333 II. The
     most stringent test of scalar-tensor gravity*, by P.C.C. Freire *et al.*
   + <sub>(LR) *A two-solar-mass neutron star measured using Shapiro delay*, by
     P.B. Demorest *et al.*
-- Feb 26, **Zihang Wang** (PP); **Yong Gao** (LR),
+- Mar 2, **Zihang Wang** (PP); **Yong Gao** (LR),
   [arXiv:astro-ph/9605140](https://arxiv.org/abs/astro-ph/9605140)
   + <sub>(PP) ...
   + <sub>(LR) *Gravitational lensing of gravitational waves from merging neutron star binaries*, by Y. Wang, A. Stebbins, E.L. Turner
-- Mar 5, **Dewang Xu** (PP); **Zhongfu Zhang** (LR),
+- Mar 9, **Dewang Xu** (PP); **Zhongfu Zhang** (LR),
   [arXiv:1901.06623](https://arxiv.org/abs/1901.06623)
   + <sub>(PP) ...
   + <sub>(LR) *John Archibald Wheeler: A biographical memoir*, by K.S. Thorne
-- Mar 12, **Jiangwei Xu** (PP); **Xueli Miao** (LR)
+- Mar 16, **Jiangwei Xu** (PP); **Xueli Miao** (LR)
   + <sub>(PP) ...
   + <sub>(LR) ...
-- Mar 19, **Chang Liu** (PP); **Zihang Wang** (LR)
+- Mar 23, **Chang Liu** (PP); **Zihang Wang** (LR)
   + <sub>(PP) ...
   + <sub>(LR) ...
-- Mar 26, **Junjie Zhao** (PP); **Dewang Xu** (LR)
+- Mar 30, **Junjie Zhao** (PP); **Dewang Xu** (LR)
   + <sub>(PP) ...
   + <sub>(LR) ...
-- Apr 2, **Yong Gao** (PP),
+- Apr 6, **Yong Gao** (PP),
   [1967ApJ...150.1005H](http://adsabs.harvard.edu/abs/1967ApJ...150.1005H); **Jiangwei Xu** (LR)
   + <sub>(PP) *Slowly rotating relativistic stars. I. Equations of structure*,
     by J.B. Hartle
