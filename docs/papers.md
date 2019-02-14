@@ -40,6 +40,14 @@ layout: default
   formula](http://adsabs.harvard.edu/abs/1986AIHS...44..263D), *Ann. Inst.
   Henri Poincaré Phys. Théor.* 44:263
 
+- **Damour 1987**, [The problem of motion in Newtonian and Einsteinian
+  gravity](http://adsabs.harvard.edu/abs/1987thyg.book..128D), in *Three
+Hundred Years of Gravitation* (eds. Hawking & Israel), p. 128
+
+- **Thorne 1987**, [Gravitational
+  radiation](http://adsabs.harvard.edu/abs/1987thyg.book..330T), in *Three
+Hundred Years of Gravitation* (eds. Hawking & Israel), p. 330
+
 - **Damour & Schäfer 1991**, [New tests of the strong equivalence principle
   using binary pulsar
   data](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.66.2549),

@@ -53,7 +53,7 @@ GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
 
 0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
    with GW170817](https://arxiv.org/abs/1808.08676), 
-*Phys. Rev. Lett.* (accepted), arXiv:1808.08676
+*Phys. Rev. Lett.* 122 (2019) 061104
 
 0. E. Burns, A. Goldstein, C.M. Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor
    search for electromagnetic signals coincident with gravitational-wave
