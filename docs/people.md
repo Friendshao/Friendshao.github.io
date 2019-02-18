@@ -14,8 +14,8 @@ a position when available. Please contact me!
 
 <big>[**Group Meetings**](https://friendshao.github.io/docs/meetings)</big>
 
-Our group meetings take place in the **meeting room on the 2nd floor at KIAA**
-on **Saturday 9:00—11:00**. All are welcome to attend!
+Our group meetings take place in **Room 208 at KIAA** on **Saturday
+9:00—11:00**. All are welcome to attend!
 
 <p></p>
 

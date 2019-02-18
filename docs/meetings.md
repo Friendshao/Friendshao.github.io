@@ -14,9 +14,9 @@ collaborations via inspiring discussions.
 
 <p style="border:3px; border-style:dashed; border-color:#AAAAAB; padding: 1em;">
 
-Our group meetings take place in the <b>meeting room on the 2nd floor at
-KIAA</b>. To avoid conflicts with students' classes, the time is fixed to
-<b>Saturday 9:00—11:00</b>.
+Our group meetings take place in the <b>Room 208 at KIAA</b>. To avoid
+conflicts with students' classes, the time is fixed to <b>Saturday
+9:00—11:00</b>.
 
 <br><br>
 
