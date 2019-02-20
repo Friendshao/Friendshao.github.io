@@ -21,7 +21,7 @@ of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
    equation of state and modified gravity with neutron
    stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
 
-0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for multi-messenger astronomy during the second Advanced LIGO and Virgo observing run](https://arxiv.org/abs/1901.03310), arXiv:1901.03310
+0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for multi-messenger astronomy during the second Advanced LIGO and Virgo observing run](https://arxiv.org/abs/1901.03310), *Astrophys. J.* (accepted), arXiv:1901.03310
 
 0. M. Soares-Santos, *et al.*, [First measurement of the Hubble constant from a
    dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo

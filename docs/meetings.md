@@ -64,9 +64,11 @@ We have a Journal Club **Gravitational Astrophysics** on
     most stringent test of scalar-tensor gravity*, by P.C.C. Freire *et al.*
   + <sub>(LR) *A two-solar-mass neutron star measured using Shapiro delay*, by
     P.B. Demorest *et al.*
-- Mar 2, **Zihang Wang** (PP); **Yong Gao** (LR),
+- Mar 2, **Zihang Wang** (PP),
+  [arXiv:1412.5930](https://arxiv.org/abs/1412.5930); **Yong Gao** (LR),
   [arXiv:astro-ph/9605140](https://arxiv.org/abs/astro-ph/9605140)
-  + <sub>(PP) ...
+  + <sub>(PP) *Do dark matter axions form a condensate with long-range
+    correlation?*, by A.H. Guth, M.P. Hertzberg, C. Prescod-Weinstein
   + <sub>(LR) *Gravitational lensing of gravitational waves from merging neutron star binaries*, by Y. Wang, A. Stebbins, E.L. Turner
 - Mar 9, **Dewang Xu** (PP); **Zhongfu Zhang** (LR),
   [arXiv:1901.06623](https://arxiv.org/abs/1901.06623)
