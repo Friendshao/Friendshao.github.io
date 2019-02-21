@@ -33,12 +33,12 @@ Our group meetings take place in **Room 208 at KIAA** on **Saturday
 <big>**Faculty**</big>
 
 
-- 2018 — present, **Lijing Shao
-  (邵立晶)**
+- 2018 — present, **Lijing Shao (邵立晶)**, Researcher / Assistant Professor,
+  Kavli Institute for Astronomy and Astrophysics, Peking University
 
 <big>**Postdoctoral**</big>
 
-- More to come
+- to add
 
 <big>**Graduates**</big>
 
