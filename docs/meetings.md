@@ -99,30 +99,23 @@ McLaughlin, D.R. Lorimer
 
 <p></p>
 
-**Upcoming paper presenters (PP)**
 
-0. Xueli Miao
-0. Zihang Wang
-0. Wenlong Li
-0. Zhongpeng Sun
-0. Zhongfu Zhang
-0. Dewang Xu
-0. Jiangwei Xu
+**&#9733; Upcoming Paper Presenters (PP) & Literature Readers (LR)**
 
-<p></p>
+---
 
-**Upcoming literature readers (LR)**
-
-0. Chang Liu
-0. Junjie Zhao
-0. Yong Gao
-0. Xueli Miao
-0. Zihang Wang
-0. Wenlong Li
-0. Zhongpeng Sun
-0. Zhongfu Zhang
-0. Dewang Xu
-0. Jiangwei Xu
+| Paper Presenters (PP) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Literature Readers (LR) |
+| --- | --- | ---:|
+| Xueli Miao | | Chang Liu |
+| Zihang Wang | | Junjie Zhao |
+| Wenlong Li | | Yong Gao |
+| Zhongpeng Sun | | Xueli Miao |
+| Zhongfu Zhang | | Zihang Wang |
+| Dewang Xu | | Wenlong Li |
+| Jiangwei Xu | | Zhongpeng Sun |
+| -- | | Zhongfu Zhang |
+| -- | | Dewang Xu |
+| -- | | Jiangwei Xu |
 
 <p></p>
 
