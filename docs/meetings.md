@@ -77,9 +77,11 @@ We have a Journal Club **Gravitational Astrophysics** on
     The Galactic double neutron star merger rate revisited*, by N. Pol, M.
 McLaughlin, D.R. Lorimer
   + <sub>(LR) *John Archibald Wheeler: A biographical memoir*, by K.S. Thorne
-- Mar 16, **Jiangwei Xu** (PP); **Xueli Miao** (LR),
+- Mar 16, **Jiangwei Xu** (PP),
+  [arXiv:1811.08931](https://arxiv.org/abs/1811.08931); **Xueli Miao** (LR),
   [arXiv:1801.07840](https://arxiv.org/abs/1801.07840)
-  + <sub>(PP) ...
+  + <sub>(PP) *Observing the post-merger signal of GW170817-like events with
+    improved gravitational-wave detectors*, by A. Torres-Rivas *et al.*
   + <sub>(LR) *Discovering intermediate-mass black hole lenses through
     gravitational wave lensing*, by K.-H. Lai *et al.*
 - Mar 23, **Chang Liu** (PP); **Zihang Wang** (LR)
