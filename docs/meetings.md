@@ -70,13 +70,18 @@ We have a Journal Club **Gravitational Astrophysics** on
   + <sub>(PP) *Do dark matter axions form a condensate with long-range
     correlation?*, by A.H. Guth, M.P. Hertzberg, C. Prescod-Weinstein
   + <sub>(LR) *Gravitational lensing of gravitational waves from merging neutron star binaries*, by Y. Wang, A. Stebbins, E.L. Turner
-- Mar 9, **Dewang Xu** (PP); **Zhongfu Zhang** (LR),
+- Mar 9, **Dewang Xu** (PP),
+  [arXiv:1811.04086](https://arxiv.org/abs/1811.04086); **Zhongfu Zhang** (LR),
   [arXiv:1901.06623](https://arxiv.org/abs/1901.06623)
-  + <sub>(PP) ...
+  + <sub>(PP) *Future prospects for ground-based gravitational wave detectors −
+    The Galactic double neutron star merger rate revisited*, by N. Pol, M.
+McLaughlin, D.R. Lorimer
   + <sub>(LR) *John Archibald Wheeler: A biographical memoir*, by K.S. Thorne
-- Mar 16, **Jiangwei Xu** (PP); **Xueli Miao** (LR)
+- Mar 16, **Jiangwei Xu** (PP); **Xueli Miao** (LR),
+  [arXiv:1801.07840](https://arxiv.org/abs/1801.07840)
   + <sub>(PP) ...
-  + <sub>(LR) ...
+  + <sub>(LR) *Discovering intermediate-mass black hole lenses through
+    gravitational wave lensing*, by K.-H. Lai *et al.*
 - Mar 23, **Chang Liu** (PP); **Zihang Wang** (LR)
   + <sub>(PP) ...
   + <sub>(LR) ...
