@@ -2,6 +2,24 @@
 layout: default
 ---
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+</style>
+
 
 <big>**About Group Meetings**</big>
 
@@ -9,43 +27,20 @@ Group meeting provides a friendly environment to interact with other group
 members or visiting scholars.  It also brings the opportunity to broaden views
 in science, to learn different methods in solving problems, to strengthen the
 capability in scientifically sound presentations, even to develop close
-collaborations via inspiring discussions.
-
-
-<p style="border:3px; border-style:dashed; border-color:#AAAAAB; padding: 1em;">
+collaborations via inspiring discussions. 
 
 Our group meetings take place in the <b>Room 208 at KIAA</b>. To avoid
 conflicts with students' classes, the time is fixed to <b>Saturday
-9:00—11:00</b>.
+9:00—11:00</b>. It is suggested to use English whenever there are foreigners in the audience. Otherwise it is suggested to talk in Chinese, but use English in slides.
 
-<br><br>
+| <big>Format | Duration | Note |
+| --- | --- | --- |
+| **General news** | about 5 minutes |
+| **Literature reading** | restricted to 15 minutes | <small>Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper! |
+| **Paper presentation** | about 1 hour | <small>The presenter <b>MUST</b> inform the other group members the paper to be discussed at least 5 days in advance. |
+| **Updates on projects** | indefinite time | <small>Those who are not involved are free to leave. |
 
-<font size="+1"><b>The Format</b></font>
-
-<br><br>
-
-1. <font color='blue'>General news</font> (less than 5 minutes) <br>
-2. <font color='blue'>Literature reading</font> (strictly limited to 10+5 minutes) <br>
-3. <font color='blue'>Paper presentation</font> (about 1 hour) <br>
-4. <font color='blue'>Updates on projects</font> (indefinite time; those who are not involved are free to leave) <br>
-
-<br>
-
-<b>(*) Literature Reading (LR): </b>
-
-Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper!
-
-<br>
-
-<b>(*) Paper Presentation (PP): </b>
-
-
-The presenter <b>MUST</b> inform the other group members the paper to be discussed
-at least 5 days in advance. It is suggested to use English whenever
-there are foreigners in the audience. Otherwise it is suggested to talk in
-Chinese, but use English in slides.
-
-</p>
+<p></p>
 
 We have a Journal Club **Gravitational Astrophysics** on
 [benty-fields](https://benty-fields.com/). Everyone is free to join.
@@ -58,66 +53,39 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 **2019**
 
-- Feb 23, **Xueli Miao** (PP), [arXiv:1205.1450](https://arxiv.org/abs/1205.1450); 
-          **Junjie Zhao** (LR), [arXiv:1010.5788](https://arxiv.org/abs/1010.5788)
-  + <sub>(PP) *The relativistic pulsar-white dwarf binary PSR J1738+0333 II. The
-    most stringent test of scalar-tensor gravity*, by P.C.C. Freire *et al.*
-  + <sub>(LR) *A two-solar-mass neutron star measured using Shapiro delay*, by
-    P.B. Demorest *et al.*
-- Mar 2, **Zihang Wang** (PP),
-  [arXiv:1412.5930](https://arxiv.org/abs/1412.5930); **Yong Gao** (LR),
-  [arXiv:astro-ph/9605140](https://arxiv.org/abs/astro-ph/9605140)
-  + <sub>(PP) *Do dark matter axions form a condensate with long-range
-    correlation?*, by A.H. Guth, M.P. Hertzberg, C. Prescod-Weinstein
-  + <sub>(LR) *Gravitational lensing of gravitational waves from merging neutron star binaries*, by Y. Wang, A. Stebbins, E.L. Turner
-- Mar 9, **Dewang Xu** (PP),
-  [arXiv:1811.04086](https://arxiv.org/abs/1811.04086); **Zhongfu Zhang** (LR),
-  [arXiv:1901.06623](https://arxiv.org/abs/1901.06623)
-  + <sub>(PP) *Future prospects for ground-based gravitational wave detectors −
-    The Galactic double neutron star merger rate revisited*, by N. Pol, M.
-McLaughlin, D.R. Lorimer
-  + <sub>(LR) *John Archibald Wheeler: A biographical memoir*, by K.S. Thorne
-- Mar 16, **Jiangwei Xu** (PP),
-  [arXiv:1811.08931](https://arxiv.org/abs/1811.08931); **Xueli Miao** (LR),
-  [arXiv:1801.07840](https://arxiv.org/abs/1801.07840)
-  + <sub>(PP) *Observing the post-merger signal of GW170817-like events with
-    improved gravitational-wave detectors*, by A. Torres-Rivas *et al.*
-  + <sub>(LR) *Discovering intermediate-mass black hole lenses through
-    gravitational wave lensing*, by K.-H. Lai *et al.*
-- Mar 23, **Chang Liu** (PP); **Zihang Wang** (LR)
-  + <sub>(PP) ...
-  + <sub>(LR) ...
-- Mar 30, **Junjie Zhao** (PP); **Dewang Xu** (LR)
-  + <sub>(PP) ...
-  + <sub>(LR) ...
-- Apr 6, **Yong Gao** (PP),
-  [1967ApJ...150.1005H](http://adsabs.harvard.edu/abs/1967ApJ...150.1005H); **Jiangwei Xu** (LR)
-  + <sub>(PP) *Slowly rotating relativistic stars. I. Equations of structure*,
-    by J.B. Hartle
-  + <sub>(LR) ...
+|  | Paper Presenter |  | Literature Reader | |
+| --- | --- | --- | --- |
+| 02/23 | **Xueli Miao** | [arXiv:1205.1450](https://arxiv.org/abs/1205.1450) | **Junjie Zhao** | [arXiv:1010.5788](https://arxiv.org/abs/1010.5788) |
+|| <small><small>The relativistic pulsar-white dwarf binary PSR J1738+0333 II. The most stringent test of scalar-tensor gravity  | <small><small>P.C.C. Freire *et al.* | <small><small>A two-solar-mass neutron star measured using Shapiro delay | <small><small>P.B. Demorest *et al.* |
+| 03/02 | **Zihang Wang** | [arXiv:1412.5930](https://arxiv.org/abs/1412.5930) | **Yong Gao** | [arXiv:astro-ph/9605140](https://arxiv.org/abs/astro-ph/9605140) |
+| | <small><small>Do dark matter axions form a condensate with long-range correlation? | <small><small>A.H. Guth, M.P. Hertzberg, C. Prescod-Weinstein | <small><small>Gravitational lensing of gravitational waves from merging neutron star binaries | <small><small>Y. Wang, A. Stebbins, E.L. Turner |
+| 03/09 | **Dewang Xu** | [arXiv:1811.04086](https://arxiv.org/abs/1811.04086) | **Zhongfu Zhang** | [arXiv:1901.06623](https://arxiv.org/abs/1901.06623) |
+| | <small><small>Future prospects for ground-based gravitational wave detectors − The Galactic double neutron star merger rate revisited | <small><small>N. Pol, M. McLaughlin, D.R. Lorimer | <small><small>John Archibald Wheeler: A biographical memoir | <small><small>K.S. Thorne |
+| 03/16 | **Jiangwei Xu** | [arXiv:1811.08931](https://arxiv.org/abs/1811.08931) | **Xueli Miao** | [arXiv:1801.07840](https://arxiv.org/abs/1801.07840) |
+| | <small><small>Observing the post-merger signal of GW170817-like events with improved gravitational-wave detectors | <small><small>A. Torres-Rivas *et al.* | <small><small>Discovering intermediate-mass black hole lenses through gravitational wave lensing | <small><small>K.-H. Lai *et al.* |
+| 03/23 | **Chang Liu** | ... | **Zihang Wang** | ... |
+| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
+| 03/30 | **Junjie Zhao** | ... | **Dewang Xu** | ... |
+| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
+| 04/06 | **Yong Gao** | [1967ApJ...150.1005H](http://adsabs.harvard.edu/abs/1967ApJ...150.1005H) | **Jiangwei Xu** | ... |
+| | <small><small>Slowly rotating relativistic stars. I. Equations of structure | <small><small>J.B. Hartle | <small><small>... | <small><small>... |
 
+<br>
 
-<p></p>
-
-
-**&#9733; Upcoming Paper Presenters (PP) & Literature Readers (LR)**
-
----
-
-| Paper Presenters (PP) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Literature Readers (LR) |
-| --- | --- | ---:|
-| Xueli Miao | | Chang Liu |
-| Zihang Wang | | Junjie Zhao |
-| Wenlong Li | | Yong Gao |
-| Zhongpeng Sun | | Xueli Miao |
-| Zhongfu Zhang | | Zihang Wang |
-| Dewang Xu | | Wenlong Li |
-| Jiangwei Xu | | Zhongpeng Sun |
-| Rui Xu | | Zhongfu Zhang |
-| Fan Hu | | Dewang Xu |
-| -- | | Jiangwei Xu |
-| -- | | Rui Xu |
-| -- | | Fan Hu |
+| Upcoming Paper Presenter | Upcoming Literature Reader |
+| --- | --- |
+| Xueli Miao | Chang Liu |
+| Zihang Wang | Junjie Zhao |
+| Wenlong Li | Yong Gao |
+| Zhongpeng Sun | Xueli Miao |
+| Zhongfu Zhang | Zihang Wang |
+| Dewang Xu | Wenlong Li |
+| Jiangwei Xu | Zhongpeng Sun |
+| Rui Xu | Zhongfu Zhang |
+| Fan Hu | Dewang Xu |
+| -- | Jiangwei Xu |
+| -- | Rui Xu |
+| -- | Fan Hu |
 
 <p></p>
 

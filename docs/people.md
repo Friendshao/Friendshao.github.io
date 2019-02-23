@@ -2,6 +2,24 @@
 layout: default
 ---
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+</style>
+
 <big>**Welcome to Join our Research**</big>
 
 I am interested in supervising **senior undergraduates**, and **graduates at
@@ -26,61 +44,31 @@ Our group meetings take place in **Room 208 at KIAA** on **Saturday
 
 ---
 
-
 <p></p>
 
+<big>**Current Members**</big>
 
-<big>**Faculty**</big>
-
-
-- 2018 — present, **Lijing Shao (邵立晶)**, Researcher / Assistant Professor,
-  Kavli Institute for Astronomy and Astrophysics, Peking University
-
-<big>**Postdoctoral**</big>
-
-- to add
-
-<big>**Graduates**</big>
-
-- 2018 — present, **Yong Gao (高勇)**, PhD student, Department of Astronomy at
-  School of Physics, Peking University
-- 2018 — present, **Junjie Zhao (赵俊杰)**, PhD student, Institute for
-  Theoretical Physics at School of Physics, Peking University; co-supervised
-  with Prof.Dr. Bo-Qiang Ma
-- 2018 — present, **Xueli Miao (缪雪丽)**, PhD student, Institute for
-  Theoretical Physics at School of Physics, Peking University; co-supervised
-  with Prof.Dr. Bo-Qiang Ma
-- 2018 — present, **Zihang Wang (王子航)**, PhD student, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Zhongfu Zhang (张中府)**, PhD student, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Dewang Xu (徐德望)**, PhD student, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Jiangwei Xu (徐江伟)**, PhD student, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Chang Liu (刘畅)**, PhD student, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Fan Hu (胡帆)**, PhD student, Department of
-  Astronomy at School of Physics, Peking University
-
-<big>**Undergraduates**</big>
-
-- 2018 — present, **Zhongpeng Sun (孙忠鹏)**, bachelor thesis, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Wenlong Li (李汶隆)**, bachelor thesis, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Yacheng Kang (康亚城)**, undergraduate, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Xiaojing Lin (林小靖)**, undergraduate, Department of
-  Astronomy at School of Physics, Peking University
-- 2018 — present, **Huimei Wang (王惠美)**, undergraduate, Department of
-  Astronomy at School of Physics, Peking University
+| Time | Name | Status | Affiliation |
+|:---:|:---:|
+| 2018 — present | **Lijing Shao (邵立晶)** | Researcher / Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2018 — present | **Yong Gao (高勇)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Junjie Zhao (赵俊杰)** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| 2018 — present | **Xueli Miao (缪雪丽)** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2018 — present | **Zihang Wang (王子航)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Zhongfu Zhang (张中府)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Dewang Xu (徐德望)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Jiangwei Xu (徐江伟)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Chang Liu (刘畅)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Fan Hu (胡帆)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Wenxiu Li (李文秀)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Xuxiang Li (黎旭翔)** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2018 — present | **Zhongpeng Sun (孙忠鹏)** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Wenlong Li (李汶隆)** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Yacheng Kang (康亚城)** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Xiaojing Lin (林小靖)** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Huimei Wang (王惠美)** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Zhengrong Li (李政融)** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Tongxuan Zhang (张通烜)** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |
 
 
-<big>**Former Members**</big>
-
-- to add
-
-<big>**Former Visitors**</big>
-
-- to add
+<p></p>
