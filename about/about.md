@@ -8,7 +8,7 @@ permalink: /about/
 
 <img style="float: right;" src="Barcelona2018.jpeg" width="280" hspace="10"> 
 
-Since September 2018, I am an **Assistant Professor** in the [Kavli Institute
+Since September 2018, I am an **Assistant Professor (研究员)** in the [Kavli Institute
 for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
 University](http://www.pku.edu.cn/), Beijing China. 
 

@@ -60,6 +60,8 @@ Our group meetings take place in **Room 208 at KIAA** on **Saturday
   Astronomy at School of Physics, Peking University
 - 2018 — present, **Chang Liu (刘畅)**, PhD student, Department of
   Astronomy at School of Physics, Peking University
+- 2018 — present, **Fan Hu (胡帆)**, PhD student, Department of
+  Astronomy at School of Physics, Peking University
 
 <big>**Undergraduates**</big>
 

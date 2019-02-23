@@ -114,9 +114,10 @@ McLaughlin, D.R. Lorimer
 | Dewang Xu | | Wenlong Li |
 | Jiangwei Xu | | Zhongpeng Sun |
 | Rui Xu | | Zhongfu Zhang |
-| -- | | Dewang Xu |
+| Fan Hu | | Dewang Xu |
 | -- | | Jiangwei Xu |
 | -- | | Rui Xu |
+| -- | | Fan Hu |
 
 <p></p>
 
