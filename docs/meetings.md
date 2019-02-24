@@ -95,7 +95,7 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 <big>**Archived**</big>
 
-**2018**
+**2018** ([photo](https://friendshao.github.io/docs/img/group_meeting_Dec25_2018.jpeg))
 
 - Oct 16, **Junjie Zhao**, [arXiv:1809.07673](https://arxiv.org/abs/1809.07673)
   + <sub>*Relaxation in a fuzzy dark matter halo*, by B. Bar-Or, J.-B.  Fouvry,
@@ -130,10 +130,5 @@ We have a Journal Club **Gravitational Astrophysics** on
     Cutler, D.E. Holz
   + <sub>**Wenlong Li & Zhongpeng Sun**: rehearsal for the mid-term examination
     of bachelor theses
-
-<figure>
-<img src="img/group_meeting_Dec25_2018.jpeg" style="width:85%">
-<figcaption><font color="grey"><b>Group meeting on December 25, 2018.</b></font></figcaption>
-</figure>
 
 <p></p>
