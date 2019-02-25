@@ -11,11 +11,21 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
+   known pulsars using the second LIGO observing
+run](https://arxiv.org/abs/1902.08442), arXiv:1902.08442
+
+0. B.P. Abbott, *et al.*,  [Searches for gravitational waves from known pulsars
+   at Two harmonics in 2015-2017 LIGO
+data](https://arxiv.org/abs/arXiv:1902.08507), arXiv:arXiv:1902.08507
+
 0. A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, **L. Shao**, W. Yan,
 [Constraints on millicharged dark matter and axion-like particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 
-0. B.P. Abbott, *et al.*,  [Search for transient gravitational wave signals associated with magnetar bursts during Advanced LIGO's second observing run](https://arxiv.org/abs/1902.01557), arXiv:1902.01557
+0. B.P. Abbott, *et al.*,  [Search for transient gravitational wave signals
+   associated with magnetar bursts during Advanced LIGO's second observing
+run](https://arxiv.org/abs/1902.01557), arXiv:1902.01557
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
