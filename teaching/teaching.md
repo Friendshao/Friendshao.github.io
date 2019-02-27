@@ -4,19 +4,29 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### As a Lecturer
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-- Soon to come
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
-### As a Teaching Asistant
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+</style>
 
-- [**Quantum Statistical Physics**](qsp2013/qsp2013.html), Peking University, Autumn 2013
-  - <sub>lectured by Prof. Ryuichi Shindou
-- **What is Science?** Peking University, Autumn 2010
-  - <sub>lectured by Prof. Yi Rao
-- **Probability Theory and Statistics**, Peking University, Spring 2010
-  - <sub>lectured by Prof. Zhenxi Dong
-- **Linear Algebra**, Peking University, Autumn 2009
-  - <sub>lectured by Prof. Maoying Tian
-  - <sub>obtained an **Excellent TA** Award
+## Teaching Activities
 
+| Semester | Course | Role | Comment | 
+| --- | --- | --- | --- |
+| PKU'13 Fall | [**Quantum Statistical Physics**](qsp2013/qsp2013.html) | TA | <small>lectured by Prof. Ryuichi Shindou |
+| PKU'10 Fall | **What is Science?** | TA | <small>lectured by Prof. Yi Rao |
+| PKU'10 Spring | **Probability Theory and Statistics** | TA | <small>lectured by Prof. Zhenxi Dong |
+| PKU'10 Fall | **Linear Algebra** | TA | <small>lectured by Prof. Maoying Tian;<br>**Excellent TA** Award |

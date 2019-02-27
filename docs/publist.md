@@ -16,7 +16,7 @@ layout: default
 run](https://arxiv.org/abs/1902.08442), arXiv:1902.08442
 
 0. B.P. Abbott, *et al.*,  [Searches for gravitational waves from known pulsars
-   at Two harmonics in 2015-2017 LIGO
+   at two harmonics in 2015-2017 LIGO
 data](https://arxiv.org/abs/arXiv:1902.08507), arXiv:arXiv:1902.08507
 
 0. A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, **L. Shao**, W. Yan,

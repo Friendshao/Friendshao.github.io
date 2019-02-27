@@ -69,15 +69,19 @@ We have a Journal Club **Gravitational Astrophysics** on
 | | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
 | 04/06 | **Yong Gao** | [1967ApJ...150.1005H](http://adsabs.harvard.edu/abs/1967ApJ...150.1005H) | **Jiangwei Xu** | ... |
 | | <small><small>Slowly rotating relativistic stars. I. Equations of structure | <small><small>J.B. Hartle | <small><small>... | <small><small>... |
+| 04/13 | **Xueli Miao** | ... | **Chang Liu** | ... |
+| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
+| 04/20 | **Zihang Wang** | ... | **Junjie Zhao** | ... |
+| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
+| 05/04 | **Wenlong Li** | ... | **Yong Gao** | ... |
+| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
+| 05/11 | **Zhongpeng Sun** | ... | **Xueli Miao** | ... |
+| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
 
 <br>
 
 | Upcoming Paper Presenter | Upcoming Literature Reader |
 | --- | --- |
-| Xueli Miao | Chang Liu |
-| Zihang Wang | Junjie Zhao |
-| Wenlong Li | Yong Gao |
-| Zhongpeng Sun | Xueli Miao |
 | Zhongfu Zhang | Zihang Wang |
 | Dewang Xu | Wenlong Li |
 | Jiangwei Xu | Zhongpeng Sun |

@@ -52,8 +52,8 @@ Our group meetings take place in **Room 208 at KIAA** on **Saturday
 |:---:|:---:|
 | 2018 — present | **Lijing Shao (邵立晶)** | Researcher / Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2018 — present | **Yong Gao (高勇)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
-| 2018 — present | **Junjie Zhao (赵俊杰)** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| 2018 — present | **Xueli Miao (缪雪丽)** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2018 — present | **Junjie Zhao (赵俊杰)** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| 2018 — present | **Xueli Miao (缪雪丽)** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
 | 2018 — present | **Zihang Wang (王子航)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Zhongfu Zhang (张中府)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Dewang Xu (徐德望)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
