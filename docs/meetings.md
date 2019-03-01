@@ -53,7 +53,7 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 **2019**
 
-|  | Paper Presenter |  | Literature Reader | |
+|  | Paper Presentation |  | Literature Reading | |
 | --- | --- | --- | --- |
 | 02/23 | **Xueli Miao** | [arXiv:1205.1450](https://arxiv.org/abs/1205.1450) | **Junjie Zhao** | [arXiv:1010.5788](https://arxiv.org/abs/1010.5788) |
 || <small><small>The relativistic pulsar-white dwarf binary PSR J1738+0333 II. The most stringent test of scalar-tensor gravity  | <small><small>P.C.C. Freire *et al.* | <small><small>A two-solar-mass neutron star measured using Shapiro delay | <small><small>P.B. Demorest *et al.* |
@@ -80,7 +80,9 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 <br>
 
-| Upcoming Paper Presenter | Upcoming Literature Reader |
+**Upcoming**
+
+| Paper Presentation | Literature Reading |
 | --- | --- |
 | Zhongfu Zhang | Zihang Wang |
 | Dewang Xu | Wenlong Li |
