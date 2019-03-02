@@ -51,6 +51,7 @@ Our group meetings take place in **Room 208 at KIAA** on **Saturday
 | Time | Name | Status | Affiliation |
 |:---:|:---:|
 | 2018 — present | **Lijing Shao (邵立晶)** | Researcher / Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2019 — present | **Rui Xu (徐睿)** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2018 — present | **Yong Gao (高勇)** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Junjie Zhao (赵俊杰)** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2018 — present | **Xueli Miao (缪雪丽)** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
@@ -69,6 +70,7 @@ Our group meetings take place in **Room 208 at KIAA** on **Saturday
 | 2018 — present | **Huimei Wang (王惠美)** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2019 — present | **Zhengrong Li (李政融)** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2019 — present | **Tongxuan Zhang (张通烜)** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |
+| 2019 — present | **Zihe An (安子訸)** | Undergraduate | [Mech-PKU](http://web.mech.pku.edu.cn/) |
 
 
 <p></p>
