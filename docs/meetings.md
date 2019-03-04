@@ -63,14 +63,14 @@ We have a Journal Club **Gravitational Astrophysics** on
 | | <small><small>Future prospects for ground-based gravitational wave detectors − The Galactic double neutron star merger rate revisited | <small><small>N. Pol, M. McLaughlin, D.R. Lorimer | <small><small>John Archibald Wheeler: A biographical memoir | <small><small>K.S. Thorne |
 | 03/16 | **Jiangwei Xu** | [arXiv:1811.08931](https://arxiv.org/abs/1811.08931) | **Xueli Miao** | [arXiv:1801.07840](https://arxiv.org/abs/1801.07840) |
 | | <small><small>Observing the post-merger signal of GW170817-like events with improved gravitational-wave detectors | <small><small>A. Torres-Rivas *et al.* | <small><small>Discovering intermediate-mass black hole lenses through gravitational wave lensing | <small><small>K.-H. Lai *et al.* |
-| 03/23 | **Chang Liu** | ... | **Zihang Wang** | ... |
+| 03/23 | **Chang Liu** | [arXiv:1812.02177](https://arxiv.org/abs/1812.02177) | **Zihang Wang** | ... |
+| | <small><small>How to detect the shortest-period binary pulsars in the era of LISA | <small><small>K. Kyutoku, Y. Nishino, N. Seto | <small><small>... | <small><small>... |
+| 03/30 | **Junjie Zhao** | [arXiv:1811.00364](https://arxiv.org/abs/1811.00364) | **Dewang Xu** | ... |
+| | <small><small>Tests of general relativity with GW170817 | <small><small>LIGO/Virgo Collaboration | <small><small>... | <small><small>... |
+| 04/06 | **Xueli Miao** | ... | **Jiangwei Xu** | ... |
 | | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
-| 03/30 | **Junjie Zhao** | ... | **Dewang Xu** | ... |
-| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
-| 04/06 | **Yong Gao** | [1967ApJ...150.1005H](http://adsabs.harvard.edu/abs/1967ApJ...150.1005H) | **Jiangwei Xu** | ... |
-| | <small><small>Slowly rotating relativistic stars. I. Equations of structure | <small><small>J.B. Hartle | <small><small>... | <small><small>... |
-| 04/13 | **Xueli Miao** | ... | **Chang Liu** | ... |
-| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
+| 04/13 | **Yong Gao** | [1967ApJ...150.1005H](http://adsabs.harvard.edu/abs/1967ApJ...150.1005H)  | **Chang Liu** | ... |
+| | <small><small>Slowly rotating relativistic stars. I. Equations of structure | <small><small>J.B. Hartle  | <small><small>... | <small><small>... |
 | 04/20 | **Zihang Wang** | ... | **Junjie Zhao** | ... |
 | | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
 | 05/04 | **Wenlong Li** | ... | **Yong Gao** | ... |
