@@ -32,6 +32,7 @@ tr:nth-child(odd) {
 | 2010.9—2015.7 | **Doctoral Student** | [Peking University](http://english.pku.edu.cn/) | Beijing |
 | 2011.9—2013.8 | **Visiting Scholar** | [Max Planck Institute for Radio Astronomy](http://www.mpifr-bonn.mpg.de/2169/en) | Bonn |
 | 2005.9—2010.7 | **Bachelor Student** | [Peking University](http://english.pku.edu.cn/) | Beijing |
+| 1987 Jan 15 | **Hello World** | [Zhejiang Province, China](https://en.wikipedia.org/wiki/Zhejiang)  | Yuyao |
  
 <p></p>
 
