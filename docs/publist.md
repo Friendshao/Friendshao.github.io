@@ -11,6 +11,10 @@ layout: default
 
 <big><big>**Academic Papers**</big></big>
 
+0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
+   from isolated neutron stars using Advanced LIGO O2
+data](https://arxiv.org/abs/1903.01901), arXiv:1903.01901
+
 0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
    known pulsars using the second LIGO observing
 run](https://arxiv.org/abs/1902.08442), arXiv:1902.08442
