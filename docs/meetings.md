@@ -67,8 +67,8 @@ We have a Journal Club **Gravitational Astrophysics** on
 | | <small><small>How to detect the shortest-period binary pulsars in the era of LISA | <small><small>K. Kyutoku, Y. Nishino, N. Seto | <small><small>... | <small><small>... |
 | 03/30 | **Junjie Zhao** | [arXiv:1602.03841](https://arxiv.org/abs/1602.03841)<br>[arXiv:1811.00364](https://arxiv.org/abs/1811.00364) | **Dewang Xu** | ... |
 | | <small><small>Tests of general relativity with GW150914<br>Tests of general relativity with GW170817 | <small><small>LIGO/Virgo Collaboration | <small><small>... | <small><small>... |
-| 04/06 | **Xueli Miao** | ... | **Jiangwei Xu** | ... |
-| | <small><small>... | <small><small>... | <small><small>... | <small><small>... |
+| 04/06 | **Xueli Miao** | [arXiv:1808.00080](https://arxiv.org/abs/1808.00080) | **Jiangwei Xu** | ... |
+| | <small><small> Testing general relativity with black hole-pulsar binaries | <small><small>B.C. Seymour, K. Yagi | <small><small>... | <small><small>... |
 | 04/13 | **Yong Gao** | [1967ApJ...150.1005H](http://adsabs.harvard.edu/abs/1967ApJ...150.1005H)  | **Chang Liu** | ... |
 | | <small><small>Slowly rotating relativistic stars. I. Equations of structure | <small><small>J.B. Hartle  | <small><small>... | <small><small>... |
 | 04/20 | **Zihang Wang** | ... | **Junjie Zhao** | ... |
