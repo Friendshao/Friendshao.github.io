@@ -12,6 +12,10 @@ layout: default
 <a name="academic"></a>
 <big><big>**Academic Papers**</big></big>
 
+0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
+   dynamics of stellar mass binary black holes around the massive black hole in
+a galactic nucleus](https://arxiv.org/abs/1903.02685), arXiv:1903.02685
+
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
 data](https://arxiv.org/abs/1903.01901), arXiv:1903.01901
