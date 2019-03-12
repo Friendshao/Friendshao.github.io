@@ -36,10 +36,10 @@ tr:nth-child(odd) {
 ### Serving for Academic Journals
 
 | [Universe](http://www.mdpi.com/journal/universe) | **Editor** (2018—present) |
+| [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | **Outstanding Reviewer Awards 2018** |
 | [Astrophysical Journal](http://iopscience.iop.org/journal/0004-637X) | **Referee** |
 | [Astrophysical Journal Letters](http://iopscience.iop.org/journal/2041-8205) | -- |
 | [Atoms](http://www.mdpi.com/journal/atoms) | -- |
-| [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | -- |
 | [Communications in Theoretical Physics](http://iopscience.iop.org/journal/0253-6102) |  -- |
 | [Entropy](http://www.mdpi.com/journal/entropy) |  -- |
 | [European Physical Journal C](https://link.springer.com/journal/10052) | -- | 
@@ -225,7 +225,7 @@ effects](https://arxiv.org/abs/gr-qc/9506022), *Phys. Rev. D* 52:821
   black hole merger](https://arxiv.org/abs/1602.03837), *Phys. Rev. Lett.*
   116:061102
 
-- **Ramazanoğlu & Pretorius 2016**, [Spontaneous scalarization with massive
+- **Ramazanoğlu & Pretorius 2016**, [Spontaneous scalarization with massive
   fields](https://arxiv.org/abs/1601.07475), *Phys. Rev. D* 93:064005
 
 - **Abbott *et al.* 2017**, [GW170817: Observation of gravitational waves from
