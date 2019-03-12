@@ -12,6 +12,7 @@ layout: default
 <a name="academic"></a>
 <big><big>**Academic Papers**</big></big>
 
+
 0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
    dynamics of stellar mass binary black holes around the massive black hole in
 a galactic nucleus](https://arxiv.org/abs/1903.02685), arXiv:1903.02685
@@ -26,7 +27,7 @@ run](https://arxiv.org/abs/1902.08442), arXiv:1902.08442
 
 0. B.P. Abbott, *et al.*,  [Searches for gravitational waves from known pulsars
    at two harmonics in 2015-2017 LIGO
-data](https://arxiv.org/abs/arXiv:1902.08507), arXiv:arXiv:1902.08507
+data](https://arxiv.org/abs/arXiv:1902.08507), arXiv:1902.08507
 
 0. A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, **L. Shao**, W. Yan,
 [Constraints on millicharged dark matter and axion-like particles from timing
