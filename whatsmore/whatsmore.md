@@ -36,7 +36,7 @@ tr:nth-child(odd) {
 ### Serving for Academic Journals
 
 | [Universe](http://www.mdpi.com/journal/universe) | **Editor** (2018—present) |
-| [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | [**Outstanding Reviewer**](CQG2018.pdf) |
+| [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | **Outstanding Reviewer** ([2018](CQG2018.pdf)) |
 | [Astrophysical Journal](http://iopscience.iop.org/journal/0004-637X) | **Referee** |
 | [Astrophysical Journal Letters](http://iopscience.iop.org/journal/2041-8205) | -- |
 | [Atoms](http://www.mdpi.com/journal/atoms) | -- |
