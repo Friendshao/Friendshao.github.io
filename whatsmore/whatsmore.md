@@ -261,7 +261,7 @@ systems](https://arxiv.org/abs/1801.09972), *Class. Quantum Grav.* 35:145010
 
 ### Some Collection of Websites
 
-#### General Purposes: mostly on programming
+#### A. General Purposes: mostly on programming
 
 | [anaconda](https://www.continuum.io/downloads) |  Anaconda |
 | [atom](https://atom.io/) |  A hackable text editor |
@@ -300,7 +300,7 @@ systems](https://arxiv.org/abs/1801.09972), *Class. Quantum Grav.* 35:145010
 <br>
 ---
 
-#### Specific Purposes: again mostly on programming
+#### B. Specific Purposes: again mostly on programming
 
 | [altair](https://github.com/ellisonbg/altair) |  Declarative statistical visualization library for Python |
 | [argparse](https://docs.python.org/3/howto/argparse.html) |  command-line parsing module in the Python standard library |
@@ -400,7 +400,7 @@ systems](https://arxiv.org/abs/1801.09972), *Class. Quantum Grav.* 35:145010
 <br>
 ---
 
-#### Pulsars and Gravitational Waves
+#### C. Pulsars and Gravitational Waves
 
 | [Atom handbook](https://mba811.gitbooks.io/mac-dev/content/Atom/) | atom handbook |
 | [B1913+16](https://zenodo.org/record/54764#.WN68ZBKGORt) | Binary Pulsar PSR B1913+16 arrival time and associated files |
