@@ -63,8 +63,8 @@ We have a Journal Club **Gravitational Astrophysics** on
 | | <small><small>Future prospects for ground-based gravitational wave detectors − The Galactic double neutron star merger rate revisited | <small><small>N. Pol, M. McLaughlin, D.R. Lorimer | <small><small>John Archibald Wheeler: A biographical memoir | <small><small>K.S. Thorne |
 | 03/16 | **Jiangwei Xu** | [arXiv:1811.08931](https://arxiv.org/abs/1811.08931) | **Xueli Miao** | [arXiv:1801.07840](https://arxiv.org/abs/1801.07840) |
 | | <small><small>Observing the post-merger signal of GW170817-like events with improved gravitational-wave detectors | <small><small>A. Torres-Rivas *et al.* | <small><small>Discovering intermediate-mass black hole lenses through gravitational wave lensing | <small><small>K.-H. Lai *et al.* |
-| 03/23 | **Chang Liu** | [arXiv:1812.02177](https://arxiv.org/abs/1812.02177) | **Zihang Wang** | ... |
-| | <small><small>How to detect the shortest-period binary pulsars in the era of LISA | <small><small>K. Kyutoku, Y. Nishino, N. Seto | <small><small>... | <small><small>... |
+| 03/23 | **Chang Liu** | [arXiv:1812.02177](https://arxiv.org/abs/1812.02177) | **Zihang Wang** | [arXiv:1804.09659](https://arxiv.org/abs/1804.09659) |
+| | <small><small>How to detect the shortest-period binary pulsars in the era of LISA | <small><small>K. Kyutoku, Y. Nishino, N. Seto | <small><small>Probing the existence of ultralight bosons with a single gravitational-wave measurement | <small><small>O.A. Hannuksela *et al.* |
 | 03/30 | **Junjie Zhao** | [arXiv:1602.03841](https://arxiv.org/abs/1602.03841)<br>[arXiv:1811.00364](https://arxiv.org/abs/1811.00364) | **Dewang Xu** | [arXiv:astro-ph/0312071](https://arxiv.org/abs/astro-ph/0312071) |
 | | <small><small>Tests of general relativity with GW150914<br>Tests of general relativity with GW170817 | <small><small>LIGO/Virgo Collaboration | <small><small>An increased estimate of the merger rate of double neutron stars from observations of a highly relativistic system | <small><small>M. Burgay *et al.* |
 | 04/06 | **Xueli Miao** | [arXiv:1808.00080](https://arxiv.org/abs/1808.00080) | **Jiangwei Xu** | ... |
