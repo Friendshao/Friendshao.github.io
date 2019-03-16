@@ -89,9 +89,13 @@ We have a Journal Club **Gravitational Astrophysics** on
 | Jiangwei Xu | Zhongpeng Sun |
 | Rui Xu | Zhongfu Zhang |
 | Fan Hu | Dewang Xu |
-| -- | Jiangwei Xu |
-| -- | Rui Xu |
-| -- | Fan Hu |
+| Xuxiang Li | Jiangwei Xu |
+| Junjie Zhao | Rui Xu |
+| Xueli Miao | Fan Hu |
+| Yong Gao | Xuxiang Li |
+| -- | Junjie Zhao |
+| -- | Xueli Miao |
+| -- | Yong Gao |
 
 <p></p>
 
