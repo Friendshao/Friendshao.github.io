@@ -22,7 +22,7 @@ tr:nth-child(odd) {
 
 <big>**An incomplete list of academic talks that I helped**</big>
 
-| Time | Speaker | | Talk |
+| Date | Speaker | | Talk |
 | --- | --- | --- |  --- |
 | 09/05/2019 | **Zonghong Zhu** | BNU | <small>[TBA](http://kiaa.pku.edu.cn/colloquia/tbd-44) |
 | 04/04/2019 | **Tjonnie Li** | CUHK | <small>[Gravitational Lensing of Gravitational Waves](http://kiaa.pku.edu.cn/colloquia/gravitational-lensing-gravitational-waves) |

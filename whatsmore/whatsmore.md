@@ -37,6 +37,7 @@ tr:nth-child(odd) {
 
 | [Universe](http://www.mdpi.com/journal/universe) | **Editor** (2018—present) |
 | [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | **Outstanding Reviewer** ([2018](CQG2018.pdf)) |
+| [Universe](http://www.mdpi.com/journal/universe) | **Outstanding Reviewer** ([2018](Universe2018.pdf)) |
 | [Astrophysical Journal](http://iopscience.iop.org/journal/0004-637X) | **Referee** |
 | [Astrophysical Journal Letters](http://iopscience.iop.org/journal/2041-8205) | -- |
 | [Atoms](http://www.mdpi.com/journal/atoms) | -- |
@@ -56,7 +57,6 @@ tr:nth-child(odd) {
 | [Research in Astronomy and Astrophysics](http://iopscience.iop.org/journal/1674-4527) |  -- |
 | [Science China – Physics, Mechanics and Astronomy](https://link.springer.com/journal/11433) | -- | 
 | [Symmetry](http://www.mdpi.com/journal/symmetry) |  -- |
-| [Universe](http://www.mdpi.com/journal/universe) |  -- |
 
 <br>
 
