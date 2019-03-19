@@ -13,6 +13,18 @@ layout: default
 <big><big>**Academic Papers**</big></big>
 
 
+0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, J.C.
+   Bustillo, J. Clark, C.-J. Haster, S.  Khan, M. Pürrer, V. Raymond, S.
+Vitale, N. Afshari, S. Babak, K. Barkett, J. Blackman, A. Bohé, M.  Boyle, A.
+Buonanno, M. Campanelli, G. Carullo, T. Chu, E. Flynn, H. Fong, A. Garcia, M.
+Giesler, M. Haney, M.  Hannam, I. Harry, J. Healy, D. Hemberger, I. Hinder, K.
+Jani, B. Khamersa, L.E. Kidder, P. Kumar, P. Laguna, C.O.  Lousto, G. Lovelace,
+T.B. Littenberg, L. London, M.  Millhouse, L.K. Nuttall, F. Ohme, R.
+O'Shaughnessy, S.  Ossokine, F. Pannarale, P. Schmidt, H.P. Pfeiffer, M.A.
+Scheel, **L. Shao**, D. Shoemaker, B. Szilágyi, A. Taracchini, S.A. Teukolsky,
+Y. Zlochower, [On the properties of the massive binary black hole merger
+GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
+
 0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
    dynamics of stellar mass binary black holes around the massive black hole in
 a galactic nucleus](https://arxiv.org/abs/1903.02685), arXiv:1903.02685
@@ -41,7 +53,10 @@ run](https://arxiv.org/abs/1902.01557), arXiv:1902.01557
    equation of state and modified gravity with neutron
    stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
 
-0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for multi-messenger astronomy during the second Advanced LIGO and Virgo observing run](https://arxiv.org/abs/1901.03310), *Astrophys. J.* (accepted), arXiv:1901.03310
+0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for
+   multi-messenger astronomy during the second Advanced LIGO and Virgo
+observing run](https://arxiv.org/abs/1901.03310), *Astrophys. J.* (accepted),
+arXiv:1901.03310
 
 0. M. Soares-Santos, *et al.*, [First measurement of the Hubble constant from a
    dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo
