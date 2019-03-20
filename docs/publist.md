@@ -2,16 +2,21 @@
 layout: default
 ---
 
-<big>**Catalogue:** [Academic Papers](#academic) or [Popular Articles](#popular)</big>
-
----
-<font color="grey"><small><i>... with stars &#9733; marking first-author/corresponding-author papers</i></small></font>
+<font color="black"><b>With stars &#9733; marking first-author/corresponding-author papers</b></font>
 
 <p></p>
 
-<a name="academic"></a>
-<big><big>**Academic Papers**</big></big>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 75)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 12)</small>
+- [**Popular Articles**](#popular) <small>(in total 6)</small>
 
+
+---
+
+<p></p>
+
+<a name="papers"></a>
+<big><big>**Academic Papers**</big></big> **published in refereed journals**
 
 0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, J.C.
    Bustillo, J. Clark, C.-J. Haster, S.  Khan, M. Pürrer, V. Raymond, S.
@@ -48,10 +53,6 @@ of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 0. B.P. Abbott, *et al.*,  [Search for transient gravitational wave signals
    associated with magnetar bursts during Advanced LIGO's second observing
 run](https://arxiv.org/abs/1902.01557), arXiv:1902.01557
-
-0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
-   equation of state and modified gravity with neutron
-   stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
 
 0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for
    multi-messenger astronomy during the second Advanced LIGO and Virgo
@@ -111,11 +112,6 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 0. J.J.M. in 't Zand, E. Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science
    with eXTP](https://arxiv.org/abs/1812.04023),
    *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
-
-0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
-   M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
-[Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
-in *Science with a Next Generation Very Large Array* (ASP Conference Series, San Francisco, 2018), p.793
 
 0. B.P. Abbott, *et al.*, 
    [Search for subsolar-mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
@@ -257,14 +253,6 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
    [Improved effective-one-body model of spinning, nonprecessing binary black holes for the era of gravitational-wave astrophysics with advanced detectors](https://arxiv.org/abs/1611.03703),
    *Phys. Rev. D* 95 (2017) 044028
 
-0. D. Muna, *et al.*,
-  [The astropy problem](https://arxiv.org/abs/1610.03159),
-  arXiv:1610.03159
-
-0. <sup>&#9733;</sup> **L. Shao**,
-   [Experimental studies on the Lorentz symmetry in post-Newtonian gravity with pulsars](http://dx.doi.org/10.3390/universe2040029),
-   *Universe* 2 (2016) 29
-
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex, 
    [Tests of gravitational symmetries with radio pulsars](https://arxiv.org/abs/1604.03662),
    *Sci. China Phys. Mech. Astron.* 59 (2016) 699501
@@ -272,29 +260,6 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Testing the strong equivalence principle with the triple pulsar PSR J0337+1715](https://arxiv.org/abs/1602.05725),
    *Phys. Rev. D* 93 (2016) 084023
-
-0. <sup>&#9733;</sup> **L. Shao**, I.H. Stairs, J. Antoniadis, A.T. Deller,
-   P.C.C. Freire, J.W.T.  Hessels, G.H. Janssen, M. Kramer, J. Kunz, C.
-   Lämmerzahl, V. Perlick, A.  Possenti, S. Ransom, B.W. Stappers, W. van
-   Straten,
-   [Testing gravity with pulsars in the SKA era](https://arxiv.org/abs/1501.00058),
-   *PoS* (AASKA14) 042
-
-0. G.H. Janssen, G. Hobbs, M. McLaughlin, C.G. Bassa, A.T. Deller, M. Kramer,
-   K.J. Lee, C.M.F. Mingarelli, P.A. Rosado, S. Sanidas, A. Sesana, **L.
-   Shao**, I.H. Stairs, B.W. Stappers, J.P.W. Verbiest,
-   [Gravitational wave astronomy with the SKA](https://arxiv.org/abs/1501.00127),
-   *PoS* (AASKA14) 037
-
-
-0. A. Li, J. Wang, **L. Shao**, R.-X. Xu,
-   [The type of Vela-like pulsars: a normal neutron star or a hybrid star?](http://adsabs.harvard.edu/abs/2015AcASn..56S..22L),
-   *Acta Astron. Sin. Suppl.* 56 (2015) 22
-
-0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer,
-   [New tests of local Lorentz invariance and local position invariance of gravity with pulsars](https://arxiv.org/abs/1211.6558),
-   in *Proceedings of the Thirteenth Marcel Grossmann Meeting on General
-   Relativity* (World Scientific, Singapore, 2015), p. 1704
 
 0. <sup>&#9733;</sup> **L. Shao**, 
    [New pulsar limit on local Lorentz invariance violation of gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
@@ -304,11 +269,6 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
    [Tests of local Lorentz invariance violation of gravity in the standard model extension with pulsars](https://arxiv.org/abs/1402.6452),
    *Phys. Rev. Lett.* 112 (2014) 111103
 
-0. A. Li, J. Wang, **L. Shao**, R.-X. Xu,
-   [The amount of crustal entrainment and the type of Vela-like pulsars](https://arxiv.org/abs/1406.4994),
-   arXiv:1406.4994
-
-
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex,
    [New limits on the violation of local position invariance of gravity](https://arxiv.org/abs/1307.2637),
    *Class. Quantum Grav.* 30 (2013) 165020
@@ -317,11 +277,6 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
    Champion, A. Jessner,
    [A new limit on local Lorentz invariance violation of gravity from solitary pulsars](https://arxiv.org/abs/1307.2552),
    *Class. Quantum Grav.* 30 (2013) 165019
-
-0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, 
-   [New constraints on preferred frame effects from binary pulsars](https://arxiv.org/abs/1209.5171),
-   in *Proceedings of the International Astronomical Union*, Symposium S291
-   (Cambridge University Press, 2013), p. 496
 
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex,
    [New tests of local Lorentz invariance of gravity with small-eccentricity binary pulsars](https://arxiv.org/abs/1209.4503),
@@ -371,10 +326,6 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
    [Sea quark contents of octet baryons](https://arxiv.org/abs/1002.4747),
    *Phys. Lett. B* 686 (2010) 136
 
-0. <sup>&#9733;</sup> **L. Shao**, Y. Zhang, B.-Q. Ma, 
-   [Parton distribution functions and nuclear EMC effect in a statistical model](https://arxiv.org/abs/1008.1689),
-   *Chin.  Phys. C* 34 (2010) 1417
-
 0. <sup>&#9733;</sup> **L. Shao**, B.-Q. Ma,
    [First digit distribution of hadron full width](https://arxiv.org/abs/1004.3077),
    *Mod. Phys. Lett. A* 24 (2009) 3275
@@ -389,6 +340,74 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 {: reversed="reversed"}
 
 <p></p>
+
+
+
+<a name="contribution"></a>
+<big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
+   equation of state and modified gravity with neutron
+   stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
+
+0. P. Demorest, G.C. Bower, S. Chatterjee, J. Cordes, J.S. Deneva, J. Dexter,
+   M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA
+searches for pulsars at the Galactic
+center](http://adsabs.harvard.edu/abs/2019AAS...23336124D), American
+Astronomical Society, AAS Meeting no. 233, id. no. 361.24
+
+0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
+   M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
+[Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
+in *Science with a Next Generation Very Large Array* (ASP Conference Series, San Francisco, 2018), p.793
+
+0. D. Muna, *et al.*,
+  [The astropy problem](https://arxiv.org/abs/1610.03159),
+  arXiv:1610.03159
+
+0. <sup>&#9733;</sup> **L. Shao**,
+   [Experimental studies on the Lorentz symmetry in post-Newtonian gravity with pulsars](http://dx.doi.org/10.3390/universe2040029),
+   *Universe* 2 (2016) 29
+
+0. <sup>&#9733;</sup> **L. Shao**, I.H. Stairs, J. Antoniadis, A.T. Deller,
+   P.C.C. Freire, J.W.T.  Hessels, G.H. Janssen, M. Kramer, J. Kunz, C.
+   Lämmerzahl, V. Perlick, A.  Possenti, S. Ransom, B.W. Stappers, W. van
+   Straten,
+   [Testing gravity with pulsars in the SKA era](https://arxiv.org/abs/1501.00058),
+   *PoS* (AASKA14) 042
+
+0. G.H. Janssen, G. Hobbs, M. McLaughlin, C.G. Bassa, A.T. Deller, M. Kramer,
+   K.J. Lee, C.M.F. Mingarelli, P.A. Rosado, S. Sanidas, A. Sesana, **L.
+   Shao**, I.H. Stairs, B.W. Stappers, J.P.W. Verbiest,
+   [Gravitational wave astronomy with the SKA](https://arxiv.org/abs/1501.00127),
+   *PoS* (AASKA14) 037
+
+0. A. Li, J. Wang, **L. Shao**, R.-X. Xu,
+   [The type of Vela-like pulsars: a normal neutron star or a hybrid star?](http://adsabs.harvard.edu/abs/2015AcASn..56S..22L),
+   *Acta Astron. Sin. Suppl.* 56 (2015) 22
+
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer,
+   [New tests of local Lorentz invariance and local position invariance of gravity with pulsars](https://arxiv.org/abs/1211.6558),
+   in *Proceedings of the Thirteenth Marcel Grossmann Meeting on General
+   Relativity* (World Scientific, Singapore, 2015), p. 1704
+
+0. A. Li, J. Wang, **L. Shao**, R.-X. Xu,
+   [The amount of crustal entrainment and the type of Vela-like pulsars](https://arxiv.org/abs/1406.4994),
+   arXiv:1406.4994
+
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, M. Kramer, 
+   [New constraints on preferred frame effects from binary pulsars](https://arxiv.org/abs/1209.5171),
+   in *Proceedings of the International Astronomical Union*, Symposium S291
+   (Cambridge University Press, 2013), p. 496
+
+0. <sup>&#9733;</sup> **L. Shao**, Y. Zhang, B.-Q. Ma, 
+   [Parton distribution functions and nuclear EMC effect in a statistical model](https://arxiv.org/abs/1008.1689),
+   *Chin.  Phys. C* 34 (2010) 1417
+{: reversed="reversed"}
+
+<p></p>
+
+
 
 <a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
