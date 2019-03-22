@@ -18,16 +18,8 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, J.C.
-   Bustillo, J. Clark, C.-J. Haster, S.  Khan, M. Pürrer, V. Raymond, S.
-Vitale, N. Afshari, S. Babak, K. Barkett, J. Blackman, A. Bohé, M.  Boyle, A.
-Buonanno, M. Campanelli, G. Carullo, T. Chu, E. Flynn, H. Fong, A. Garcia, M.
-Giesler, M. Haney, M.  Hannam, I. Harry, J. Healy, D. Hemberger, I. Hinder, K.
-Jani, B. Khamersa, L.E. Kidder, P. Kumar, P. Laguna, C.O.  Lousto, G. Lovelace,
-T.B. Littenberg, L. London, M.  Millhouse, L.K. Nuttall, F. Ohme, R.
-O'Shaughnessy, S.  Ossokine, F. Pannarale, P. Schmidt, H.P. Pfeiffer, M.A.
-Scheel, **L. Shao**, D. Shoemaker, B. Szilágyi, A. Taracchini, S.A. Teukolsky,
-Y. Zlochower, [On the properties of the massive binary black hole merger
+0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*,
+[On the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
 0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
@@ -152,8 +144,7 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
    [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203),
    *Phys. Rev. Lett.* 120 (2018) 031104
 
-0. B.P. Gong, Y.P. Li, J.P. Yuan, J. Tian, Y.Y. Zhang, D. Li, B. Jiang, X.D.
-   Li, H.G. Wang, Y.C. Zou, **L. Shao**, 
+0. B.P. Gong, *et al.*, 
    [Searching ultra-compact pulsar binaries with abnormal timing behavior](https://doi.org/10.3847/1538-4357/aaac34),
    *Astrophys. J.* 855 (2018) 35
 
@@ -246,10 +237,7 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
    [Search for gravitational waves from Scorpius X-1 in the first Advanced LIGO observing run with a hidden Markov model](https://arxiv.org/abs/1704.03719),
    *Phys. Rev. D* 95 (2017) 122003
 
-0. <sup>&#9733;</sup> A. Bohé, **L. Shao**, A. Taracchini, A. Buonanno, S.
-   Babak, I.W. Harry, I.  Hinder, S. Ossokine, M. Pürrer, V. Raymond, T. Chu,
-   H. Fong, P. Kumar, H.P.  Pfeiffer, M. Boyle, D.A. Hemberger, L.E. Kidder, G.
-   Lovelace, M.A. Scheel, B.  Szilágyi, 
+0. <sup>&#9733;</sup> A. Bohé, **L. Shao**, A. Taracchini, A. Buonanno, *et al.*, 
    [Improved effective-one-body model of spinning, nonprecessing binary black holes for the era of gravitational-wave astrophysics with advanced detectors](https://arxiv.org/abs/1611.03703),
    *Phys. Rev. D* 95 (2017) 044028
 
@@ -350,14 +338,12 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
    equation of state and modified gravity with neutron
    stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
 
-0. P. Demorest, G.C. Bower, S. Chatterjee, J. Cordes, J.S. Deneva, J. Dexter,
-   M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA
+0. P. Demorest, *et al.*, [ngVLA
 searches for pulsars at the Galactic
 center](http://adsabs.harvard.edu/abs/2019AAS...23336124D), American
 Astronomical Society, AAS Meeting no. 233, id. no. 361.24
 
-0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
-   M. Kramer, T.J.W. Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
+0. G.C. Bower, *et al.*,
 [Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
 in *Science with a Next Generation Very Large Array* (ASP Conference Series, San Francisco, 2018), p.793
 
@@ -369,16 +355,11 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
    [Experimental studies on the Lorentz symmetry in post-Newtonian gravity with pulsars](http://dx.doi.org/10.3390/universe2040029),
    *Universe* 2 (2016) 29
 
-0. <sup>&#9733;</sup> **L. Shao**, I.H. Stairs, J. Antoniadis, A.T. Deller,
-   P.C.C. Freire, J.W.T.  Hessels, G.H. Janssen, M. Kramer, J. Kunz, C.
-   Lämmerzahl, V. Perlick, A.  Possenti, S. Ransom, B.W. Stappers, W. van
-   Straten,
+0. <sup>&#9733;</sup> **L. Shao**, I.H. Stairs, *et al.*,
    [Testing gravity with pulsars in the SKA era](https://arxiv.org/abs/1501.00058),
    *PoS* (AASKA14) 042
 
-0. G.H. Janssen, G. Hobbs, M. McLaughlin, C.G. Bassa, A.T. Deller, M. Kramer,
-   K.J. Lee, C.M.F. Mingarelli, P.A. Rosado, S. Sanidas, A. Sesana, **L.
-   Shao**, I.H. Stairs, B.W. Stappers, J.P.W. Verbiest,
+0. G.H. Janssen, *et al.*,
    [Gravitational wave astronomy with the SKA](https://arxiv.org/abs/1501.00127),
    *PoS* (AASKA14) 037
 
