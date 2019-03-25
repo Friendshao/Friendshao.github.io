@@ -335,7 +335,7 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
 0. B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
-   [Extreme Gravity and Fundamental Physics](https://arxiv.org/abs/1903.09221),
+   [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
 arXiv:1903.09221
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
