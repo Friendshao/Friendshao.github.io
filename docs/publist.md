@@ -7,7 +7,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 75)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 12)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 13)</small>
 - [**Popular Articles**](#popular) <small>(in total 6)</small>
 
 
@@ -333,6 +333,10 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
+   [Extreme Gravity and Fundamental Physics](https://arxiv.org/abs/1903.09221),
+arXiv:1903.09221
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
