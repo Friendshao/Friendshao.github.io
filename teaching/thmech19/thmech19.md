@@ -22,7 +22,7 @@ tr:nth-child(odd) {
 
 # <b>Theoretical Mechanics</b>
 
-### <u>Spring 2020, Peking University</u>
+### <u>Fall 2019, Peking University</u>
 
 <div style="display: flex; justify-content: center;">
 <img src="thmech.png" width="550" height="250">
