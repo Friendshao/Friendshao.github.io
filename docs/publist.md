@@ -18,6 +18,10 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing the gravitational weak
+   equivalence principle in the standard-model extension with binary
+pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* (accepted), arXiv:1903.11760
+
 0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*,
 [On the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
