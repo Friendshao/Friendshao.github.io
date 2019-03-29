@@ -22,6 +22,10 @@ layout: default
    equivalence principle in the standard-model extension with binary
 pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* (accepted), arXiv:1903.11760
 
+0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
+   hole signals from the LIGO-Virgo catalog
+GWTC-1](https://arxiv.org/abs/1903.04467), arXiv:1903.04467
+
 0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*,
 [On the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
