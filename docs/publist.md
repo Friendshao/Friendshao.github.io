@@ -52,7 +52,7 @@ of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 
 0. B.P. Abbott, *et al.*,  [Search for transient gravitational wave signals
    associated with magnetar bursts during Advanced LIGO's second observing
-run](https://arxiv.org/abs/1902.01557), arXiv:1902.01557
+run](https://arxiv.org/abs/1902.01557), *Astrophys. J.* (accepted), arXiv:1902.01557
 
 0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for
    multi-messenger astronomy during the second Advanced LIGO and Virgo
@@ -62,9 +62,12 @@ arXiv:1901.03310
 0. M. Soares-Santos, *et al.*, [First measurement of the Hubble constant from a
    dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo
 binary-black-hole merger GW170814](https://arxiv.org/abs/1901.01540),
+*Astrophys. J. Lett.* (accepted),
 arXiv:1901.01540
 
-0. B.P. Abbott, *et al.*,  [Searches for continuous gravitational waves from fifteen supernova remnants and Fomalhaut b with Advanced LIGO](https://arxiv.org/abs/1812.11656), arXiv:1812.11656
+0. B.P. Abbott, *et al.*,  [Searches for continuous gravitational waves from
+   fifteen supernova remnants and Fomalhaut b with Advanced
+LIGO](https://arxiv.org/abs/1812.11656), *Astrophys. J.* (accepted), arXiv:1812.11656
 
 0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
    compact binary mergers observed by LIGO and Virgo during the first and
@@ -85,7 +88,7 @@ Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
    remnant of the binary neutron star merger
-GW170817](https://arxiv.org/abs/1810.02581), arXiv:1810.02581
+GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* (accepted), arXiv:1810.02581
 
 0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
    with GW170817](https://arxiv.org/abs/1808.08676), 
