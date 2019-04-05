@@ -50,10 +50,6 @@ data](https://arxiv.org/abs/arXiv:1902.08507), arXiv:1902.08507
 [Constraints on millicharged dark matter and axion-like particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 
-0. B.P. Abbott, *et al.*,  [Search for transient gravitational wave signals
-   associated with magnetar bursts during Advanced LIGO's second observing
-run](https://arxiv.org/abs/1902.01557), *Astrophys. J.* (accepted), arXiv:1902.01557
-
 0. B.P. Abbott, *et al.*,  [Low-latency gravitational wave alerts for
    multi-messenger astronomy during the second Advanced LIGO and Virgo
 observing run](https://arxiv.org/abs/1901.03310), *Astrophys. J.* (accepted),
@@ -89,6 +85,10 @@ Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
    remnant of the binary neutron star merger
 GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* (accepted), arXiv:1810.02581
+
+0. B.P. Abbott, *et al.*,  [Search for transient gravitational-wave signals
+   associated with magnetar bursts during Advanced LIGO's second observing
+run](https://arxiv.org/abs/1902.01557), *Astrophys. J.* 874 (2019) 163
 
 0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
    with GW170817](https://arxiv.org/abs/1808.08676), 
