@@ -31,6 +31,16 @@ Bonn, Germany.
 - Elected to the Young Elite Scientists Sponsorship Program (青年人才托举工程) by the [CAST](http://www.cast.org.cn/)
 - Invited to the Editorial Board of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard)
 - Outstanding Reviewer for [Classical and Quantum Gravity](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/) and [Universe](https://www.mdpi.com/journal/universe/awards/591/download)
+- Featured Papers: 
+  [Shao & Wex'12](https://friendshao.github.io/publication/IOP_sw12.pdf), 
+  [Shao et al.'13](https://friendshao.github.io/publication/IOP_sck+13.pdf), 
+  [Shao & Wex'13](https://friendshao.github.io/publication/IOP_sw13.pdf), 
+  [Shao'16](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.084023), 
+  [Shao et al.'18](https://friendshao.github.io/publication/LQ16789.pdf)
+- Press Releases:
+  [PKU'14](http://www.phy.pku.edu.cn/english/news/140304.xml),
+  [AEI'17](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity),
+  [MPIfR'18](https://www.mpifr-bonn.mpg.de/pressreleases/2018/8)
 
 ---
 
