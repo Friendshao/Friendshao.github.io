@@ -44,6 +44,8 @@ Bonn, Germany.
 - Precision tests of fundamental physics
 - Bayesian data analysis and statistics
 
+**Office Time**: Tuesdays & Fridays 14:00-17:00 PM; *please drop me a message before visiting!*
+
 ---
 
 ### Contact
@@ -57,11 +59,3 @@ width="20">pku.edu.cn
 
 <img src="office.png" width="30"> Kavli Institute for Astronomy and
 Astrophysics, Peking University, Beijing 100871, China
-
-#### **Office Time**
-
-- Tuesdays 14:00-17:00PM
-- Fridays 14:00-17:00PM
-
-*Please drop a message before visiting!*
-
