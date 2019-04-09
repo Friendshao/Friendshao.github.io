@@ -58,10 +58,10 @@ width="20">pku.edu.cn
 <img src="office.png" width="30"> Kavli Institute for Astronomy and
 Astrophysics, Peking University, Beijing 100871, China
 
-#### Office Times
+#### **Office Time**
 
 - Tuesdays 14:00-17:00PM
 - Fridays 14:00-17:00PM
 
-Please drop a message before visiting!
+*Please drop a message before visiting!*
 
