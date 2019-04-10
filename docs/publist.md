@@ -6,8 +6,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 77)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 13)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 83)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 14)</small>
 - [**Popular Articles**](#popular) <small>(in total 6)</small>
 
 
@@ -17,10 +17,6 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
-
-0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing the gravitational weak
-   equivalence principle in the standard-model extension with binary
-pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* (accepted), arXiv:1903.11760
 
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
    hole signals from the LIGO-Virgo catalog
@@ -81,10 +77,44 @@ Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
-
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
    remnant of the binary neutron star merger
 GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* (accepted), arXiv:1810.02581
+
+0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing the gravitational weak
+   equivalence principle in the standard-model extension with binary
+pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* (accepted), arXiv:1903.11760
+
+
+0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VI. The
+   shadow and mass of the central black
+hole](https://iopscience.iop.org/article/10.3847/2041-8213/ab1141), *Astrophys.
+J. Lett.* 875 (2019) L6
+
+0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. V.
+   Physical origin of the asymmetric
+ring](https://iopscience.iop.org/article/10.3847/2041-8213/ab0f43), *Astrophys.
+J. Lett.* 875 (2019) L5
+
+0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. IV.
+   Imaging the central supermassive black
+hole](https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85), *Astrophys.
+J. Lett.* 875 (2019) L4
+
+0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. III. Data
+   processing and
+calibration](https://iopscience.iop.org/article/10.3847/2041-8213/ab0c57),
+*Astrophys.  J.  Lett.* 875 (2019) L3
+
+0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. II. Array
+   and
+instrumentation](https://iopscience.iop.org/article/10.3847/2041-8213/ab0c96),
+*Astrophys.  J. Lett.* 875 (2019) L2
+
+0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. I. The
+   shadow of the supermassive black
+hole](https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7), *Astrophys.
+J. Lett.* 875 (2019) L1
 
 0. B.P. Abbott, *et al.*,  [Search for transient gravitational-wave signals
    associated with magnetar bursts during Advanced LIGO's second observing
@@ -344,6 +374,11 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. B.P. Abbott, *et al.*,  [Gravitational wave astronomy with LIGO and similar
+   detectors in the next decade](https://arxiv.org/abs/1904.03187),
+arXiv:1904.03187
+
 
 0. B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
    [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
