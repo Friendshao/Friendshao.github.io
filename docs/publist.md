@@ -83,7 +83,7 @@ GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* (accepted), arXiv:1
 
 0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing the gravitational weak
    equivalence principle in the standard-model extension with binary
-pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* (accepted), arXiv:1903.11760
+pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99 (2019) 084017
 
 
 0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VI. The
