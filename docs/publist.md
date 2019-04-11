@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 84)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 85)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 14)</small>
 - [**Popular Articles**](#popular) <small>(in total 6)</small>
 
@@ -17,6 +17,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, *et al.*, [The
+   event horizon general relativistic magnetohydrodynamic code comparison
+project](https://arxiv.org/abs/1904.04923), arXiv:1904.04923
 
 0. B.P. Abbott, *et al.*,  [A search for the isotropic stochastic background
    using data from Advanced LIGO's second observing
