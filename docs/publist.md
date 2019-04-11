@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 83)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 84)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 14)</small>
 - [**Popular Articles**](#popular) <small>(in total 6)</small>
 
@@ -17,6 +17,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. B.P. Abbott, *et al.*,  [A search for the isotropic stochastic background
+   using data from Advanced LIGO's second observing
+run](https://arxiv.org/abs/1903.02886), arXiv:1903.02886
 
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
    hole signals from the LIGO-Virgo catalog
