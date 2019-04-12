@@ -4,7 +4,30 @@ title: Publication
 permalink: /publication/
 ---
 
-## Selected Publications
+
+**For a nearly complete list, please check at [<big>This Link</big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/search?ln=en&ln=en&p=author%3ALi.Jing.Shao.1&of=hb&action_search=Search&sf=earliestdate&so=d&rm=&rg=250&sc=0) / [Google](https://scholar.google.com/citations?user=x7Rnzn8AAAAJ&hl=en)**
+
+---
+
+<p></p>
+
+### **Selected Collaboration Papers**
+
+<img src="EHT.png" alt="EHT" style="height:40px;">
+[First M87 Event Horizon Telescope
+Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), 
+by the **Event Horizon Telescope** Collaboration
+
+<img src="LSC.png" alt="LSC" style="height:28px;">
+[GW170817:
+   Observation of Gravitational Waves from a Binary Neutron Star
+Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101),
+by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
+
+---
+<p></p>
+
+### **Selected First-author/Corresponding-author Papers**
 
 0. **L. Shao**, N. Wex, M. Kramer,
    [Testing the universality of free fall towards dark matter with radio
@@ -81,24 +104,4 @@ permalink: /publication/
     Project: [link](http://demonstrations.wolfram.com/BenfordsLawInStatisticalPhysics/)
   <img src="mathematica.png" alt="Math" style="height:30px;">
 {: reversed="reversed"}
-
-## Selected Collaboration Publications
-
-- **Event Horizon Telescope** Collaboration, [First M87 Event Horizon Telescope
-   Results. I. The Shadow of the Supermassive Black
-Hole](https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7/meta), *The
-Astrophysical Journal Letters* 875 (2019) L1
-   - <small> First image of a black hole
-
-- **LIGO Scientific** Collaboration and **Virgo** Collaboration, [GW170817:
-   Observation of Gravitational Waves from a Binary Neutron Star
-Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101),
-*Physical Review Letters* 119 (2017) 161101
-   - <small> First gravitational-wave event from a binary neutron star merger
-   - <small> Opening of the era of multi-messenger astronomy
-
-## Other Publications
-
-**For a nearly complete list, please check at [This Link](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/search?ln=en&ln=en&p=author%3ALi.Jing.Shao.1&of=hb&action_search=Search&sf=earliestdate&so=d&rm=&rg=250&sc=0) / [Google](https://scholar.google.com/citations?user=x7Rnzn8AAAAJ&hl=en)**
-
 
