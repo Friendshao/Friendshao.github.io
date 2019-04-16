@@ -35,6 +35,8 @@ tr:nth-child(odd) {
 
 | **Date** |  **Author(s)** | **Link** | **Keywords** <small>(see abbreviations at the end) |
 | 1972 | Will & Nordtvedt | [ApJ](https://doi.org/10.1086/151754) | PPN |
+| 1975 | Eardley | [ApJ](https://doi.org/10.1086/181744) | STG, NS | 
+| | Hulse & Taylor | [ApJ](https://doi.org/10.1086/181708) | PSR |
 | 1976 | Blandford & Teukolsky | [ApJ](https://doi.org/10.1086/154315) | Pulsar Timing |
 | 1985 | &#9733; Damour & Deruelle | [ADS](http://adsabs.harvard.edu/abs/1985AIHS...43..107D) | Pulsar Timing, PN |
 | 1986 | &#9733; Damour & Deruelle | [ADS](http://adsabs.harvard.edu/abs/1986AIHS...44..263D) | Pulsar Timing |
@@ -51,7 +53,7 @@ tr:nth-child(odd) {
 | 1996 | &#9733; Damour & Esposito-Farèse | [PRD](https://doi.org/10.1103/PhysRevD.54.1474) | PSR, STG, testing GR |
 | 1998 | &#9733; Cutler | [PRD](https://doi.org/10.1103/PhysRevD.57.7089) | Data, GW, LISA |
 | | Feldman & Cousins | [PRD](https://doi.org/10.1103/PhysRevD.57.3873) | Data |
-| | Will | [PRD](https://doi.org/10.1103/PhysRevD.57.2061) | CBC, GW, testing GR, massive graviton |
+| | Will | [PRD](https://doi.org/10.1103/PhysRevD.57.2061) | GW, testing GR, massive graviton |
 | 2002 | Finn & Sutton | [PRD](https://doi.org/10.1103/PhysRevD.65.044022) | Pulsar Timing, massive graviton |
 | 2003 | Stairs | [LRR](https://doi.org/10.12942/lrr-2003-5) | Pulsar Timing, Testing GR, review |
 | 2004 | &#9733; Kostelecký | [PRD](https://doi.org/10.1103/PhysRevD.69.105009) | SME |
@@ -68,6 +70,8 @@ tr:nth-child(odd) {
 | | Shao & Wex | [CQG](https://doi.org/10.1088/0264-9381/29/21/215018) | Lorentz violation, PPN, Pulsar Timing |
 | | Wagner *et al.* | [CQG](https://doi.org/10.1088/0264-9381/29/18/184002) | EP, review | 
 | 2013 | Amelino-Camelia | [LRR](https://doi.org/10.12942/lrr-2013-5) | QG, Lorentz violation |
+| | Barausse *et al.* | [PRD](https://doi.org/10.1103/PhysRevD.87.081506) | STG, BNS, GW |
+| | de Rham *et al.* | [PRD](https://doi.org/10.1103%2FPhysRevD.87.044025) | Vainshtein, massive gravity, PSR |
 | | Shao *et al.* | [CQG](https://doi.org/10.1088/0264-9381/30/16/165019) | PPN, Lorentz violation, Pulsar Timing |
 | | Shao & Wex | [CQG](https://doi.org/10.1088/0264-9381/30/16/165020) | Lorentz violation, Pulsar Timing, PPN |
 | 2014 | Shao | [PRL](https://doi.org/10.1103/PhysRevLett.112.111103) | SME, Testing GR, Pulsar Timing |
