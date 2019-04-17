@@ -25,12 +25,16 @@ Astronomy](http://www3.mpifr-bonn.mpg.de/div/fundamental/index.html), [Max
 Planck Institute for Radio Astronomy](http://www.mpifr-bonn.mpg.de/2169/en) in
 Bonn, Germany. 
 
-#### *Selected Professional Recognitions*
+#### **Selected Professional Recognitions**
 
 - Assistant Professor (助理教授/研究员) at [KIAA-PKU](http://kiaa.pku.edu.cn/people/lijing-shao-%E9%82%B5%E7%AB%8B%E6%99%B6)
 - Elected to the Young Elite Scientists Sponsorship Program (青年人才托举工程) by the [CAST](http://www.cast.org.cn/)
 - Invited to the Editorial Board of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard)
 - Outstanding Reviewer for [Classical and Quantum Gravity](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/) and [Universe](https://www.mdpi.com/journal/universe/awards/591/download)
+
+<center><p style="background-color: #D8D8D8">
+<b>Office Time:</b> Tuesdays & Fridays 14:00-17:00 PM; <i>please drop me a message before visiting!</i>
+</p></center>
 
 ---
 
@@ -44,16 +48,13 @@ Bonn, Germany.
 - Precision tests of fundamental physics
 - Bayesian data analysis and statistics
 
-**Office Time**: Tuesdays & Fridays 14:00-17:00 PM; *please drop me a message before visiting!*
-
 ---
 
 ### Contact
 
 
-<img src="email.png" width="30"> **Friendshao**<img src="at.jpg"
-width="20">**gmail.com**; lshao<img src="at.jpg"
-width="20">pku.edu.cn
+<img src="email.png" width="30"> **lshao**<img src="at.jpg"
+width="20">**pku.edu.cn**; Friendshao<img src="at.jpg" width="20">gmail.com
 
 <img src="phone.png" width="30"> +86-(0)10-6275-8461 (office)
 
