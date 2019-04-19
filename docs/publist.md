@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 85)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 86)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 14)</small>
 - [**Popular Articles**](#popular) <small>(in total 6)</small>
 
@@ -40,7 +40,8 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
 0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
    dynamics of stellar mass binary black holes around the massive black hole in
-a galactic nucleus](https://arxiv.org/abs/1903.02685), arXiv:1903.02685
+a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys.  J.*
+(accepted), arXiv:1903.02685
 
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
