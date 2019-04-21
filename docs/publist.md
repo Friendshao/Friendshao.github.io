@@ -6,8 +6,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 86)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 14)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 87)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 15)</small>
 - [**Popular Articles**](#popular) <small>(in total 6)</small>
 
 
@@ -17,6 +17,9 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> X. Miao, **L. Shao**, B.-Q. Ma, [Bounding the mass of
+   graviton in a dynamic regime with binary pulsars](TBA), submitted
 
 0. B.P. Abbott, *et al.*,  [Directional limits on persistent gravitational
    waves using data from Advanced LIGO's first two observing
@@ -387,6 +390,11 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
+   R. Eatough, M. Kramer, J. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R.
+Wharton, [Fundamental physics with Galactic center pulsars](TBA), submitted to 
+Astro2020 White Paper
 
 0. B.P. Abbott, *et al.*,  [Gravitational wave astronomy with LIGO and similar
    detectors in the next decade](https://arxiv.org/abs/1904.03187),
