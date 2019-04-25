@@ -73,10 +73,6 @@ binary-black-hole merger GW170814](https://arxiv.org/abs/1901.01540),
 *Astrophys. J. Lett.* (accepted),
 arXiv:1901.01540
 
-0. B.P. Abbott, *et al.*,  [Searches for continuous gravitational waves from
-   fifteen supernova remnants and Fomalhaut b with Advanced
-LIGO](https://arxiv.org/abs/1812.11656), *Astrophys. J.* (accepted), arXiv:1812.11656
-
 0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
    compact binary mergers observed by LIGO and Virgo during the first and
 second observing runs](https://arxiv.org/abs/1811.12907), arXiv:1811.12907
@@ -96,6 +92,10 @@ Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
    remnant of the binary neutron star merger
 GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* (accepted), arXiv:1810.02581
+
+0. B.P. Abbott, *et al.*,  [Searches for continuous gravitational waves from 15
+   supernova remnants and Fomalhaut b with Advanced
+LIGO](https://arxiv.org/abs/1812.11656), *Astrophys. J.* 875 (2019) 122
 
 0. <sup>&#9733;</sup> **L. Shao**, Q.G. Bailey, [Testing the gravitational weak
    equivalence principle in the standard-model extension with binary

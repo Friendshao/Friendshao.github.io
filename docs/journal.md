@@ -23,7 +23,7 @@ tr:nth-child(odd) {
 
 <big><big><big> **Serving for Academic Journals**
 
-| [Science Bulletin](http://www.scibull.com) | **Executive Board Member** (2019—2020) |
+| [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | **Executive Board Member** (2019—2020) |
 | [Universe](http://www.mdpi.com/journal/universe) | **Editor** (2018—present) |
 | [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | **Outstanding Reviewer** ([2018](CQG2018.pdf)) |
 | [Universe](http://www.mdpi.com/journal/universe) | **Outstanding Reviewer** ([2018](Universe2018.pdf)) |
