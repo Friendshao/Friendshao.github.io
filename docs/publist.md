@@ -62,12 +62,6 @@ data](https://arxiv.org/abs/arXiv:1902.08507), arXiv:1902.08507
 [Constraints on millicharged dark matter and axion-like particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 
-0. M. Soares-Santos, *et al.*, [First measurement of the Hubble constant from a
-   dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo
-binary-black-hole merger GW170814](https://arxiv.org/abs/1901.01540),
-*Astrophys. J. Lett.* (accepted),
-arXiv:1901.01540
-
 0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
    compact binary mergers observed by LIGO and Virgo during the first and
 second observing runs](https://arxiv.org/abs/1811.12907), arXiv:1811.12907
@@ -86,7 +80,12 @@ Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
    remnant of the binary neutron star merger
-GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* (accepted), arXiv:1810.02581
+GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* 875 (2019) 160
+
+0. M. Soares-Santos, *et al.*, [First measurement of the Hubble constant from a
+   dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo
+binary-black-hole merger GW170814](https://arxiv.org/abs/1901.01540),
+*Astrophys. J. Lett.* 876 (2019) L7
 
 0. B.P. Abbott, *et al.*,  [Low-latency gravitational-wave alerts for
    multimessenger astronomy during the second Advanced LIGO and Virgo observing
