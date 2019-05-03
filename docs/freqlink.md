@@ -23,13 +23,6 @@ layout: default
 
 **Tools**
 
-- [Rambler](https://r0.ru/), 
-  [Bird](http://bird.so/),
-  [Yahoo](https://sg.search.yahoo.com),
-  [Mezw](https://so.mezw.com/),
-  [avira](https://search.avira.com/),
-  [ecosia](http://www.ecosia.org/),
-  [DuckDuckGo](https://duckduckgo.com/)
 - [Calendar](https://calendar.google.com/calendar/r),
   [Onenote](https://www.onenote.com/),
   [Google](http://www.google.com/ncr)
@@ -45,7 +38,7 @@ layout: default
   [Dropbox](https://www.dropbox.com/home),
   [github](https://github.com/),
   [bitbucket](https://bitbucket.org/),
-  [Overleaf](https://www.overleaf.com/dash)
+  [Overleaf](https://www.overleaf.com/project)
 - [Sage](http://www.sagemath.org/index.html)
   ([cell](https://sagecell.sagemath.org/),
   [CoCalc](https://cocalc.com/),
