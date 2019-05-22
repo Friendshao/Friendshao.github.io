@@ -7,7 +7,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 87)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 15)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 16)</small>
 - [**Popular Articles**](#popular) <small>(in total 6)</small>
 
 
@@ -389,6 +389,9 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
+0. <sup>&#9733;</sup> **L. Shao**, 
+   [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
+
 0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
    R. Eatough, M. Kramer, J. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R.
 Wharton, [Fundamental physics with Galactic center pulsars](TBA), submitted to 
@@ -397,7 +400,6 @@ Astro2020 White Paper
 0. B.P. Abbott, *et al.*,  [Gravitational wave astronomy with LIGO and similar
    detectors in the next decade](https://arxiv.org/abs/1904.03187),
 arXiv:1904.03187
-
 
 0. B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
    [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
