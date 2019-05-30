@@ -41,11 +41,6 @@ GWTC-1](https://arxiv.org/abs/1903.04467), arXiv:1903.04467
 [On the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
-0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
-   dynamics of stellar mass binary black holes around the massive black hole in
-a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys.  J.*
-(accepted), arXiv:1903.02685
-
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
 data](https://arxiv.org/abs/1903.01901), arXiv:1903.01901
@@ -77,6 +72,11 @@ Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
    Pritchard, A. Raccanelli, S. Riemer-Sørensen, **L. Shao**, *et al.*,
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
+0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
+   dynamics of stellar-mass binary black holes around the massive black hole in
+a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys.  J.*
+877 (2019) 87
 
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
    remnant of the binary neutron star merger
