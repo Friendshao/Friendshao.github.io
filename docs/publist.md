@@ -19,7 +19,8 @@ layout: default
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
 0. <sup>&#9733;</sup> X. Miao, **L. Shao**, B.-Q. Ma, [Bounding the mass of
-   graviton in a dynamic regime with binary pulsars](TBA), submitted
+   graviton in a dynamic regime with binary pulsars](https://arxiv.org/abs/1905.12836), 
+   arXiv:1905.12836
 
 0. B.P. Abbott, *et al.*,  [Directional limits on persistent gravitational
    waves using data from Advanced LIGO's first two observing
