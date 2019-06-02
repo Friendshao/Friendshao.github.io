@@ -20,7 +20,7 @@ layout: default
 
 0. <sup>&#9733;</sup> X. Miao, **L. Shao**, B.-Q. Ma, [Bounding the mass of
    graviton in a dynamic regime with binary pulsars](https://arxiv.org/abs/1905.12836), 
-   arXiv:1905.12836
+   *Phys. Rev. D* (accepted), arXiv:1905.12836
 
 0. B.P. Abbott, *et al.*,  [Directional limits on persistent gravitational
    waves using data from Advanced LIGO's first two observing
@@ -44,7 +44,7 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
-data](https://arxiv.org/abs/1903.01901), arXiv:1903.01901
+data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* (accepted), arXiv:1903.01901
 
 0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
    known pulsars using the second LIGO observing
@@ -52,7 +52,7 @@ run](https://arxiv.org/abs/1902.08442), arXiv:1902.08442
 
 0. B.P. Abbott, *et al.*,  [Searches for gravitational waves from known pulsars
    at two harmonics in 2015-2017 LIGO
-data](https://arxiv.org/abs/arXiv:1902.08507), arXiv:1902.08507
+data](https://arxiv.org/abs/arXiv:1902.08507), *Astrophys. J.* (accepted), arXiv:1902.08507
 
 0. A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, **L. Shao**, W. Yan,
 [Constraints on millicharged dark matter and axion-like particles from timing
