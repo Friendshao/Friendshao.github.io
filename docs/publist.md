@@ -395,8 +395,9 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 
 0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
    R. Eatough, M. Kramer, J. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R.
-Wharton, [Fundamental physics with Galactic center pulsars](TBA), submitted to 
-Astro2020 White Paper
+Wharton, [Fundamental physics with Galactic center
+pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
+*Bulletin of the American Astronomical Society* 51 (2019) 438
 
 0. B.P. Abbott, *et al.*,  [Gravitational wave astronomy with LIGO and similar
    detectors in the next decade](https://arxiv.org/abs/1904.03187),
