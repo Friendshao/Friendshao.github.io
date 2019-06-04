@@ -393,23 +393,21 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
-0. G.C. Bower, S. Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter,
-   R. Eatough, M. Kramer, J. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R.
-Wharton, [Fundamental physics with Galactic center
-pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
-*Bulletin of the American Astronomical Society* 51 (2019) 438
-
 0. B.P. Abbott, *et al.*,  [Gravitational wave astronomy with LIGO and similar
    detectors in the next decade](https://arxiv.org/abs/1904.03187),
 arXiv:1904.03187
 
-0. B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
-   [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
-arXiv:1903.09221
-
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
    stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
+
+0. G.C. Bower, *et al.*, [Fundamental physics with Galactic center
+pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
+*Bulletin of the American Astronomical Society* 51 (2019) 438
+
+0. B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
+   [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
+*Bulletin of the American Astronomical Society* 51 (2019) 251
 
 0. P. Demorest, *et al.*, [ngVLA
 searches for pulsars at the Galactic
