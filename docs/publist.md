@@ -18,9 +18,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. <sup>&#9733;</sup> X. Miao, **L. Shao**, B.-Q. Ma, [Bounding the mass of
-   graviton in a dynamic regime with binary pulsars](https://arxiv.org/abs/1905.12836), 
-   *Phys. Rev. D* (accepted), arXiv:1905.12836
 
 0. B.P. Abbott, *et al.*,  [Directional limits on persistent gravitational
    waves using data from Advanced LIGO's first two observing
@@ -42,18 +39,6 @@ GWTC-1](https://arxiv.org/abs/1903.04467), arXiv:1903.04467
 [On the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
-0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
-   from isolated neutron stars using Advanced LIGO O2
-data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* (accepted), arXiv:1903.01901
-
-0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
-   known pulsars using the second LIGO observing
-run](https://arxiv.org/abs/1902.08442), arXiv:1902.08442
-
-0. B.P. Abbott, *et al.*,  [Searches for gravitational waves from known pulsars
-   at two harmonics in 2015-2017 LIGO
-data](https://arxiv.org/abs/arXiv:1902.08507), *Astrophys. J.* (accepted), arXiv:1902.08507
-
 0. A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, **L. Shao**, W. Yan,
 [Constraints on millicharged dark matter and axion-like particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
@@ -66,13 +51,30 @@ second observing runs](https://arxiv.org/abs/1811.12907), arXiv:1811.12907
    from the first and second observing runs of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
 
-0. B.P. Abbott, *et al.*,  [Tests of general relativity with
-   GW170817](https://arxiv.org/abs/1811.00364), arXiv:1811.00364
-
 0. <sup>&#9733;</sup> P. Bull, S. Camera, K. Kelley, H. Padmanabhan, J.
    Pritchard, A. Raccanelli, S. Riemer-Sørensen, **L. Shao**, *et al.*,
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
+0. B.P. Abbott, *et al.*,  [Tests of general relativity with
+   GW170817](https://arxiv.org/abs/1811.00364), 
+   *Phys. Rev. Lett.* (accepted), arXiv:1811.00364
+
+0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
+   known pulsars using the second LIGO observing
+run](https://arxiv.org/abs/1902.08442), *Phys. Rev. D* (accepted), arXiv:1902.08442
+
+0. B.P. Abbott, *et al.*,  [Searches for gravitational waves from known pulsars
+   at two harmonics in 2015-2017 LIGO
+data](https://arxiv.org/abs/arXiv:1902.08507), *Astrophys. J.* (accepted), arXiv:1902.08507
+
+0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
+   from isolated neutron stars using Advanced LIGO O2
+data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* (accepted), arXiv:1903.01901
+
+0. <sup>&#9733;</sup> X. Miao, **L. Shao**, B.-Q. Ma, [Bounding the mass of
+   graviton in a dynamic regime with binary pulsars](https://arxiv.org/abs/1905.12836), 
+   *Phys. Rev. D* (accepted), arXiv:1905.12836
 
 0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
    dynamics of stellar-mass binary black holes around the massive black hole in
