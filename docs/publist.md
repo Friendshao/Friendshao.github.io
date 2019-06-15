@@ -43,10 +43,6 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 [Constraints on millicharged dark matter and axion-like particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 
-0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
-   compact binary mergers observed by LIGO and Virgo during the first and
-second observing runs](https://arxiv.org/abs/1811.12907), arXiv:1811.12907
-
 0. B.P. Abbott, *et al.*,  [Binary black hole population properties inferred
    from the first and second observing runs of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
@@ -55,6 +51,11 @@ Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
    Pritchard, A. Raccanelli, S. Riemer-Sørensen, **L. Shao**, *et al.*,
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
+0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
+   compact binary mergers observed by LIGO and Virgo during the first and
+second observing runs](https://arxiv.org/abs/1811.12907), 
+*Phys. Rev. X* (accepted), arXiv:1811.12907
 
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with
    GW170817](https://arxiv.org/abs/1811.00364), 
