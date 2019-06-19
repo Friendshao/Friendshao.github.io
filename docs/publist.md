@@ -75,7 +75,7 @@ data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* (accepted), arXiv:1903.0
 
 0. <sup>&#9733;</sup> X. Miao, **L. Shao**, B.-Q. Ma, [Bounding the mass of
    graviton in a dynamic regime with binary pulsars](https://arxiv.org/abs/1905.12836), 
-   *Phys. Rev. D* (accepted), arXiv:1905.12836
+   *Phys. Rev. D* 99 (2019) 123015
 
 0. F. Zhang, **L. Shao**, W. Zhu, [Gravitational-wave merging events from the
    dynamics of stellar-mass binary black holes around the massive black hole in
