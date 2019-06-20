@@ -7,8 +7,8 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 87)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 16)</small>
-- [**Popular Articles**](#popular) <small>(in total 6)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 17)</small>
+- [**Popular Articles**](#popular) <small>(in total 7)</small>
 
 
 ---
@@ -395,6 +395,10 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
+0. <sup>&#9733;</sup> **L. Shao**,
+   [Testing fifth forces from the Galactic dark matter](TBA),
+   Proceedings, submitted
+
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
@@ -470,6 +474,9 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 
 <a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
+
+0. <sup>&#9733;</sup> **邵立晶**,
+   [GW170817: 爱因斯坦对了吗?] 《物理》, submitted
 
 0. <sup>&#9733;</sup> **邵立晶** [编译],
    [一“波”发现](http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml), 《物理》 47 (2018) 734
