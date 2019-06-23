@@ -476,7 +476,7 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 <big><big>**Popular Articles**</big></big>
 
 0. <sup>&#9733;</sup> **邵立晶**,
-   [GW170817: 爱因斯坦对了吗?] 《物理》, submitted
+   [GW170817: 爱因斯坦对了吗?](TBA), 《物理》, submitted
 
 0. <sup>&#9733;</sup> **邵立晶** [编译],
    [一“波”发现](http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml), 《物理》 47 (2018) 734
