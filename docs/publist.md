@@ -61,13 +61,13 @@ second observing runs](https://arxiv.org/abs/1811.12907),
    GW170817](https://arxiv.org/abs/1811.00364), 
    *Phys. Rev. Lett.* (accepted), arXiv:1811.00364
 
-0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
-   known pulsars using the second LIGO observing
-run](https://arxiv.org/abs/1902.08442), *Phys. Rev. D* (accepted), arXiv:1902.08442
-
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
 data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* (accepted), arXiv:1903.01901
+
+0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
+   known pulsars using the second LIGO observing
+run](https://arxiv.org/abs/1902.08442), *Phys. Rev. D* 99 (2019) 122002
 
 0. B.P. Abbott, *et al.*,  [Searches for gravitational waves from known pulsars
    at two harmonics in 2015-2017 LIGO
