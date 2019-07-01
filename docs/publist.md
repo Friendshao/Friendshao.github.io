@@ -6,10 +6,9 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 87)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 17)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 88)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 16)</small>
 - [**Popular Articles**](#popular) <small>(in total 7)</small>
-
 
 ---
 
@@ -18,6 +17,9 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
+in the second Advanced LIGO observing run with an improved hidden Markov
+model](https://arxiv.org/abs/1906.12040), arXiv:1906.12040
 
 0. B.P. Abbott, *et al.*,  [Directional limits on persistent gravitational
    waves using data from Advanced LIGO's first two observing
@@ -401,10 +403,6 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
-
-0. B.P. Abbott, *et al.*,  [Gravitational wave astronomy with LIGO and similar
-   detectors in the next decade](https://arxiv.org/abs/1904.03187),
-arXiv:1904.03187
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
