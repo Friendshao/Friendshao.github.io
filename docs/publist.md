@@ -64,13 +64,13 @@ Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 second observing runs](https://arxiv.org/abs/1811.12907), 
 *Phys. Rev. X* (accepted), arXiv:1811.12907
 
-0. B.P. Abbott, *et al.*,  [Tests of general relativity with
-   GW170817](https://arxiv.org/abs/1811.00364), 
-   *Phys. Rev. Lett.* (accepted), arXiv:1811.00364
-
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
 data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* (accepted), arXiv:1903.01901
+
+0. B.P. Abbott, *et al.*,  [Tests of general relativity with
+   GW170817](https://arxiv.org/abs/1811.00364), *Phys. Rev. Lett.* 123 (2019)
+011102
 
 0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
    known pulsars using the second LIGO observing
