@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 88)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 89)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 16)</small>
 - [**Popular Articles**](#popular) <small>(in total 7)</small>
 
@@ -16,6 +16,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Z. Cao, B.-Q. Ma, [Reduced-order
+surrogate models for scalar-tensor gravity in the strong field and
+applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780),
+arXiv:1907.00780
 
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
 in the second Advanced LIGO observing run with an improved hidden Markov
