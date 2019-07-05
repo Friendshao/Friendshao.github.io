@@ -41,6 +41,7 @@ tr:nth-child(odd) {
 | [International Journal of Modern Physics D](http://www.worldscientific.com/worldscinet/ijmpd) |  -- |
 | [Journal of High Energy Astrophysics](https://www.journals.elsevier.com/journal-of-high-energy-astrophysics) |  -- |
 | [Modern Physics Letters A](https://www.worldscientific.com/worldscinet/mpla) |  -- |
+| [Monthly Notices of the Royal Astronomical Society](https://academic.oup.com/mnras) | -- |
 | [New Astronomy](https://www.journals.elsevier.com/new-astronomy/) |  -- |
 | [Physical Review D](https://journals.aps.org/prd/) |  -- |
 | [Physical Review Letters](https://journals.aps.org/prl/) |  -- |
