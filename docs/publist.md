@@ -402,16 +402,15 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
-0. <sup>&#9733;</sup> **L. Shao**,
-   [Testing fifth forces from the Galactic dark matter](https://arxiv.org/abs/1907.02232),
-   Proceedings (accepted), arXiv:1907.02232
-
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
    stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
+
+0. <sup>&#9733;</sup> **L. Shao**, [Testing fifth forces from the Galactic dark
+   matter](https://arxiv.org/abs/1907.02232), Proceedings 17 (2019) 3
 
 0. G.C. Bower, *et al.*, [Fundamental physics with Galactic center
 pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
