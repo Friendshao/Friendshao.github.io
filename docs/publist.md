@@ -403,8 +403,8 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
 0. <sup>&#9733;</sup> **L. Shao**,
-   [Testing fifth forces from the Galactic dark matter](TBA),
-   Proceedings, submitted
+   [Testing fifth forces from the Galactic dark matter](https://arxiv.org/abs/1907.02232),
+   Proceedings (accepted), arXiv:1907.02232
 
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
