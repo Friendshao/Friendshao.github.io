@@ -66,7 +66,7 @@ second observing runs](https://arxiv.org/abs/1811.12907),
 
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
-data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* (accepted), arXiv:1903.01901
+data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* 100 (2019) 024004
 
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with
    GW170817](https://arxiv.org/abs/1811.00364), *Phys. Rev. Lett.* 123 (2019)
