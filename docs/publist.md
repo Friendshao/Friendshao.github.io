@@ -30,10 +30,6 @@ model](https://arxiv.org/abs/1906.12040), arXiv:1906.12040
    waves using data from Advanced LIGO's first two observing
 runs](https://arxiv.org/abs/1903.08844), arXiv:1903.08844
 
-0. O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, *et al.*, [The
-   event horizon general relativistic magnetohydrodynamic code comparison
-project](https://arxiv.org/abs/1904.04923), arXiv:1904.04923
-
 0. B.P. Abbott, *et al.*,  [A search for the isotropic stochastic background
    using data from Advanced LIGO's second observing
 run](https://arxiv.org/abs/1903.02886), arXiv:1903.02886
@@ -63,6 +59,11 @@ Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
    compact binary mergers observed by LIGO and Virgo during the first and
 second observing runs](https://arxiv.org/abs/1811.12907), 
 *Phys. Rev. X* (accepted), arXiv:1811.12907
+
+0. O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, *et al.*, [The
+   event horizon general relativistic magnetohydrodynamic code comparison
+project](https://arxiv.org/abs/1904.04923), 
+*Astrophys. J. Suppl.* (accepted), arXiv:1904.04923
 
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
