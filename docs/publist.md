@@ -408,10 +408,10 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
-   stars](https://arxiv.org/abs/1901.07546), arXiv:1901.07546
+   stars](https://arxiv.org/abs/1901.07546), *AIP Conference Proceedings* 2127 (2019) 020016
 
 0. <sup>&#9733;</sup> **L. Shao**, [Testing fifth forces from the Galactic dark
-   matter](https://arxiv.org/abs/1907.02232), Proceedings 17 (2019) 3
+   matter](https://arxiv.org/abs/1907.02232), *Proceedings* 17 (2019) 3
 
 0. G.C. Bower, *et al.*, [Fundamental physics with Galactic center
 pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
@@ -423,8 +423,8 @@ pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
 
 0. P. Demorest, *et al.*, [ngVLA
 searches for pulsars at the Galactic
-center](http://adsabs.harvard.edu/abs/2019AAS...23336124D), American
-Astronomical Society, AAS Meeting no. 233, id. no. 361.24
+center](http://adsabs.harvard.edu/abs/2019AAS...23336124D), *American
+Astronomical Society*, AAS Meeting no. 233, id. no. 361.24
 
 0. G.C. Bower, *et al.*,
 [Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
