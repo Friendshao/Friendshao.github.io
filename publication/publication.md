@@ -11,22 +11,6 @@ permalink: /publication/
 
 <p></p>
 
-### **Selected Collaboration Papers**
-
-<img src="EHT.png" alt="EHT" style="height:40px;">
-[First M87 Event Horizon Telescope
-Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), 
-by the **Event Horizon Telescope** Collaboration
-
-<img src="LSC.png" alt="LSC" style="height:28px;">
-[GW170817:
-   Observation of Gravitational Waves from a Binary Neutron Star
-Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101),
-by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
-
----
-<p></p>
-
 ### **Selected First-author/Corresponding-author Papers**
 
 0. **L. Shao**, N. Wex, M. Kramer,
@@ -105,3 +89,18 @@ by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
   <img src="mathematica.png" alt="Math" style="height:30px;">
 {: reversed="reversed"}
 
+---
+<p></p>
+
+### **Selected Collaboration Papers**
+
+<img src="EHT.png" alt="EHT" style="height:40px;">
+[First M87 Event Horizon Telescope
+Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), 
+by the **Event Horizon Telescope** Collaboration
+
+<img src="LSC.png" alt="LSC" style="height:28px;">
+[GW170817:
+   Observation of Gravitational Waves from a Binary Neutron Star
+Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101),
+by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
