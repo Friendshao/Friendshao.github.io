@@ -30,10 +30,6 @@ model](https://arxiv.org/abs/1906.12040), arXiv:1906.12040
    waves using data from Advanced LIGO's first two observing
 runs](https://arxiv.org/abs/1903.08844), arXiv:1903.08844
 
-0. B.P. Abbott, *et al.*,  [A search for the isotropic stochastic background
-   using data from Advanced LIGO's second observing
-run](https://arxiv.org/abs/1903.02886), arXiv:1903.02886
-
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
    hole signals from the LIGO-Virgo catalog
 GWTC-1](https://arxiv.org/abs/1903.04467), arXiv:1903.04467
@@ -46,14 +42,19 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 [Constraints on millicharged dark matter and axion-like particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 
-0. B.P. Abbott, *et al.*,  [Binary black hole population properties inferred
-   from the first and second observing runs of Advanced LIGO and Advanced
-Virgo](https://arxiv.org/abs/1811.12940), arXiv:1811.12940
-
 0. <sup>&#9733;</sup> P. Bull, S. Camera, K. Kelley, H. Padmanabhan, J.
    Pritchard, A. Raccanelli, S. Riemer-Sørensen, **L. Shao**, *et al.*,
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
+0. B.P. Abbott, *et al.*,  [A search for the isotropic stochastic background
+   using data from Advanced LIGO's second observing
+run](https://arxiv.org/abs/1903.02886), 
+*Phys. Rev. D* (accepted), arXiv:1903.02886
+
+0. B.P. Abbott, *et al.*,  [Binary black hole population properties inferred
+   from the first and second observing runs of Advanced LIGO and Advanced
+Virgo](https://arxiv.org/abs/1811.12940), *Astrophys. J.* (accepted), arXiv:1811.12940
 
 0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
    compact binary mergers observed by LIGO and Virgo during the first and
