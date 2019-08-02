@@ -64,7 +64,7 @@ second observing runs](https://arxiv.org/abs/1811.12907),
 0. O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, *et al.*, [The
    event horizon general relativistic magnetohydrodynamic code comparison
 project](https://arxiv.org/abs/1904.04923), 
-*Astrophys. J. Suppl.* (accepted), arXiv:1904.04923
+*Astrophys. J. Suppl.* 243 (2019) 26
 
 0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
