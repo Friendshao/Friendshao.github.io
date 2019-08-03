@@ -34,10 +34,6 @@ Bonn, Germany.
   and the Editorial Board of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard)
 - Outstanding Reviewer for [Classical and Quantum Gravity](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/) and [Universe](https://www.mdpi.com/journal/universe/awards/591/download)
 
-<center><p style="background-color: #D8D8D8">
-<b>Office Time:</b> Wednesdays & Fridays 14:00-17:00 PM; <i>please drop me a message before visiting!</i>
-</p></center>
-
 ---
 
 ### Research Interests <small><small>([Research Group](https://kiaagravity.github.io))</small></small>
@@ -58,7 +54,10 @@ Bonn, Germany.
 <img src="email.png" width="30"> **lshao**<img src="at.jpg"
 width="20">**pku.edu.cn**; Friendshao<img src="at.jpg" width="20">gmail.com
 
-<img src="phone.png" width="30"> +86-(0)10-6275-8461 (office)
+<img src="phone.png" width="30"> +86-(0)10-6275-8461 (Office K217)
 
 <img src="office.png" width="30"> Kavli Institute for Astronomy and
 Astrophysics, Peking University, Beijing 100871, China
+
+<img src="open.jpg" width="30"> **Office Hours:** Wednesdays & Fridays 14:00-17:00 PM
+
