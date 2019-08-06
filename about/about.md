@@ -41,9 +41,9 @@ Bonn, Germany.
 - Tests of gravity theories
 - Gravitational waves
 - Pulsars and neutron stars
-- Astrophysical studies of dark matter
-- Black hole spacetime
+- Black-hole spacetime & black-hole astrophysics
 - Precision tests of fundamental physics
+- Astrophysical studies of dark matter
 - Bayesian data analysis and statistics
 
 ---
@@ -59,5 +59,5 @@ width="20">**pku.edu.cn**; Friendshao<img src="at.jpg" width="20">gmail.com
 <img src="office.png" width="30"> Kavli Institute for Astronomy and
 Astrophysics, Peking University, Beijing 100871, China
 
-<img src="open.jpg" width="30"> **Office Hours:** Wednesdays & Fridays 14:00-17:00 PM
+<img src="open.jpg" width="30"> **Office Hours:** Wednesdays & Fridays 14:00-17:00 PM (by appointment)
 

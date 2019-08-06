@@ -38,3 +38,9 @@ use by my group members. Please don't tell me if your favorite papers or books
 are not included, because,
 - this list is never supposed to be complete and,
 - I am still reading your papers/books!
+
+### Events
+
+- Google calendar embeded
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FShanghai&amp;src=cnZhNzZnMDdqYzA5YzVraTBmYzdibTN0M2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;showTitle=0&amp;showPrint=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
