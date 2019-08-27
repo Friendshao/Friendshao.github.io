@@ -20,7 +20,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-# <b>Theoretical Mechanics</b>
+# <b>Theoretical Mechanics (理论力学)</b>
 
 ### <u>Fall 2019, Peking University</u>
 
@@ -35,6 +35,23 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 </font>
 </p>
 
+## 课程信息
+
+| **时间** | 周一 10:10—12:00；周三 8:00—9:50 |
+| **地点** | 文史楼119室 |
+| **期末考试时间** | 2020年1月8日，上午 |
+| **教科书** | **梁昆淼 [原著]，鞠国兴 & 施毅 [修订]《力学(第四版)下册》（2009）** |
+| **参考书** |  |
+| | |
+| | |
+| **教师** | 邵立晶 | 
+| | Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
+| **助教A** | 刘畅 |
+| | 负责单号班，习题课为双周周四7-8节，二教412 |
+| | Office KIAA-404；leslielc@pku.edu.cn |
+| **助教B** | 高勇 |
+| | 负责双号班，习题课为双周周四7-8节，二教308 |
+| | Office KIAA-102；gaoyong.physics@pku.edu.cn |
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
