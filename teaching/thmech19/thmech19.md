@@ -41,8 +41,8 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | **地点** | 文史楼119室 |
 | **期末考试时间** | 2020年1月8日，上午 |
 | **教科书** | **梁昆淼 [原著]，鞠国兴 & 施毅 [修订]《力学(第四版)下册》（2009）** |
-| **参考书** | 胡慧玲，林纯镇，吴惟敏，《理论力学基础教程》，1986 |
-| | 刘川，《理论力学》讲义v1.4 [[链接](ftp://pts.phy.pku.edu.cn/liuchuan/)] |
+| **参考书** | 胡慧玲，林纯镇，吴惟敏，《理论力学基础教程》，1986 [[链接](http://www.phy.pku.edu.cn/~frxu/file/teaching/lilunlixue.pdf)] |
+| | 刘川，《理论力学》讲义v1.4 [[链接](ftp://pts.phy.pku.edu.cn/liuchuan/mech_v1.4.pdf)] |
 | | H. Goldstein, C. Poole, J. Safko, *Classical Mechanics* (3rd ed), 2002 |
 | | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
 | **教师** | 邵立晶 | 
@@ -59,6 +59,8 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 ## 课程内容
 
 | **内容** | **作业** | **备注** |
+| [0. 课程介绍](https://share.weiyun.com/5xu6o29) | | |
+| 1. 矢量力学 | | |
 | 拉格朗日方程 | | |
 | 有心运动 | | |
 | 小振动| | |
