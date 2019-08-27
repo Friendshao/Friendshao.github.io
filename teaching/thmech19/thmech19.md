@@ -41,9 +41,10 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | **地点** | 文史楼119室 |
 | **期末考试时间** | 2020年1月8日，上午 |
 | **教科书** | **梁昆淼 [原著]，鞠国兴 & 施毅 [修订]《力学(第四版)下册》（2009）** |
-| **参考书** |  |
-| | |
-| | |
+| **参考书** | 胡慧玲，林纯镇，吴惟敏，《理论力学基础教程》，1986 |
+| | 刘川，《理论力学》讲义v1.4 [[链接](ftp://pts.phy.pku.edu.cn/liuchuan/)] |
+| | H. Goldstein, C. Poole, J. Safko, *Classical Mechanics* (3rd ed), 2002 |
+| | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
 | **教师** | 邵立晶 | 
 | | Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
 | **助教A** | 刘畅 |
@@ -52,6 +53,22 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | **助教B** | 高勇 |
 | | 负责双号班，习题课为双周周四7-8节，二教308 |
 | | Office KIAA-102；gaoyong.physics@pku.edu.cn |
+
+<p></p>
+
+## 课程内容
+
+| **内容** | **作业** | **备注** |
+| 拉格朗日方程 | | |
+| 有心运动 | | |
+| 小振动| | |
+| 刚体运动学 | | |
+| 刚体动力学 | | |
+| 哈密顿力学 | | |
+| 力学中的变分方法 | | |
+| 连续介质动力学 | | |
+| 相对论性的分析力学 | | |
+
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
