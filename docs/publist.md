@@ -19,7 +19,7 @@ layout: default
 
 0. <sup>&#9733;</sup> **L. Shao**, [Lorentz-violating matter-gravity
 couplings in small-eccentricity binary
-pulsars](https://arxiv.org/abs/1908.10019), *Symmetry* (submitted), arXiv:1908.10019
+pulsars](https://arxiv.org/abs/1908.10019), *Symmetry* (accepted), arXiv:1908.10019
 
 0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Z. Cao, B.-Q. Ma, [Reduced-order
 surrogate models for scalar-tensor gravity in the strong field and
