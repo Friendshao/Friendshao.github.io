@@ -17,10 +17,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. <sup>&#9733;</sup> **L. Shao**, [Lorentz-violating matter-gravity
-couplings in small-eccentricity binary
-pulsars](https://arxiv.org/abs/1908.10019), *Symmetry* (accepted), arXiv:1908.10019
-
 0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Z. Cao, B.-Q. Ma, [Reduced-order
 surrogate models for scalar-tensor gravity in the strong field and
 applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780),
@@ -65,6 +61,10 @@ Virgo](https://arxiv.org/abs/1811.12940), *Astrophys. J. Lett.* (accepted), arXi
    compact binary mergers observed by LIGO and Virgo during the first and
 second observing runs](https://arxiv.org/abs/1811.12907), 
 *Phys. Rev. X* (accepted), arXiv:1811.12907
+
+0. <sup>&#9733;</sup> **L. Shao**, [Lorentz-violating matter-gravity
+couplings in small-eccentricity binary
+pulsars](https://arxiv.org/abs/1908.10019), *Symmetry* 11 (2019) 1098
 
 0. O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, *et al.*, [The
    event horizon general relativistic magnetohydrodynamic code comparison
