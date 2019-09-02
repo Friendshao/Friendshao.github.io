@@ -63,13 +63,13 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | [1. 矢量力学](https://www.icloud.com/iclouddrive/01G18rTv8R0QJ-oFNPy66gBiw#1) | | |
 | 2. 拉格朗日方程 [[partA](https://www.icloud.com/iclouddrive/0OOYm5XwsPEMuWgkKuBGZYztA#2), [partB](https://www.icloud.com/iclouddrive/0nBRa9KXymODToHPfkrrluE7g#2)] | | |
 | [3. 有心运动](https://www.icloud.com/iclouddrive/0qXE9L8xR1Yku1GlKabebcBfg#3) | | |
-| 小振动| | |
-| 刚体运动学 | | |
-| 刚体动力学 | | |
-| 哈密顿力学 | | |
-| 力学中的变分方法 | | |
-| 连续介质动力学 | | |
-| 相对论性的分析力学 | | |
+| 4. 小振动| | |
+| 5. 刚体运动学 | | |
+| 6. 刚体动力学 | | |
+| 7. 哈密顿力学 | | |
+| 8. 力学中的变分方法 | | |
+| 9. 连续介质动力学 | | |
+| 10. 相对论性的分析力学 | | |
 
 
 <script type="text/x-mathjax-config">

@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 90)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 93)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 16)</small>
 - [**Popular Articles**](#popular) <small>(in total 7)</small>
 
@@ -16,6 +16,17 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. I. Dvorkin, <i>et al.</i>, [High angular resolution gravitational wave
+astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
+
+0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
+Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
+arXiv:1908.11391
+
+0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
+in gravitational-wave astronomy: Discoveries waiting in the decihertz
+range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
 0. <sup>&#9733;</sup> **L. Shao**, [Lorentz-violating matter-gravity
 couplings in small-eccentricity binary
