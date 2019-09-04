@@ -27,7 +27,7 @@ Bonn, Germany.
 
 #### **Selected Professional Recognitions**
 
-- Assistant Professor (研究员/助理教授) at
+- Assistant Professor (研究员/助理教授/博士生导师) at
   [KIAA-PKU](http://kiaa.pku.edu.cn/people/lijing-shao-%E9%82%B5%E7%AB%8B%E6%99%B6)
 - Elected to the Young Elite Scientists Sponsorship Program (青年人才托举工程) by the [CAST](http://www.cast.org.cn/)
 - Invited to the Executive Board Members of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin)
