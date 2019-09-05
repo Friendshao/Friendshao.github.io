@@ -42,14 +42,14 @@ applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780),
 of radio waves](https://arxiv.org/abs/1902.02695), 
 *Phys. Rev. D* (accepted), arXiv:1902.02695
 
-0. B.P. Abbott, *et al.*,  [A search for the isotropic stochastic background
-   using data from Advanced LIGO's second observing
-run](https://arxiv.org/abs/1903.02886), 
-*Phys. Rev. D* (accepted), arXiv:1903.02886
-
 0. B.P. Abbott, *et al.*,  [Binary black hole population properties inferred
    from the first and second observing runs of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/1811.12940), *Astrophys. J. Lett.* (accepted), arXiv:1811.12940
+
+0. B.P. Abbott, *et al.*,  [Search for the isotropic stochastic background
+   using data from Advanced LIGO's second observing
+run](https://arxiv.org/abs/1903.02886), 
+*Phys. Rev. D* 100 (2019) 061101
 
 0. B.P. Abbott, *et al.*,  [Directional limits on persistent gravitational
    waves using data from Advanced LIGO's first two observing
