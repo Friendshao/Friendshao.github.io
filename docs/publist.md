@@ -17,12 +17,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-
-0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Z. Cao, B.-Q. Ma, [Reduced-order
-surrogate models for scalar-tensor gravity in the strong field and
-applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780),
-arXiv:1907.00780
-
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
 in the second Advanced LIGO observing run with an improved hidden Markov
 model](https://arxiv.org/abs/1906.12040), arXiv:1906.12040
@@ -35,10 +29,15 @@ GWTC-1](https://arxiv.org/abs/1903.04467), arXiv:1903.04467
 [On the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
-0. <sup>&#9733;</sup> P. Bull, S. Camera, K. Kelley, H. Padmanabhan, J.
+0. A. Weltman, P. Bull, S. Camera, K. Kelley, H. Padmanabhan, J.
    Pritchard, A. Raccanelli, S. Riemer-Sørensen, **L. Shao**, *et al.*,
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
+0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Z. Cao, B.-Q. Ma, [Reduced-order
+surrogate models for scalar-tensor gravity in the strong field and
+applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780),
+*Phys. Rev. D* (accepted), arXiv:1907.00780
 
 0. A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, **L. Shao**, W. Yan,
 [Constraints on millicharged dark matter and axion-like particles from timing
