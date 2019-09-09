@@ -43,6 +43,7 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | **教科书** | **梁昆淼 [原著]，鞠国兴 & 施毅 [修订]《力学(第四版)下册》（2009）** |
 | **参考书** | 胡慧玲，林纯镇，吴惟敏，《理论力学基础教程》，1986 [[链接](http://www.phy.pku.edu.cn/~frxu/file/teaching/lilunlixue.pdf)] |
 | | 刘川，《理论力学》讲义v1.4 [[链接](ftp://pts.phy.pku.edu.cn/liuchuan/mech_v1.4.pdf)] |
+| | 鞠国兴，《理论力学学习指导与习题解析(第二版)》，2018 |
 | | H. Goldstein, C. Poole, J. Safko, *Classical Mechanics* (3rd ed), 2002 |
 | | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
 | **教师** | 邵立晶 | 
@@ -59,7 +60,7 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 ## 课程内容
 
 | **内容** | **作业** | **备注** |
-| [0. 课程介绍](https://www.icloud.com/iclouddrive/0tJvZJQIk1euPOH-W3FV9g34A#0) | | |
+| [0. 课程介绍](https://www.icloud.com/iclouddrive/0kzj3CQg4_QFZYldjKY6r650w#0) | | |
 | [1. 矢量力学](https://www.icloud.com/iclouddrive/06VBmcHJdNy-UUat0CBGVeJDg#1) | | |
 | 2. 拉格朗日方程 [[partA](https://www.icloud.com/iclouddrive/0IrziqwtfCVnX4vm7dNOTKtNQ#2), [partB](https://www.icloud.com/iclouddrive/0gsSnt5AkytibuAKBkKkzwdGA#2)] | | |
 | [3. 有心运动](https://www.icloud.com/iclouddrive/0qXE9L8xR1Yku1GlKabebcBfg#3) | | |
