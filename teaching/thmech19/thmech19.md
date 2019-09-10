@@ -62,7 +62,8 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | **内容** | **作业** | **备注** |
 | [0. 课程介绍](https://www.icloud.com/iclouddrive/0kzj3CQg4_QFZYldjKY6r650w#0) | | |
 | [1. 矢量力学](https://www.icloud.com/iclouddrive/06VBmcHJdNy-UUat0CBGVeJDg#1) | | |
-| 2. 拉格朗日方程 [[partA](https://www.icloud.com/iclouddrive/0IrziqwtfCVnX4vm7dNOTKtNQ#2), [partB](https://www.icloud.com/iclouddrive/0gsSnt5AkytibuAKBkKkzwdGA#2)] | | |
+| 2. 拉格朗日方程 ([partA](https://www.icloud.com/iclouddrive/0IrziqwtfCVnX4vm7dNOTKtNQ#2)) | [HW1 (45 points)](https://www.icloud.com/iclouddrive/0HkWj5hKYyvxEMyb5DZe26QkQ#homework1) | HW1 deadline: Sept 18 |
+| 2. 拉格朗日方程 ([partB](https://www.icloud.com/iclouddrive/0gsSnt5AkytibuAKBkKkzwdGA#2)) | | |
 | [3. 有心运动](https://www.icloud.com/iclouddrive/0qXE9L8xR1Yku1GlKabebcBfg#3) | | |
 | 4. 小振动| | |
 | 5. 刚体运动学 | | |
