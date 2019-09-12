@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 90)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 91)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Popular Articles**](#popular) <small>(in total 7)</small>
 
@@ -48,7 +48,7 @@ of radio waves](https://arxiv.org/abs/1902.02695),
 
 0. B.P. Abbott, *et al.*,  [Binary black hole population properties inferred
    from the first and second observing runs of Advanced LIGO and Advanced
-Virgo](https://arxiv.org/abs/1811.12940), *Astrophys. J. Lett.* (accepted), arXiv:1811.12940
+Virgo](https://arxiv.org/abs/1811.12940), *Astrophys. J. Lett.* 882 (2019) L24
 
 0. B.P. Abbott, *et al.*,  [Search for the isotropic stochastic background
    using data from Advanced LIGO's second observing
