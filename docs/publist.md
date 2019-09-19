@@ -37,14 +37,14 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
 0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Z. Cao, B.-Q. Ma, [Reduced-order
-surrogate models for scalar-tensor gravity in the strong field and
+surrogate models for scalar-tensor gravity in the strong field regime and
 applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780),
-*Phys. Rev. D* (accepted), arXiv:1907.00780
+*Phys. Rev. D* 100 (2019) 064034
 
 0. A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, **L. Shao**, W. Yan,
-[Constraints on millicharged dark matter and axion-like particles from timing
+[Constraints on millicharged dark matter and axionlike particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), 
-*Phys. Rev. D* (accepted), arXiv:1902.02695
+*Phys. Rev. D* 100 (2019) 063515
 
 0. B.P. Abbott, *et al.*,  [Binary black hole population properties inferred
    from the first and second observing runs of Advanced LIGO and Advanced
@@ -496,6 +496,7 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 
 <a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
+
 
 0. <sup>&#9733;</sup> **邵立晶**,
    [GW170817: 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48 (2019) 567
