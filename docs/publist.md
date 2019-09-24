@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 91)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 92)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Popular Articles**](#popular) <small>(in total 7)</small>
 
