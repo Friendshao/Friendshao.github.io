@@ -17,6 +17,11 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+0. <sup>&#9733;</sup> R. Xu, J. Zhao, **L. Shao**, [Neutron star structure
+in the minimal gravitational standard-model extension and the implication
+to continuous gravitational waves](https://arxiv.org/abs/1909.10372),
+arXiv:1909.10372
+
 0. B.P. Abbott, *et al.*, [A guide to LIGO-Virgo detector noise and
 extraction of transient gravitational-wave
 signals](https://arxiv.org/abs/1908.11170), arXiv:1908.11170
@@ -496,7 +501,6 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 
 <a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
-
 
 0. <sup>&#9733;</sup> **邵立晶**,
    [GW170817: 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48 (2019) 567
