@@ -27,7 +27,7 @@ tr:nth-child(odd) {
 | Semester | Course | Role | Comment | 
 | --- | --- | --- | --- |
 | PKU'19 Fall | [**Theoretical Mechanics**](thmech19/thmech19) | Lecturer | <small>TAs: Chang Liu & Yong Gao |
-| PKU'19 Fall | [**General Relativity & Astrophysics**](gr19/gr19) | Lecturer | <small>TA: Zhongfu Zhang |
+| PKU'19 Fall | [**General Relativity & Astrophysics**](gr19/gr19) | Lecturer | <small>TA: Xionghui Cao |
 | PKU'13 Fall | [**Quantum Statistical Physics**](qsp2013/qsp2013.html) | TA | <small>lectured by Prof. Ryuichi Shindou |
 | PKU'10 Fall | **What is Science?** | TA | <small>lectured by Prof. Yi Rao |
 | PKU'10 Spring | **Probability Theory and Statistics** | TA | <small>lectured by Prof. Zhenxi Dong |
