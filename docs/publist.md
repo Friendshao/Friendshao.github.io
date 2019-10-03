@@ -6,9 +6,9 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 92)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 95)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
-- [**Popular Articles**](#popular) <small>(in total 7)</small>
+- [**Popular Articles**](#popular) <small>(in total 8)</small>
 
 ---
 
@@ -16,6 +16,14 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
+numerical-relativity waveform models for spin-aligned binary black holes
+along eccentric orbits](https://arxiv.org/abs/1910.00784), arXiv:1910.00784
+
+0. B.P. Abbott, *et al.*, [Prospects for observing and localizing gravitational-wave
+transients with Advanced LIGO, Advanced Virgo and
+KAGRA](https://arxiv.org/abs/1304.0670), arXiv:1304.0670
 
 0. <sup>&#9733;</sup> R. Xu, J. Zhao, **L. Shao**, [Neutron star structure
 in the minimal gravitational standard-model extension and the implication
@@ -39,7 +47,12 @@ GWTC-1](https://arxiv.org/abs/1903.04467), arXiv:1903.04467
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
-Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+Array](https://arxiv.org/abs/1810.02680), 
+*Publ. Astron. Soc. Aust.* (submitted), arXiv:1810.02680
+
+0. B. Sun, Z. Cao, **L. Shao**, [Constraint on the fifth force through
+perihelion precession of planets](https://arxiv.org/abs/TBA), 
+*Phys. Rev. D* (accept), arXiv:TBA
 
 0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Z. Cao, B.-Q. Ma, [Reduced-order
 surrogate models for scalar-tensor gravity in the strong field regime and
@@ -501,6 +514,8 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 
 <a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
+
+0. 高勇, **邵立晶**, 徐仁新, [双中子星圆舞曲](TBA), 《国家天文》, 待发表
 
 0. <sup>&#9733;</sup> **邵立晶**,
    [GW170817: 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48 (2019) 567
