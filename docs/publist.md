@@ -38,10 +38,6 @@ signals](https://arxiv.org/abs/1908.11170), arXiv:1908.11170
 in the second Advanced LIGO observing run with an improved hidden Markov
 model](https://arxiv.org/abs/1906.12040), arXiv:1906.12040
 
-0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
-   hole signals from the LIGO-Virgo catalog
-GWTC-1](https://arxiv.org/abs/1903.04467), arXiv:1903.04467
-
 0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*,
 [On the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
@@ -50,9 +46,13 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 Array](https://arxiv.org/abs/1810.02680), 
 *Publ. Astron. Soc. Aust.* (submitted), arXiv:1810.02680
 
-0. B. Sun, Z. Cao, **L. Shao**, [Constraint on the fifth force through
-perihelion precession of planets](https://arxiv.org/abs/TBA), 
-*Phys. Rev. D* (accept), arXiv:TBA
+0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
+   hole signals from the LIGO-Virgo catalog
+GWTC-1](https://arxiv.org/abs/1903.04467), *Phys. Rev. D* (accepted), arXiv:1903.04467
+
+0. B. Sun, Z. Cao, **L. Shao**, [Constraints on fifth forces through
+perihelion precession of planets](https://arxiv.org/abs/1910.05666), *Phys.
+Rev. D* 100 (2019) 084030
 
 0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Z. Cao, B.-Q. Ma, [Reduced-order
 surrogate models for scalar-tensor gravity in the strong field regime and
@@ -515,7 +515,8 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 <a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
 
-0. 高勇, **邵立晶**, 徐仁新, [双中子星圆舞曲](TBA), 《国家天文》, 待发表
+0. 高勇, **邵立晶**, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
+《中国国家天文》9 (2019) 54
 
 0. <sup>&#9733;</sup> **邵立晶**,
    [GW170817: 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48 (2019) 567
