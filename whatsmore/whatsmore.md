@@ -10,6 +10,8 @@ permalink: /whatsmore/
 - I am in the editorial board for the journal [Universe](http://www.mdpi.com/journal/universe)
 - I am serving as a reviewer for [more than 20 journals](/docs/journal), and was awarded as an outstanding reviewer for the journal [Classical and Quantum Gravity](/docs/CQG2018.pdf) and the journal [Universe](/docs/Universe2018.pdf)
 
+### Bachelor/Doctoral Theses <small><small>([link](https://friendshao.github.io/docs/theses))
+
 ### Useful Links
 
 1. [General Purposes: mostly on programming](/docs/website-general)

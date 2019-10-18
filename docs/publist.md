@@ -23,20 +23,23 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784), arXiv:1910.00784
 
 0. B.P. Abbott, *et al.*, [Prospects for observing and localizing gravitational-wave
 transients with Advanced LIGO, Advanced Virgo and
-KAGRA](https://arxiv.org/abs/1304.0670), arXiv:1304.0670
+KAGRA](https://arxiv.org/abs/1304.0670), 
+*Living Rev. Relativ.* (submitted), arXiv:1304.0670
 
 0. <sup>&#9733;</sup> R. Xu, J. Zhao, **L. Shao**, [Neutron star structure
 in the minimal gravitational standard-model extension and the implication
 to continuous gravitational waves](https://arxiv.org/abs/1909.10372),
-arXiv:1909.10372
+*Phys. Rev. D* (submitted), arXiv:1909.10372
 
 0. B.P. Abbott, *et al.*, [A guide to LIGO-Virgo detector noise and
 extraction of transient gravitational-wave
-signals](https://arxiv.org/abs/1908.11170), arXiv:1908.11170
+signals](https://arxiv.org/abs/1908.11170), 
+*Class. Quantum Grav.* (submitted), arXiv:1908.11170
 
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
 in the second Advanced LIGO observing run with an improved hidden Markov
-model](https://arxiv.org/abs/1906.12040), arXiv:1906.12040
+model](https://arxiv.org/abs/1906.12040), 
+*Phys. Rev. D* (submitted), arXiv:1906.12040
 
 0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*,
 [On the properties of the massive binary black hole merger
