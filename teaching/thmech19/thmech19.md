@@ -66,13 +66,14 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | 2. 拉格朗日方程 ([partB](https://www.icloud.com/iclouddrive/0s9qMZOBHs-liZX75m-HH_hXQ#2)) | [HW2 (70 points)](https://www.icloud.com/iclouddrive/0lt5SxPhELU4vEykIfyKC_iFg#homework2) | HW2 deadline: Oct 9 |
 | [3. 有心运动](https://www.icloud.com/iclouddrive/0yVZ9Ay7smrY0jIy5e9_-hzyQ#3) | [HW3 (60 points)](https://www.icloud.com/iclouddrive/00K731LwTbLrMO0C8_3Fjh_SA#homework3) | HW3 deadline: Oct 16 |
 | [4. 小振动](https://www.icloud.com/iclouddrive/0VXzGO5ttK-6c5raa79LesBaw#4) | [HW4 (55 points)](https://www.icloud.com/iclouddrive/0qEEDdPg_aIZtX0KlWoE7r4sg#homework4)  | HW4 deadline: Oct 28 |
-| **期中考试（闭卷）** | 2019年11月4日，10:10AM  | 二教102室 |
+| **期中考试（闭卷）** |   | 2019年11月4日（10:10am），二教102室 |
 | [5. 刚体运动学](https://www.icloud.com/iclouddrive/0w5k03IeOuvcvaMdYW8hG35hg#5) | [HW5 (60 points)](https://www.icloud.com/iclouddrive/0y3_8QQcwmbe7HFz1QZSCxmCA#homework5) | HW5 deadline: Nov 6 |
 | 6. 刚体动力学 | | |
 | 7. 哈密顿力学 | | |
 | 8. 力学中的变分方法 | | |
 | 9. 连续介质动力学 | | |
 | 10. 相对论性的分析力学 | | |
+| **期末考试（闭卷）** |   | 2020年1月8日（上午） |
 
 
 <script type="text/x-mathjax-config">
