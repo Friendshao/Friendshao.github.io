@@ -7,7 +7,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 95)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
 ---
@@ -47,7 +47,7 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), 
-*Publ. Astron. Soc. Aust.* (submitted), arXiv:1810.02680
+*Publ. Astron. Soc. Aust.* (accepted), arXiv:1810.02680
 
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
    hole signals from the LIGO-Virgo catalog
@@ -445,6 +445,9 @@ range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
+
+0. C. Goddi, *et al.*, [First M87 Event Horizon Telescope results and the
+role of ALMA](https://arxiv.org/abs/1910.10193), Messenger 177 (2019) 25
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
