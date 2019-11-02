@@ -24,6 +24,7 @@ layout: default
   [Onenote](https://www.onenote.com/),
   [Google](http://www.google.com/ncr)
   ([Calendar](https://calendar.google.com/calendar/r/month),
+  [conference](https://docs.google.com/spreadsheets/d/1SYWqFnnjvRzJBO65RQKxzdKv5pecVefYNgz7jwFQALA/edit?usp=drive_web&ouid=113011655640104127367),
   [keep](https://keep.google.com/),
   [maps](https://www.google.com/maps),
   [translate](https://translate.google.com/))

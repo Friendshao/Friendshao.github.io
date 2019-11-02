@@ -10,9 +10,9 @@ permalink: /about/
 
 Since September 2018, I am an **Assistant Professor** in the [Kavli Institute
 for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
-University](http://www.pku.edu.cn/), Beijing China, leading a [research group
-on topics related to gravitational
-astrophysics](https://kiaagravity.github.io/).
+University](http://www.pku.edu.cn/), Beijing China, leading a [**research
+group**](https://kiaagravity.github.io/) on topics related to **gravitational
+astrophysics**.
 
 <img src="historically.png" alt="Historically" style="width: 120px;"/>
 
