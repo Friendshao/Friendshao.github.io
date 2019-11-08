@@ -41,10 +41,6 @@ in the second Advanced LIGO observing run with an improved hidden Markov
 model](https://arxiv.org/abs/1906.12040), 
 *Phys. Rev. D* (submitted), arXiv:1906.12040
 
-0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*,
-[On the properties of the massive binary black hole merger
-GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
-
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), 
 *Publ. Astron. Soc. Aust.* (accepted), arXiv:1810.02680
@@ -52,6 +48,10 @@ Array](https://arxiv.org/abs/1810.02680),
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
    hole signals from the LIGO-Virgo catalog
 GWTC-1](https://arxiv.org/abs/1903.04467), *Phys. Rev. D* (accepted), arXiv:1903.04467
+
+0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*,
+[On the properties of the massive binary black hole merger
+GW170729](https://arxiv.org/abs/1903.06742), *Phys. Rev. D* 100 (2019) 104015
 
 0. B. Sun, Z. Cao, **L. Shao**, [Constraints on fifth forces through
 perihelion precession of planets](https://arxiv.org/abs/1910.05666), *Phys.
