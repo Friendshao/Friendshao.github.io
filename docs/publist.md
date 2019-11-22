@@ -39,7 +39,7 @@ signals](https://arxiv.org/abs/1908.11170),
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
 in the second Advanced LIGO observing run with an improved hidden Markov
 model](https://arxiv.org/abs/1906.12040), 
-*Phys. Rev. D* (submitted), arXiv:1906.12040
+*Phys. Rev. D* (accepted), arXiv:1906.12040
 
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), 
@@ -47,7 +47,7 @@ Array](https://arxiv.org/abs/1810.02680),
 
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
    hole signals from the LIGO-Virgo catalog
-GWTC-1](https://arxiv.org/abs/1903.04467), *Phys. Rev. D* (accepted), arXiv:1903.04467
+GWTC-1](https://arxiv.org/abs/1903.04467), *Phys. Rev. D* 100 (2019) 104036
 
 0. K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*,
 [On the properties of the massive binary black hole merger
