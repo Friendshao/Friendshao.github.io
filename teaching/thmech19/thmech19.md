@@ -71,8 +71,7 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | [6. 刚体动力学](https://www.icloud.com/iclouddrive/0YhtL5rhyWQX1Fj54fKQs9FYQ#6) | [HW6 (150 points)](https://www.icloud.com/iclouddrive/0zjXc_xWOn9xXPuciyWY-3Fqg#homework6) | HW6 deadline: Nov 20 |
 | [7. 哈密顿力学](https://www.icloud.com/iclouddrive/0grvVBlNOJIvUX8Imzi7EAuhQ#7) | [HW7 (60 points)](https://www.icloud.com/iclouddrive/00-tvOWdhodrXH6HDD1hTr2uQ#homework7) | HW7 deadline: Nov 27 |
 | [8. 力学中的变分方法](https://www.icloud.com/iclouddrive/07uCJ8TPOjOnIA9q6XJNgmj9w#8) | | |
-| [9.
-连续介质动力学](https://www.icloud.com/iclouddrive/0OfJOmdJXxCVESqJ9dgHCYxHA#9) | | |
+| [9. 连续介质动力学](https://www.icloud.com/iclouddrive/0OfJOmdJXxCVESqJ9dgHCYxHA#9) | | |
 | 10. 相对论性的分析力学 | | |
 | **期末考试（闭卷）** |   | 2020年1月8日（上午） |
 
