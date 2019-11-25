@@ -70,9 +70,9 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | [5. 刚体运动学](https://www.icloud.com/iclouddrive/0w5k03IeOuvcvaMdYW8hG35hg#5) | [HW5 (60 points)](https://www.icloud.com/iclouddrive/0y3_8QQcwmbe7HFz1QZSCxmCA#homework5) | HW5 deadline: Nov 6 |
 | [6. 刚体动力学](https://www.icloud.com/iclouddrive/0YhtL5rhyWQX1Fj54fKQs9FYQ#6) | [HW6 (150 points)](https://www.icloud.com/iclouddrive/0zjXc_xWOn9xXPuciyWY-3Fqg#homework6) | HW6 deadline: Nov 20 |
 | [7. 哈密顿力学](https://www.icloud.com/iclouddrive/0grvVBlNOJIvUX8Imzi7EAuhQ#7) | [HW7 (60 points)](https://www.icloud.com/iclouddrive/00-tvOWdhodrXH6HDD1hTr2uQ#homework7) | HW7 deadline: Nov 27 |
-| [8. 力学中的变分方法](https://www.icloud.com/iclouddrive/07uCJ8TPOjOnIA9q6XJNgmj9w#8) | | |
-| [9. 连续介质动力学](https://www.icloud.com/iclouddrive/0OfJOmdJXxCVESqJ9dgHCYxHA#9) | | |
-| 10. 相对论性的分析力学 | | |
+| [8. 力学中的变分方法](https://www.icloud.com/iclouddrive/07uCJ8TPOjOnIA9q6XJNgmj9w#8) | [HW8 (60 points)](https://www.icloud.com/iclouddrive/0qCVex-09umrlriYunDfogAqA#homework8) | HW8 deadline: Dec 4 |
+| [9. 连续介质动力学](https://www.icloud.com/iclouddrive/0OfJOmdJXxCVESqJ9dgHCYxHA#9) | [HW9 (60 points)](https://www.icloud.com/iclouddrive/04QRvC5TcMQy1mUeMrfUKTB9w#homework9) | HW9 deadline: Dec 16 |
+| 10. 相对论性的分析力学 | [HW10 (40 points)](https://www.icloud.com/iclouddrive/0dnAIvKjx6PvHO0H3O5uIdYaA#homework10) | HW10 deadline: Dec 25 |
 | **期末考试（闭卷）** |   | 2020年1月8日（上午） |
 
 
