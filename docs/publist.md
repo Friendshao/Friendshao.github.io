@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 95)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 96)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -16,12 +16,6 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
-
-
-0. J. Liu, *et al.*, [A wide star$-$black-hole binary system from
-   radial-velocity
-measurements](https://www.nature.com/articles/s41586-019-1766-2), Nature 575
-(2019) 618
 
 0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
 numerical-relativity waveform models for spin-aligned binary black holes
@@ -50,6 +44,10 @@ model](https://arxiv.org/abs/1906.12040),
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), 
 *Publ. Astron. Soc. Aust.* (accepted), arXiv:1810.02680
+
+0. J. Liu, *et al.*, [A wide star$-$black-hole binary system from
+   radial-velocity measurements](https://arxiv.org/abs/1911.11989), Nature 575
+(2019) 618
 
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
    hole signals from the LIGO-Virgo catalog
