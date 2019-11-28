@@ -17,6 +17,12 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+
+0. J. Liu, *et al.*, [A wide star$-$black-hole binary system from
+   radial-velocity
+measurements](https://www.nature.com/articles/s41586-019-1766-2), Nature 575
+(2019) 618
+
 0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
 numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), arXiv:1910.00784
