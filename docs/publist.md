@@ -46,7 +46,7 @@ Array](https://arxiv.org/abs/1810.02680),
 *Publ. Astron. Soc. Aust.* (accepted), arXiv:1810.02680
 
 0. J. Liu, *et al.*, [A wide star$-$black-hole binary system from
-   radial-velocity measurements](https://arxiv.org/abs/1911.11989), Nature 575
+   radial-velocity measurements](https://arxiv.org/abs/1911.11989), *Nature* 575
 (2019) 618
 
 0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
