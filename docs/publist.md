@@ -36,14 +36,14 @@ extraction of transient gravitational-wave
 signals](https://arxiv.org/abs/1908.11170), 
 *Class. Quantum Grav.* (submitted), arXiv:1908.11170
 
-0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
-in the second Advanced LIGO observing run with an improved hidden Markov
-model](https://arxiv.org/abs/1906.12040), 
-*Phys. Rev. D* (accepted), arXiv:1906.12040
-
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), 
 *Publ. Astron. Soc. Aust.* (accepted), arXiv:1810.02680
+
+0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
+in the second Advanced LIGO observing run with an improved hidden Markov
+model](https://arxiv.org/abs/1906.12040), 
+*Phys. Rev. D* 100 (2019) 122002
 
 0. J. Liu, *et al.*, [A wide star$-$black-hole binary system from
    radial-velocity measurements](https://arxiv.org/abs/1911.11989), *Nature* 575
