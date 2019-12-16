@@ -10,13 +10,13 @@ permalink: /whatsmore/
 - I am in the editorial board for the journal [Universe](http://www.mdpi.com/journal/universe)
 - I am serving as a reviewer for [more than 20 journals](/docs/journal), and was awarded as an outstanding reviewer for the journal [Classical and Quantum Gravity](/docs/CQG2018.pdf) and the journal [Universe](/docs/Universe2018.pdf)
 
+### Serving for Academic Conferences
+
+0. [**Dialogue at the Dream Field: Supranuclear Matter**](http://www.phy.pku.edu.cn/~FPS/ddf/), August 17-21, 2020, Guiyang China
+0. [**KIAA Forum 2019: The Future of Gravitational Wave Astrophysics**](http://kiaa.pku.edu.cn/astroforum19/), November 28-29, 2019, Beijing China
+0. [**Gravitational Wave Astrophysics Conference 2019**](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), August 13-17, 2019, Kunming China
+
 ### Bachelor/Doctoral Theses <small><small>([link](https://friendshao.github.io/docs/theses))
-
-### Useful Links
-
-1. [General Purposes: mostly on programming](/docs/website-general)
-2. [Specific Purposes: again mostly on programming](/docs/website-specific)
-3. [Pulsars and Gravitational Waves](/docs/website-psr-gw)
 
 ### Recommended Books
 
@@ -33,6 +33,14 @@ permalink: /whatsmore/
 - **Will 2018**, Theory and Experiment in Gravitational Physics,
   Cambridge University Press
 
+### Useful Links
+
+1. [General Purposes: mostly on programming](/docs/website-general)
+2. [Specific Purposes: again mostly on programming](/docs/website-specific)
+3. [Pulsars and Gravitational Waves](/docs/website-psr-gw)
+
+<!--
+
 ### References for Research Topics
 
 I keep updating [an incomplete list of references](/docs/references) for easy
@@ -46,3 +54,5 @@ are not included, because,
 - Google calendar embeded
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FShanghai&amp;src=cnZhNzZnMDdqYzA5YzVraTBmYzdibTN0M2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;showTitle=0&amp;showPrint=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+-->
