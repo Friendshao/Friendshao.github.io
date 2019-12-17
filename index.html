@@ -2,649 +2,72 @@
 layout: default
 ---
 
-<head> 
-  <meta charset="utf-8"> 
-  <style> 
-  .black_overlay{ 
-      display: none; 
-      position: absolute; 
-      top: 0%; 
-      left: 0%; 
-      width: 100%; 
-      height: 100%; 
-      background-color: black; 
-      z-index:1001; 
-      -moz-opacity: 0.8; 
-      opacity:.80; 
-      filter: alpha(opacity=88); 
-  } 
-  .white_content { 
-      display: none; 
-      position: absolute; 
-      top: 25%; 
-      left: 25%; 
-      width: 55%; 
-      height: 55%; 
-      padding: 20px; 
-      border: 10px solid orange; 
-      background-color: white; 
-      z-index:1002; 
-      overflow: auto; 
-  } 
-</style> 
+<!---------------------------------------------------------------->
+
+<head>
+  <meta charset="utf-8">
+  <style>
+    .black_overlay {
+      display: none;
+      position: absolute;
+      top: 0%;
+      left: 0%;
+      width: 100%;
+      height: 100%;
+      background-color: black;
+      z-index: 1001;
+      -moz-opacity: 0.8;
+      opacity: .80;
+      filter: alpha(opacity=88);
+    }
+
+    .white_content {
+      display: none;
+      position: absolute;
+      top: 25%;
+      left: 25%;
+      width: 55%;
+      height: 55%;
+      padding: 20px;
+      border: 10px solid orange;
+      background-color: white;
+      z-index: 1002;
+      overflow: auto;
+    }
+  </style>
 </head>
 
+<!---------------------------------------------------------------->
+
 <script type="text/javascript">
-  $(function(){
+  $(function () {
   })
-  function openDialog(id){
-    for (var i=1; i<10; i++)
-    {
-      x=document.getElementById("light"+i)
-      y=document.getElementById("fade"+i)
-      if (i == id)
-      {
-        x.style.display='block';
-        y.style.display='block'; 
+  function openDialog(id) {
+    for (var i = 1; i < 10; i++) {
+      x = document.getElementById("light" + i)
+      y = document.getElementById("fade" + i)
+      if (i == id) {
+        x.style.display = 'block';
+        y.style.display = 'block';
       }
     }
   }
-  function closeDialog(id){
-    for (var i=1; i<10; i++)
-    {
-      x=document.getElementById("light"+i)
-      y=document.getElementById("fade"+i)
-      if (i == id)
-      {
-        x.style.display='none';
-        y.style.display='none'; 
+  function closeDialog(id) {
+    for (var i = 1; i < 10; i++) {
+      x = document.getElementById("light" + i)
+      y = document.getElementById("fade" + i)
+      if (i == id) {
+        x.style.display = 'none';
+        y.style.display = 'none';
       }
     }
   }
 </script>
 
-<div class="home">
-
-  <font size="+3">News</font> &nbsp; &nbsp; &nbsp; <font color="grey"> Since September 1, 2018 <br> </font>
-    <img src="img/talk.png" style="height:28px;"> <font size="+1">Talk</font>
-  &nbsp; &nbsp;
-  <img src="img/event.png" style="height:28px;"> <font size="+1">Event</font> 
-  &nbsp; &nbsp;
-  <img src="img/paper.png" style="height:28px;"> <font size="+1">Paper</font> 
-
-<p>
-
-<br><hr><br>
-<font size="+3" color="#0A92C7"><b>Winter 2019</b></font>
-<img src="img/winter.jpeg" style="height:65px;"><br><p>
-
-<font color="grey" size="2">December 20, 2019</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited talk at <b>Workshop on Gravitation and Cosmology</b>, Institute of
-Theoretical Physics, Chinese Academy of Sciences, Beijing China
-<p>
-
-<font color="grey" size="2">November 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>A Wide Star$-$Black-Hole Binary System from Radial-Velocity
-Measurements</b> by Jifeng Liu <i>et al.</i> 
-(<a href="https://www.nature.com/articles/s41586-019-1766-2">Nature</a>)
-<p>
-
-<font color="grey" size="2">November 2019</font>  <br>
-<img src="img/event.png" style="height:28px;">
-Serving as SOC & LOC Member at <b>KIAA Forum 2019: The Future of Gravitational Wave Astrophysics</b>, 
-Peking University 
-(<a href="http://kiaa.pku.edu.cn/astroforum19/">AstroForum19</a>)
-<p>
-
-<font color="grey" size="2">October 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>First M87 Event Horizon Telescope Results and the Role of ALMA</b> by
-Ciriaco Goddi <i>et al.</i>
-(<a href="https://arxiv.org/abs/1910.10193">arXiv</a>)
-<p>
-
-<font color="grey" size="2">October 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Constraints on Fifth Forces through Perihelion Precession of Planets</b> by
-Bing Sun <i>et al.</i>
-(<a href="https://arxiv.org/abs/1910.05666">arXiv</a>)
-<p>
-
-<font color="grey" size="2">October 12, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Invited Talk at <b>Inauguration of United Center for Gravitational
-Wave Physics</b> & <b>First Hangzhou International Meeting on
-Gravitational Waves</b>, Zhejiang University of Technology
-(<a href="http://www.zjut.edu.cn/newsDetail.jsp?id=20360">UCGWP</a>)
-<p>
-
-<font color="grey" size="2">October 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Validating the Effective-One-Body Numerical-Relativity Waveform Models for Spin-aligned Binary Black Holes along Eccentric Orbits</b> by
-Xiaolin Liu <i>et al.</i>
-(<a
-  href="https://arxiv.org/abs/1910.00784">arXiv</a>)
-<p>
-
-<br><hr><br>
-<font size="+3" color="#F9A20C"><b>Autumn 2019</b></font>
-<img src="img/autumn.png" style="height:70px;"><br><p>
-
-<font color="grey" size="2">September 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Neutron Star Structure in the Minimal Gravitational Standard-Model
-Extension and the Implication to Continuous Gravitational Waves</b> by Rui
-Xu <i>et al.</i>
-(<a href="https://arxiv.org/abs/1909.10372">arXiv</a>)
-<p>
-
-<font color="grey" size="2">September 2019</font>  <br>
-<img src="img/event.png" style="height:28px;">
-<b>Workshop on the Chinese Pulsar Timing Array</b>, National Time Service
-Center, Chinese Academy of Sciences, Xi'an China 
-<p>
-
-<font color="grey" size="2">September 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-Pupolar science article <b>GW170817: Was Einstein Right?</b> by Lijing Shao
-(<a href="http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml">link</a>)
-<p>
-
-<font color="grey" size="2">September 9, 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Lecturing classes <b>Theoretical Mechanics</b> and 
-<b>General Relativity & Astrophysics</b> at Peking University, Fall
-2019 
-(<a href="https://friendshao.github.io/teaching/thmech19/thmech19">Mech19</a>, 
-<a href="https://friendshao.github.io/teaching/gr19/gr19">GR19</a>)
-<p>
-
-<font color="grey" size="2">September 5, 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-<b>2020 Breakthrough Prize in Fundamental Physics</b> awarded to the Event Horizon Telescope Collaboration
-(<a href="https://breakthroughprize.org/News/54">Breakthrough2020</a>)
-<p>
-
-<font color="grey" size="2">September 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-White papers for <b>Voyage 2050</b>
-<ul type="I">
-  <li>
-    <b>High Angular Resolution Gravitational Wave Astronomy</b> 
-    by I. Dvorkin <i>et al.</i>
-    (<a href="https://arxiv.org/abs/1908.11410">arXiv</a>)
-  </li>
-  <li>
-    <b>Unveiling the Gravitational Universe at $\mu$-Hz Frequencies</b> 
-    by A. Sesana, N. Korsakova <i>et al.</i>
-    (<a href="https://arxiv.org/abs/1908.11391">arXiv</a>)
-  </li>
-  <li>
-    <b>The Missing Link in Gravitational-wave Astronomy: Discoveries Waiting in
-      the Decihertz Range</b> by M. Arca Sedda, C.P.L. Berry, K. Jani <i>et al.</i>
-    (<a href="https://arxiv.org/abs/1908.11375">arXiv</a>)
-  </li>
-</ul>
-<p>
-
-<font color="grey" size="2">August 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-Invited article entitled <b>Lorentz-violating Matter-gravity Couplings in Small-eccentricity Binary
-  Pulsars</b> by Lijing Shao
-(<a href="https://arxiv.org/abs/1908.10019">arXiv</a>)
-<p>
-
-<font color="grey" size="2">August 14, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Invited Talk & Serving as an SOC Member at <b>Gravitational Wave Astrophysics
-  Conference 2019</b>, Kunming China 
-(<a href="http://3rd-gw-astro.csp.escience.cn/dct/page/65559">3GW</a>)
-<p>
-
-<font color="grey" size="2">August 11, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Invited Talk at <b>Interdisciplinary Forum on Gravitational-wave Astronomy for
-  Young Scientists</b>, Qingdao University of Science and Technology
-<p>
-
-<font color="grey" size="2">July 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-<b>Excellent Poster Award</b> to <b>Junjie Zhao</b> at the <b>GRA 2019</b>
-Meeting
-<p>
-
-<font color="grey" size="2">July 17, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Contributed Talk at <b>2019 Annual Meeting of the Chinese Physical Society,
-Division of Gravitation and Relativistic Astrophysics</b>, Guizhou
-University, Guiyang China
-(<a href="http://gra2019.csp.escience.cn/dct/page/1">GRA 2019</a>)
-<p>
-
-<font color="grey" size="2">July 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Testing Fifth Forces from the Galactic Dark Matter</b> by Lijing Shao
-(<a href="https://arxiv.org/abs/1907.02232">arXiv</a>)
-<p>
-
-<font color="grey" size="2">July 10/12, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Contributed Talks at the <b>22nd International Conference on General Relativity
-  and Gravitation & 13th Edoardo Amaldi Conference on Gravitational Waves</b>,
-Universitat de València, Spain
-(<a href="https://www.gr22amaldi13.com/">GR22/Amaldi13</a>)
-<p>
-
-<font color="grey" size="2">July 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Reduced-Order Surrogate Models for Scalar-Tensor Gravity in the Strong
-Field and Applications to Binary Pulsars and GW170817</b> by Junjie Zhao
-<i>et al.</i> (<a href="https://arxiv.org/abs/1907.00780">arXiv</a>)
-<p>
-
-<br><hr><br>
-<font size="+3" color="#F50D40"><b>Summer 2019</b></font>
-<img src="img/summer.png" style="height:80px;"><br><p>
-
-<font color="grey" size="2">June 21, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Contributed Talk at the <b>6th KAGRA International Workshop</b>,
-Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences
-(<a href="http://kiw6.csp.escience.cn/dct/page/1">KIW6</a>)
-<p>
-
-<font color="grey" size="2">May 31, 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-<b>Bachelor thesis defenses</b> by Wenlong Li and Zhongpeng Sun, Department of Astronomy, Peking University
-<p>
-
-<font color="grey" size="2">May 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Bounding the Mass of Graviton in a Dynamic Regime with Binary Pulsars</b> by Xueli Miao <i>et al.</i>
-(<a href="https://arxiv.org/abs/1905.12836">arXiv</a>)
-<p>
-
-<font color="grey" size="2">May 25, 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Popular-science talk <b>“Gravitational Wave Era”</b>, invited by the Youth
-Astronomy Society, Peking University
-(<a href="https://mp.weixin.qq.com/s/UORlexq0peZaqhtC_clq_w">flyer</a>)
-<p>
-
-
-<font color="grey" size="2">May 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Pulsar Tests of the Gravitational Lorentz Violation</b> by Lijing Shao
-(<a href="https://arxiv.org/abs/1905.08405">arXiv</a>)
-<p>
-
-<font color="grey" size="2">May 16, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Invited Talk at the <b>8th Meeting on
-CPT and Lorentz Symmetry</b>, Indiana
-University, Bloomington USA
-(<a href="http://www.indiana.edu/~lorentz/cpt19/">CPT'19</a>)
-<p>
-
-<font color="grey" size="2">May 10, 2019</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited Talk at the <b>8th Huada (CCNU) School on QCD</b>, Central China Normal
-University, Wuhan China
-(<a href="https://indico.ihep.ac.cn/event/9689/overview">QCD</a>) 
-<p>
-
-<font color="grey" size="2">May 6, 2019</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Contributed Talk at <b>Recent Progress in Relativistic Astrophysics</b>, Fudan
-University, Shanghai China
-(<a href="http://www.tat.physik.uni-tuebingen.de/blackholes2019/Home.html">Fudan'19</a>) 
-<p>
-
-<font color="grey" size="2">May 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Fundamental Physics with Galactic Center Pulsars</b> by Geoffrey Bower
-<i>et al.</i>
-(<a href="https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.438B/abstract">ADS</a>)
-<p>
-
-<font color="grey" size="2">April 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Invited to join the <b>Executive Board Members</b> of the journal <b>Science Bulletin</b>
-(<a href="https://www.journals.elsevier.com/science-bulletin">Sci. Bull.</a>)
-<p>
-
-<font color="grey" size="2">Apr 30, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Invited Talk at the <b>1st International Symposium on Precision Measurement
-  Physics 2019</b>, Huazhong University of Science and Technology, Wuhan China
-(<a href="http://meeting.hust.edu.cn/Meeting/28D0C57D1E429B9FA1CDB0F5CF96E6/?id=626">PMP2019</a>)
-<p>
-
-<font color="grey" size="2">Apr 24, 2019</font>  <br>
-<img src="img/talk.png" style="height:28px;">
-Invited Talk at <b>Workshop on Gravitational Waves and Cosmology Related to FAST
-  Sciences</b>, Qiannan Normal University for Nationalities, Duyun China
-<p>
-
-
-<font color="grey" size="2">April 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>First M87 Event Horizon Telescope Results</b> by the Event Horizon Telescope Collaboration
-<ol type="I">
-  <li>
-    The Shadow of the Supermassive Black Hole
-    (<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7">ApJL</a>)
-  </li>
-  <li>
-    Array and Instrumentation
-    (<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0c96">ApJL</a>)
-  </li>
-  <li>
-    Data Processing and Calibration
-    (<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0c57">ApJL</a>)
-  </li>
-  <li>
-    Imaging the Central Supermassive Black Hole
-    (<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85">ApJL</a>)
-  </li>
-  <li>
-    Physical Origin of the Asymmetric Ring
-    (<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0f43">ApJL</a>)
-  </li>
-  <li>
-    The Shadow and Mass of the Central Black Hole
-    (<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab1141">ApJL</a>)
-  </li>
-</ol>
-<p>
-
-<font color="grey" size="2">Apr 9, 2019</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited Talk at <b>Workshop on the Strategic Priority Program “Multi-wavelength
-  Gravitational Wave Universe”</b>, Yunnan Astronomical Observatory, Kunming
-China
-<p>
-
-<br><hr><br>
-<font size="+3" color="#8BB338"><b>Spring 2019</b></font>
-<img src="img/spring.png" style="height:50px;"><br><p>
-
-<font color="grey" size="2">March 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Testing the Gravitational Weak Equivalence Principle in the Standard-Model
-  Extension with Binary Pulsars</b> by Lijing Shao & Quentin G. Bailey
-(<a href="https://arxiv.org/abs/1903.11760">arXiv</a>)
-<p>
-
-<font color="grey" size="2">March 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Extreme Gravity and Fundamental Physics</b> by B.S. Sathyaprakash <i>et
-  al.</i>
-(<a href="https://arxiv.org/abs/1903.09221">arXiv</a>)
-<p>
-
-<font color="grey" size="2">March 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>On the Properties of the Massive Binary Black Hole Merger GW170729</b> by
-Katerina Chatziioannou <i>et al.</i>
-(<a href="https://arxiv.org/abs/1903.06742">arXiv</a>)
-
-<p>
-
-<font color="grey" size="2">March 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Selected as an <b>Outstanding Reviewer</b> for <b>Universe</b>,
-Multidisciplinary Digital Publishing Institute
-(<a href="https://friendshao.github.io/whatsmore/Universe2018.pdf">MDPI</a>)
-<p>
-
-<font color="grey" size="2">March 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Tests of General Relativity with the Binary Black Hole Signals from the
-  LIGO-Virgo Catalog GWTC-1</b> by the LIGO/Virgo Collaboration
-(<a href="https://arxiv.org/abs/1903.04467">arXiv</a>)
-<p>
-
-<font color="grey" size="2">March 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Selected as an <b>Outstanding Reviewer</b> for <b>Classical and Quantum
-Gravity</b>, IOP Publishing
-(<a href="https://friendshao.github.io/whatsmore/CQG2018.pdf">IOP</a>)
-
-<p>
-
-
-<font color="grey" size="2">March 2019</font>  <br>
-<img src="img/paper.png" style="height:28px;">
-<b>Gravitational-wave Merging Events from the Dynamics of Stellar Mass
-Binary Black Holes around the Massive Black Hole in a Galactic Nucleus</b> by
-Fupeng Zhang <i>et al.</i>
-(<a href="https://arxiv.org/abs/1903.02685">arXiv</a>)
-
-<p>
-
-<font color="grey" size="2">Feb 15, 2019</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Contributed talk at <b>The 5th KAGRA International Workshop / The 1st
-  KAGRA-Virgo-3G Detectors Workshop</b>, Perugia University, Italy
-(<a href="https://indico.ego-gw.it/event/12/">KIW2019</a>)
-
-<p>
-
-<font color="grey" size="2">February 2019</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-<b>Constraints on Millicharged Dark Matter and Axion-like Particles from Timing of Radio Waves</b> by Andrea Caputo <i>et al.</i>
-(<a href="https://arxiv.org/abs/1902.02695">arXiv</a>) 
-
-<p>
-
-<font color="grey" size="2">January 2019</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-<b>Degeneracy in Studying the Supranuclear Equation of State and Modified
-  Gravity with Neutron Stars</b> by Lijing Shao 
-(<a href="https://arxiv.org/abs/1901.07546">arXiv</a>) 
-
-<p>
-
-<font color="grey" size="2">January, 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Selected to the <b>Young Elite Scientists Sponsorship Program</b> by China Association for Science and Technology
-(<a href="http://www.cast.org.cn/art/2019/1/17/art_458_85840.html">CAST</a>)
-
-<p>
-
-<font color="grey" size="2">Jan 6, 2019</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited talk at <b>Xiamen-CUSTIPEN Workshop on the EOS of Dense Neutron-Rich
-  Matter in the Era of Gravitational Wave Astronomy</b>, Xiamen University
-(<a href="http://custipen.pku.edu.cn/meeting/xiamen2019/About.htm">CUSTIPEN</a>)
-
-<p>
-
-<font color="grey" size="2">Jan 2, 2019</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-<b>First Teaching Activity</b> for the undergraduate freshman class
-<b>“Lectures on the Frontiers of Modern Physics”</b>, Peking University
-
-<p>
-
-<br><hr><br>
-<font size="+3" color="#0A92C7"><b>Winter 2018</b></font>
-<img src="img/winter.jpeg" style="height:65px;"><br><p>
-
-<font color="grey" size="2">December 22, 2018</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited talk at <b>Workshop on Gravitation and Cosmology</b>, Institute of
-Theoretical Physics, Chinese Academy of Sciences,
-Beijing China
-(<a href="http://www.itp.cas.cn/xshd/xshy/201812/t20181219_5218435.html">link</a>)
-
-<p>
-
-<font color="grey" size="2">December, 2018</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Join the <b>KAGRA Scientific Collaboration</b> with Kohei Inayoshi and Yong Gao
-(<a href="http://kiaa.pku.edu.cn/news/2018/team-kiaa-joined-kagra-gravitational-wave-scientific-collaboration">KIAA</a>)
-
-<p>
-
-<font color="grey" size="2">December 17, 2018</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited talk at <b>The 5th Workshop on TianQin Science Mission</b>, Sun Yat-sen
-University, Zhuhai China
-(<a href="http://tianqin.sysu.edu.cn/content/270">link</a>)
-
-<p>
-
-<font color="grey" size="2">December 2018</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-<b>Observatory Science with eXTP</b> by in 't Zand <i>et al.</i>
-(<a href="https://arxiv.org/abs/1812.04023">arXiv</a>) AND
-<b>Accretion in Strong Field Gravity with eXTP</b> by De Rosa <i>et al.</i> 
-(<a href="https://arxiv.org/abs/1812.04022">arXiv</a>)
-
-<p>
-
-<font color="grey" size="2">December 10, 2018</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Seminar talk <b>“Constraining Strong-field Gravity by Combining Pulsar Timing
-  and Gravitational Waves”</b> at Tsinghua University, Beijing China
-(<a href="http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/385/-/constraining-strong-field-gravity-by-combining-pulsar-timing-and-gravitational-waves">flyer</a>) 
-		   
-<p>
-
-<font color="grey" size="2">December, 2018</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Join the <b>Hot Universe Baryon Surveyor (HUBS)</b> Scientific Collaboration
-(<a href="http://hubs.mynetgear.com:8080/">HUBS</a>)
-
-<p>
-
-<font color="grey" size="2">December 2018</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-<b>GWTC-1: A Gravitational-wave Transient Catalog of Compact Binary Mergers
-  Observed by LIGO and Virgo during the First and Second Observing Runs</b> by
-the LIGO/Virgo Collaboration
-(<a href="https://arxiv.org/abs/1811.12907">arXiv</a>)
-
-<p>
-
-<font color="grey" size="2">November 26, 2018</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Contributed talk at <b>MPG-CAS Joint Project Meeting: Low-frequency
-  Gravitational Wave Astronomy and Gravitational Physics in Space</b>, Shanghai
-Jiao Tong University
-
-<p>
-
-<font color="grey" size="2">November, 2018</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Invited to join the <b>editorial board</b> of the journal <b><i>Universe</i></b>
-(<a
-  href="https://www.mdpi.com/journal/universe/editors#editorialboard">editorial</a>)
-
-<p>
-
-<font color="grey" size="2">November 2018</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-Invited to translate <i>James Hough</i>'s <b>A Wave of Discovery</b> 
-(<a href="https://physicsworld.com/a/a-wave-of-discovery/">original</a>, 
-<a href="http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml">translated</a>)
-
-<p>
-
-<font color="grey" size="2">November 20, 2018</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Contributed talk at <b>International Symposium on Cosmology and Particle
-  Astrophysics</b>, Yangzhou University
-(<a href="http://cospa2018.cgc-yzu.cn/">CosPA'18</a>) 
-
-<p>
-
-<font color="grey" size="2">November 2018</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-<b>Tests of General Relativity with GW170817</b> by the LIGO/Virgo Collaboration
-(<a href="https://arxiv.org/abs/1811.00364">arXiv</a>)
-
-<p>
-
-<font color="grey" size="2">October 30, 2018</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited talk <b>“Testing Gravity with Pulsars and Gravitational Waves”</b> at
-University of Science and Technology of China, Hefei China
-(<a href="https://astro.ustc.edu.cn/2018/1029/c14971a344157/page.htm">flyer</a>) 
-		   
-<p>
-
-<font color="grey" size="2">October, 2018</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-Join the <b>Laser Interferometer Space Antenna (LISA)</b> Consortium
-(<a href="https://www.elisascience.org/">LISA</a>)
-
-<p>
-
-
-<font color="grey" size="2">October 16, 2018</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-<b>Our First Group Meeting</b> at KIAA-PKU
-(<a href="https://kiaagravity.github.io/">page</a>)
-
-<p>
-
-<font color="grey" size="2">October 2018</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-<b>Galactic Center Pulsars with the ngVLA</b> by Geoffrey C. Bower <i>et al</i>. 
-(<a href="https://arxiv.org/abs/1810.06623">arXiv</a>)
-
-<p>
-
-<font color="grey" size="2">October 2018</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-<b>Testing Velocity-dependent CPT-violating Gravitational Forces with Radio
-  Pulsars</b> by Lijing Shao & Quentin G. Bailey 
-(<a href="https://arxiv.org/abs/1810.06332">arXiv</a>)
-
-<p>
-
-<font color="grey" size="2">October 2018</font>  <br> 
-<img src="img/paper.png" style="height:28px;">
-<b>Fundamental Physics with the Square Kilometre Array</b> by Phil Bull <i>et al</i>.
-(<a href="https://arxiv.org/abs/1810.02680">arXiv</a>)
-<p>
-
-
-<br><hr><br>
-<font size="+3" color="#F9A20C"><b>Autumn 2018</b></font>
-<img src="img/autumn.png" style="height:70px;"><br><p>
-
-
-<font color="grey" size="2">September 20, 2018</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited talk at <b>Advanced
-  Gravitational-wave Workshop</b>, Hunan Normal University, Changsha China
-
-<p>
-
-<font color="grey" size="2">September 14, 2018</font>  <br> 
-<img src="img/talk.png" style="height:28px;">
-Invited talk <b>“Testing the Universality of Free Fall towards Dark Matter
-  with Radio Pulsars”</b> at Virtual Institute of Astroparticle Physics
-(<a href="http://viavca.in2p3.fr/lijing_shao.html">slides & video</a>)
-
-<p>
-
-<font color="grey" size="2">September 1, 2018</font>  <br> 
-<img src="img/event.png" style="height:28px;">
-<b>Assistant Professor</b> at Kavli Institute for Astronomy and Astrophysics,
-Peking University 
-(<a href="http://kiaa.pku.edu.cn/news/2018/three-faculty-join-kiaa">KIAA</a>)
-
-
-</div>
+<!---------------------------------------------------------------->
 
 <script type="text/x-mathjax-config">
+
   MathJax.Hub.Config({
     tex2jax: {
       inlineMath: [ ['$','$'] ],
@@ -652,5 +75,616 @@ Peking University
     }
   });
 </script>
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+<!---------------------------------------------------------------->
+
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
+
+<!---------------------------------------------------------------->
+
+<div class="home">
+
+  <font size="+3">News</font> &nbsp; &nbsp; &nbsp; <font color="grey"> Since
+    September 1, 2018 <br> </font>
+  <img src="img/talk.png" style="height:28px;">
+  <font size="+1">Talk</font>
+  &nbsp; &nbsp;
+  <img src="img/event.png" style="height:28px;">
+  <font size="+1">Event</font>
+  &nbsp; &nbsp;
+  <img src="img/paper.png" style="height:28px;">
+  <font size="+1">Paper</font>
+  <p></p>
+
+<!---------------------------------------------------------------->
+
+  <br>
+  <hr><br>
+  <font size="+3" color="#0A92C7"><b>Winter 2019</b></font>
+  <img src="img/winter.jpeg" style="height:65px;"><br>
+  <p></p>
+
+  <font color="grey" size="2">December 20, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited talk at <b>Workshop on Gravitation and Cosmology</b>, Institute of
+  Theoretical Physics, Chinese Academy of Sciences, Beijing China
+  <p></p>
+
+  <font color="grey" size="2">November 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>A Wide Star$-$Black-Hole Binary System from Radial-Velocity
+    Measurements</b> by Jifeng Liu <i>et al.</i>
+  (<a href="https://www.nature.com/articles/s41586-019-1766-2">Nature</a>)
+  <p></p>
+
+  <font color="grey" size="2">November 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Serving as SOC & LOC Member at <b>KIAA Forum 2019: The Future of Gravitational
+    Wave Astrophysics</b>,
+  Peking University
+  (<a href="http://kiaa.pku.edu.cn/astroforum19/">AstroForum19</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>First M87 Event Horizon Telescope Results and the Role of ALMA</b> by
+  Ciriaco Goddi <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1910.10193">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Constraints on Fifth Forces through Perihelion Precession of Planets</b> by
+  Bing Sun <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1910.05666">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 12, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited Talk at <b>Inauguration of United Center for Gravitational
+    Wave Physics</b> & <b>First Hangzhou International Meeting on
+    Gravitational Waves</b>, Zhejiang University of Technology
+  (<a href="http://www.zjut.edu.cn/newsDetail.jsp?id=20360">UCGWP</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Validating the Effective-One-Body Numerical-Relativity Waveform Models for
+    Spin-aligned Binary Black Holes along Eccentric Orbits</b> by
+  Xiaolin Liu <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1910.00784">arXiv</a>)
+  <p></p>
+
+  <br>
+  <hr><br>
+  <font size="+3" color="#F9A20C"><b>Autumn 2019</b></font>
+  <img src="img/autumn.png" style="height:70px;"><br>
+  <p></p>
+
+  <font color="grey" size="2">September 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Neutron Star Structure in the Minimal Gravitational Standard-Model
+    Extension and the Implication to Continuous Gravitational Waves</b> by Rui
+  Xu <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1909.10372">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">September 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  <b>Workshop on the Chinese Pulsar Timing Array</b>, National Time Service
+  Center, Chinese Academy of Sciences, Xi'an China
+  <p></p>
+
+  <font color="grey" size="2">September 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  Pupolar science article <b>GW170817: Was Einstein Right?</b> by Lijing Shao
+  (<a href="http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml">link</a>)
+  <p></p>
+
+  <font color="grey" size="2">September 9, 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Lecturing classes <b>Theoretical Mechanics</b> and
+  <b>General Relativity & Astrophysics</b> at Peking University, Fall
+  2019
+  (<a href="https://friendshao.github.io/teaching/thmech19/thmech19">Mech19</a>,
+  <a href="https://friendshao.github.io/teaching/gr19/gr19">GR19</a>)
+  <p></p>
+
+  <font color="grey" size="2">September 5, 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  <b>2020 Breakthrough Prize in Fundamental Physics</b> awarded to the Event
+  Horizon Telescope Collaboration
+  (<a href="https://breakthroughprize.org/News/54">Breakthrough2020</a>)
+  <p></p>
+
+  <font color="grey" size="2">September 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  White papers for <b>Voyage 2050</b>
+  <ul type="I">
+    <li>
+      <b>High Angular Resolution Gravitational Wave Astronomy</b>
+      by I. Dvorkin <i>et al.</i>
+      (<a href="https://arxiv.org/abs/1908.11410">arXiv</a>)
+    </li>
+    <li>
+      <b>Unveiling the Gravitational Universe at $\mu$-Hz Frequencies</b>
+      by A. Sesana, N. Korsakova <i>et al.</i>
+      (<a href="https://arxiv.org/abs/1908.11391">arXiv</a>)
+    </li>
+    <li>
+      <b>The Missing Link in Gravitational-wave Astronomy: Discoveries Waiting
+        in
+        the Decihertz Range</b> by M. Arca Sedda, C.P.L. Berry, K. Jani <i>et
+        al.</i>
+      (<a href="https://arxiv.org/abs/1908.11375">arXiv</a>)
+    </li>
+  </ul>
+  <p></p>
+
+  <font color="grey" size="2">August 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  Invited article entitled <b>Lorentz-violating Matter-gravity Couplings in
+    Small-eccentricity Binary
+    Pulsars</b> by Lijing Shao
+  (<a href="https://arxiv.org/abs/1908.10019">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">August 14, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited Talk & Serving as an SOC Member at <b>Gravitational Wave Astrophysics
+    Conference 2019</b>, Kunming China
+  (<a href="http://3rd-gw-astro.csp.escience.cn/dct/page/65559">3GW</a>)
+  <p></p>
+
+  <font color="grey" size="2">August 11, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited Talk at <b>Interdisciplinary Forum on Gravitational-wave Astronomy for
+    Young Scientists</b>, Qingdao University of Science and Technology
+  <p></p>
+
+  <font color="grey" size="2">July 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  <b>Excellent Poster Award</b> to <b>Junjie Zhao</b> at the <b>GRA 2019</b>
+  Meeting
+  <p></p>
+
+  <font color="grey" size="2">July 17, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Contributed Talk at <b>2019 Annual Meeting of the Chinese Physical Society,
+    Division of Gravitation and Relativistic Astrophysics</b>, Guizhou
+  University, Guiyang China
+  (<a href="http://gra2019.csp.escience.cn/dct/page/1">GRA 2019</a>)
+  <p></p>
+
+  <font color="grey" size="2">July 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Testing Fifth Forces from the Galactic Dark Matter</b> by Lijing Shao
+  (<a href="https://arxiv.org/abs/1907.02232">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">July 10/12, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Contributed Talks at the <b>22nd International Conference on General
+    Relativity
+    and Gravitation & 13th Edoardo Amaldi Conference on Gravitational Waves</b>,
+  Universitat de València, Spain
+  (<a href="https://www.gr22amaldi13.com/">GR22/Amaldi13</a>)
+  <p></p>
+
+  <font color="grey" size="2">July 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Reduced-Order Surrogate Models for Scalar-Tensor Gravity in the Strong
+    Field and Applications to Binary Pulsars and GW170817</b> by Junjie Zhao
+  <i>et al.</i> (<a href="https://arxiv.org/abs/1907.00780">arXiv</a>)
+  <p></p>
+
+  <br>
+  <hr><br>
+  <font size="+3" color="#F50D40"><b>Summer 2019</b></font>
+  <img src="img/summer.png" style="height:80px;"><br>
+  <p></p>
+
+  <font color="grey" size="2">June 21, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Contributed Talk at the <b>6th KAGRA International Workshop</b>,
+  Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences
+  (<a href="http://kiw6.csp.escience.cn/dct/page/1">KIW6</a>)
+  <p></p>
+
+  <font color="grey" size="2">May 31, 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  <b>Bachelor thesis defenses</b> by Wenlong Li and Zhongpeng Sun, Department of
+  Astronomy, Peking University
+  <p></p>
+
+  <font color="grey" size="2">May 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Bounding the Mass of Graviton in a Dynamic Regime with Binary Pulsars</b>
+  by Xueli Miao <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1905.12836">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">May 25, 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Popular-science talk <b>“Gravitational Wave Era”</b>, invited by the Youth
+  Astronomy Society, Peking University
+  (<a href="https://mp.weixin.qq.com/s/UORlexq0peZaqhtC_clq_w">flyer</a>)
+  <p></p>
+
+
+  <font color="grey" size="2">May 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Pulsar Tests of the Gravitational Lorentz Violation</b> by Lijing Shao
+  (<a href="https://arxiv.org/abs/1905.08405">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">May 16, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited Talk at the <b>8th Meeting on
+    CPT and Lorentz Symmetry</b>, Indiana
+  University, Bloomington USA
+  (<a href="http://www.indiana.edu/~lorentz/cpt19/">CPT'19</a>)
+  <p></p>
+
+  <font color="grey" size="2">May 10, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited Talk at the <b>8th Huada (CCNU) School on QCD</b>, Central China
+  Normal
+  University, Wuhan China
+  (<a href="https://indico.ihep.ac.cn/event/9689/overview">QCD</a>)
+  <p></p>
+
+  <font color="grey" size="2">May 6, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Contributed Talk at <b>Recent Progress in Relativistic Astrophysics</b>, Fudan
+  University, Shanghai China
+  (<a
+    href="http://www.tat.physik.uni-tuebingen.de/blackholes2019/Home.html">Fudan'19</a>)
+  <p></p>
+
+  <font color="grey" size="2">May 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Fundamental Physics with Galactic Center Pulsars</b> by Geoffrey Bower
+  <i>et al.</i>
+  (<a
+    href="https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.438B/abstract">ADS</a>)
+  <p></p>
+
+  <font color="grey" size="2">April 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Invited to join the <b>Executive Board Members</b> of the journal <b>Science
+    Bulletin</b>
+  (<a href="https://www.journals.elsevier.com/science-bulletin">Sci. Bull.</a>)
+  <p></p>
+
+  <font color="grey" size="2">Apr 30, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited Talk at the <b>1st International Symposium on Precision Measurement
+    Physics 2019</b>, Huazhong University of Science and Technology, Wuhan China
+  (<a
+    href="http://meeting.hust.edu.cn/Meeting/28D0C57D1E429B9FA1CDB0F5CF96E6/?id=626">PMP2019</a>)
+  <p></p>
+
+  <font color="grey" size="2">Apr 24, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited Talk at <b>Workshop on Gravitational Waves and Cosmology Related to
+    FAST
+    Sciences</b>, Qiannan Normal University for Nationalities, Duyun China
+  <p></p>
+
+
+  <font color="grey" size="2">April 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>First M87 Event Horizon Telescope Results</b> by the Event Horizon
+  Telescope Collaboration
+  <ol type="I">
+    <li>
+      The Shadow of the Supermassive Black Hole
+      (<a
+        href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7">ApJL</a>)
+    </li>
+    <li>
+      Array and Instrumentation
+      (<a
+        href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0c96">ApJL</a>)
+    </li>
+    <li>
+      Data Processing and Calibration
+      (<a
+        href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0c57">ApJL</a>)
+    </li>
+    <li>
+      Imaging the Central Supermassive Black Hole
+      (<a
+        href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85">ApJL</a>)
+    </li>
+    <li>
+      Physical Origin of the Asymmetric Ring
+      (<a
+        href="https://iopscience.iop.org/article/10.3847/2041-8213/ab0f43">ApJL</a>)
+    </li>
+    <li>
+      The Shadow and Mass of the Central Black Hole
+      (<a
+        href="https://iopscience.iop.org/article/10.3847/2041-8213/ab1141">ApJL</a>)
+    </li>
+  </ol>
+  <p></p>
+
+  <font color="grey" size="2">Apr 9, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited Talk at <b>Workshop on the Strategic Priority Program
+    “Multi-wavelength
+    Gravitational Wave Universe”</b>, Yunnan Astronomical Observatory, Kunming
+  China
+  <p></p>
+
+  <br>
+  <hr><br>
+  <font size="+3" color="#8BB338"><b>Spring 2019</b></font>
+  <img src="img/spring.png" style="height:50px;"><br>
+  <p></p>
+
+  <font color="grey" size="2">March 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Testing the Gravitational Weak Equivalence Principle in the Standard-Model
+    Extension with Binary Pulsars</b> by Lijing Shao & Quentin G. Bailey
+  (<a href="https://arxiv.org/abs/1903.11760">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">March 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Extreme Gravity and Fundamental Physics</b> by B.S. Sathyaprakash <i>et
+    al.</i>
+  (<a href="https://arxiv.org/abs/1903.09221">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">March 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>On the Properties of the Massive Binary Black Hole Merger GW170729</b> by
+  Katerina Chatziioannou <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1903.06742">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">March 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Selected as an <b>Outstanding Reviewer</b> for <b>Universe</b>,
+  Multidisciplinary Digital Publishing Institute
+  (<a href="https://friendshao.github.io/whatsmore/Universe2018.pdf">MDPI</a>)
+  <p></p>
+
+  <font color="grey" size="2">March 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Tests of General Relativity with the Binary Black Hole Signals from the
+    LIGO-Virgo Catalog GWTC-1</b> by the LIGO/Virgo Collaboration
+  (<a href="https://arxiv.org/abs/1903.04467">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">March 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Selected as an <b>Outstanding Reviewer</b> for <b>Classical and Quantum
+    Gravity</b>, IOP Publishing
+  (<a href="https://friendshao.github.io/whatsmore/CQG2018.pdf">IOP</a>)
+  <p></p>
+
+
+  <font color="grey" size="2">March 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Gravitational-wave Merging Events from the Dynamics of Stellar Mass
+    Binary Black Holes around the Massive Black Hole in a Galactic Nucleus</b>
+  by
+  Fupeng Zhang <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1903.02685">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">Feb 15, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Contributed talk at <b>The 5th KAGRA International Workshop / The 1st
+    KAGRA-Virgo-3G Detectors Workshop</b>, Perugia University, Italy
+  (<a href="https://indico.ego-gw.it/event/12/">KIW2019</a>)
+  <p></p>
+
+  <font color="grey" size="2">February 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Constraints on Millicharged Dark Matter and Axion-like Particles from
+    Timing of Radio Waves</b> by Andrea Caputo <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1902.02695">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">January 2019</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Degeneracy in Studying the Supranuclear Equation of State and Modified
+    Gravity with Neutron Stars</b> by Lijing Shao
+  (<a href="https://arxiv.org/abs/1901.07546">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">January, 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Selected to the <b>Young Elite Scientists Sponsorship Program</b> by China
+  Association for Science and Technology
+  (<a href="http://www.cast.org.cn/art/2019/1/17/art_458_85840.html">CAST</a>)
+  <p></p>
+
+  <font color="grey" size="2">Jan 6, 2019</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited talk at <b>Xiamen-CUSTIPEN Workshop on the EOS of Dense Neutron-Rich
+    Matter in the Era of Gravitational Wave Astronomy</b>, Xiamen University
+  (<a
+    href="http://custipen.pku.edu.cn/meeting/xiamen2019/About.htm">CUSTIPEN</a>)
+  <p></p>
+
+  <font color="grey" size="2">Jan 2, 2019</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  <b>First Teaching Activity</b> for the undergraduate freshman class
+  <b>“Lectures on the Frontiers of Modern Physics”</b>, Peking University
+  <p></p>
+
+  <br>
+  <hr><br>
+  <font size="+3" color="#0A92C7"><b>Winter 2018</b></font>
+  <img src="img/winter.jpeg" style="height:65px;"><br>
+  <p></p>
+
+  <font color="grey" size="2">December 22, 2018</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited talk at <b>Workshop on Gravitation and Cosmology</b>, Institute of
+  Theoretical Physics, Chinese Academy of Sciences,
+  Beijing China
+  (<a
+    href="http://www.itp.cas.cn/xshd/xshy/201812/t20181219_5218435.html">link</a>)
+  <p></p>
+
+  <font color="grey" size="2">December, 2018</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Join the <b>KAGRA Scientific Collaboration</b> with Kohei Inayoshi and Yong
+  Gao
+  (<a
+    href="http://kiaa.pku.edu.cn/news/2018/team-kiaa-joined-kagra-gravitational-wave-scientific-collaboration">KIAA</a>)
+  <p></p>
+
+  <font color="grey" size="2">December 17, 2018</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited talk at <b>The 5th Workshop on TianQin Science Mission</b>, Sun
+  Yat-sen
+  University, Zhuhai China
+  (<a href="http://tianqin.sysu.edu.cn/content/270">link</a>)
+  <p></p>
+
+  <font color="grey" size="2">December 2018</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Observatory Science with eXTP</b> by in 't Zand <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1812.04023">arXiv</a>) AND
+  <b>Accretion in Strong Field Gravity with eXTP</b> by De Rosa <i>et al.</i>
+  (<a href="https://arxiv.org/abs/1812.04022">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">December 10, 2018</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Seminar talk <b>“Constraining Strong-field Gravity by Combining Pulsar Timing
+    and Gravitational Waves”</b> at Tsinghua University, Beijing China
+  (<a
+    href="http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/385/-/constraining-strong-field-gravity-by-combining-pulsar-timing-and-gravitational-waves">flyer</a>)
+  <p></p>
+
+  <font color="grey" size="2">December, 2018</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Join the <b>Hot Universe Baryon Surveyor (HUBS)</b> Scientific Collaboration
+  (<a href="http://hubs.mynetgear.com:8080/">HUBS</a>)
+  <p></p>
+
+  <font color="grey" size="2">December 2018</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>GWTC-1: A Gravitational-wave Transient Catalog of Compact Binary Mergers
+    Observed by LIGO and Virgo during the First and Second Observing Runs</b> by
+  the LIGO/Virgo Collaboration
+  (<a href="https://arxiv.org/abs/1811.12907">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">November 26, 2018</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Contributed talk at <b>MPG-CAS Joint Project Meeting: Low-frequency
+    Gravitational Wave Astronomy and Gravitational Physics in Space</b>,
+  Shanghai
+  Jiao Tong University
+  <p></p>
+
+  <font color="grey" size="2">November, 2018</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Invited to join the <b>editorial board</b> of the journal
+  <b><i>Universe</i></b>
+  (<a
+    href="https://www.mdpi.com/journal/universe/editors#editorialboard">editorial</a>)
+  <p></p>
+
+  <font color="grey" size="2">November 2018</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  Invited to translate <i>James Hough</i>'s <b>A Wave of Discovery</b>
+  (<a href="https://physicsworld.com/a/a-wave-of-discovery/">original</a>,
+  <a
+    href="http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml">translated</a>)
+  <p></p>
+
+  <font color="grey" size="2">November 20, 2018</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Contributed talk at <b>International Symposium on Cosmology and Particle
+    Astrophysics</b>, Yangzhou University
+  (<a href="http://cospa2018.cgc-yzu.cn/">CosPA'18</a>)
+  <p></p>
+
+  <font color="grey" size="2">November 2018</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Tests of General Relativity with GW170817</b> by the LIGO/Virgo
+  Collaboration
+  (<a href="https://arxiv.org/abs/1811.00364">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 30, 2018</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited talk <b>“Testing Gravity with Pulsars and Gravitational Waves”</b> at
+  University of Science and Technology of China, Hefei China
+  (<a
+    href="https://astro.ustc.edu.cn/2018/1029/c14971a344157/page.htm">flyer</a>)
+  <p></p>
+
+  <font color="grey" size="2">October, 2018</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  Join the <b>Laser Interferometer Space Antenna (LISA)</b> Consortium
+  (<a href="https://www.elisascience.org/">LISA</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 16, 2018</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  <b>Our First Group Meeting</b> at KIAA-PKU
+  (<a href="https://kiaagravity.github.io/">page</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 2018</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Galactic Center Pulsars with the ngVLA</b> by Geoffrey C. Bower <i>et
+    al</i>.
+  (<a href="https://arxiv.org/abs/1810.06623">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 2018</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Testing Velocity-dependent CPT-violating Gravitational Forces with Radio
+    Pulsars</b> by Lijing Shao & Quentin G. Bailey
+  (<a href="https://arxiv.org/abs/1810.06332">arXiv</a>)
+  <p></p>
+
+  <font color="grey" size="2">October 2018</font> <br>
+  <img src="img/paper.png" style="height:28px;">
+  <b>Fundamental Physics with the Square Kilometre Array</b> by Phil Bull <i>et
+    al</i>.
+  (<a href="https://arxiv.org/abs/1810.02680">arXiv</a>)
+  <p></p>
+
+  <br>
+  <hr><br>
+  <font size="+3" color="#F9A20C"><b>Autumn 2018</b></font>
+  <img src="img/autumn.png" style="height:70px;"><br>
+  <p></p>
+
+
+  <font color="grey" size="2">September 20, 2018</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited talk at <b>Advanced
+    Gravitational-wave Workshop</b>, Hunan Normal University, Changsha China
+  <p></p>
+
+  <font color="grey" size="2">September 14, 2018</font> <br>
+  <img src="img/talk.png" style="height:28px;">
+  Invited talk <b>“Testing the Universality of Free Fall towards Dark Matter
+    with Radio Pulsars”</b> at Virtual Institute of Astroparticle Physics
+  (<a href="http://viavca.in2p3.fr/lijing_shao.html">slides & video</a>)
+  <p></p>
+
+  <font color="grey" size="2">September 1, 2018</font> <br>
+  <img src="img/event.png" style="height:28px;">
+  <b>Assistant Professor</b> at Kavli Institute for Astronomy and Astrophysics,
+  Peking University
+  (<a href="http://kiaa.pku.edu.cn/news/2018/three-faculty-join-kiaa">KIAA</a>)
+
+</div>
