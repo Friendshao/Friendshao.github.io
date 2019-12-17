@@ -12,9 +12,10 @@ permalink: /whatsmore/
 
 ### Serving for Academic Conferences
 
-0. [**Dialogue at the Dream Field: Supranuclear Matter**](http://www.phy.pku.edu.cn/~FPS/ddf/), August 17-21, 2020, Guiyang China
-0. [**KIAA Forum 2019: The Future of Gravitational Wave Astrophysics**](http://kiaa.pku.edu.cn/astroforum19/), November 28-29, 2019, Beijing China
-0. [**Gravitational Wave Astrophysics Conference 2019**](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), August 13-17, 2019, Kunming China
+0. [Dialogue at the Dream Field: Supranuclear Matter](http://www.phy.pku.edu.cn/~FPS/ddf/), August 17-21, 2020, Guiyang China
+0. [KIAA Forum 2019: The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/), November 28-29, 2019, Beijing China
+0. [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), August 13-17, 2019, Kunming China
+{: reversed="reversed"}
 
 ### Bachelor/Doctoral Theses <small><small>([link](https://friendshao.github.io/docs/theses))
 
