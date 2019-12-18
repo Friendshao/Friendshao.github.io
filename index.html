@@ -9,7 +9,7 @@ layout: default
   <style>
     .black_overlay {
       display: none;
-      position: absolute;
+      position: fixed;
       top: 0%;
       left: 0%;
       width: 100%;
@@ -19,17 +19,60 @@ layout: default
       -moz-opacity: 0.8;
       opacity: .80;
       filter: alpha(opacity=88);
+      overflow: scroll;
     }
 
-    .white_content {
+    .white_content_spring {
       display: none;
-      position: absolute;
-      top: 25%;
+      position: fixed;
+      top: 15%;
       left: 25%;
       width: 55%;
       height: 55%;
-      padding: 20px;
+      padding: 30px;
+      border: 10px solid rgb(124, 201, 124);
+      background-color: white;
+      z-index: 1002;
+      overflow: auto;
+    }
+
+    .white_content_summer {
+      display: none;
+      position: fixed;
+      top: 15%;
+      left: 25%;
+      width: 55%;
+      height: 55%;
+      padding: 30px;
+      border: 10px solid rgb(184, 38, 46);
+      background-color: white;
+      z-index: 1002;
+      overflow: auto;
+    }
+
+    .white_content_autumn {
+      display: none;
+      position: fixed;
+      top: 15%;
+      left: 25%;
+      width: 55%;
+      height: 55%;
+      padding: 30px;
       border: 10px solid orange;
+      background-color: white;
+      z-index: 1002;
+      overflow: auto;
+    }
+
+    .white_content_winter {
+      display: none;
+      position: fixed;
+      top: 15%;
+      left: 25%;
+      width: 55%;
+      height: 55%;
+      padding: 30px;
+      border: 10px solid rgb(70, 167, 197);
       background-color: white;
       z-index: 1002;
       overflow: auto;
@@ -171,9 +214,8 @@ layout: default
     <a href="JavaScript:void(0)" onclick="openDialog(5)">
       <font size="+3" color="#F9A20C"><b>Autumn 2019</b></font>
       <img src="img/autumn.png" style="height:70px;"><br>
-      <p></p>
     </a>
-    <div id="light5" class="white_content">
+    <div id="light5" class="white_content_autumn">
 
       <a href="javascript:void(0)" onclick="closeDialog(5)">
         <p align="right">Close Window</p>
@@ -317,9 +359,8 @@ layout: default
     <a href="JavaScript:void(0)" onclick="openDialog(4)">
       <font size="+3" color="#F50D40"><b>Summer 2019</b></font>
       <img src="img/summer.png" style="height:80px;"><br>
-      <p></p>
     </a>
-    <div id="light4" class="white_content">
+    <div id="light4" class="white_content_summer">
 
       <a href="javascript:void(0)" onclick="closeDialog(4)">
         <p align="right">Close Window</p>
@@ -483,10 +524,9 @@ layout: default
     <a href="JavaScript:void(0)" onclick="openDialog(3)">
       <font size="+3" color="#8BB338"><b>Spring 2019</b></font>
       <img src="img/spring.png" style="height:55px;"><br>
-      <p></p>
     </a>
 
-    <div id="light3" class="white_content">
+    <div id="light3" class="white_content_spring">
 
       <a href="javascript:void(0)" onclick="closeDialog(3)">
         <p align="right">Close Window</p>
@@ -612,9 +652,8 @@ layout: default
     <a href="JavaScript:void(0)" onclick="openDialog(2)">
       <font size="+3" color="#0A92C7"><b>Winter 2018</b></font>
       <img src="img/winter.jpeg" style="height:65px;"><br>
-      <p></p>
     </a>
-    <div id="light2" class="white_content">
+    <div id="light2" class="white_content_winter">
 
       <a href="javascript:void(0)" onclick="closeDialog(2)">
         <p align="right">Close Window</p>
@@ -794,7 +833,7 @@ layout: default
       <font size="+3" color="#F9A20C"><b>Autumn 2018</b></font>
       <img src="img/autumn.png" style="height:70px;"><br>
     </a>
-    <div id="light1" class="white_content">
+    <div id="light1" class="white_content_autumn">
 
       <a href="javascript:void(0)" onclick="closeDialog(1)">
         <p align="right">Close Window</p>
