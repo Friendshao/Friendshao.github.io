@@ -31,7 +31,7 @@ layout: default
 - [Bing](https://www.bing.com/),
   [Evernote](https://www.evernote.com/Home.action),
   [Baidu](http://www.baidu.com/),
-  [smallpdf](http://smallpdf.com/)
+  [smallpdf](http://smallpdf.com/),
   [sortime](https://www.sortime.com/v/web)
 - [feedReader](http://feedreader.com/online/),
   [Dropbox](https://www.dropbox.com/home),
@@ -51,12 +51,14 @@ layout: default
 **Working**
 
 - [KIAA](http://kiaa.pku.edu.cn/),
+  [Room](http://room.kiaa.club),
   [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en),
   [PKU](http://www.pku.edu.cn/)
   ([BBS](http://bbs.pku.edu.cn/),
    [CWFW](http://cwfw.pku.edu.cn/),
    [LIB](http://www.lib.pku.edu.cn/portal/), 
    [ITS](http://its.pku.edu.cn/),
+   [pan](http://pan.pku.edu.cn/),
    [PHY](http://www.phy.pku.edu.cn/), 
    [PHY-FTP](ftp://pts.phy.pku.edu.cn/),
    [Portal](https://portal.pku.edu.cn/)),

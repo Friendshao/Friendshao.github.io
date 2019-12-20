@@ -34,7 +34,7 @@ to continuous gravitational waves](https://arxiv.org/abs/1909.10372),
 0. B.P. Abbott, *et al.*, [A guide to LIGO-Virgo detector noise and
 extraction of transient gravitational-wave
 signals](https://arxiv.org/abs/1908.11170), 
-*Class. Quantum Grav.* (submitted), arXiv:1908.11170
+*Class. Quantum Grav.* (accepted), arXiv:1908.11170
 
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), 
@@ -451,7 +451,7 @@ range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
 0. C. Goddi, *et al.*, [First M87 Event Horizon Telescope results and the
-role of ALMA](https://arxiv.org/abs/1910.10193), Messenger 177 (2019) 25
+role of ALMA](https://arxiv.org/abs/1910.10193), *Messenger* 177 (2019) 25
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
