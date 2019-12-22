@@ -36,9 +36,9 @@ permalink: /whatsmore/
 
 ### Useful Links
 
-1. [General Purposes: mostly on programming](/docs/website-general)
-2. [Specific Purposes: again mostly on programming](/docs/website-specific)
-3. [Pulsars and Gravitational Waves](/docs/website-psr-gw)
+- [General Purposes: mostly on programming](/docs/website-general)
+- [Specific Purposes: again mostly on programming](/docs/website-specific)
+- [Pulsars and Gravitational Waves](/docs/website-psr-gw)
 
 <!--
 

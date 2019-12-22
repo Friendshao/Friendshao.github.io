@@ -73,7 +73,8 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | [8. 力学中的变分方法](https://www.icloud.com/iclouddrive/07uCJ8TPOjOnIA9q6XJNgmj9w#8) | [HW8 (60 points)](https://www.icloud.com/iclouddrive/0qCVex-09umrlriYunDfogAqA#homework8) | HW8 deadline: Dec 4 |
 | [9. 连续介质动力学](https://www.icloud.com/iclouddrive/0OfJOmdJXxCVESqJ9dgHCYxHA#9) | [HW9 (60 points)](https://www.icloud.com/iclouddrive/04QRvC5TcMQy1mUeMrfUKTB9w#homework9) | HW9 deadline: Dec 16 |
 | [10. 相对论性的分析力学](https://www.icloud.com/iclouddrive/0tfby_METMdkKH8JdjQPRd8Pw#10) | [HW10 (40 points)](https://www.icloud.com/iclouddrive/0dnAIvKjx6PvHO0H3O5uIdYaA#homework10) | HW10 deadline: Dec 25 |
-| **期末考试（闭卷）** | [课程小结](https://www.icloud.com/iclouddrive/0t11I0ACD7hG7FrZLxnrS1YoA)  | 2020年1月8日（8:30am） |
+| *助教答疑（高勇、刘畅）* | 科维理所K208 | Jan. 7（10-11am & 14-17pm） |
+| **期末考试（闭卷）** | [课程小结](https://www.icloud.com/iclouddrive/0t11I0ACD7hG7FrZLxnrS1YoA)  | 2020年1月8日（8:30am），二教207室 |
 
 
 <script type="text/x-mathjax-config">
