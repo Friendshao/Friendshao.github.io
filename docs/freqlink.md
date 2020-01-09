@@ -69,7 +69,8 @@ layout: default
 
 - [Friendshao.io](https://friendshao.github.io/),
   [kiaagravity.io](https://kiaagravity.github.io/),
-  [google scholar](https://scholar.google.com/citations?user=x7Rnzn8AAAAJ&hl=en)
+  [google scholar](https://scholar.google.com/citations?user=x7Rnzn8AAAAJ&hl=en),
+  [douban](https://www.douban.com/)
 - [hyperspace](http://hyperspace.uni-frankfurt.de/),
   [pulsarastronomy](http://pulsarastronomy.net/pulsar/preprints),
   [benty-fields](https://benty-fields.com/benty-search),

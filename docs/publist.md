@@ -450,6 +450,11 @@ range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
+0. G. Bower, *et al.*, [ngVLAKey Science Goal 4: Fundamental Physics with
+Galactic Center
+Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
+*American Astronomical Society*, AAS Meeting no. 235, id. no. 364.21
+
 0. C. Goddi, *et al.*, [First M87 Event Horizon Telescope results and the
 role of ALMA](https://arxiv.org/abs/1910.10193), *Messenger* 177 (2019) 25
 
