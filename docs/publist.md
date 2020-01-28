@@ -6,8 +6,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 96)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 97)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 21)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
 ---
@@ -16,6 +16,9 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. E. Barausse, *et al.*, [Prospects for fundamental physics with
+   LISA](https://arxiv.org/abs/2001.09793), arXiv:2001.09793
 
 0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
 numerical-relativity waveform models for spin-aligned binary black holes
