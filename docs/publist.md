@@ -41,7 +41,7 @@ signals](https://arxiv.org/abs/1908.11170),
 
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), 
-*Publ. Astron. Soc. Aust.* (accepted), arXiv:1810.02680
+*Publ. Astron. Soc. Aust.* 37 (2020) e002
 
 0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
 in the second Advanced LIGO observing run with an improved hidden Markov
