@@ -17,7 +17,14 @@ permalink: /whatsmore/
 0. [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), August 13-17, 2019, Kunming China
 {: reversed="reversed"}
 
-### Bachelor/Doctoral Theses <small><small>([link](https://friendshao.github.io/docs/theses))
+### Bachelor/Master/Doctoral Theses
+
+- [Students' Theses](https://friendshao.github.io/docs/theses)
+  - <small>**Bachelor Theses**: Wenlong Li (2019); Zhongpeng Sun (2019)
+- **邵立晶**，[用射电脉冲星检验时空的基本对称性](https://friendshao.github.io/docs/phd_thesis.pdf)（北京大学，2015年5月）
+  - <small>Testing Spacetime Symmetries with Radio Pulsars
+- **邵立晶**，[量子引力唯象学与洛伦兹破坏的天体物理检验](https://friendshao.github.io/docs/bachelor_thesis.pdf)（北京大学，2010年6月）
+  - <small>Quantum Gravity Phenomenology and Astrophysical Tests on Lorentz Violation
 
 ### Recommended Books
 

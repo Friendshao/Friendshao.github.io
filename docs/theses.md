@@ -20,13 +20,6 @@ tr:nth-child(odd) {
 }
 </style>
 
-<big><big> **My Theses**
-
-- **邵立晶**，[用射电脉冲星检验时空的基本对称性](phd_thesis.pdf)（北京大学，2015年5月）
-  - <small>Testing Spacetime Symmetries with Radio Pulsars
-- **邵立晶**，[量子引力唯象学与洛伦兹破坏的天体物理检验](bachelor_thesis.pdf)（北京大学，2010年6月）
-  - <small>Quantum Gravity Phenomenology and Astrophysical Tests on Lorentz Violation
-  
 <big><big> **Doctoral Theses**
 
 - In Progress
