@@ -24,10 +24,6 @@ GWTC-1](https://arxiv.org/abs/2002.01185), arXiv:2002.01185
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), arXiv:2001.09793
 
-0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
-numerical-relativity waveform models for spin-aligned binary black holes
-along eccentric orbits](https://arxiv.org/abs/1910.00784), arXiv:1910.00784
-
 0. B.P. Abbott, *et al.*, [Prospects for observing and localizing gravitational-wave
 transients with Advanced LIGO, Advanced Virgo and
 KAGRA](https://arxiv.org/abs/1304.0670), 
@@ -36,7 +32,12 @@ KAGRA](https://arxiv.org/abs/1304.0670),
 0. <sup>&#9733;</sup> R. Xu, J. Zhao, **L. Shao**, [Neutron star structure
 in the minimal gravitational standard-model extension and the implication
 to continuous gravitational waves](https://arxiv.org/abs/1909.10372),
-*Phys. Rev. D* (submitted), arXiv:1909.10372
+*Phys. Lett. B* (accepted), arXiv:1909.10372
+
+0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
+numerical-relativity waveform models for spin-aligned binary black holes
+along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D* (accepted),
+arXiv:1910.00784
 
 0. B.P. Abbott, *et al.*, [A guide to LIGO-Virgo detector noise and
 extraction of transient gravitational-wave
