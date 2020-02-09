@@ -42,7 +42,7 @@ arXiv:1910.00784
 0. B.P. Abbott, *et al.*, [A guide to LIGO-Virgo detector noise and
 extraction of transient gravitational-wave
 signals](https://arxiv.org/abs/1908.11170), 
-*Class. Quantum Grav.* (accepted), arXiv:1908.11170
+*Class. Quantum Grav.* 37 (2020) 055002
 
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680), 
