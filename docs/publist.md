@@ -32,7 +32,7 @@ KAGRA](https://arxiv.org/abs/1304.0670),
 0. <sup>&#9733;</sup> R. Xu, J. Zhao, **L. Shao**, [Neutron star structure
 in the minimal gravitational standard-model extension and the implication
 to continuous gravitational waves](https://arxiv.org/abs/1909.10372),
-*Phys. Lett. B* (accepted), arXiv:1909.10372
+*Phys. Lett. B* 803 (2020) 135283
 
 0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
 numerical-relativity waveform models for spin-aligned binary black holes
