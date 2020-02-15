@@ -19,12 +19,14 @@ permalink: /whatsmore/
 
 ### Bachelor/Master/Doctoral Theses
 
-- [Students' Theses](https://friendshao.github.io/docs/theses)
+- Students' Theses [[link](https://friendshao.github.io/docs/theses)]
   - <small>**Bachelor Theses**: Wenlong Li (2019); Zhongpeng Sun (2019)
-- **邵立晶**，[用射电脉冲星检验时空的基本对称性](https://friendshao.github.io/docs/phd_thesis.pdf)（北京大学，2015年5月）
-  - <small>Testing Spacetime Symmetries with Radio Pulsars
-- **邵立晶**，[量子引力唯象学与洛伦兹破坏的天体物理检验](https://friendshao.github.io/docs/bachelor_thesis.pdf)（北京大学，2010年6月）
-  - <small>Quantum Gravity Phenomenology and Astrophysical Tests on Lorentz Violation
+- Doctoral Thesis [[pdf](https://friendshao.github.io/docs/phd_thesis.pdf)]
+  - <small> **Shao**, Testing Spacetime Symmetries with Radio Pulsars (Peking University 2015)
+  - <small>**邵立晶**，用射电脉冲星检验时空的基本对称性（北京大学，2015年5月）
+- Bachelor Thesis [[pdf](https://friendshao.github.io/docs/bachelor_thesis.pdf)]
+  - <small>**Shao**, Quantum Gravity Phenomenology and Astrophysical Tests on Lorentz Violation (Peking University 2010)
+  - <small>**邵立晶**，量子引力唯象学与洛伦兹破坏的天体物理检验（北京大学，2010年6月）
 
 ### Recommended Books
 
