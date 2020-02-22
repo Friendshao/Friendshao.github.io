@@ -46,11 +46,11 @@ tr:nth-child(odd) {
   - <small>The problem of motion in Newtonian and Einsteinian gravity [[ADS](http://adsabs.harvard.edu/abs/1987thyg.book..128D)]
 - **Damour & Schäfer (1991)**
   - <small>New tests of the strong equivalence principle using binary-pulsar data [[PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.66.2549)]
-- **Adelberger et al. (2009)**
+- **Adelberger, Gundlach, Heckel, Hoedl, Schlamminger (2009)**
   - <small>Torsion balance experiments: A low-energy frontier of particle physics [[PPNP](http://dx.doi.org/10.1016/j.ppnp.2008.08.002)]
-- **Wagner et al. (2012)**
+- **Wagner, Schlamminger, Gundlach, Adelberger (2012)**
   - <small>Torsion-balance tests of the weak equivalence principle [[CQG](https://doi.org/10.1088/0264-9381/29/18/184002)]
-- **Touboul et al. (2017)**
+- **Touboul, Métris, Rodrigues et al. (2017)**
   - <small>MICROSCOPE mission: First results of a space test of the equivalence principle [[PRL](https://doi.org/10.1103/PhysRevLett.119.231101)] 
 - **Shao, Wex, Kramer (2018)**
   - <small>Testing the universality of free fall towards dark matter with radio pulsars [[PRL](https://doi.org/10.1103/PhysRevLett.120.241104)]
@@ -84,9 +84,9 @@ tr:nth-child(odd) {
   - <small>GW170817: Observation of gravitational waves from a binary neutron star inspiral [[PRL](https://doi.org/10.1103/PhysRevLett.119.161101)]
 - **Abbott et al. (2017)**
   - <small>A gravitational-wave standard siren measurement of the Hubble constant [[Nature](https://doi.org/10.1038/nature24471)]
-- **Berti et al. (2018)**
+- **Berti, Yagi, Yunes (2018)**
   - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (I) inspiral–merger [[GRG](https://doi.org/10.1007/s10714-018-2362-8)]
-- **Berti et al. (2018)**
+- **Berti, Yagi, Yang, Yunes (2018)**
   - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (II) ringdown [[GRG](https://doi.org/10.1007/s10714-018-2372-6)]
 - **Abbott et al. (2019)**
   - <small>GWTC-1: A gravitational-wave transient catalog of compact binary mergers observed by LIGO and Virgo during the first and second observing runs [[PRX](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031040)]
@@ -128,9 +128,9 @@ tr:nth-child(odd) {
   - <small>Strong-field tests of relativistic gravity and binary pulsars [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.45.1840)]
 - **Stairs (2003)**
   - <small>Testing general relativity with pulsar timing [[LRR](https://doi.org/10.12942/lrr-2003-5)]
-- **Kramer et al. (2006)**
+- **Kramer, Stairs, Manchester et al. (2006)**
   - <small>Tests of general relativity from timing the double pulsar [[Science](https://doi.org/10.1126/science.1132305)]
-- **Breton et al. (2008)**
+- **Breton, Kaspi, Kramer et al. (2008)**
   - <small>Relativistic spin precession in the double pulsar [[Science](https://doi.org/10.1126/science.1159295)]
 - **Kramer & Stairs (2008)**
   - <small>The double pulsar [[ADS](http://adsabs.harvard.edu/abs/2008ARA%26A..46..541K)]
@@ -152,7 +152,7 @@ tr:nth-child(odd) {
   - <small>Testing scalar-tensor gravity with gravitational-wave observations of inspiralling compact binaries [[PRD](https://doi.org/10.1103/PhysRevD.50.6058)]
 - **Damour & Esposito-Farèse (1996)**
   - <small>Tensor-scalar gravity and binary-pulsar experiments [[PRD](https://doi.org/10.1103/PhysRevD.54.1474)]
-- **Shao et al. (2017)**
+- **Shao, Sennett, Buonanno, Kramer, Wex (2017)**
   - <small>Constraining nonperturbative strong-field effects in scalar-tensor gravity by combining
 pulsar timing and laser-interferometer gravitational-wave detectors [[PRX](https://doi.org/10.1103/PhysRevX.7.041025)]
 
@@ -183,5 +183,5 @@ pulsar timing and laser-interferometer gravitational-wave detectors [[PRX](https
 
 <big><big> **Tests of gravity theories**
 
-- **Berti et al. (2015)**
+- **Berti, Barausse, Cardoso et al. (2015)**
   - <small>Testing general relativity with present and future astrophysical observations [[CQG](https://doi.org/10.1088/0264-9381/32/24/243001)]
