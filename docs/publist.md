@@ -39,8 +39,8 @@ to continuous gravitational waves](https://arxiv.org/abs/1909.10372),
 
 0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
 numerical-relativity waveform models for spin-aligned binary black holes
-along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D* (accepted),
-arXiv:1910.00784
+along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
+101 (2020) 044049
 
 0. B.P. Abbott, *et al.*, [A guide to LIGO-Virgo detector noise and
 extraction of transient gravitational-wave
