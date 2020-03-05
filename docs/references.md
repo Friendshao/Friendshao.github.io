@@ -62,9 +62,8 @@ tr:nth-child(odd) {
 
 - **Thorne (1987)**
   - <small>Gravitational radiation [[ADS](http://adsabs.harvard.edu/abs/1987thyg.book..330T)]
-- **Finn (1992)**
+- **Finn (1992)**; **Cutler & Flanagan (1994)**
   - <small>Detection, measurement, and gravitational radiation [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.5236)]
-- **Cutler & Flanagan (1994)**
   - <small>Gravitational waves from merging compact binaries: How accurately can one extract the binary’s parameters from the inspiral waveform? [[PRD](https://doi.org/10.1103/PhysRevD.49.2658)]
 - **Kidder (1995)**
   - <small> Coalescing binary systems of compact objects to (post)$^{5/2}$-Newtonian order. V. Spin effects [[PRD](https://doi.org/10.1103/PhysRevD.52.821)]
@@ -78,18 +77,15 @@ tr:nth-child(odd) {
   - <small>Physics, astrophysics and cosmology with gravitational waves [[LRR](https://doi.org/10.12942/lrr-2009-2)]
 - **Buonanno & Sathyaprakash (2015)**  
   - <small>Sources of gravitational waves: Theory and observations [[arXiv](https://arxiv.org/abs/1410.7832)]
-- **Abbott et al. (2016)**
+- **Abbott et al. (2016)**; **Abbott et al. (2017)**; **Abbott et al. (2017)**; **Abbott et al. (2019)**
   - <small>Observation of gravitational waves from a binary black hole merger [[PRL](https://doi.org/10.1103/PhysRevLett.116.061102)]
-- **Abbott et al. (2017)**
   - <small>GW170817: Observation of gravitational waves from a binary neutron star inspiral [[PRL](https://doi.org/10.1103/PhysRevLett.119.161101)]
-- **Abbott et al. (2017)**
   - <small>A gravitational-wave standard siren measurement of the Hubble constant [[Nature](https://doi.org/10.1038/nature24471)]
-- **Berti, Yagi, Yunes (2018)**
-  - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (I) inspiral–merger [[GRG](https://doi.org/10.1007/s10714-018-2362-8)]
-- **Berti, Yagi, Yang, Yunes (2018)**
-  - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (II) ringdown [[GRG](https://doi.org/10.1007/s10714-018-2372-6)]
-- **Abbott et al. (2019)**
   - <small>GWTC-1: A gravitational-wave transient catalog of compact binary mergers observed by LIGO and Virgo during the first and second observing runs [[PRX](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031040)]
+- **Berti, Yagi, Yunes (2018)**; **Berti, Yagi, Yang, Yunes (2018)**
+  - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (I) inspiral–merger [[GRG](https://doi.org/10.1007/s10714-018-2362-8)]
+  - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (II) ringdown [[GRG](https://doi.org/10.1007/s10714-018-2372-6)
+
 
 ---
 <p></p>
@@ -120,19 +116,16 @@ tr:nth-child(odd) {
 
 - **Blandford & Teukolsky (1976)**
   - <small>Arrival-time analysis for a pulsar in a binary system [[ApJ](https://doi.org/10.1086/154315)] 
-- **Damour & Deruelle (1985)**
+- **Damour & Deruelle (1985)**; **Damour & Deruelle (1986)**
   - <small>General relativistic celestial mechanics of binary systems. I. The post-Newtonian motion [[ADS](http://adsabs.harvard.edu/abs/1985AIHS...43..107D)] 
-- **Damour & Deruelle (1986)**
   - <small>General relativistic celestial mechanics of binary systems. II. The post-Newtonian timing formula [[ADS](http://adsabs.harvard.edu/abs/1986AIHS...44..263D)] 
 - **Damour & Taylor (1992)**
   - <small>Strong-field tests of relativistic gravity and binary pulsars [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.45.1840)]
 - **Stairs (2003)**
   - <small>Testing general relativity with pulsar timing [[LRR](https://doi.org/10.12942/lrr-2003-5)]
-- **Kramer, Stairs, Manchester et al. (2006)**
+- **Kramer et al. (2006)**; **Breton et al. (2008)**; **Kramer & Stairs (2008)**
   - <small>Tests of general relativity from timing the double pulsar [[Science](https://doi.org/10.1126/science.1132305)]
-- **Breton, Kaspi, Kramer et al. (2008)**
   - <small>Relativistic spin precession in the double pulsar [[Science](https://doi.org/10.1126/science.1159295)]
-- **Kramer & Stairs (2008)**
   - <small>The double pulsar [[ADS](http://adsabs.harvard.edu/abs/2008ARA%26A..46..541K)]
 - **Damour (2009)**
   - <small>Binary systems as test-beds of gravity theories [[arXiv](https://arxiv.org/abs/0704.0749)]
@@ -146,12 +139,11 @@ tr:nth-child(odd) {
 
 - **Damour & Esposito-Farèse (1992)**
   - <small>Tensor-multi-scalar theories of gravitation [[CQG](http://dx.doi.org/10.1088/0264-9381/9/9/015)]
-- **Damour & Esposito-Farèse (1993)**
+- **Damour & Esposito-Farèse (1993)**; **Damour & Esposito-Farèse (1996)**
   - <small>Nonperturbative strong-field effects in tensor-scalar theories of gravitation [[PRL](http://dx.doi.org/10.1103/PhysRevLett.70.2220)]
+  - <small>Tensor-scalar gravity and binary-pulsar experiments [[PRD](https://doi.org/10.1103/PhysRevD.54.1474)]
 - **Will (1994)**
   - <small>Testing scalar-tensor gravity with gravitational-wave observations of inspiralling compact binaries [[PRD](https://doi.org/10.1103/PhysRevD.50.6058)]
-- **Damour & Esposito-Farèse (1996)**
-  - <small>Tensor-scalar gravity and binary-pulsar experiments [[PRD](https://doi.org/10.1103/PhysRevD.54.1474)]
 - **Shao, Sennett, Buonanno, Kramer, Wex (2017)**
   - <small>Constraining nonperturbative strong-field effects in scalar-tensor gravity by combining
 pulsar timing and laser-interferometer gravitational-wave detectors [[PRX](https://doi.org/10.1103/PhysRevX.7.041025)]
@@ -163,9 +155,8 @@ pulsar timing and laser-interferometer gravitational-wave detectors [[PRX](https
 
 - **Kostelecký (2004)**
   - <small>Gravity, Lorentz violation, and the standard model [[PRD](https://doi.org/10.1103/PhysRevD.69.105009)]
-- **Bailey & Kostelecký (2006)**
+- **Bailey & Kostelecký (2006)**; **Kostelecký & Tasson (2011)**
   - <small>Signals for Lorentz violation in post-Newtonian gravity [[PRD](https://doi.org/10.1103/PhysRevD.74.045001)]
-- **Kostelecký & Tasson (2011)**
   - <small>Matter-gravity couplings and Lorentz violation [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.83.016013)]
 - **Shao (2014)**
   - <small>Tests of local Lorentz invariance violation of gravity in the standard model extension with pulsars [[PRL](https://doi.org/10.1103/PhysRevLett.112.111103)] 
