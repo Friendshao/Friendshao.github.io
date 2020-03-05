@@ -36,6 +36,8 @@ tr:nth-child(odd) {
 
 - **Akiyama et al. (2019)**
   - <small>First M87 Event Horizon Telescope results. I. The shadow of the supermassive black hole [[ApJL](https://doi.org/10.3847/2041-8213/ab0ec7)]
+- **Goddi et al. (2019)**
+  - <small>First M87 Event Horizon Telescope Results and the Role of ALMA [[Messenger](https://doi.org/10.18727/0722-6691/5150)]
 
 ---
 <p></p>
@@ -62,19 +64,27 @@ tr:nth-child(odd) {
 
 - **Thorne (1987)**
   - <small>Gravitational radiation [[ADS](http://adsabs.harvard.edu/abs/1987thyg.book..330T)]
-- **Finn (1992)**; **Cutler & Flanagan (1994)**
+- **Finn (1992)**; **Cutler & Flanagan (1994)**; **Cutler (1998)**
   - <small>Detection, measurement, and gravitational radiation [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.5236)]
   - <small>Gravitational waves from merging compact binaries: How accurately can one extract the binary’s parameters from the inspiral waveform? [[PRD](https://doi.org/10.1103/PhysRevD.49.2658)]
+  - <small>Angular resolution of the LISA gravitational wave detector [[PRD](https://doi.org/10.1103/PhysRevD.57.7089)]
 - **Kidder (1995)**
   - <small> Coalescing binary systems of compact objects to (post)$^{5/2}$-Newtonian order. V. Spin effects [[PRD](https://doi.org/10.1103/PhysRevD.52.821)]
-- **Cutler (1998)**
-  - <small>Angular resolution of the LISA gravitational wave detector [[PRD](https://doi.org/10.1103/PhysRevD.57.7089)]
 - **Will (1998)**
   - <small>Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries [[PRD](https://doi.org/10.1103/PhysRevD.57.2061)] 
+- **Buonanno & Damour (1999)**; **Buonanno & Damour (2000)**; **Buonanno, Chen, Damour (2006)**
+  - <small>Effective one-body approach to general relativistic two-body dynamics [[PRD](https://doi.org/10.1103/PhysRevD.59.084006)]
+  - <small>Transition from inspiral to plunge in binary black hole coalescences [[PRD](https://doi.org/10.1103/PhysRevD.62.064015)]
+  - <small>Transition from inspiral to plunge in precessing binaries of spinning black holes [[PRD](https://doi.org/10.1103/PhysRevD.74.104005)]
 - **Berti, Buonanno, Will (2005)**
   - <small>Estimating spinning binary parameters and testing alternative theories of gravity with LISA [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.71.084025)]
 - **Sathyaprakash & Schutz (2009)**
   - <small>Physics, astrophysics and cosmology with gravitational waves [[LRR](https://doi.org/10.12942/lrr-2009-2)]
+- **Taracchini et al. (2012)**; **Taracchini et al. (2014)**; **Babak et al. (2017)**; **Bohé et al. (2017)**
+  - <small>Prototype effective-one-body model for nonprecessing spinning inspiral-merger-ringdown waveforms [[PRD](https://doi.org/10.1103/PhysRevD.86.024011)]
+  - <small>Effective-one-body model for black-hole binaries with generic mass ratios and spins [[PRD](https://doi.org/10.1103/PhysRevD.89.061502)]
+  - <small>Validating the effective-one-body model of spinning, precessing binary black holes against numerical relativity [[PRD](https://doi.org/10.1103/PhysRevD.95.024010)]
+  - <small>Improved effective-one-body model of spinning, nonprecessing binary black holes for the era of gravitational-wave astrophysics with advanced detectors [[PRD](https://doi.org/10.1103/PhysRevD.95.044028)]
 - **Buonanno & Sathyaprakash (2015)**  
   - <small>Sources of gravitational waves: Theory and observations [[arXiv](https://arxiv.org/abs/1410.7832)]
 - **Abbott et al. (2016)**; **Abbott et al. (2017)**; **Abbott et al. (2019)**
