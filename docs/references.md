@@ -136,6 +136,12 @@ tr:nth-child(odd) {
   - <small>General relativistic celestial mechanics of binary systems. II. The post-Newtonian timing formula [[ADS](http://adsabs.harvard.edu/abs/1986AIHS...44..263D)] 
 - **Damour & Taylor (1992)**
   - <small>Strong-field tests of relativistic gravity and binary pulsars [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.45.1840)]
+- **Wex & Kopeikin (1999)**; **Kramer et al. (2004)**; **Liu et al. (2012, 2014)**; **Psaltis et al. (2016)**
+  - <small>Frame dragging and other precessional effects in black hole-pulsar binaries [[ApJ](https://doi.org/10.1086/306933)]
+  - <small>Strong-field tests of gravity using pulsars and black holes [[NAR](https://doi.org/10.1016/j.newar.2004.09.020)]
+  - <small>Prospects for probing the spacetime of Sgr A$^*$ with pulsars [[ApJ](https://doi.org/10.1088/0004-637X/747/1/1)]
+  - <small>Pulsar–black hole binaries: prospects for new gravity tests with future radio telescopes [[MNRAS](https://doi.org/10.1093/mnras/stu1913)]
+  - <small>A quantitative test of the no-hair theorem with Sgr A$^*$ using stars, pulsars, and the Event Horizon Telescope [[ApJ](https://doi.org/10.3847/0004-637X/818/2/121)]
 - **Stairs (2003)**; **Damour (2009)**; **Wex (2014)**; **Shao & Wex (2016)**
   - <small>Testing general relativity with pulsar timing [[LRR](https://doi.org/10.12942/lrr-2003-5)]
   - <small>Binary systems as test-beds of gravity theories [[arXiv](https://arxiv.org/abs/0704.0749)]
