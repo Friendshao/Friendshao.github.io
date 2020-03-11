@@ -31,6 +31,23 @@ tr:nth-child(odd) {
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
+<big><big><big> **Recommended Books**
+
+- **Misner *et al.* 1973**, Gravitation, Princeton University Press
+- **Maggiore 2007**, Gravitational Waves (Volume 1): Theory and
+  Experiments, Oxford University Press
+- **Poisson & Will 2014**, Gravity: Newtonian, Post-Newtonian,
+  Relativistic, Cambridge University Press
+- **Thorne & Blandford 2017**, Modern Classical Physics: Optics,
+  Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics, Princeton
+  University Press
+- **Maggiore 2018**, Gravitational Waves (Volume 2): Astrophysics and
+  Cosmology, Oxford University Press
+- **Will 2018**, Theory and Experiment in Gravitational Physics,
+  Cambridge University Press
+
+---
+<p></p>
 
 <big><big> **Black hole shadow**
 
@@ -117,10 +134,10 @@ tr:nth-child(odd) {
   - <small>Conservation laws and preferred frames in relativistic gravity. I. Preferred-frame theories and an extended PPN formalism [[ApJ](https://doi.org/10.1086/151754)]
 - **Gibbons & Will (2008)**
   - <small>On the multiple deaths of Whitehead's theory of gravity [[SHPHB](https://doi.org/10.1016/j.shpsb.2007.04.004)]
-- **Shao & Wex (2012)**; **Shao et al. (2013)**; **Shao & Wex (2013)**
+- **Shao & Wex (2012, 2013)**; **Shao et al. (2013)**
   - <small>New tests of local Lorentz invariance of gravity with small-eccentricity binary pulsars [[CQG](http://dx.doi.org/10.1088/0264-9381/29/21/215018)]
-  - <small>A new limit on local Lorentz invariance violation of gravity from solitary pulsars [[CQG](http://dx.doi.org/10.1088/0264-9381/30/16/165019)]
   - <small>New limits on the violation of local position invariance of gravity [[CQG](http://dx.doi.org/10.1088/0264-9381/30/16/165020)]
+  - <small>A new limit on local Lorentz invariance violation of gravity from solitary pulsars [[CQG](http://dx.doi.org/10.1088/0264-9381/30/16/165019)]
 - **Will (2014)**
   - <small>The confrontation between general relativity and experiment [[LRR](https://doi.org/10.12942/lrr-2014-4)]   
 
@@ -162,8 +179,9 @@ tr:nth-child(odd) {
 - **Damour & Esposito-Farèse (1993, 1996)**
   - <small>Nonperturbative strong-field effects in tensor-scalar theories of gravitation [[PRL](http://dx.doi.org/10.1103/PhysRevLett.70.2220)]
   - <small>Tensor-scalar gravity and binary-pulsar experiments [[PRD](https://doi.org/10.1103/PhysRevD.54.1474)]
-- **Will (1994)**
+- **Will (1994)**; **Damour & Esposito-Farèse (1998)**
   - <small>Testing scalar-tensor gravity with gravitational-wave observations of inspiralling compact binaries [[PRD](https://doi.org/10.1103/PhysRevD.50.6058)]
+  - <small>Gravitational wave versus binary - pulsar tests of strong field gravity [[PRD](https://doi.org/10.1103/PhysRevD.58.042001)]
 - **Shao et al. (2017)**
   - <small>Constraining nonperturbative strong-field effects in scalar-tensor gravity by combining
 pulsar timing and laser-interferometer gravitational-wave detectors [[PRX](https://doi.org/10.1103/PhysRevX.7.041025)]
