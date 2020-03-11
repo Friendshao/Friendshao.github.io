@@ -28,21 +28,6 @@ permalink: /whatsmore/
   - <small>**Shao**, Quantum Gravity Phenomenology and Astrophysical Tests on Lorentz Violation (Peking University 2010)
   - <small>**邵立晶**，量子引力唯象学与洛伦兹破坏的天体物理检验（北京大学，2010年6月）
 
-### Recommended Books
-
-- **Misner *et al.* 1973**, Gravitation, Princeton University Press
-- **Maggiore 2007**, Gravitational Waves (Volume 1): Theory and
-  Experiments, Oxford University Press
-- **Poisson & Will 2014**, Gravity: Newtonian, Post-Newtonian,
-  Relativistic, Cambridge University Press
-- **Thorne & Blandford 2017**, Modern Classical Physics: Optics,
-  Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics, Princeton
-  University Press
-- **Maggiore 2018**, Gravitational Waves (Volume 2): Astrophysics and
-  Cosmology, Oxford University Press
-- **Will 2018**, Theory and Experiment in Gravitational Physics,
-  Cambridge University Press
-
 ### Useful Links
 
 - [General Purposes: mostly on programming](/docs/website-general)
