@@ -33,7 +33,7 @@ layout: default
   [Baidu](http://www.baidu.com/),
   [smallpdf](http://smallpdf.com/),
   [sortime](https://www.sortime.com/v/web),
-  [rili.wps](https://rili.wps.cn/)
+  [wps](https://rili.wps.cn/)
 - [feedReader](http://feedreader.com/online/),
   [Dropbox](https://www.dropbox.com/home),
   [github](https://github.com/),
