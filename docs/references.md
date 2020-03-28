@@ -108,6 +108,9 @@ tr:nth-child(odd) {
   - <small>Observation of gravitational waves from a binary black hole merger [[PRL](https://doi.org/10.1103/PhysRevLett.116.061102)]
   - <small>GW170817: Observation of gravitational waves from a binary neutron star inspiral [[PRL](https://doi.org/10.1103/PhysRevLett.119.161101)]
   - <small>GWTC-1: A gravitational-wave transient catalog of compact binary mergers observed by LIGO and Virgo during the first and second observing runs [[PRX](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031040)]
+- **Sesana (2016)**; **Isoyama et al. (2018)**
+  - <small>Prospects for multiband gravitational-wave astronomy after GW150914 [[PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.231102)]
+  - <small>Multiband Gravitational-Wave Astronomy: Observing binary inspirals with a decihertz detector, B-DECIGO [[PTEP](https://doi.org/10.1093/ptep/pty078)]
 - **Abbott et al. (2017)**
   - <small>A gravitational-wave standard siren measurement of the Hubble constant [[Nature](https://doi.org/10.1038/nature24471)]
 - **Berti et al. (2018a,b)**
