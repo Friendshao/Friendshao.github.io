@@ -170,7 +170,11 @@ tr:nth-child(odd) {
 - **Kramer et al. (2006)**; **Breton et al. (2008)**; **Kramer & Stairs (2008)**
   - <small>Tests of general relativity from timing the double pulsar [[Science](https://doi.org/10.1126/science.1132305)]
   - <small>Relativistic spin precession in the double pulsar [[Science](https://doi.org/10.1126/science.1159295)]
-  - <small>The double pulsar [[ADS](http://adsabs.harvard.edu/abs/2008ARA%26A..46..541K)]
+- <small>The double pulsar [[ADS](http://adsabs.harvard.edu/abs/2008ARA%26A..46..541K)]
+- **Ransom et al. (2014)**; **Shao (2016)**; **Archibald et al. (2018)**
+  -<small>A millisecond pulsar in a stellar triple system [[Nature](https://doi.org/10.1038/nature12917)]
+  -<small>Testing the strong equivalence principle with the triple pulsar PSR J0337+1715 [[PRD](https://doi.org/10.1103/PhysRevD.93.084023)]
+  -<small>Universality of free fall from the orbital motion of a pulsar in a stellar triple system [[Nature](https://doi.org/10.1038/s41586-018-0265-1)]
 
 ---
 <p></p>
