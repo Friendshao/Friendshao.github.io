@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 99)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 100)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 21)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -16,6 +16,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. F. Roelofs, *et al.*, [SYMBA: An end-to-end VLBI synthetic data generation
+   pipeline: Simulating Event Horizon Telescope observations of
+M87](https://arxiv.org/abs/2004.01161), *Astron. & Astrophys.* (accepted), arXiv:2004.01161
 
 0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
 of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
