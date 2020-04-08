@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 100)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 101)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 21)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -16,6 +16,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
+archetypical blazar 3C 279 at an extreme 20 microarcsecond
+resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
+Astrophys.* (accepted)
 
 0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
 of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
