@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 101)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 102)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 21)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -16,13 +16,18 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+  
+0. Z. Xiao, **L. Shao**, [The CPT-violating effects on neutrons' gravitational
+   bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
+Phys.* (accepted), arXiv:1906.00146
 
 0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
 of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
 0. <sup>&#9733;</sup> **L. Shao**, [Combined search for anisotropic
 birefringence in the gravitational-wave transient catalog
-GWTC-1](https://arxiv.org/abs/2002.01185), arXiv:2002.01185
+GWTC-1](https://arxiv.org/abs/2002.01185), 
+*Phys. Rev. D* (accepted), arXiv:2002.01185
 
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), arXiv:2001.09793

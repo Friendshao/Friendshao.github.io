@@ -6,9 +6,10 @@ permalink: /whatsmore/
 
 ### Serving for Academic Journals
 
-- I joined the executive board members of the journal [Science Bulletin](https://www.journals.elsevier.com/science-bulletin)
-- I am in the editorial board for the journal [Universe](http://www.mdpi.com/journal/universe)
-- I am serving as a reviewer for [more than 20 journals](/docs/journal), and was awarded as an outstanding reviewer for the journal [Classical and Quantum Gravity](/docs/CQG2018.pdf) and the journal [Universe](/docs/Universe2018.pdf)
+- Advisory panel of the journal [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2021)
+- Executive board member for the journal [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (2019-2020)
+- Editorial board member for the journal [Universe](http://www.mdpi.com/journal/universe) (2018-now)
+- I am serving as a reviewer for [more than 20 journals](/docs/journal), and was awarded as an outstanding reviewer for the journal Classical and Quantum Gravity([2018](/docs/CQG2018.pdf), [2019](/docs/CQG2019.pdf)) and the journal Universe([2018](/docs/Universe2018.pdf))
 
 ### Serving for Academic Conferences
 
@@ -20,7 +21,7 @@ permalink: /whatsmore/
 ### Bachelor/Master/Doctoral Theses
 
 - Students' Theses [[link](https://friendshao.github.io/docs/theses)]
-  - <small>**Bachelor Theses**: Wenlong Li (2019); Zhongpeng Sun (2019)
+  - <small>**Bachelor Theses**: Yu Tao (2020); Heming Xia (2020); Wenlong Li (2019); Zhongpeng Sun (2019)
 - Doctoral Thesis [[pdf](https://friendshao.github.io/docs/phd_thesis.pdf)]
   - <small> **Shao**, Testing Spacetime Symmetries with Radio Pulsars (Peking University 2015)
   - <small>**邵立晶**，用射电脉冲星检验时空的基本对称性（北京大学，2015年5月）
