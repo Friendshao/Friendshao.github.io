@@ -36,7 +36,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Invited to the Advisory Panel of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2021)
 - Invited to the Executive Board Members of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (2019-2020)
 - Invited to the Editorial Board of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) (2018-now)
-- Outstanding Reviewer for Classical and Quantum Gravity ([2018](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/), 2019) and Universe ([2018](https://www.mdpi.com/journal/universe/awards/591/download))
+- Outstanding Reviewer for Classical and Quantum Gravity ([2018](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/), [2019](https://publishingsupport.iopscience.iop.org/questions/classical-quantum-gravity-2019-reviewer-awards/)) and Universe ([2018](https://www.mdpi.com/journal/universe/awards/591/download))
 
 ---
 

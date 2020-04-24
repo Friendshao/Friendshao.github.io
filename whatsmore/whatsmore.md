@@ -9,7 +9,7 @@ permalink: /whatsmore/
 - Advisory panel of the journal [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2021)
 - Executive board member for the journal [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (2019-2020)
 - Editorial board member for the journal [Universe](http://www.mdpi.com/journal/universe) (2018-now)
-- I am serving as a reviewer for [more than 20 journals](/docs/journal), and was awarded as an outstanding reviewer for the journal Classical and Quantum Gravity([2018](/docs/CQG2018.pdf), [2019](/docs/CQG2019.pdf)) and the journal Universe([2018](/docs/Universe2018.pdf))
+- I am serving as a reviewer for [more than 20 journals](/docs/journal), and was awarded as an outstanding reviewer for the journal Classical and Quantum Gravity ([2018](/docs/CQG2018.pdf), [2019](/docs/CQG2019.pdf)) and the journal Universe ([2018](/docs/Universe2018.pdf))
 
 ### Serving for Academic Conferences
 
