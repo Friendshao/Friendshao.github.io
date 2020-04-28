@@ -11,6 +11,7 @@ permalink: /about/
 Since September 2018, I am an **Assistant Professor** in the [Kavli Institute
 for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
 University](http://www.pku.edu.cn/), Beijing China.
+[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
 
 ### Research Interests <small><small>([Research Group](https://kiaagravity.github.io))</small></small>
 

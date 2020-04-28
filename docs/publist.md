@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 102)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 103)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 21)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -16,6 +16,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> C. Liu, **L. Shao**, J. Zhao, Y. Gao, [Multiband
+observation of LIGO/Virgo binary black hole mergers in the
+gravitational-wave transient catalog
+GWTC-1](https://arxiv.org/abs/2004.12096), arXiv:2004.12096
 
 0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
 of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
@@ -473,7 +478,8 @@ in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
 0. <sup>&#9733;</sup> **L. Shao**, 
-   [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
+   [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405),
+   in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020), p. 170
 
 0. G. Bower, *et al.*, [ngVLAKey Science Goal 4: Fundamental Physics with
 Galactic Center
