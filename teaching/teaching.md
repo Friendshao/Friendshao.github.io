@@ -25,7 +25,7 @@ tr:nth-child(odd) {
 ## Teaching Activities
 
 | **Semester** | **Course** | **Role** | **Comment** | 
-| PKU'20 Fall | [**Physics (B)**](phy20/phy20) | Lecturer | <small>TA: TBD |
+| PKU'20 Fall | [**General Physics (B)**](phy20/phy20) | Lecturer | <small>TA: TBD |
 | PKU'20 Fall | [**General Relativity & Astrophysics**](gr20/gr20) | Lecturer | <small>TA: TBD |
 | PKU'19 Fall | [**Theoretical Mechanics (A)**](thmech19/thmech19) | Lecturer | <small>TAs: Chang Liu & Yong Gao |
 | PKU'19 Fall | [**General Relativity & Astrophysics**](gr19/gr19) | Lecturer | <small>TA: Xionghui Cao |
