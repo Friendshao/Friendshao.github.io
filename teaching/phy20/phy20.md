@@ -20,7 +20,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-# <b>General Physics (普通物理)</b>
+# <b>General Physics II (普通物理 II)</b>
 
 ### <u>Fall 2020, Peking University</u>
 
@@ -42,7 +42,10 @@ tr:nth-child(odd) {
 
 ## 课程信息
 
-- This is a class designed for freshman/sophomore students from <b>School of Life Sciences</b> at Peking University
+- This is a class designed for freshman/sophomore students from <b>School of Life Sciences</b> at Peking University, including
+  - Thermodynamics (热学)
+  - Optics (光学)
+  - Modern Physics (近代物理)
 
 | **时间** | XXX |
 | **地点** | YYY |
