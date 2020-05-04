@@ -42,8 +42,9 @@ tr:nth-child(odd) {
 
 ## 课程信息
 
-- This is a class designed for freshman/sophomore students from <b>School of Life Sciences</b> at Peking University, including
-  - Thermodynamics (热学)
+- This is a class designed for sophomore students from <b>School of Life
+  Sciences</b> at Peking University, including
+  - Thermal Physics (热学)
   - Optics (光学)
   - Modern Physics (近代物理)
 
@@ -58,9 +59,9 @@ tr:nth-child(odd) {
 | | R. Feynman，《The Feynman Lectures on Physics》（2004）|
 | **教师** | 邵立晶 | 
 | | Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
-| **助教A** | AAA |
+| **助教A** | 申佳音 |
 | | 负责单号班，习题课为双周周四7-8节，二教412 |
-| | Office KIAA-404；AAA@pku.edu.cn |
+| | Office KIAA-404；1901110217@pku.edu.cn |
 | **助教B** | BBB |
 | | 负责双号班，习题课为双周周四7-8节，二教308 |
 | | Office KIAA-102；BBB@pku.edu.cn |
