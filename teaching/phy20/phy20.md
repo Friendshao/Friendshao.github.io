@@ -70,7 +70,7 @@ tr:nth-child(odd) {
 
 | **内容** | **作业** | **备注** |
 | 0. 课程介绍 | | |
-| 1. 热力学系统的平衡及状态方程 | [HW1](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
+| [1. 热力学系统的平衡及状态方程](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW1](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 2. 热平衡态的统计分布律 | [HW2](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 3. 近平衡态中的输运过程 | | |
 | 4. 热力学第一定律 | [HW3](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
@@ -87,7 +87,7 @@ tr:nth-child(odd) {
 | 15. 量子力学基础 | [HW9](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 16. 原子和分子 | | |
 | 17. 凝聚态 | | |
-| 18. 原子核 | [HW10](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | HW10 最后4题可以不交 |
+| 18. 原子核 | [HW10](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | HW10最后4题可以不交 |
 | 19. 粒子 |  | |
 | 20. 宇宙 |  | |
 | 期末考试 | | |
