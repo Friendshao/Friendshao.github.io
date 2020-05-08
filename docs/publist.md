@@ -6,8 +6,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 103)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 21)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 104)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
 ---
@@ -25,13 +25,17 @@ GWTC-1](https://arxiv.org/abs/2004.12096), arXiv:2004.12096
 0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
 of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
-0. E. Barausse, *et al.*, [Prospects for fundamental physics with
-   LISA](https://arxiv.org/abs/2001.09793), arXiv:2001.09793
+0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
+in gravitational-wave astronomy: Discoveries waiting in the decihertz
+range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
 0. B.P. Abbott, *et al.*, [Prospects for observing and localizing gravitational-wave
 transients with Advanced LIGO, Advanced Virgo and
 KAGRA](https://arxiv.org/abs/1304.0670), 
 *Living Rev. Relativ.* (submitted), arXiv:1304.0670
+
+0. E. Barausse, *et al.*, [Prospects for fundamental physics with
+   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted), arXiv:2001.09793
 
 0. Z. Xiao, **L. Shao**, [The CPT-violating effects on neutrons'
 gravitational bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G:
@@ -466,16 +470,12 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
-0. I. Dvorkin, <i>et al.</i>, [High angular resolution gravitational wave
+0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 
 0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 arXiv:1908.11391
-
-0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
-in gravitational-wave astronomy: Discoveries waiting in the decihertz
-range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405),
