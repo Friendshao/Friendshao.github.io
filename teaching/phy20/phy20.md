@@ -71,9 +71,9 @@ tr:nth-child(odd) {
 | **内容** | **作业** | **备注** |
 | 0. 课程介绍 | | |
 | [1. 热力学系统的平衡及状态方程](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW1](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
-| 2. 热平衡态的统计分布律 | [HW2](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
-| 3. 近平衡态中的输运过程 | | |
-| 4. 热力学第一定律 | [HW3](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
+| [2. 热平衡态的统计分布律](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW2](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
+| [3. 近平衡态中的输运过程](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | | |
+| [4. 热力学第一定律](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW3](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 5. 热力学第二定律和第三定律 | | |
 | 6. 单元系的相变与复相平衡 | [HW4](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 7. 光学导言 | | |
