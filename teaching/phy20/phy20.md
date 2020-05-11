@@ -43,10 +43,10 @@ tr:nth-child(odd) {
 ## 课程信息
 
 - This is a class designed for sophomore students from <b>School of Life
-  Sciences</b> at Peking University, including
-  - Thermal Physics (热学)
-  - Optics (光学)
-  - Modern Physics (近代物理)
+  Sciences</b> at Peking University. The contents include
+  - **Thermal Physics** (热学)
+  - **Optics** (光学)
+  - **Modern Physics** (近代物理)
 
 | **时间** | XXX |
 | **地点** | YYY |
@@ -55,7 +55,7 @@ tr:nth-child(odd) {
 | | **陈熙谋，《大学物理通用教程·光学（第二版）》（2011）** |
 | | **陈熙谋，《大学物理通用教程·近代物理（第二版）》（2011）** |
 | **参考书** | 陆果，《基础物理学教程（第二版）》（2006） |
-| | D. Halliday, R. Resnick, J. Walker，《Fundamentals of Physics (7th Edition)》（2005）|
+| | D. Halliday *et al.*，《Fundamentals of Physics (7th Edition)》（2005）|
 | | R. Feynman，《The Feynman Lectures on Physics》（2004）|
 | **教师** | 邵立晶 | 
 | | Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
@@ -69,7 +69,7 @@ tr:nth-child(odd) {
 ## 课程内容
 
 | **内容** | **作业** | **备注** |
-| 0. 课程介绍 | | |
+| [0. 课程介绍](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | | |
 | [1. 热力学系统的平衡及状态方程](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW1](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | [2. 热平衡态的统计分布律](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW2](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | [3. 近平衡态中的输运过程](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | | |
