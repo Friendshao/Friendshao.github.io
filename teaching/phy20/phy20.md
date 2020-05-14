@@ -74,8 +74,8 @@ tr:nth-child(odd) {
 | [2. 热平衡态的统计分布律](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW2](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | [3. 近平衡态中的输运过程](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | | |
 | [4. 热力学第一定律](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW3](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
-| 5. 热力学第二定律和第三定律 | | |
-| 6. 单元系的相变与复相平衡 | [HW4](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
+| [5. 热力学第二定律和第三定律](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | | |
+| [6. 单元系的相变与复相平衡](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW4](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 7. 光学导言 | | |
 | 8. 光在各向同性介质界面上的反射和折射 | | |
 | 9. 光的干涉 | [HW5](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
