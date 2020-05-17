@@ -48,7 +48,7 @@ tr:nth-child(odd) {
   - **Optics** (光学)
   - **Modern Physics** (近代物理)
 
-| **时间** | XXX |
+| **时间** | 周一1-2节 & 周四3-4节 |
 | **地点** | YYY |
 | **期末考试时间** | ZZZ |
 | **教科书** | **刘玉鑫，《大学物理通用教程·热学（第二版）》（2013）** |
@@ -82,7 +82,7 @@ tr:nth-child(odd) {
 | 10. 光的衍射 | [HW6](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 11. 光的偏振和光在晶体中的传播 | | |
 | 12. 光的吸收、色散和散射 | [HW7](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
-| 13. 相对论 | [HW8](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
+| [13. 相对论](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW8](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 14. 前期量子论 | | |
 | 15. 量子力学基础 | [HW9](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 16. 原子和分子 | | |
