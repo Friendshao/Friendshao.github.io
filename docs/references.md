@@ -115,7 +115,7 @@ tr:nth-child(odd) {
   - <small>A gravitational-wave standard siren measurement of the Hubble constant [[Nature](https://doi.org/10.1038/nature24471)]
 - **Berti et al. (2018a,b)**
   - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (I) inspiral–merger [[GRG](https://doi.org/10.1007/s10714-018-2362-8)]
-  - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (II) ringdown [[GRG](https://doi.org/10.1007/s10714-018-2372-6)
+  - <small>Extreme gravity tests with gravitational waves from compact binary coalescences: (II) ringdown [[GRG](https://doi.org/10.1007/s10714-018-2372-6)]
 
 
 ---

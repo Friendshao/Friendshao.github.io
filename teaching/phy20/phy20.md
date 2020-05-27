@@ -48,12 +48,12 @@ tr:nth-child(odd) {
   - **Optics** (光学)
   - **Modern Physics** (近代物理)
 
-| **时间** | 周一1-2节 & 周四3-4节 |
-| **地点** | YYY |
+| **时间** | 周一1-2节（8:00-9:50AM） & 周四3-4节（10:10-12:00AM） |
+| **地点** | 待定 |
 | **期末考试时间** | 2021年1月11日，上午 |
-| **教科书** | **刘玉鑫，《大学物理通用教程·热学（第二版）》（2013）** |
-| | **陈熙谋，《大学物理通用教程·光学（第二版）》（2011）** |
-| | **陈熙谋，《大学物理通用教程·近代物理（第二版）》（2011）** |
+| **教科书** | 刘玉鑫，《大学物理通用教程·热学（第二版）》（2013） |
+| | 陈熙谋，《大学物理通用教程·光学（第二版）》（2011） |
+| | 陈熙谋，《大学物理通用教程·近代物理（第二版）》（2011） |
 | **参考书** | 陆果，《基础物理学教程（第二版）》（2006） |
 | | D. Halliday *et al.*，《Fundamentals of Physics (7th Edition)》（2005）|
 | | R. Feynman，《The Feynman Lectures on Physics》（2004）|
@@ -84,7 +84,7 @@ tr:nth-child(odd) {
 | 12. 光的吸收、色散和散射 | [HW7](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | [13. 相对论](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW8](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | [14. 前期量子论](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | | |
-| 15. 量子力学基础 | [HW9](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
+| [15. 量子力学基础](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | [HW9](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | |
 | 16. 原子和分子 | | |
 | 17. 凝聚态 | | |
 | 18. 原子核 | [HW10](https://disk.pku.edu.cn/link/29A5CA83DC99419D9A201D8494544D6D) | HW10最后4题可以不交 |
