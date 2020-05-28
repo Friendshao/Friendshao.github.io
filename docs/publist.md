@@ -24,10 +24,10 @@ of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.091
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
-0. B.P. Abbott, *et al.*, [Prospects for observing and localizing gravitational-wave
-transients with Advanced LIGO, Advanced Virgo and
-KAGRA](https://arxiv.org/abs/1304.0670), 
-*Living Rev. Relativ.* (submitted), arXiv:1304.0670
+0. B.P. Abbott, *et al.*, [Prospects for observing and localizing
+gravitational-wave transients with Advanced LIGO, Advanced Virgo and
+KAGRA](https://arxiv.org/abs/1304.0670),
+*Living Rev. Relativ.* (accepted), arXiv:1304.0670
 
 0. <sup>&#9733;</sup> C. Liu, **L. Shao**, J. Zhao, Y. Gao, [Multiband
 observation of LIGO/Virgo binary black hole mergers in the
