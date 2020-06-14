@@ -87,9 +87,9 @@ tr:nth-child(odd) {
 | [15. 量子力学基础](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW9](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
 | [16. 原子和分子](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [17. 凝聚态](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| 18. 原子核 | [HW10](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW10最后4题可以不交 |
-| 19. 粒子 |  | |
-| 20. 宇宙 |  | |
+| [18. 原子核](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW10](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW10最后4题可以不交 |
+| [19. 粒子](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) |  | |
+| [20. 宇宙](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) |  | |
 | **期末考试** | | 2021年1月11日，上午 |
 
 
