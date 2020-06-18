@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 104)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 105)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -16,6 +16,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> X. Miao, J. Zhao, **L. Shao**, N. Wex, M. Kramer,
+B.-Q. Ma, [Tests of conservation laws in post-Newtonian gravity with binary
+pulsars](https://arxiv.org/abs/2006.09652), arXiv:2006.09652
 
 0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
 of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
@@ -29,12 +33,6 @@ gravitational-wave transients with Advanced LIGO, Advanced Virgo and
 KAGRA](https://arxiv.org/abs/1304.0670),
 *Living Rev. Relativ.* (accepted), arXiv:1304.0670
 
-0. <sup>&#9733;</sup> C. Liu, **L. Shao**, J. Zhao, Y. Gao, [Multiband
-observation of LIGO/Virgo binary black hole mergers in the
-gravitational-wave transient catalog
-GWTC-1](https://arxiv.org/abs/2004.12096),
-*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2004.12096
-
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted), arXiv:2001.09793
 
@@ -46,6 +44,13 @@ Nucl. Part. Phys.* (accepted), arXiv:1906.00146
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
+
+0. <sup>&#9733;</sup> C. Liu, **L. Shao**, J. Zhao, Y. Gao, [Multiband
+observation of LIGO/Virgo binary black hole mergers in the
+gravitational-wave transient catalog
+GWTC-1](https://arxiv.org/abs/2004.12096),
+*Mon. Not. R. Astron. Soc.* 496 (2020) 182
+
 
 0. <sup>&#9733;</sup> **L. Shao**, [Combined search for anisotropic
 birefringence in the gravitational-wave transient catalog
