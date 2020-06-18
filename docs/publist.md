@@ -17,16 +17,16 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. <sup>&#9733;</sup> X. Miao, J. Zhao, **L. Shao**, N. Wex, M. Kramer,
-B.-Q. Ma, [Tests of conservation laws in post-Newtonian gravity with binary
-pulsars](https://arxiv.org/abs/2006.09652), arXiv:2006.09652
-
 0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
 of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
+
+0. <sup>&#9733;</sup> X. Miao, J. Zhao, **L. Shao**, N. Wex, M. Kramer,
+B.-Q. Ma, [Tests of conservation laws in post-Newtonian gravity with binary
+pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* (accepted), arXiv:2006.09652
 
 0. B.P. Abbott, *et al.*, [Prospects for observing and localizing
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
