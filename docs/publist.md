@@ -18,7 +18,8 @@ layout: default
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
 0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
-of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
+of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), 
+JCAP (accepted), arXiv:2002.09144
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
