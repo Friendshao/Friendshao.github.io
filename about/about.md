@@ -31,9 +31,11 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 - Assistant Professor (研究员/助理教授/博士生导师) at
   [KIAA-PKU](http://kiaa.pku.edu.cn/people/lijing-shao-%E9%82%B5%E7%AB%8B%E6%99%B6)
+- Head of a [Max Planck Partner Group](http://kiaa.pku.edu.cn/info/1129/7050.htm) between KIAA and MPIfR
 - Elected to the Young Elite Scientists Sponsorship Program (青年人才托举工程) by the [CAST](http://www.cast.org.cn/)
 - [2020 Breakthrough Prize in Fundamental
   Physics](https://breakthroughprize.org/News/54) awarded to the EHTC (shared by 347 members)
+
 - Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2021)
 - Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (2019-2020)
 - Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) (2018-now)

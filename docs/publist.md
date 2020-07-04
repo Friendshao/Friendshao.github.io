@@ -45,14 +45,14 @@ KAGRA](https://arxiv.org/abs/1304.0670),
 LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.*
 (accepted), arXiv:2001.09793
 
-0. Z. Xiao, **L. Shao**, [The CPT-violating effects on neutrons'
-gravitational bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G:
-Nucl. Part. Phys.* (accepted), arXiv:1906.00146
-
 0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
+
+0. Z. Xiao, **L. Shao**, [The CPT-violating effects on neutrons'
+gravitational bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G:
+Nucl. Part. Phys.* 47 (2020) 085002
 
 0. <sup>&#9733;</sup> C. Liu, **L. Shao**, J. Zhao, Y. Gao, [Multiband
 observation of LIGO/Virgo binary black hole mergers in the
