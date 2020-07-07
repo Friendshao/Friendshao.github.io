@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 107)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 108)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -16,6 +16,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> Y. Gao, **L. Shao**, R. Xu, L. Sun, C. Liu, R.-X. Xu,
+[Triaxially-deformed freely-precessing neutron stars: continuous
+electromagnetic and gravitational
+radiation](https://arxiv.org/abs/2007.02528), arXiv:2007.02528
 
 0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
