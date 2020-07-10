@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 108)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 109)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -32,6 +32,10 @@ arXiv:1908.11391
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
+
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, S.-Y. Zhou, [New graviton mass
+bound from binary puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev.
+D* (accepted), arXiv:2007.04531
 
 0. <sup>&#9733;</sup> X. Miao, J. Zhao, **L. Shao**, N. Wex, M. Kramer,
 B.-Q. Ma, [Tests of conservation laws in post-Newtonian gravity with binary
