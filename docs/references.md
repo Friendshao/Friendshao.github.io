@@ -189,6 +189,8 @@ tr:nth-child(odd) {
 - **Will (1994)**; **Damour & Esposito-Farèse (1998)**
   - <small>Testing scalar-tensor gravity with gravitational-wave observations of inspiralling compact binaries [[PRD](https://doi.org/10.1103/PhysRevD.50.6058)]
   - <small>Gravitational wave versus binary - pulsar tests of strong field gravity [[PRD](https://doi.org/10.1103/PhysRevD.58.042001)]
+- **Ramazanoğlu & Pretorius (2016)**
+  - <small>Spontaneous scalarization with massive fields [[PRD](http://dx.doi.org/10.1103/PhysRevD.93.064005)]
 - **Shao et al. (2017)**
   - <small>Constraining nonperturbative strong-field effects in scalar-tensor gravity by combining
 pulsar timing and laser-interferometer gravitational-wave detectors [[PRX](https://doi.org/10.1103/PhysRevX.7.041025)]

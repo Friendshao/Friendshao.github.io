@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 109)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 110)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -41,10 +41,6 @@ D* (accepted), arXiv:2007.04531
 B.-Q. Ma, [Tests of conservation laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* (accepted), arXiv:2006.09652
 
-0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
-of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), 
-*J. Cosmol. Astropart. Phys.* (accepted), arXiv:2002.09144
-
 0. B.P. Abbott, *et al.*, [Prospects for observing and localizing
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
 KAGRA](https://arxiv.org/abs/1304.0670),
@@ -58,6 +54,14 @@ LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.*
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
+
+0. A.E. Broderick, *et al.*, [Themis: A parameter estimation framework for
+the Event Horizon Telescope](https://arxiv.org/abs/TBA), 
+*Astrophys. J.* 897 (2020) 139
+
+0. <sup>&#9733;</sup> Z. Wang, **L. Shao**, L.-X. Li, [Resonant instability
+of axionic dark matter clumps](https://arxiv.org/abs/2002.09144), 
+*J. Cosmol. Astropart. Phys.* 07 (2020) 038
 
 0. Z. Xiao, **L. Shao**, [The CPT-violating effects on neutrons'
 gravitational bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G:
