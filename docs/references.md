@@ -183,6 +183,8 @@ tr:nth-child(odd) {
 
 - **Damour & Esposito-Farèse (1992)**
   - <small>Tensor-multi-scalar theories of gravitation [[CQG](http://dx.doi.org/10.1088/0264-9381/9/9/015)]
+- **Damour & Nordtvedt (1993)**
+  - <small>General relativity as a cosmological attractor of tensor-scalar theories [[PRL](http://dx.doi.org/10.1103/PhysRevLett.70.2217)]
 - **Damour & Esposito-Farèse (1993, 1996)**
   - <small>Nonperturbative strong-field effects in tensor-scalar theories of gravitation [[PRL](http://dx.doi.org/10.1103/PhysRevLett.70.2220)]
   - <small>Tensor-scalar gravity and binary-pulsar experiments [[PRD](https://doi.org/10.1103/PhysRevD.54.1474)]
