@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 111)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 112)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -16,6 +16,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Strong-field effects in
+massive scalar-tensor gravity for slowly spinning neutron stars and
+application to X-ray pulsar pulse profiles](https://arxiv.org/abs/2007.10080),
+arXiv:2007.10080
 
 0. <sup>&#9733;</sup> Y. Gao, **L. Shao**, R. Xu, L. Sun, C. Liu, R.-X. Xu,
 [Triaxially-deformed freely-precessing neutron stars: continuous
