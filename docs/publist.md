@@ -38,10 +38,6 @@ arXiv:1908.11391
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
-0. <sup>&#9733;</sup> **L. Shao**, N. Wex, S.-Y. Zhou, [New graviton mass
-bound from binary puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev.
-D* (accepted), arXiv:2007.04531
-
 0. <sup>&#9733;</sup> X. Miao, J. Zhao, **L. Shao**, N. Wex, M. Kramer,
 B.-Q. Ma, [Tests of conservation laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* (accepted), arXiv:2006.09652
@@ -59,6 +55,10 @@ LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.*
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
+
+0. <sup>&#9733;</sup> **L. Shao**, N. Wex, S.-Y. Zhou, [New graviton mass
+bound from binary puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev.
+D* 102 (2020) 024069
 
 0. R. Gold, *et al.*, [Verification of radiative transfer schemes for the
 EHT](https://doi.org/10.3847/1538-4357/ab96c6), *Astrophys. J.* 897 (2020)
