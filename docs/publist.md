@@ -20,23 +20,26 @@ layout: default
 0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Strong-field effects in
 massive scalar-tensor gravity for slowly spinning neutron stars and
 application to X-ray pulsar pulse profiles](https://arxiv.org/abs/2007.10080),
-arXiv:2007.10080
+*Phys. Rev. D* (submitted), arXiv:2007.10080
 
 0. <sup>&#9733;</sup> Y. Gao, **L. Shao**, R. Xu, L. Sun, C. Liu, R.-X. Xu,
 [Triaxially-deformed freely-precessing neutron stars: continuous
 electromagnetic and gravitational
-radiation](https://arxiv.org/abs/2007.02528), arXiv:2007.02528
+radiation](https://arxiv.org/abs/2007.02528), 
+*Mon. Not. R. Astron. Soc.* (submitted), arXiv:2007.02528
 
 0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
-astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
+astronomy](https://arxiv.org/abs/1908.11410),
+*Exp. Astron.* (submitted), arXiv:1908.11410
 
 0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
-arXiv:1908.11391
+*Exp. Astron.* (submitted), arXiv:1908.11391
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
-range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
+range](https://arxiv.org/abs/1908.11375), 
+*Class. Quantum Grav.* (submitted), arXiv:1908.11375
 
 0. B.P. Abbott, *et al.*, [Prospects for observing and localizing
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
@@ -301,14 +304,15 @@ run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871 (2019) 90
    data](https://arxiv.org/abs/1802.05241), 
    *Phys. Rev. D* 97 (2018) 102003
 
-0. B.P. Abbott, *et al.*, 
-   [Constraints on cosmic strings using data from the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
-   *Phys. Rev. D* 97 (2018) 102002
+0. B.P. Abbott, *et al.*, [Constraints on cosmic strings using data from
+the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
+*Phys. Rev. D* 97 (2018) 102002
    
 
-0. B.P. Abbott, *et al.*, 
-   [GW170817: Implications for the stochastic gravitational-wave background from compact binary coalescences](https://arxiv.org/abs/1710.05837),
-   *Phys. Rev. Lett.* 120 (2018) 091101
+0. B.P. Abbott, *et al.*, [GW170817: Implications for the stochastic
+gravitational-wave background from compact binary
+coalescences](https://arxiv.org/abs/1710.05837),
+*Phys. Rev. Lett.* 120 (2018) 091101
 
 0. B.P. Abbott, *et al.*,
    [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203),
