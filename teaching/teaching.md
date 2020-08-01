@@ -24,11 +24,16 @@ tr:nth-child(odd) {
 
 ## Teaching Activities
 
-I have been teaching the following three courses: 
-- General Physics (II)
-- General Relativity & Astrophysics
-- Theoretical Mechanics (A)
+So far, I have been teaching the following three courses:
+- *General Physics (II)*
+  - [2020F](http://127.0.0.1:4000/teaching/phy20/phy20)
+- *General Relativity & Astrophysics*
+  - [2019F](https://friendshao.github.io/teaching/gr19/gr19), 
+    [2020F](http://127.0.0.1:4000/teaching/gr20/gr20)
+- *Theoretical Mechanics (A)*
+  - [2019F](http://127.0.0.1:4000/teaching/thmech19/thmech19)
 
+### A List of Classes
 
 | **Semester** | **Course** | **Role** | **Comment** | 
 | PKU'20 Fall | [**General Physics (II)**](phy20/phy20) | Lecturer | <small>TAs: Chang Liu & Yong Gao |
