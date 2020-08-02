@@ -26,12 +26,12 @@ tr:nth-child(odd) {
 
 So far, I have been teaching the following three courses:
 - *General Physics (II)*
-  - [2020F](http://127.0.0.1:4000/teaching/phy20/phy20)
+  - [2020F](https://friendshao.github.io/teaching/phy20/phy20)
 - *General Relativity & Astrophysics*
   - [2019F](https://friendshao.github.io/teaching/gr19/gr19), 
-    [2020F](http://127.0.0.1:4000/teaching/gr20/gr20)
+    [2020F](https://friendshao.github.io/teaching/gr20/gr20)
 - *Theoretical Mechanics (A)*
-  - [2019F](http://127.0.0.1:4000/teaching/thmech19/thmech19)
+  - [2019F](https://friendshao.github.io/teaching/thmech19/thmech19)
 
 ### A List of Classes
 
