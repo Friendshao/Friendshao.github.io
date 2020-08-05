@@ -76,8 +76,8 @@ tr:nth-child(odd) {
 | [4. 热力学第一定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW3](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
 | [5. 热力学第二定律和第三定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [6. 单元系的相变与复相平衡](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW4](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
-| 7. 光学导言 | | |
-| 8. 光在各向同性介质界面上的反射和折射 | | |
+| [7. 光学导言](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
+| [8. 光在各向同性介质界面上的反射和折射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | 9. 光的干涉 | [HW5](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
 | 10. 光的衍射 | [HW6](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
 | 11. 光的偏振和光在晶体中的传播 | | |
