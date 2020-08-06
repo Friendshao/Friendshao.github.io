@@ -8,7 +8,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 112)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
-- [**Chinese Articles**](#chinese) <small>(in total 8)</small>
+- [**Popular Articles**](#popular) <small>(in total 8)</small>
 
 ---
 
@@ -591,7 +591,7 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 
 <p></p>
 
-<a name="chinese"></a>
+<a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
 
 0. 高勇, **邵立晶**, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
