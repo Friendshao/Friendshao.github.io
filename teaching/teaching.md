@@ -36,7 +36,7 @@ So far, I have been teaching the following three courses:
 ### A List of Classes
 
 | **Semester** | **Course** | **Role** | **Comment** | 
-| PKU'20 Fall | [**General Physics (II)**](phy20/phy20) | Lecturer | <small>TAs: Chang Liu & Yong Gao |
+| PKU'20 Fall | [**General Physics (II)**](phy20/phy20) | Lecturer | <small>TAs: Chang Liu & Lei Geng |
 | PKU'20 Fall | [**General Relativity & Astrophysics**](gr20/gr20) | Lecturer | <small>TA: Tai Zhou |
 | PKU'19 Fall | [**Theoretical Mechanics (A)**](thmech19/thmech19) | Lecturer | <small>TAs: Chang Liu & Yong Gao |
 | PKU'19 Fall | [**General Relativity & Astrophysics**](gr19/gr19) | Lecturer | <small>TA: Xionghui Cao |
