@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 112)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 113)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -40,6 +40,10 @@ Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), 
 *Class. Quantum Grav.* (submitted), arXiv:1908.11375
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
+science](https://arxiv.org/abs/2008.02921),
+*Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
 0. B.P. Abbott, *et al.*, [Prospects for observing and localizing
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
