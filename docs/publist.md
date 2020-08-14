@@ -22,12 +22,6 @@ massive scalar-tensor gravity for slowly spinning neutron stars and
 application to X-ray pulsar pulse profiles](https://arxiv.org/abs/2007.10080),
 *Phys. Rev. D* (submitted), arXiv:2007.10080
 
-0. <sup>&#9733;</sup> Y. Gao, **L. Shao**, R. Xu, L. Sun, C. Liu, R.-X. Xu,
-[Triaxially-deformed freely-precessing neutron stars: continuous
-electromagnetic and gravitational
-radiation](https://arxiv.org/abs/2007.02528), 
-*Mon. Not. R. Astron. Soc.* (submitted), arXiv:2007.02528
-
 0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
 *Exp. Astron.* (submitted), arXiv:1908.11410
@@ -40,6 +34,12 @@ Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), 
 *Class. Quantum Grav.* (submitted), arXiv:1908.11375
+
+0. <sup>&#9733;</sup> Y. Gao, **L. Shao**, R. Xu, L. Sun, C. Liu, R.-X. Xu,
+[Triaxially-deformed freely-precessing neutron stars: continuous
+electromagnetic and gravitational
+radiation](https://arxiv.org/abs/2007.02528), 
+*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2007.02528
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
@@ -57,7 +57,7 @@ LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.*
 0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
-Astrophys.* (accepted)
+Astrophys.* 640 (2020) A69
 
 0. <sup>&#9733;</sup> X. Miao, J. Zhao, **L. Shao**, N. Wex, M. Kramer,
 B.-Q. Ma, [Tests of conservation laws in post-Newtonian gravity with binary
