@@ -56,5 +56,5 @@ width="20">**pku.edu.cn**; Friendshao<img src="at.jpg" width="20">gmail.com
 <img src="office.png" width="30"> Kavli Institute for Astronomy and
 Astrophysics, Peking University, Beijing 100871, China
 
-<img src="open.jpg" width="30"> **Office Hours:** Wednesdays & Fridays 14:00-17:00 PM (by appointment)
+<img src="open.jpg" width="30"> **Office Hours:** Thursdays 14:00-17:00 PM (by appointment)
 
