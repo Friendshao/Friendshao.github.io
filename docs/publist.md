@@ -52,7 +52,7 @@ KAGRA](https://arxiv.org/abs/1304.0670),
 
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
 LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.*
-(accepted), arXiv:2001.09793
+52 (2020) 81
 
 0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
 archetypical blazar 3C 279 at an extreme 20 microarcsecond

@@ -59,10 +59,10 @@ tr:nth-child(odd) {
 | | R. Feynman，《The Feynman Lectures on Physics》（2004）|
 | **教师** | 邵立晶 | 
 | | Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
-| **助教A** | AAA；负责单号班，习题课：周二10-11节，二教406 |
-| | Office KIAA-404；AAA@pku.edu.cn |
-| **助教B** | BBB；负责双号班，习题课：周二10-11节，二教313 |
-| | Office KIAA-102；BBB@pku.edu.cn |
+| **助教A** | 刘畅；负责单号班，习题课：周二10-11节，二教406 |
+| | Office KIAA-404a；leslielc@pku.edu.cn |
+| **助教B** | 耿磊；负责双号班，习题课：周二10-11节，二教313 |
+| | Office TBA；TBA@pku.edu.cn |
 
 <p></p>
 
@@ -90,7 +90,7 @@ tr:nth-child(odd) {
 | [18. 原子核](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW10](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW10最后4题可以不交 |
 | [19. 粒子](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) |  | |
 | [20. 宇宙](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) |  | |
-| **期末考试** | | 2021年1月11日，上午 |
+| **期末考试** | | 2021年1月18日，上午 |
 
 
 
