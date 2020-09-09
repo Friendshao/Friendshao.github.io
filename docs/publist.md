@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 113)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 114)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 8)</small>
 
@@ -17,10 +17,11 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Strong-field effects in
-massive scalar-tensor gravity for slowly spinning neutron stars and
-application to X-ray pulsar pulse profiles](https://arxiv.org/abs/2007.10080),
-*Phys. Rev. D* (submitted), arXiv:2007.10080
+0. K. Wang, S.-Q. Xi, **L. Shao**, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
+superluminal neutrino velocity and Lorentz invariance violation by neutrino
+emission from the blazar TXS
+0506+056](https://journals.aps.org/prd/accepted/7407bQ40Nf41d326512b5e976183888b51c96dc41),
+*Phys. Rev. D* (accepted)
 
 0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
@@ -30,16 +31,15 @@ astronomy](https://arxiv.org/abs/1908.11410),
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (submitted), arXiv:1908.11391
 
+0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Strong-field effects in
+massive scalar-tensor gravity for slowly spinning neutron stars and
+application to X-ray pulsar pulse profiles](https://arxiv.org/abs/2007.10080),
+*Phys. Rev. D* (accepted), arXiv:2007.10080
+
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), 
-*Class. Quantum Grav.* (submitted), arXiv:1908.11375
-
-0. <sup>&#9733;</sup> Y. Gao, **L. Shao**, R. Xu, L. Sun, C. Liu, R.-X. Xu,
-[Triaxially-deformed freely-precessing neutron stars: continuous
-electromagnetic and gravitational
-radiation](https://arxiv.org/abs/2007.02528), 
-*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2007.02528
+*Class. Quantum Grav.* (accepted), arXiv:1908.11375
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
@@ -49,6 +49,12 @@ science](https://arxiv.org/abs/2008.02921),
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
 KAGRA](https://arxiv.org/abs/1304.0670),
 *Living Rev. Relativ.* (accepted), arXiv:1304.0670
+
+0. <sup>&#9733;</sup> Y. Gao, **L. Shao**, R. Xu, L. Sun, C. Liu, R.-X. Xu,
+[Triaxially-deformed freely-precessing neutron stars: continuous
+electromagnetic and gravitational
+radiation](https://arxiv.org/abs/2007.02528),
+*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2007.02528
 
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
 LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.*
