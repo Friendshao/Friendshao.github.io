@@ -62,7 +62,7 @@ tr:nth-child(odd) {
 | **助教A** | 刘畅；负责单号班，习题课：周二10-11节，二教406 |
 | | Office KIAA-404a；leslielc@pku.edu.cn |
 | **助教B** | 耿磊；负责双号班，习题课：周二10-11节，二教313 |
-| | Office TBA；TBA@pku.edu.cn |
+| | Office TBA；genglei@pku.edu.cn |
 
 <p></p>
 

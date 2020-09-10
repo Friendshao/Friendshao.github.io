@@ -8,7 +8,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 114)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
-- [**Popular Articles**](#popular) <small>(in total 8)</small>
+- [**Popular Articles**](#popular) <small>(in total 9)</small>
 
 ---
 
@@ -17,12 +17,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. K. Wang, S.-Q. Xi, **L. Shao**, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
-superluminal neutrino velocity and Lorentz invariance violation by neutrino
-emission from the blazar TXS
-0506+056](https://journals.aps.org/prd/accepted/7407bQ40Nf41d326512b5e976183888b51c96dc41),
-*Phys. Rev. D* (accepted)
-
 0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
 *Exp. Astron.* (submitted), arXiv:1908.11410
@@ -30,6 +24,12 @@ astronomy](https://arxiv.org/abs/1908.11410),
 0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (submitted), arXiv:1908.11391
+
+0. K. Wang, S.-Q. Xi, **L. Shao**, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
+superluminal neutrino velocity and Lorentz invariance violation by neutrino
+emission from the blazar TXS
+0506+056](https://journals.aps.org/prd/accepted/7407bQ40Nf41d326512b5e976183888b51c96dc41),
+*Phys. Rev. D* (accepted)
 
 0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Strong-field effects in
 massive scalar-tensor gravity for slowly spinning neutron stars and
@@ -603,6 +603,8 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 
 <a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
+
+0. <sup>&#9733;</sup> **邵立晶**, [引力波视角下的世界图景](TBA), 《科学通报》, 已接收
 
 0. 高勇, **邵立晶**, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
 《中国国家天文》9 (2019) 54
