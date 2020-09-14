@@ -60,9 +60,9 @@ tr:nth-child(odd) {
 | **教师** | 邵立晶 | 
 | | Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
 | **助教A** | 刘畅；负责单号班，习题课：周二10-11节，二教406 |
-| | Office KIAA-404a；leslielc@pku.edu.cn |
+| | Office KIAA-404；leslielc@pku.edu.cn |
 | **助教B** | 耿磊；负责双号班，习题课：周二10-11节，二教313 |
-| | Office TBA；genglei@pku.edu.cn |
+| | Office  W415, Physics Building；genglei@pku.edu.cn |
 
 <p></p>
 
