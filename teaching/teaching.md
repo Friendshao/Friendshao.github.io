@@ -34,6 +34,10 @@ tr:nth-child(odd) {
 | PKU'10 Spring | **Probability Theory and Statistics** | TA | <small>lectured by Prof. Zhenxi Dong |
 | PKU'09 Fall | **Linear Algebra** | TA | <small>lectured by Prof. Maoying Tian <br>**Excellent TA** Award |
 
+---
+
+<p></p>
+
 So far, I have been teaching the following three courses:
 - **General Physics (II)**
   - [2020F](https://friendshao.github.io/teaching/phy20/phy20)

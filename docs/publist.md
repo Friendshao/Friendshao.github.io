@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 114)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 115)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 9)</small>
 
@@ -16,6 +16,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> **L. Shao**, [Pulsar tests of the graviton
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (submitted),
+arXiv:2009.06817
 
 0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
