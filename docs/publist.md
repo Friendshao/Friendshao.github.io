@@ -57,7 +57,7 @@ KAGRA](https://arxiv.org/abs/1304.0670),
 [Triaxially-deformed freely-precessing neutron stars: continuous
 electromagnetic and gravitational
 radiation](https://arxiv.org/abs/2007.02528),
-*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2007.02528
+*Mon. Not. R. Astron. Soc.* 498 (2020) 1826
 
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
 LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.*
