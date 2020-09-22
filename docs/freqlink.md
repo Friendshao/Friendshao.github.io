@@ -57,9 +57,9 @@ layout: default
   [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en),
   [PKU](http://www.pku.edu.cn/)
   ([BBS](http://bbs.pku.edu.cn/),
-   [CWFW](http://cwfw.pku.edu.cn/),
+   [course](https://course.pku.edu.cn), 
+   [CW](http://cwfw.pku.edu.cn/),
    [HPC](http://hpc.pku.edu.cn/),
-   [LIB](http://www.lib.pku.edu.cn/portal/), 
    [ITS](http://its.pku.edu.cn/),
    [pan](http://pan.pku.edu.cn/),
    [PHY](http://www.phy.pku.edu.cn/), 
