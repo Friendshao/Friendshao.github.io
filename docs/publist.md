@@ -52,7 +52,7 @@ gravitational-wave transients with Advanced LIGO, Advanced Virgo and
 KAGRA](https://arxiv.org/abs/1304.0670),
 *Living Rev. Relativ.* (accepted), arXiv:1304.0670
 
-0. M. Wielgus, *et al.*, [Monitoring the morphology of M87$^*$ in 2009-2017
+0. M. Wielgus, *et al.*, [Monitoring the morphology of M87$^\star$ in 2009-2017
 with the Event Horizon
 Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/abac0d),
 *Astrophys. J.* 901 (2020) 67
