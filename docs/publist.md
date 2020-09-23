@@ -38,11 +38,6 @@ Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 emission from the blazar TXS 0506+056](https://arxiv.org/abs/2009.05201),
 *Phys. Rev. D* (accepted), arXiv:2009.05201
 
-0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Strong-field effects in
-massive scalar-tensor gravity for slowly spinning neutron stars and
-application to X-ray pulsar pulse profiles](https://arxiv.org/abs/2007.10080),
-*Phys. Rev. D* (accepted), arXiv:2007.10080
-
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), 
@@ -56,6 +51,11 @@ science](https://arxiv.org/abs/2008.02921),
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
 KAGRA](https://arxiv.org/abs/1304.0670),
 *Living Rev. Relativ.* (accepted), arXiv:1304.0670
+
+0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Strong-field effects in
+massive scalar-tensor gravity for slowly spinning neutron stars and
+application to X-ray pulsar pulse profiles](https://arxiv.org/abs/2007.10080),
+*Phys. Rev. D* 102 (2020) 064057
 
 0. <sup>&#9733;</sup> Y. Gao, **L. Shao**, R. Xu, L. Sun, C. Liu, R.-X. Xu,
 [Triaxially-deformed freely-precessing neutron stars: continuous
