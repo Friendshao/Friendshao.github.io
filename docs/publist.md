@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 116)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 117)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 9)</small>
 
@@ -51,6 +51,11 @@ science](https://arxiv.org/abs/2008.02921),
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
 KAGRA](https://arxiv.org/abs/1304.0670),
 *Living Rev. Relativ.* (accepted), arXiv:1304.0670
+
+0. M. Wielgus, *et al.*, [Monitoring the morphology of M87$^*$ in 2009-2017
+with the Event Horizon
+Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/abac0d),
+*Astrophys. J.* 901 (2020) 67
 
 0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Strong-field effects in
 massive scalar-tensor gravity for slowly spinning neutron stars and
