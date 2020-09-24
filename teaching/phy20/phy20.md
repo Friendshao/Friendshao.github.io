@@ -72,9 +72,10 @@ tr:nth-child(odd) {
 | [1. 热力学系统的平衡及状态方程](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW1](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW1 ddl: Oct. 12 |
 | [2. 热平衡态的统计分布律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW2](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW2 ddl: Oct. 19 |
 | [3. 近平衡态中的输运过程](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| [4. 热力学第一定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW3](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
+| [4. 热力学第一定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW3](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW3 ddl: Oct. 29 |
 | [5. 热力学第二定律和第三定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| [6. 单元系的相变与复相平衡](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW4](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
+| [6. 单元系的相变与复相平衡](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW4](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW4 ddl: Nov. 5 |
+| **期中考试** | | |
 | [7. 光学导言](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [8. 光在各向同性介质界面上的反射和折射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [9. 光的干涉](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW5](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
