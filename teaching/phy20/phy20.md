@@ -69,8 +69,8 @@ tr:nth-child(odd) {
 
 | **内容** | **作业** | **备注** |
 | [0. 课程介绍](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| [1. 热力学系统的平衡及状态方程](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW1](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
-| [2. 热平衡态的统计分布律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW2](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
+| [1. 热力学系统的平衡及状态方程](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW1](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW1 ddl: Oct. 12 |
+| [2. 热平衡态的统计分布律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW2](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW2 ddl: Oct. 19 |
 | [3. 近平衡态中的输运过程](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [4. 热力学第一定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW3](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
 | [5. 热力学第二定律和第三定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
