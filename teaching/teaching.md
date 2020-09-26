@@ -41,7 +41,7 @@ tr:nth-child(odd) {
 <p></p>
 
 So far, I have been teaching the following three courses:
-- **General Physics (II)**
+- **General Physics (II)** [including **Thermal Physics**, **Optics**, & **Modern Physics**]
   - [2020F](https://friendshao.github.io/teaching/phy20/phy20)
 - **General Relativity & Astrophysics**
   - [2019F](https://friendshao.github.io/teaching/gr19/gr19), 
