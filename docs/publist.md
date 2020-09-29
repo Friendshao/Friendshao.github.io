@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 117)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 118)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 9)</small>
 
@@ -16,6 +16,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. K. Liu, L. Guillemot, A. Istrate, **L. Shao**, T.M. Tauris, N. Wex, *et
+   al.*, [A revisit of PSR J1909$-$3744 with 15-year high-precision
+timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.*
+(accepted), arXiv:2009.12544
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
 characterization, physical environmental monitors, and the geophysics
@@ -33,11 +38,6 @@ astronomy](https://arxiv.org/abs/1908.11410),
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (submitted), arXiv:1908.11391
 
-0. K. Wang, S.-Q. Xi, **L. Shao**, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
-   superluminal neutrino velocity and Lorentz invariance violation by neutrino
-emission from the blazar TXS 0506+056](https://arxiv.org/abs/2009.05201),
-*Phys. Rev. D* (accepted), arXiv:2009.05201
-
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), 
@@ -47,10 +47,15 @@ range](https://arxiv.org/abs/1908.11375),
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
+0. K. Wang, S.-Q. Xi, **L. Shao**, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
+   superluminal neutrino velocity and Lorentz invariance violation by neutrino
+emission from the blazar TXS 0506+056](https://arxiv.org/abs/2009.05201),
+*Phys. Rev. D* 102 (2020) 063027
+
 0. B.P. Abbott, *et al.*, [Prospects for observing and localizing
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
-KAGRA](https://arxiv.org/abs/1304.0670),
-*Living Rev. Relativ.* (accepted), arXiv:1304.0670
+KAGRA](http://doi.org/10.1007/s41114-020-00026-9),
+*Living Rev. Relativ.* 23 (2020) 3
 
 0. M. Wielgus, *et al.*, [Monitoring the morphology of M87$^\star$ in 2009-2017
 with the Event Horizon
