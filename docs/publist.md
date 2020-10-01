@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 118)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 119)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 9)</small>
 
@@ -46,6 +46,11 @@ range](https://arxiv.org/abs/1908.11375),
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. D. Psaltis, *et al.*, [Gravitational test beyond the first
+post-Newtonian order with the shadow of the M87 black
+hole](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.141104),
+*Phys. Rev. Lett.* 125 (2020) 141104
 
 0. K. Wang, S.-Q. Xi, **L. Shao**, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
    superluminal neutrino velocity and Lorentz invariance violation by neutrino
