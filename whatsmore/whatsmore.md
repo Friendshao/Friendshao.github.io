@@ -47,9 +47,6 @@ tr:nth-child(odd) {
 ### Undergraduate/Bachelor/Doctoral Theses <small><small>[[Read More](/docs/theses)]</small></small>
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** |
-| 2024 | Hongbo Li <small>(李洪波)</small> | | |
-| 2023 | Yong Gao <small>(高勇)</small><br>Chang Liu <small>(刘畅)</small> | | |
-| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | Huimei Wang <small>(王惠美)</small><br>Lingqian Qiu <small>(邱令倩)</small><br>Jingyuan Deng <small>(邓景元)</small><br>Chunjiang Li <small>(李春江)</small><br>	Yutong Li <small>(李玉童)</small> | Yacheng Kang <small>(康亚城)</small><br>Yiren Lin <small>(林伊人)</small><br>Yuchang Chen <small>(陈宇畅)</small><br>Zexin Hu <small>(	胡泽昕)</small> |
 | 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> |
 | 2019 | | Zhongpeng Sun <small>(孙忠鹏)</small><br>Wenlong Li <small>(李汶隆) | |
 | 2015 | Lijing Shao <small>(邵立晶) | | |
@@ -57,6 +54,10 @@ tr:nth-child(odd) {
 
 
 <!--
+
+| 2024 | Hongbo Li <small>(李洪波)</small> | | |
+| 2023 | Yong Gao <small>(高勇)</small><br>Chang Liu <small>(刘畅)</small> | | |
+| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | Huimei Wang <small>(王惠美)</small><br>Lingqian Qiu <small>(邱令倩)</small><br>Jingyuan Deng <small>(邓景元)</small><br>Chunjiang Li <small>(李春江)</small><br>	Yutong Li <small>(李玉童)</small> | Yacheng Kang <small>(康亚城)</small><br>Yiren Lin <small>(林伊人)</small><br>Yuchang Chen <small>(陈宇畅)</small><br>Zexin Hu <small>(	胡泽昕)</small> |
 
 ### Useful Links
 
