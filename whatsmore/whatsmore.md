@@ -17,26 +17,25 @@ permalink: /whatsmore/
 0. [Dialogue at the Dream Field: Supranuclear Matter](http://www.phy.pku.edu.cn/~FPS/ddf/), August 17-21, 2020, Guiyang China
 0. [KIAA Forum 2019: The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/), November 28-29, 2019, Beijing China
 0. [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), August 13-17, 2019, Kunming China
-{: reversed="reversed"}
 
 ### Bachelor/Master/Doctoral Theses
 
-- **Students' Theses** [[link](https://friendshao.github.io/docs/theses)]
+0. **Students' Theses** [[link](https://friendshao.github.io/docs/theses)]
   - <small>**Doctoral Theses**: Junjie Zhao (2021); Xueli Miao (2021)
   - <small>**Bachelor Theses**: Yu Tao (2020); Heming Xia (2020); Wenlong Li (2019); Zhongpeng Sun (2019)
   - <small>**Undergraduate Student Research Study**: Huimei Wang (2020); Yichen Wang (2020); Zihe An (2020)
-- **Doctoral Thesis** [[pdf](https://friendshao.github.io/docs/phd_thesis.pdf)]
+0. **Doctoral Thesis** [[pdf](https://friendshao.github.io/docs/phd_thesis.pdf)]
   - <small> **Shao**, Testing Spacetime Symmetries with Radio Pulsars (Peking University 2015)
   - <small>**邵立晶**，用射电脉冲星检验时空的基本对称性（北京大学，2015年5月）
-- **Bachelor Thesis** [[pdf](https://friendshao.github.io/docs/bachelor_thesis.pdf)]
+0. **Bachelor Thesis** [[pdf](https://friendshao.github.io/docs/bachelor_thesis.pdf)]
   - <small>**Shao**, Quantum Gravity Phenomenology and Astrophysical Tests on Lorentz Violation (Peking University 2010)
   - <small>**邵立晶**，量子引力唯象学与洛伦兹破坏的天体物理检验（北京大学，2010年6月）
 
 ### Useful Links
 
-- [General Purposes: mostly on programming](/docs/website-general)
-- [Specific Purposes: again mostly on programming](/docs/website-specific)
-- [Pulsars and Gravitational Waves](/docs/website-psr-gw)
+0. [General Purposes: mostly on programming](/docs/website-general)
+0. [Specific Purposes: again mostly on programming](/docs/website-specific)
+0. [Pulsars and Gravitational Waves](/docs/website-psr-gw)
 
 <!--
 
