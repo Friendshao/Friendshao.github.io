@@ -21,14 +21,14 @@ permalink: /whatsmore/
 
 ### Bachelor/Master/Doctoral Theses
 
-- Students' Theses [[link](https://friendshao.github.io/docs/theses)]
+- **Students' Theses** [[link](https://friendshao.github.io/docs/theses)]
   - <small>**Doctoral Theses**: Junjie Zhao (2021); Xueli Miao (2021)
   - <small>**Bachelor Theses**: Yu Tao (2020); Heming Xia (2020); Wenlong Li (2019); Zhongpeng Sun (2019)
-- Doctoral Thesis [[pdf](https://friendshao.github.io/docs/phd_thesis.pdf)]
   - <small>**Undergraduate Student Research Study**: Huimei Wang (2020); Yichen Wang (2020); Zihe An (2020)
+- **Doctoral Thesis** [[pdf](https://friendshao.github.io/docs/phd_thesis.pdf)]
   - <small> **Shao**, Testing Spacetime Symmetries with Radio Pulsars (Peking University 2015)
   - <small>**邵立晶**，用射电脉冲星检验时空的基本对称性（北京大学，2015年5月）
-- Bachelor Thesis [[pdf](https://friendshao.github.io/docs/bachelor_thesis.pdf)]
+- **Bachelor Thesis** [[pdf](https://friendshao.github.io/docs/bachelor_thesis.pdf)]
   - <small>**Shao**, Quantum Gravity Phenomenology and Astrophysical Tests on Lorentz Violation (Peking University 2010)
   - <small>**邵立晶**，量子引力唯象学与洛伦兹破坏的天体物理检验（北京大学，2010年6月）
 
