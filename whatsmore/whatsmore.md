@@ -4,40 +4,65 @@ title: What's more
 permalink: /whatsmore/
 ---
 
-### Serving for Academic Journals
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-- Advisory panel of the journal [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2021)
-- Executive board member for the journal [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (2019-2020)
-- Editorial board member for the journal [Universe](http://www.mdpi.com/journal/universe) (2018-now)
-- I am serving as a reviewer for [more than 20 journals](/docs/journal), and was awarded as an outstanding reviewer for Classical and Quantum Gravity ([2018](/docs/CQG2018.pdf), [2019](/docs/CQG2019.pdf)) and Universe ([2018](/docs/Universe2018.pdf))
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+</style>
+
+### Serving for Academic Journals <small><small>[[Read More](/docs/journal)]</small></small>
+
+| **ROLE** | **JOURNAL** | **TIME** |
+| **Advisory Panel Member** | [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) | 2020-2021 |
+| **Executive Board Member** | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | 2019-2020 |
+| **Editorial Board Member** | [Universe](http://www.mdpi.com/journal/universe) | 2018-present |
+| **Outstanding Reviewer** | [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | [2018](/docs/CQG2018.pdf), [2019](/docs/CQG2019.pdf) |
+| | [Universe](http://www.mdpi.com/journal/universe) | [2018](/docs/Universe2018.pdf) |
+| **Reviewer** | [More than 20 journals](/docs/journal) | |
+
+<br>
 
 ### Serving for Academic Conferences
 
-0. [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021), February 22-28, 2021, Online
-0. [Dialogue at the Dream Field: Supranuclear Matter](http://www.phy.pku.edu.cn/~FPS/ddf/), August 17-21, 2020, Guiyang China
-0. [KIAA Forum 2019: The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/), November 28-29, 2019, Beijing China
-0. [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), August 13-17, 2019, Kunming China
+| **CONFERENCE** | **TIME** | **LOCATION** |
+| [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021) | Feb 22-28, 2021 | Online |
+| [Dialogue at the Dream Field: Supranuclear Matter](http://www.phy.pku.edu.cn/~FPS/ddf/) | Aug 17-21, 2020 | Guiyang China |
+| [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/) | Nov 28-29, 2019 | Beijing China |
+| [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559) | Aug 13-17, 2019 | Kunming China |
 
-### Bachelor/Master/Doctoral Theses
+<br>
 
-0. **Students' Theses** [[link](https://friendshao.github.io/docs/theses)]
-  - <small>**Doctoral Theses**: Junjie Zhao (2021); Xueli Miao (2021)
-  - <small>**Bachelor Theses**: Yu Tao (2020); Heming Xia (2020); Wenlong Li (2019); Zhongpeng Sun (2019)
-  - <small>**Undergraduate Student Research Study**: Huimei Wang (2020); Yichen Wang (2020); Zihe An (2020)
-0. **Doctoral Thesis** [[pdf](https://friendshao.github.io/docs/phd_thesis.pdf)]
-  - <small> **Shao**, Testing Spacetime Symmetries with Radio Pulsars (Peking University 2015)
-  - <small>**邵立晶**，用射电脉冲星检验时空的基本对称性（北京大学，2015年5月）
-0. **Bachelor Thesis** [[pdf](https://friendshao.github.io/docs/bachelor_thesis.pdf)]
-  - <small>**Shao**, Quantum Gravity Phenomenology and Astrophysical Tests on Lorentz Violation (Peking University 2010)
-  - <small>**邵立晶**，量子引力唯象学与洛伦兹破坏的天体物理检验（北京大学，2010年6月）
+### Undergraduate/Bachelor/Doctoral Theses <small><small>[[Read More](/docs/theses)]</small></small>
+
+| **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** |
+| 2024 | Hongbo Li <small>(李洪波)</small> | | |
+| 2023 | Yong Gao <small>(高勇)</small><br>Chang Liu <small>(刘畅)</small> | | |
+| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | Huimei Wang <small>(王惠美)</small><br>Lingqian Qiu <small>(邱令倩)</small><br>Jingyuan Deng <small>(邓景元)</small><br>Chunjiang Li <small>(李春江)</small><br>	Yutong Li <small>(李玉童)</small> | Yacheng Kang <small>(康亚城)</small><br>Yiren Lin <small>(林伊人)</small><br>Yuchang Chen <small>(陈宇畅)</small><br>Zexin Hu <small>(	胡泽昕)</small> |
+| 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> |
+| 2019 | | Zhongpeng Sun <small>(孙忠鹏)</small><br>Wenlong Li <small>(李汶隆) | |
+| 2015 | Lijing Shao <small>(邵立晶) | | |
+| 2005 | | Lijing Shao <small>(邵立晶) |  |
+
+
+<!--
 
 ### Useful Links
 
 0. [General Purposes: mostly on programming](/docs/website-general)
 0. [Specific Purposes: again mostly on programming](/docs/website-specific)
 0. [Pulsars and Gravitational Waves](/docs/website-psr-gw)
-
-<!--
 
 ### References for Research Topics
 

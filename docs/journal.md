@@ -46,4 +46,4 @@ tr:nth-child(odd) {
 | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | **Executive Board Member** (2019—2020) |
 | [Science China – Physics, Mechanics and Astronomy](https://link.springer.com/journal/11433) | **Reviewer** | 
 | [Symmetry](http://www.mdpi.com/journal/symmetry) |  **Reviewer** |
-| [Universe](http://www.mdpi.com/journal/universe) | **Editor & Outstanding Reviewer** ([2018](Universe2018.pdf)) |
+| [Universe](http://www.mdpi.com/journal/universe) | **Editor** (2018—present)<br>**Outstanding Reviewer** ([2018](Universe2018.pdf)) |
