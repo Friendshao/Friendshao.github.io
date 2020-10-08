@@ -34,7 +34,7 @@ tr:nth-child(odd) {
   - [2019F](https://friendshao.github.io/teaching/thmech19/thmech19)
 
 
-| **Semester** | **Course** | **Role** | **Comment** | 
+| **SEMESTER** | **COURSE** | **ROLE** | **COMMENT** | 
 | PKU'20 Fall | [**General Physics (II)**](phy20/phy20) | Lecturer | <small>TAs: Chang Liu & Lei Geng |
 | PKU'20 Fall | [**General Relativity & Astrophysics**](gr20/gr20) | Lecturer | <small>TA: Tai Zhou |
 | PKU'19 Fall | [**Theoretical Mechanics (A)**](thmech19/thmech19) | Lecturer | <small>TAs: Chang Liu & Yong Gao |

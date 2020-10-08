@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ## Curriculum Vitae
 
-| **Time** | **Position** | **Affiliation** | **City** |
+| **TIME** | **POSITION** | **AFFILIATION** | **CITY** |
 | 2018.9-present | **Assistant Professor** | [Kavli Institute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) | Beijing |
 | 2017.9-2018.8 | **Scientific Staff** | [Max Planck Institute for Radio Astronomy](http://www.mpifr-bonn.mpg.de/2169/en) | Bonn |
 | 2015.9-2017.8 | **Junior Scientist** | [Albert Einstein Institute](http://www.aei.mpg.de/) | Potsdam | 
