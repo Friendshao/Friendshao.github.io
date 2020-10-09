@@ -38,14 +38,14 @@ astronomy](https://arxiv.org/abs/1908.11410),
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (submitted), arXiv:1908.11391
 
-0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
-in gravitational-wave astronomy: Discoveries waiting in the decihertz
-range](https://arxiv.org/abs/1908.11375), 
-*Class. Quantum Grav.* (accepted), arXiv:1908.11375
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
+in gravitational-wave astronomy: Discoveries waiting in the decihertz
+range](https://arxiv.org/abs/1908.11375), 
+*Class. Quantum Grav.* 37 (2020) 215011
 
 0. D. Psaltis, *et al.*, [Gravitational test beyond the first
 post-Newtonian order with the shadow of the M87 black
