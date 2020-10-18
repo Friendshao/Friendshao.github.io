@@ -78,17 +78,17 @@ tr:nth-child(odd) {
 | **期中考试** | | **11月19日**，随堂、闭卷 |
 | [7. 光学导言](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [8. 光在各向同性介质界面上的反射和折射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| [9. 光的干涉](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW5](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
-| [10. 光的衍射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW6](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
+| [9. 光的干涉](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW5](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW5 ddl: Nov 23 |
+| [10. 光的衍射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW6](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW6 ddl: Dec 3 |
 | [11. 光的偏振和光在晶体中的传播](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| [12. 光的吸收、色散和散射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW7](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
+| [12. 光的吸收、色散和散射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW7](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW7 ddl: Dec 10 |
 | **光学演示实验** | **生科班**<br>11月27日1-2节<br>理教109 | **其他可选时间**<br>10月21日3-4节<br>10月27日3-4节 |
-| [13. 相对论](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW8](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
+| [13. 相对论](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW8](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW8 ddl: Dec 17 |
 | [14. 前期量子论](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| [15. 量子力学基础](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW9](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
+| [15. 量子力学基础](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW9](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW9 ddl: Dec 24 |
 | [16. 原子和分子](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [17. 凝聚态](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| [18. 原子核](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW10](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW10最后4题可以不交 |
+| [18. 原子核](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW10](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW10 ddl: Jan 4<br>最后4题可以不交 |
 | [19. 粒子](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) |  | |
 | [20. 宇宙](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) |  | |
 | **期末考试** | | **2021年1月18日上午**，闭卷 |
