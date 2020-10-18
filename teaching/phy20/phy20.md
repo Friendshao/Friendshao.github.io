@@ -75,7 +75,7 @@ tr:nth-child(odd) {
 | [4. 热力学第一定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW3](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW3 ddl: Oct. 29 |
 | [5. 热力学第二定律和第三定律](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [6. 单元系的相变与复相平衡](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW4](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW4 ddl: Nov. 5 |
-| **期中考试** | | |
+| **期中考试** | | 11月19日（闭卷） |
 | [7. 光学导言](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [8. 光在各向同性介质界面上的反射和折射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [9. 光的干涉](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW5](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | |
