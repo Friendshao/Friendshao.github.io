@@ -36,12 +36,9 @@ tr:nth-child(odd) {
 
 ### Serving for Academic Conferences
 
-| **CONFERENCE** | **TIME** | **LOCATION** |
-| [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](TBA) | May 3-7, 2021 | Leiden Netherlands |
-| [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021) | Feb 22-28, 2021 | Online |
-| [Dialogue at the Dream Field: Supranuclear Matter](http://www.phy.pku.edu.cn/~FPS/ddf/) | Aug 17-21, 2020 | Guiyang China |
-| [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/) | Nov 28-29, 2019 | Beijing China |
-| [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559) | Aug 13-17, 2019 | Kunming China |
+| **CONFERENCE** | **ROLE** | **TIME** | **LOCATION** |
+| [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/) | SOC & LOC & Session Chair | Nov 28-29, 2019 | Beijing China |
+| [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559) | SOC & Session Chair | Aug 13-17, 2019 | Kunming China |
 
 <br>
 
@@ -53,6 +50,10 @@ tr:nth-child(odd) {
 | 2015 | Lijing Shao <small>(邵立晶) | | |
 | 2005 | | Lijing Shao <small>(邵立晶) |  |
 
+
+<!-- | [Gravitational Wave Astrophysics for Early Career Scientists](TBA) | Organizer | May 3-7, 2021 | Leiden Netherlands |
+| [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021) | Session Chair | Feb 22-28, 2021 | Online |
+| [Dialogue at the Dream Field: Supranuclear Matter](http://www.phy.pku.edu.cn/~FPS/ddf/) | SOC | Aug 17-21, 2020 | Guiyang China | -->
 
 <!--
 
