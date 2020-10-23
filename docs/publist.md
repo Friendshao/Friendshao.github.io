@@ -17,11 +17,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. K. Liu, L. Guillemot, A. Istrate, **L. Shao**, T.M. Tauris, N. Wex, *et
-   al.*, [A revisit of PSR J1909$-$3744 with 15-year high-precision
-timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.*
-(accepted), arXiv:2009.12544
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
 characterization, physical environmental monitors, and the geophysics
 interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
@@ -41,6 +36,11 @@ Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. K. Liu, L. Guillemot, A. Istrate, **L. Shao**, T.M. Tauris, N. Wex, *et
+al.*, [A revisit of PSR J1909$-$3744 with 15-year high-precision
+timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.* 499
+(2020) 2276
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, <i>et al.</i>, [The missing link
 in gravitational-wave astronomy: Discoveries waiting in the decihertz
@@ -92,7 +92,7 @@ B.-Q. Ma, [Tests of conservation laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* 898 (2020) 69
 
 0. <sup>&#9733;</sup> **L. Shao**, N. Wex, S.-Y. Zhou, [New graviton mass
-bound from binary puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev.
+bound from binary pulsars](https://arxiv.org/abs/2007.04531), *Phys. Rev.
 D* 102 (2020) 024069
 
 0. R. Gold, *et al.*, [Verification of radiative transfer schemes for the
