@@ -82,7 +82,7 @@ tr:nth-child(odd) {
 | [10. 光的衍射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW6](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW6 ddl: Dec 3 |
 | [11. 光的偏振和光在晶体中的传播](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [12. 光的吸收、色散和散射](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW7](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW7 ddl: Dec 10 |
-| **光学演示实验** | **生科班**<br>11月27日1-2节<br>理教109 | **其他可选时间**<br>10月21日3-4节<br>10月27日3-4节 |
+| **光学演示实验** | **生科班**<br>11月27日1-2节<br>理教109 | **其他可选时间**<br>10月21日3-4节<br>10月27日3-4节<br>10月30日5-6节 |
 | [13. 相对论](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW8](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW8 ddl: Dec 17 |
 | [14. 前期量子论](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [15. 量子力学基础](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW9](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW9 ddl: Dec 24 |
