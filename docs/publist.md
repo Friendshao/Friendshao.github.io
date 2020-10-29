@@ -21,10 +21,6 @@ layout: default
 characterization, physical environmental monitors, and the geophysics
 interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
 
-0. <sup>&#9733;</sup> **L. Shao**, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (submitted),
-arXiv:2009.06817
-
 0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
 *Exp. Astron.* (submitted), arXiv:1908.11410
@@ -32,6 +28,10 @@ astronomy](https://arxiv.org/abs/1908.11410),
 0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (submitted), arXiv:1908.11391
+
+0. <sup>&#9733;</sup> **L. Shao**, [Pulsar tests of the graviton
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
+arXiv:2009.06817
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
