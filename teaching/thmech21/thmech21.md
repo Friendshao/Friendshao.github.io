@@ -49,14 +49,11 @@ $$\delta S = 0$$
 | | 胡慧玲，林纯镇，吴惟敏，《理论力学基础教程》，1986 [[链接](http://www.phy.pku.edu.cn/~frxu/file/teaching/lilunlixue.pdf)] |
 | | 刘川，《理论力学》讲义v1.4 [[链接](ftp://pts.phy.pku.edu.cn/liuchuan/mech_v1.4.pdf)] |
 | | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
-| **教师** | 邵立晶 | 
-| | Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
+| **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
 | **单号班助教** |  |
-| | |
-| | |
+| | **习题课**： |
 | **双号班助教** | |
-| | |
-| | |
+| | **习题课**： |
 
 <p></p>
 
