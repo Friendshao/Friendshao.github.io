@@ -22,7 +22,7 @@ tr:nth-child(odd) {
 
 # <b>Theoretical Mechanics (理论力学)</b>
 
-### <u>Spring 2021, Peking University</u>
+### <u>Fall 2021, Peking University</u>
 
 <div style="display: flex; justify-content: center;">
 <img src="http://friendshao.github.io/teaching/thmech19/thmech.png" width="550" height="250">
