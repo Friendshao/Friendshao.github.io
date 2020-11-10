@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 119)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 121)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 9)</small>
 
@@ -16,6 +16,14 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y. Gao, **L. Shao**, [Precession of triaxially deformed neutron
+stars](https://arxiv.org/abs/2011.04472),
+*Astron. Nachrichten* (accepted), arXiv:2011.04472
+
+0. <sup>&#9733;</sup> H. Xia, **L. Shao**, J. Zhao, Z. Cao, [Improved deep
+learning techniques in gravitational-wave data
+analysis](https://arxiv.org/abs/2011.04418), arXiv:2011.04418
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
 characterization, physical environmental monitors, and the geophysics
