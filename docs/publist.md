@@ -17,18 +17,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. Y. Gao, **L. Shao**, [Precession of triaxially deformed neutron
-stars](https://arxiv.org/abs/2011.04472),
-*Astron. Nachrichten* (accepted), arXiv:2011.04472
-
-0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
-science](https://arxiv.org/abs/2008.02921),
-*Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
-
-0. <sup>&#9733;</sup> **L. Shao**, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
-arXiv:2009.06817
-
 0. <sup>&#9733;</sup> H. Xia, **L. Shao**, J. Zhao, Z. Cao, [Improved deep
 learning techniques in gravitational-wave data
 analysis](https://arxiv.org/abs/2011.04418), arXiv:2011.04418
@@ -44,6 +32,18 @@ astronomy](https://arxiv.org/abs/1908.11410),
 0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (submitted), arXiv:1908.11391
+
+0. Y. Gao, **L. Shao**, [Precession of triaxially deformed neutron
+stars](https://arxiv.org/abs/2011.04472),
+*Astron. Nachrichten* (accepted), arXiv:2011.04472
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
+science](https://arxiv.org/abs/2008.02921),
+*Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. <sup>&#9733;</sup> **L. Shao**, [Pulsar tests of the graviton
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
+arXiv:2009.06817
 
 0. K. Liu, L. Guillemot, A. Istrate, **L. Shao**, T.M. Tauris, N. Wex, *et
 al.*, [A revisit of PSR J1909$-$3744 with 15-year high-precision
