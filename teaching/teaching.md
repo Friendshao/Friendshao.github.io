@@ -25,6 +25,8 @@ tr:nth-child(odd) {
 ## Teaching Activities
 
 
+- **General Physics (I)** <small>[including **Mechanics** & **Electromagnetism**]
+  - [2021S](https://friendshao.github.io/teaching/phy21/phy21)
 - **General Physics (II)** <small>[including **Thermal Physics**, **Optics**, & **Modern Physics**]
   - [2020F](https://friendshao.github.io/teaching/phy20/phy20)
 - **General Relativity & Astrophysics**
@@ -35,6 +37,7 @@ tr:nth-child(odd) {
 
 
 | **SEMESTER** | **COURSE** | **ROLE** | **COMMENT** | 
+| PKU'21 Spring | [**General Physics (I)**](phy21/phy21) | Lecturer | <small>TAs: TBA |
 | PKU'20 Fall | [**General Physics (II)**](phy20/phy20) | Lecturer | <small>TAs: Chang Liu & Lei Geng |
 | PKU'20 Fall | [**General Relativity & Astrophysics**](gr20/gr20) | Lecturer | <small>TA: Tai Zhou |
 | PKU'19 Fall | [**Theoretical Mechanics (A)**](thmech19/thmech19) | Lecturer | <small>TAs: Chang Liu & Yong Gao |
