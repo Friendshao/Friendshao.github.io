@@ -65,27 +65,27 @@ tr:nth-child(odd) {
 ## 课程内容
 
 | **内容** | **作业** | **备注** |
-| 0. 课程介绍 | | |
-| 1. 质点运动学 | | |
-| 2. 牛顿力学的基本定律 | | |
-| 3. 动量变化定理与动量守恒 | | |
-| 4. 动能与势能——机械能变化定理与机械能守恒 | | |
-| 5. 角动量变化定理与角动量守恒 | | |
-| 6. 质心力学定理 | | |
-| 7. 刚体力学 | | |
-| 8. 振动 | | |
-| 9. 波动 | | |
-| 10. 流体力学 | | |
-| 11. 哈密顿原理 | | |
+| [0. 课程介绍](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [1. 质点运动学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [2. 牛顿力学的基本定律](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [3. 动量变化定理与动量守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [4. 动能与势能——机械能变化定理与机械能守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [5. 角动量变化定理与角动量守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [6. 质心力学定理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [7. 刚体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [8. 振动](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [9. 波动](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [10. 流体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [11. 哈密顿原理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | **期中考试** | | 随堂、闭卷 |
-| 12. 静电场 | | |
-| 13. 静电场中的导体和电介质 | | |
-| 14. 直流电 | | |
-| 15. 恒定磁场 | | |
-| 16. 磁介质 | | |
-| 17. 电磁感应 | | |
-| 18. 交流电 | | |
-| 19. 麦克斯韦电磁场理论 | | |
+| [12. 静电场](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [13. 静电场中的导体和电介质](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [14. 直流电](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [15. 恒定磁场](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [16. 磁介质](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [17. 电磁感应](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [18. 交流电](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [19. 麦克斯韦电磁场理论](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | **期末考试** | | 闭卷 |
 
 

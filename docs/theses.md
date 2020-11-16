@@ -40,6 +40,6 @@ tr:nth-child(odd) {
 
 <big><big> **Undergraduate Student Research Study**
 
-- **王惠美**, Bounding the Photon Mass with Fast Radio Bursts（北京大学，2020年12月）
-- **王弋尘**, Constraining Dark-matter Particles with Neutron Stars（北京大学，2020年12月）
-- **安子訸**, Fisher Matrix in Gravitational-wave Data Analysis（北京大学，2020年12月）
+- **王惠美**，Bounding the Photon Mass with Fast Radio Bursts（北京大学，2020年12月）
+- **王弋尘**，Constraining Dark-matter Particles with Neutron Stars（北京大学，2020年12月）
+- **安子訸**，Fisher Matrix in Gravitational-wave Data Analysis（北京大学，2020年12月）
