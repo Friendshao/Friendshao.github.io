@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 121)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 122)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 9)</small>
 
@@ -16,6 +16,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Precessions of
+spheroidal stars under Lorentz violation and observational
+consequences](https://arxiv.org/abs/2012.01320), arXiv:2012.01320
 
 0. <sup>&#9733;</sup> H. Xia, **L. Shao**, J. Zhao, Z. Cao, [Improved deep
 learning techniques in gravitational-wave data
