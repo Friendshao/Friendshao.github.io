@@ -91,6 +91,7 @@ tr:nth-child(odd) {
 | [18. 原子核](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW10](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW10 ddl: Jan 4<br>最后4题可以不交 |
 | [19. 粒子](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) |  | |
 | [20. 宇宙](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) |  | |
+| *答疑* | KIAA217<br>KIAA404<br>物院西415 | 2021年1月15日14:00-16:00PM<br>2021年1月17日9:00-11:00AM |
 | **期末考试** | | **2021年1月18日上午**，闭卷 |
 
 
