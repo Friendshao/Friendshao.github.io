@@ -638,7 +638,7 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 <a name="popular"></a>
 <big><big>**Popular Articles**</big></big>
 
-0. <sup>&#9733;</sup> **邵立晶**, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), 《科学通报》, 已接收
+0. <sup>&#9733;</sup> **邵立晶**, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), 《科学通报》 65 (2020) 4013
 
 0. 高勇, **邵立晶**, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
 《中国国家天文》9 (2019) 54
