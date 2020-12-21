@@ -85,7 +85,7 @@ tr:nth-child(odd) {
 | **光学演示实验** | **生科班**<br>11月27日1-2节<br>理教109 | **其他可选时间**<br>10月21日3-4节<br>10月27日3-4节<br>10月30日5-6节<br>11月20日5-6节<br>11月20日7-8节<br>12月2日10-11节<br>12月4日1-2节<br>12月9日7-8节<br>12月11日3-4节 |
 | [13. 相对论](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW8](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW8 ddl: Dec 17 |
 | [14. 前期量子论](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
-| [15. 量子力学基础](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW9](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW9 ddl: Dec 24 |
+| [15. 量子力学基础](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW9](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW9 ddl: Dec 28 |
 | [16. 原子和分子](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [17. 凝聚态](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | | |
 | [18. 原子核](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | [HW10](https://disk.pku.edu.cn/link/D851588D2B526461376A2EE23DAA50BA) | HW10 ddl: Jan 4<br>最后4题可以不交 |
