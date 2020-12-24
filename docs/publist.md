@@ -21,10 +21,6 @@ layout: default
 spheroidal stars under Lorentz violation and observational
 consequences](https://arxiv.org/abs/2012.01320), arXiv:2012.01320
 
-0. <sup>&#9733;</sup> H. Xia, **L. Shao**, J. Zhao, Z. Cao, [Improved deep
-learning techniques in gravitational-wave data
-analysis](https://arxiv.org/abs/2011.04418), arXiv:2011.04418
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
 characterization, physical environmental monitors, and the geophysics
 interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
@@ -36,6 +32,11 @@ astronomy](https://arxiv.org/abs/1908.11410),
 0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (submitted), arXiv:1908.11391
+
+0. <sup>&#9733;</sup> H. Xia, **L. Shao**, J. Zhao, Z. Cao, [Improved deep
+learning techniques in gravitational-wave data
+analysis](https://arxiv.org/abs/2011.04418), *Phys. Rev. D* (accepted),
+arXiv:2011.04418
 
 0. Y. Gao, **L. Shao**, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
