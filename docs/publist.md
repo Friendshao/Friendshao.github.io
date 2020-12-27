@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 122)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 123)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
 - [**Popular Articles**](#popular) <small>(in total 9)</small>
 
@@ -16,6 +16,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
+   gravitational waves from the energetic young pulsar PSR
+J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 
 0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Precessions of
 spheroidal stars under Lorentz violation and observational
