@@ -20,6 +20,12 @@ tr:nth-child(odd) {
 }
 </style>
 
+<h2>
+<font color="red">
+*** Notice: links are not maintained after the end of course! 
+</font>
+</h2>
+
 # <b>General Physics II (普通物理 II)</b>
 
 ### <u>Fall 2020, Peking University</u>
