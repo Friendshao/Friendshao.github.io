@@ -42,6 +42,7 @@ tr:nth-child(odd) {
 | [New Astronomy](https://www.journals.elsevier.com/new-astronomy/) |  **Reviewer** |
 | [Physical Review D](https://journals.aps.org/prd/) |  **Reviewer** |
 | [Physical Review Letters](https://journals.aps.org/prl/) |  **Reviewer** |
+| [Physics Letters B](https://www.journals.elsevier.com/physics-letters-b/) |  **Reviewer** |
 | [Research in Astronomy and Astrophysics](http://iopscience.iop.org/journal/1674-4527) |  **Reviewer** |
 | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | **Executive Board Member** (2019—2020) |
 | [Science China – Physics, Mechanics and Astronomy](https://link.springer.com/journal/11433) | **Reviewer** | 
