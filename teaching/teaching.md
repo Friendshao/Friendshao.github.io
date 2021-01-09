@@ -22,19 +22,41 @@ tr:nth-child(odd) {
 }
 </style>
 
+<!---------------------------------------------------------------->
+
+<script type="text/x-mathjax-config">
+
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<!---------------------------------------------------------------->
+
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
+
+<!---------------------------------------------------------------->
+
 ## Teaching Activities
 
+#### **Overview**
 
-- **General Physics (I)** <small>[including **Mechanics** & **Electromagnetism**]
-  - [2021S](https://friendshao.github.io/teaching/phy21/phy21)
-- **General Physics (II)** <small>[including **Thermal Physics**, **Optics**, & **Modern Physics**]
-  - [2020F](https://friendshao.github.io/teaching/phy20/phy20)
-- **General Relativity & Astrophysics**
-  - [2019F](https://friendshao.github.io/teaching/gr19/gr19), 
-    [2020F](https://friendshao.github.io/teaching/gr20/gr20)
-- **Theoretical Mechanics (A)**
-  - [2019F](https://friendshao.github.io/teaching/thmech19/thmech19)
+| **ID** | **COURSE** | **RECORD** | **COMMENT** |
+| 00407794 | **General Relativity & Astrophysics** | [2020F](https://friendshao.github.io/teaching/gr20/gr20) (34 ppl.)<br>[2019F](https://friendshao.github.io/teaching/gr19/gr19) (24 ppl.) | |
+| 00431132 | **General Physics (I)** | [2021S](https://friendshao.github.io/teaching/phy21/phy21) | <small>Mechanics<br>Electromagnetism |
+| 00431133 | **General Physics (II)** | [2020F](https://friendshao.github.io/teaching/phy20/phy20) (75 ppl.) | <small>Thermal Physics<br>Optics<br>Modern Physics |
+| 00432198 | **Theoretical Mechanics (A)** | [2019F](https://friendshao.github.io/teaching/thmech19/thmech19) (96 ppl.) | |
+| | **Equilibrium Statistical Physics** | | |
+| | **Classical Electrodynamics** | | |
 
+<p></p>
+
+#### **Chronological**
 
 | **SEMESTER** | **COURSE** | **ROLE** | **COMMENT** | 
 | PKU'21S | [**General Physics (I)**](phy21/phy21) | Lecturer | <small>TAs: TBA |
@@ -46,5 +68,3 @@ tr:nth-child(odd) {
 | PKU'10F | **What is Science?** | TA | <small>lectured by Prof. Yi Rao |
 | PKU'10S | **Probability Theory and Statistics** | TA | <small>lectured by Prof. Zhenxi Dong |
 | PKU'09F | **Linear Algebra** | TA | <small>lectured by Prof. Maoying Tian <br>**Excellent TA** Award |
-
-<p></p>
