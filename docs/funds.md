@@ -21,6 +21,7 @@ tr:nth-child(odd) {
 </style>
 
 | **时间** | **职责** | **课题** | **基金号** | 
+| 2020—2025 | 主持 | **SKA 专项** <br> <small> 脉冲星理论研究支撑 </small> | 2020SKA0120300 |
 | 2020—2025 | 主持 | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society </small> | NULL |
 | 2020.01—2023.12 | 主持 | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究  </small> | 11975027 |
 | 2020.01—2024.12 | 参与 | **国家自然科学重大基金项目** <br> <small> 黑洞烛光的宇宙学应用 </small> | 11991053 |
