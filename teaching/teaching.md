@@ -64,7 +64,7 @@ tr:nth-child(odd) {
 #### **Chronological**
 
 | **SEMESTER** | **COURSE** | **ROLE** | **COMMENT** | 
-| PKU'21S | [**General Physics (I)**](phy21/phy21) | Lecturer | <small>TAs: TBA |
+| PKU'21S | [**General Physics (I)**](phy21/phy21) | Lecturer | <small>TAs: Yong Gao & Zhongfu Zhang |
 | PKU'20F | [**General Physics (II)**](phy20/phy20) | Lecturer | <small>TAs: Chang Liu & Lei Geng |
 | PKU'20F | [**General Relativity & Astrophysics**](gr20/gr20) | Lecturer | <small>TA: Tai Zhou |
 | PKU'19F | [**Theoretical Mechanics (A)**](thmech19/thmech19) | Lecturer | <small>TAs: Chang Liu & Yong Gao |
