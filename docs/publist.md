@@ -6,8 +6,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 124)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 122)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 10)</small>
 
 ---
@@ -46,17 +46,9 @@ learning techniques in gravitational-wave data
 analysis](https://arxiv.org/abs/2011.04418), *Phys. Rev. D* (accepted),
 arXiv:2011.04418
 
-0. Y. Gao, **L. Shao**, [Precession of triaxially deformed neutron
-stars](https://arxiv.org/abs/2011.04472),
-*Astron. Nachrichten* (accepted), arXiv:2011.04472
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
-
-0. <sup>&#9733;</sup> **L. Shao**, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
-arXiv:2009.06817
 
 0. K. Liu, L. Guillemot, A. Istrate, **L. Shao**, T.M. Tauris, N. Wex, *et
 al.*, [A revisit of PSR J1909$-$3744 with 15-year high-precision
@@ -562,6 +554,14 @@ coalescences](https://arxiv.org/abs/1710.05837),
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. Y. Gao, **L. Shao**, [Precession of triaxially deformed neutron
+stars](https://arxiv.org/abs/2011.04472),
+*Astron. Nachrichten* (accepted), arXiv:2011.04472
+
+0. <sup>&#9733;</sup> **L. Shao**, [Pulsar tests of the graviton
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
+arXiv:2009.06817
 
 0. <sup>&#9733;</sup> **L. Shao**, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405),
