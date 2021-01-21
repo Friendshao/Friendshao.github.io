@@ -56,8 +56,6 @@ tr:nth-child(odd) {
 
 <p></p>
 
-** **S** : Spring — **S'** : Summer — **F** : Fall
-
 ---
 
 <p></p>
@@ -75,3 +73,5 @@ tr:nth-child(odd) {
 | PKU'10F | **What is Science?** | TA | <small>lectured by Prof. Yi Rao |
 | PKU'10S | **Probability Theory and Statistics** | TA | <small>lectured by Prof. Zhenxi Dong |
 | PKU'09F | **Linear Algebra** | TA | <small>lectured by Prof. Maoying Tian <br>**Excellent TA** Award |
+
+
