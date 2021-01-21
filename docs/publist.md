@@ -17,7 +17,7 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. <sup>&#9733;</sup> S.-L. Li, **L. Shao**, P. Wu, H. Yu, [NANOGrav signal from first-order
+0. S.-L. Li, **L. Shao**, P. Wu, H. Yu, [NANOGrav signal from first-order
 confinement/deconfinement phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 
