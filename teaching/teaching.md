@@ -56,6 +56,13 @@ tr:nth-child(odd) {
 
 <p></p>
 
+** **S** : Spring — **S'** : Summer — **F** : Fall
+
+---
+
+<p></p>
+
+
 #### **Chronological**
 
 | **SEMESTER** | **COURSE** | **ROLE** | **COMMENT** | 

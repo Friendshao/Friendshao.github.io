@@ -6,9 +6,9 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 123)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 124)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 18)</small>
-- [**Popular Articles**](#popular) <small>(in total 9)</small>
+- [**Chinese Articles**](#chinese) <small>(in total 10)</small>
 
 ---
 
@@ -16,6 +16,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. S. Li, **L. Shao**, P. Wu, H. Yu, [NANOGrav signal from first-order
+confinement/deconfinement phase transition in different QCD
+matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 
 0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
    gravitational waves from the energetic young pulsar PSR
@@ -640,8 +644,10 @@ in *Science with a Next Generation Very Large Array* (ASP Conference Series, San
 
 <p></p>
 
-<a name="popular"></a>
-<big><big>**Popular Articles**</big></big>
+<a name="chinese"></a>
+<big><big>**Chinese Articles**</big></big>
+
+0. <sup>&#9733;</sup> 王弋尘, 缪雪丽, **邵立晶**, [用中子星限制暗物质粒子散射截面](TBA), 《天文学报》, submitted
 
 0. <sup>&#9733;</sup> **邵立晶**, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), 《科学通报》 65 (2020) 4013
 
