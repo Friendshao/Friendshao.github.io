@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 122)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 123)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 10)</small>
 
@@ -16,6 +16,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Signature of Lorentz
+violation in continuous gravitational-wave spectra of ellipsoidal neutron
+stars](https://arxiv.org/abs/2101.09431), *Galaxies* (accepted), arXiv:2101.09431
 
 0. S.-L. Li, **L. Shao**, P. Wu, H. Yu, [NANOGrav signal from first-order
 confinement/deconfinement phase transition in different QCD
@@ -41,14 +45,13 @@ astronomy](https://arxiv.org/abs/1908.11410),
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (submitted), arXiv:1908.11391
 
-0. <sup>&#9733;</sup> H. Xia, **L. Shao**, J. Zhao, Z. Cao, [Improved deep
-learning techniques in gravitational-wave data
-analysis](https://arxiv.org/abs/2011.04418), *Phys. Rev. D* (accepted),
-arXiv:2011.04418
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. <sup>&#9733;</sup> H. Xia, **L. Shao**, J. Zhao, Z. Cao, [Improved deep
+   learning techniques in gravitational-wave data
+analysis](https://arxiv.org/abs/2011.04418), *Phys. Rev. D* 103 (2021) 024040
 
 0. K. Liu, L. Guillemot, A. Istrate, **L. Shao**, T.M. Tauris, N. Wex, *et
 al.*, [A revisit of PSR J1909$-$3744 with 15-year high-precision
