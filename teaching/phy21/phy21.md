@@ -65,28 +65,35 @@ tr:nth-child(odd) {
 ## 课程内容
 
 | **内容** | **作业** | **备注** |
-| [0. 课程介绍](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [1. 质点运动学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [2. 牛顿力学的基本定律](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [3. 动量变化定理与动量守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW1](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 19) |  |
-| [4. 动能与势能——机械能变化定理与机械能守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [5. 角动量变化定理与角动量守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW2](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 31) |  |
-| [6. 质心力学定理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [7. 刚体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW3](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 9) |  |
-| [8. 振动](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [9. 波动](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW4](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 16) |  |
-| [10. 流体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [11. 哈密顿原理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 23) |  |
+| 0. 课程介绍 | | |
+| 1. 质点运动学 | | |
+| 2. 牛顿力学的基本定律 | | |
+| 3. 动量变化定理与动量守恒 | [HW1](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 19) |  |
+| 4. 动能与势能——机械能变化定理与机械能守恒 | | |
+| 5. 角动量变化定理与角动量守恒 | [HW2](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 31) |  |
+| 6. 质心力学定理 | | |
+| 7. 刚体力学 | [HW3](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 9) |  |
+| 8. 振动 | | |
+| 9. 波动 | [HW4](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 16) |  |
+| 10. 流体力学 | | |
+| 11. 哈密顿原理 | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 23) |  |
 | **期中考试**（闭卷、笔试） | 2021年4月28日 | 13:00-14:50PM |
-| [12. 静电场](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [13. 静电场中的导体和电介质](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW6](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 14) |  |
-| [14. 直流电](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW7](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 26) |  |
-| [15. 恒定磁场](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [16. 磁介质](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW8](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 4) |  |
-| [17. 电磁感应](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW9](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 11) | |
-| [18. 交流电](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [19. 麦克斯韦电磁场理论](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW10](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 17) | 习题课交 |
+| 12. 静电场 | | |
+| 13. 静电场中的导体和电介质 | [HW6](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 14) |  |
+| 14. 直流电 | [HW7](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 26) |  |
+| 15. 恒定磁场 | | |
+| 16. 磁介质 | [HW8](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 4) |  |
+| 17. 电磁感应 | [HW9](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 11) | |
+| 18. 交流电 | | |
+| 19. 麦克斯韦电磁场理论 | [HW10](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 17) | 习题课交 |
 | **期末考试**（闭卷、笔试） | 2021年6月23日·下午 | 14:00-16:00PM |
+
+<p></p>
+
+## 文件下载
+
+- 课程日历（2021年1月23日）：[我爱上课.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
+- 课程作业（2021年1月21日）：[我爱写作业.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 
 
 
