@@ -50,9 +50,14 @@ tr:nth-child(odd) {
 | 00407794 | **General Relativity & Astrophysics** | [2020F](https://friendshao.github.io/teaching/gr20/gr20) (34 ppl.)<br>[2019F](https://friendshao.github.io/teaching/gr19/gr19) (24 ppl.) | |
 | 00431132 | **General Physics (I)** | [2021S](https://friendshao.github.io/teaching/phy21/phy21) | <small>Mechanics<br>Electromagnetism |
 | 00431133 | **General Physics (II)** | [2020F](https://friendshao.github.io/teaching/phy20/phy20) (75 ppl.) | <small>Thermal Physics<br>Optics<br>Modern Physics |
+| 00432198 | **Theoretical Mechanics (A)** | [2019F](https://friendshao.github.io/teaching/thmech19/thmech19) (96 ppl.) | |
+
+<!-----------------------------
+
 | 00431650 | **Equilibrium Statistical Physics** | | |
 | 00432130 | **Thermodynamics and Statistical Physics (A)** | | |
-| 00432198 | **Theoretical Mechanics (A)** | [2019F](https://friendshao.github.io/teaching/thmech19/thmech19) (96 ppl.) | |
+
+----------------------------------->
 
 <br>
 
