@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 123)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 124)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 10)</small>
 
@@ -16,6 +16,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
+background from Advanced LIGO's and Advanced Virgo's third observing
+run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
 
 0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Signature of Lorentz
 violation in continuous gravitational-wave spectra of ellipsoidal neutron
