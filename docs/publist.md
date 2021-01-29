@@ -21,10 +21,6 @@ layout: default
 background from Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
 
-0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Signature of Lorentz
-violation in continuous gravitational-wave spectra of ellipsoidal neutron
-stars](https://arxiv.org/abs/2101.09431), *Galaxies* (accepted), arXiv:2101.09431
-
 0. S.-L. Li, **L. Shao**, P. Wu, H. Yu, [NANOGrav signal from first-order
 confinement/deconfinement phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
@@ -52,6 +48,10 @@ Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. <sup>&#9733;</sup> R. Xu, Y. Gao, **L. Shao**, [Signature of Lorentz
+violation in continuous gravitational-wave spectra of ellipsoidal neutron
+stars](https://arxiv.org/abs/2101.09431), *Galaxies* 9 (2021) 12
 
 0. <sup>&#9733;</sup> H. Xia, **L. Shao**, J. Zhao, Z. Cao, [Improved deep
    learning techniques in gravitational-wave data
