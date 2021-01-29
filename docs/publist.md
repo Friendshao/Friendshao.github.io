@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 124)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 125)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 10)</small>
 
@@ -16,6 +16,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Y. Gao, C. Liu, Z. Cao, B.-Q.
+Ma, [Dipole radiation from binary neutron stars with ground-based
+laser-interferometer and atom-interferometer gravitational-wave
+observatories](TBA), submitted
 
 0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
 background from Advanced LIGO's and Advanced Virgo's third observing
