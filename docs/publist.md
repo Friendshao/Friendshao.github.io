@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 125)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 127)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 10)</small>
 
@@ -16,6 +16,14 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. <sup>&#9733;</sup> A. Allahyari, **L. Shao**, [Testing no-hair theorem
+by quasi-periodic oscillations: the quadrupole of GRO
+J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
+
+0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
+third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
+arXiv:2101.12248
 
 0. <sup>&#9733;</sup> J. Zhao, **L. Shao**, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
