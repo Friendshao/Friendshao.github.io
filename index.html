@@ -86,7 +86,7 @@ layout: default
   $(function () {
   })
   function openDialog(id) {
-    for (var i = 1; i < 10; i++) {
+    for (var i = 1; i < 999; i++) {
       x = document.getElementById("light" + i)
       y = document.getElementById("fade" + i)
       if (i == id) {
@@ -96,7 +96,7 @@ layout: default
     }
   }
   function closeDialog(id) {
-    for (var i = 1; i < 10; i++) {
+    for (var i = 1; i < 999; i++) {
       x = document.getElementById("light" + i)
       y = document.getElementById("fade" + i)
       if (i == id) {
@@ -309,6 +309,20 @@ layout: default
 
     <br>
     <hr><br>
+
+    <br>
+    <a href="JavaScript:void(0)" onclick="openDialog(9)">
+        <div style="border: 5px solid orange; text-align: center;">
+          <font size="+3" color="#F9A20C"><b>Autumn 2020</b></font>
+          <img src="img/autumn.png" style="height:70px;"><br>
+        </div>
+      </a>
+      <div id="light9" class="white_content_autumn">
+  
+        <a href="javascript:void(0)" onclick="closeDialog(9)">
+          <p align="right">Close Window</p>
+        </a>
+
     <font size="+3" color="#F9A20C"><b>Autumn 2020</b></font>
     <img src="img/autumn.png" style="height:70px;"><br>
     <p></p>
@@ -439,10 +453,10 @@ layout: default
     (<a href="http://cluster.shao.ac.cn/wiki/index.php/Colloquium">link</a>)
     <p></p>
 
-    <!---------------------------------------------------------------->
+  </div>
+  <div id="fade9" class="black_overlay"></div>
 
-    <br>
-    <hr><br>
+    <!---------------------------------------------------------------->
 
     <br>
     <a href="JavaScript:void(0)" onclick="openDialog(8)">
