@@ -6,7 +6,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 127)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 128)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 10)</small>
 
@@ -16,6 +16,9 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Z. Wang, **L. Shao**, [Axion induced spin effective
+couplings](https://arxiv.org/abs/2102.04669), arXiv:2102.04669
 
 0. <sup>&#9733;</sup> A. Allahyari, **L. Shao**, [Testing no-hair theorem
 by quasi-periodic oscillations: the quadrupole of GRO
@@ -56,7 +59,7 @@ astronomy](https://arxiv.org/abs/1908.11410),
 
 0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
-*Exp. Astron.* (submitted), arXiv:1908.11391
+*Exp. Astron.* (accepted), arXiv:1908.11391
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
