@@ -37,6 +37,8 @@ tr:nth-child(odd) {
 ### Serving for Academic Conferences
 
 | **CONFERENCE** | **ROLE** | **TIME** | **LOCATION** |
+| [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html) | Organizer | May 3-7, 2021 | Leiden Netherlands |
+| [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021) | Session Chair | Feb 22-28, 2021 | Online |
 | [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519) | Session Chair | Dec 4-14, 2020 | Online |
 | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop) | Session Chair | Nov 9-13, 2020 | Pohang Korea |
 | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/) | SOC & LOC & Session Chair | Nov 28-29, 2019 | Beijing China |
@@ -53,8 +55,7 @@ tr:nth-child(odd) {
 | 2005 | | Lijing Shao <small>(邵立晶) |  |
 
 
-<!-- | [Gravitational Wave Astrophysics for Early Career Scientists](TBA) | Organizer | May 3-7, 2021 | Leiden Netherlands |
-| [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021) | Session Chair | Feb 22-28, 2021 | Online |
+<!-- 
 | [Dialogue at the Dream Field: Supranuclear Matter](http://www.phy.pku.edu.cn/~FPS/ddf/) | SOC | Aug 17-21, 2020 | Guiyang China | -->
 
 <!--
