@@ -63,6 +63,7 @@ layout: default
    [ITS](http://its.pku.edu.cn/),
    [pan](http://pan.pku.edu.cn/),
    [PHY](http://www.phy.pku.edu.cn/), 
+   [SD](https://pkuhelper.pku.edu.cn/hole/),
    [ZC](https://phyxgb.pku.edu.cn/meetplan), 
    [Portal](https://portal.pku.edu.cn/)),
    [AEI](http://www.aei.mpg.de/)
@@ -76,7 +77,7 @@ layout: default
   [douban](https://www.douban.com/)
 - [hyperspace](http://hyperspace.uni-frankfurt.de/),
   [pulsarastronomy](http://pulsarastronomy.net/pulsar/preprints),
-  [benty-fields](https://benty-fields.com/benty-search),
+  [benty-fields](https://benty-fields.com/daily_arXiv),
   [arxivist](http://arxivist.com/),
   [GRA](http://gra.itp.ac.cn/12),
   [LSC](https://www.lsc-group.phys.uwm.edu/ppcomm/Papers.html)
