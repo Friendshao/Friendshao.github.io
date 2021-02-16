@@ -24,7 +24,6 @@ layout: default
   [Onenote](https://www.onenote.com/),
   [Google](http://www.google.com/ncr)
   ([Calendar](https://calendar.google.com/calendar/r/month),
-  [conf](https://docs.google.com/spreadsheets/d/1SYWqFnnjvRzJBO65RQKxzdKv5pecVefYNgz7jwFQALA/edit?usp=drive_web&ouid=113011655640104127367),
   [keep](https://keep.google.com/),
   [maps](https://www.google.com/maps),
   [translate](https://translate.google.com/))
@@ -67,7 +66,7 @@ layout: default
    [ZC](https://phyxgb.pku.edu.cn/meetplan), 
    [Portal](https://portal.pku.edu.cn/)),
    [AEI](http://www.aei.mpg.de/)
-  ([ACR](http://www.aei.mpg.de/1282161/Astrophysical_and_Cosmological_Relativity))
+  ([ACR](https://www.aei.mpg.de/astro-cosmo-rel))
 
 **Collections**
 
