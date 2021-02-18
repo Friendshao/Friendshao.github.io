@@ -49,10 +49,6 @@ J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 spheroidal stars under Lorentz violation and observational
 consequences](https://arxiv.org/abs/2012.01320), arXiv:2012.01320
 
-0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
-characterization, physical environmental monitors, and the geophysics
-interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
-
 0. J. Baker, <i>et al.</i>, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
 *Exp. Astron.* (submitted), arXiv:1908.11410
@@ -60,6 +56,11 @@ astronomy](https://arxiv.org/abs/1908.11410),
 0. A. Sesana, N. Korsakova, <i>et al.</i>, [Unveiling the gravitational
 Universe at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
+characterization, physical environmental monitors, and the geophysics
+interferometer](https://arxiv.org/abs/2009.09305), 
+*Prog. Theor. Exp. Phys.* (accepted), arXiv:2009.09305
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
