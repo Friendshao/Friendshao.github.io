@@ -51,13 +51,13 @@ University](http://www.pku.edu.cn/), Beijing China.
 ### Contact
 
 
-<img src="email.png" width="30"> **lshao**<img src="at.jpg"
-width="20">**pku.edu.cn**; Friendshao<img src="at.jpg" width="20">gmail.com
+<img src="email.png" width="30"> **Email:** lshao<img src="at.jpg"
+width="20">pku.edu.cn
 
-<img src="phone.png" width="30"> +86-(0)10-6275-8461 (Office K217)
+<img src="phone.png" width="30"> **Phone:** +86-(0)10-6275-8461 (Office K217)
 
-<img src="office.png" width="30"> Kavli Institute for Astronomy and
-Astrophysics, Peking University, Beijing 100871, China
+<img src="office.png" width="30"> **Address:** KIAA at Peking University, Yiheyuan Road 5, Haidian District, Beijing 100871, China
+
+<img src="meet.png" width="32"> **Group Meeting:** Saturdays 14:00-16:30 PM, 1st meeting room at KIAA
 
 <img src="open.jpg" width="30"> **Office Hours:** Thursdays 14:00-17:00 PM (by appointment)
-
