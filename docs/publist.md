@@ -581,10 +581,10 @@ coalescences](https://arxiv.org/abs/1710.05837),
 
 0. Y. Gao, **L. Shao**, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
-*Astron. Nachrichten* (accepted), arXiv:2011.04472
+*Astron. Nachr.* (accepted), arXiv:2011.04472
 
 0. <sup>&#9733;</sup> **L. Shao**, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* (accepted),
 arXiv:2009.06817
 
 0. <sup>&#9733;</sup> **L. Shao**, 
