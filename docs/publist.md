@@ -6,8 +6,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 128)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 129)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 10)</small>
 
 ---
@@ -273,6 +273,9 @@ GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* 875 (2019) 160
    dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo
 binary-black-hole merger GW170814](https://arxiv.org/abs/1901.01540),
 *Astrophys. J. Lett.* 876 (2019) L7
+
+0. C. Goddi, *et al.*, [First M87 Event Horizon Telescope results and the
+role of ALMA](https://arxiv.org/abs/1910.10193), *Messenger* 177 (2019) 25
 
 0. B.P. Abbott, *et al.*,  [Low-latency gravitational-wave alerts for
    multimessenger astronomy during the second Advanced LIGO and Virgo observing
@@ -595,9 +598,6 @@ arXiv:2009.06817
 Galactic Center
 Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
 *American Astronomical Society*, AAS Meeting no. 235, id. no. 364.21
-
-0. C. Goddi, *et al.*, [First M87 Event Horizon Telescope results and the
-role of ALMA](https://arxiv.org/abs/1910.10193), *Messenger* 177 (2019) 25
 
 0. <sup>&#9733;</sup> **L. Shao**, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
