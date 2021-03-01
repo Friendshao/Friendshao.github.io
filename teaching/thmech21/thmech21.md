@@ -44,10 +44,9 @@ $$\delta S = 0$$
 | **地点** | |
 | **期末考试时间** |  |
 | **教科书** | **梁昆淼 [原著]，鞠国兴 & 施毅 [修订]《力学(第四版)下册》（2009）** |
-| **参考书** | H. Goldstein, C. Poole, J. Safko, *Classical Mechanics* (3rd ed), 2002 |
-| | 鞠国兴，《理论力学学习指导与习题解析(第二版)》，2018 |
-| | 胡慧玲，林纯镇，吴惟敏，《理论力学基础教程》，1986 [[链接](http://www.phy.pku.edu.cn/~frxu/file/teaching/lilunlixue.pdf)] |
-| | 刘川，《理论力学》讲义v1.4 [[链接](ftp://pts.phy.pku.edu.cn/liuchuan/mech_v1.4.pdf)] |
+| **参考书** | 鞠国兴，《理论力学学习指导与习题解析(第二版)》，2018 |
+| | 刘川，《理论力学》，2019 |
+| | H. Goldstein, C. Poole, J. Safko, *Classical Mechanics* (3rd ed), 2002 |
 | | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
 | **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
 | **单号班助教** |  |
@@ -60,18 +59,18 @@ $$\delta S = 0$$
 ## 课程内容
 
 | **内容** | **作业** | **备注** |
-| [0. 课程介绍](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [1. 矢量力学](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [3. 有心运动](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [4. 小振动](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
+| 0. 课程介绍 | | |
+| 1. 矢量力学 | | |
+| 2. 拉格朗日方程 | | |
+| 3. 有心运动 | | |
+| 4. 小振动 | | |
 | **期中考试（闭卷）** |  |  |
-| [5. 刚体运动学](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [6. 刚体动力学](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [7. 哈密顿力学](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [8. 力学中的变分方法](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [9. 连续介质动力学](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
-| [10. 相对论性的分析力学](https://disk.pku.edu.cn:443/link/0EDD2B48102BA4B0F4887A961DA7846D) | | |
+| 5. 刚体运动学 | | |
+| 6. 刚体动力学 | | |
+| 7. 哈密顿力学 | | |
+| 8. 力学中的变分方法 | | |
+| 9. 连续介质动力学 | | |
+| 10. 相对论性的分析力学 | | |
 | **期末考试（闭卷）** | | |
 
 

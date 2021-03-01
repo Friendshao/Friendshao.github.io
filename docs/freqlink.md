@@ -32,7 +32,8 @@ layout: default
   [Baidu](http://www.baidu.com/),
   [smallpdf](http://smallpdf.com/),
   [sortime](https://www.sortime.com/v/web),
-  [wps](https://rili.wps.cn/),
+  [rili](https://rili.wps.cn/),
+  [kdocs](https://www.kdocs.cn/latest),
   [worldtime](https://www.worldtimebuddy.com/)
 - [feedReader](http://feedreader.com/online/),
   [Dropbox](https://www.dropbox.com/home),
