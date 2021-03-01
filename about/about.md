@@ -8,7 +8,7 @@ permalink: /about/
 
 <img style="float: right;" src="Barcelona2018.jpeg" width="280" hspace="10"> 
 
-Since September 2018, I am an **Assistant Professor** in the [Kavli Institute
+Since September 2018, I am an **Research Professor** in the [Kavli Institute
 for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
 University](http://www.pku.edu.cn/), Beijing China.
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
