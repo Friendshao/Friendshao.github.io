@@ -57,7 +57,8 @@ layout: default
   [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en),
   [PKU](http://www.pku.edu.cn/)
   ([BBS](http://bbs.pku.edu.cn/),
-   [course](https://course.pku.edu.cn), 
+   [BY](http://162.105.209.64/benyan),
+   [cls](https://course.pku.edu.cn), 
    [CW](http://cwfw.pku.edu.cn/),
    [HPC](http://hpc.pku.edu.cn/),
    [ITS](http://its.pku.edu.cn/),
@@ -65,7 +66,7 @@ layout: default
    [PHY](http://www.phy.pku.edu.cn/), 
    [SD](https://pkuhelper.pku.edu.cn/hole/),
    [ZC](https://phyxgb.pku.edu.cn/meetplan), 
-   [Portal](https://portal.pku.edu.cn/)),
+   [Port](https://portal.pku.edu.cn/)),
    [AEI](http://www.aei.mpg.de/)
   ([ACR](https://www.aei.mpg.de/astro-cosmo-rel))
 
