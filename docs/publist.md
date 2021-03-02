@@ -3,8 +3,8 @@ layout: default
 ---
 
 <font color="black"><b>With 
-  <font color="#a300a3">hash<sup>(#)</sup></font> marking first authors and
-  <font color="#a300a3">star<sup>($\ast$)</sup></font> marking
+  <font color="#5c5c5c">hash<sup>(#)</sup></font> marking first authors and
+  <font color="#5c5c5c">star<sup>($\ast$)</sup></font> marking
   corresponding authors</b></font>
 
 <p></p>
@@ -20,13 +20,13 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. Z. Wang<font color="#a300a3"><sup>(#,$\ast$)</sup></font>,
+0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 **L. Shao**,
 [Axion induced spin effective couplings](https://arxiv.org/abs/2102.04669),
 arXiv:2102.04669
 
-0. A. Allahyari<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, [Testing no-hair
+0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Testing no-hair
 theorem by quasi-periodic oscillations: the quadrupole of GRO
 J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 
@@ -34,8 +34,8 @@ J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
 arXiv:2101.12248
 
-0. J. Zhao<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**<font
-color="#a300a3"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
+0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](TBA), submitted
@@ -44,10 +44,10 @@ observatories](TBA), submitted
 background from Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
 
-0. S.-L. Li<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, P. Wu<font
-color="#a300a3"><sup>($\ast$)</sup></font>, H. Yu<font
-color="#a300a3"><sup>($\ast$)</sup></font>, [NANOGrav signal from
+0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Wu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Yu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [NANOGrav signal from
 first-order confinement/deconfinement phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 
@@ -56,18 +56,18 @@ gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 
 0. J. Baker, T. Baker, C. Carbone, G. Congedo, C. Contaldi, I. Dvorkin<font
-color="#a300a3"><sup>($\ast$)</sup></font>, <i>et al.</i>, [High angular
+color="#5c5c5c"><sup>($\ast$)</sup></font>, <i>et al.</i>, [High angular
 resolution gravitational wave astronomy](https://arxiv.org/abs/1908.11410),
 *Exp. Astron.* (submitted), arXiv:1908.11410
 
-0. R. Xu<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, [Precession of
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Precession of
 spheroids under Lorentz violation and observational consequences for
 neutron stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D*
 (accepted), arXiv:2012.01320
 
-0. A. Sesana<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N.
-Korsakova<font color="#a300a3"><sup>($\ast$)</sup></font>, <i>et al.</i>,
+0. A. Sesana<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
+Korsakova<font color="#5c5c5c"><sup>($\ast$)</sup></font>, <i>et al.</i>,
 [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
@@ -81,36 +81,36 @@ interferometer](https://arxiv.org/abs/2009.09305),
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
-0. R. Xu<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, [Signature of
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Signature of
 Lorentz violation in continuous gravitational-wave spectra of ellipsoidal
 neutron stars](https://arxiv.org/abs/2101.09431), *Galaxies* 9 (2021) 12
 
-0. H. Xia<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**<font
-color="#a300a3"><sup>($\ast$)</sup></font>, J. Zhao, Z. Cao, [Improved deep
+0. H. Xia<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhao, Z. Cao, [Improved deep
 learning techniques in gravitational-wave data
 analysis](https://arxiv.org/abs/2011.04418), *Phys. Rev. D* 103 (2021)
 024040
 
-0. K. Liu<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, L. Guillemot,
+0. K. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, L. Guillemot,
 A. Istrate, **L. Shao**, T.M. Tauris, N. Wex, *et al.*, [A revisit of PSR
 J1909$-$3744 with 15-year high-precision
 timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.* 499
 (2020) 2276
 
-0. M. Arca Sedda<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, C.P.L.
+0. M. Arca Sedda<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, C.P.L.
 Berry, K. Jani, <i>et al.</i>, [The missing link in gravitational-wave
 astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375),
 *Class. Quantum Grav.* 37 (2020) 215011
 
-0. D. Psaltis<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. D. Psaltis<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
 [Gravitational test beyond the first post-Newtonian order with the shadow
 of the M87 black
 hole](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.141104),
 *Phys. Rev. Lett.* 125 (2020) 141104
 
-0. K. Wang<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, S.-Q. Xi,
+0. K. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.-Q. Xi,
 **L. Shao**, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting superluminal neutrino
 velocity and Lorentz invariance violation by neutrino emission from the
 blazar TXS 0506+056](https://arxiv.org/abs/2009.05201),
@@ -121,98 +121,98 @@ gravitational-wave transients with Advanced LIGO, Advanced Virgo and
 KAGRA](http://doi.org/10.1007/s41114-020-00026-9),
 *Living Rev. Relativ.* 23 (2020) 3
 
-0. M. Wielgus<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. M. Wielgus<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
 [Monitoring the morphology of M87$^\star$ in 2009-2017 with the Event
 Horizon
 Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/abac0d),
 *Astrophys. J.* 901 (2020) 67
 
-0. R. Xu<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, [Strong-field
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Strong-field
 effects in massive scalar-tensor gravity for slowly spinning neutron stars
 and application to X-ray pulsar pulse
 profiles](https://arxiv.org/abs/2007.10080),
 *Phys. Rev. D* 102 (2020) 064057
 
-0. Y. Gao<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**<font
-color="#a300a3"><sup>($\ast$)</sup></font>, R. Xu, L. Sun, C. Liu, R.-X.
+0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, L. Sun, C. Liu, R.-X.
 Xu, [Triaxially-deformed freely-precessing neutron stars: continuous
 electromagnetic and gravitational
 radiation](https://arxiv.org/abs/2007.02528),
 *Mon. Not. R. Astron. Soc.* 498 (2020) 1826
 
-0. E. Barausse<font color="#a300a3"><sup>(#)</sup></font>, E. Berti, T. Hertog, S.A. Hughes, P. Jetzer<font
-color="#a300a3"><sup>($\ast$)</sup></font>, P. Pani, T.P. Sotiriou, N.
+0. E. Barausse<font color="#5c5c5c"><sup>(#)</sup></font>, E. Berti, T. Hertog, S.A. Hughes, P. Jetzer<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Pani, T.P. Sotiriou, N.
 Tamanini, H. Witek, K. Yagi, N. Yunes, *et al.*, [Prospects for fundamental
 physics with LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ.
 Gravit.* 52 (2020) 81
 
-0. J.-Y. Kim<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. J.-Y. Kim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
 [Event Horizon Telescope imaging of the archetypical blazar 3C 279 at an
 extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* 640 (2020) A69
 
-0. X. Miao<font color="#a300a3"><sup>(#)</sup></font>, J. Zhao<font
-color="#a300a3"><sup>(#)</sup></font>, **L. Shao**<font
-color="#a300a3"><sup>($\ast$)</sup></font>, N. Wex<font
-color="#a300a3"><sup>($\ast$)</sup></font>, M. Kramer, B.-Q. Ma, [Tests of
+0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, J. Zhao<font
+color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, N. Wex<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, B.-Q. Ma, [Tests of
 conservation laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* 898 (2020) 69
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N. Wex,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex,
 S.-Y. Zhou, [New graviton mass bound from binary
 pulsars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020)
 024069
 
-0. R. Gold<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. R. Gold<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
 [Verification of radiative transfer schemes for the
 EHT](https://doi.org/10.3847/1538-4357/ab96c6), *Astrophys. J.* 897 (2020)
 148
 
-0. A.E. Broderick<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et
+0. A.E. Broderick<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et
 al.*, [Themis: A parameter estimation framework for the Event Horizon
 Telescope](https://doi.org/10.3847/1538-4357/ab91a4),
 *Astrophys. J.* 897 (2020) 139
 
-0. Z. Wang<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, L.-X. Li<font
-color="#a300a3"><sup>($\ast$)</sup></font>, [Resonant instability of
+0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-X. Li<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Resonant instability of
 axionic dark matter clumps](https://arxiv.org/abs/2002.09144),
 *J. Cosmol. Astropart. Phys.* 07 (2020) 038
 
-0. Z. Xiao<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
+0. Z. Xiao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 [The CPT-violating effects on neutrons' gravitational bound
 state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part. Phys.*
 47 (2020) 085002
 
-0. C. Liu<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**<font
-color="#a300a3"><sup>($\ast$)</sup></font>, J. Zhao, Y. Gao, [Multiband
+0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhao, Y. Gao, [Multiband
 observation of LIGO/Virgo binary black hole mergers in the
 gravitational-wave transient catalog
 GWTC-1](https://arxiv.org/abs/2004.12096),
 *Mon. Not. R. Astron. Soc.* 496 (2020) 182
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, [Combined
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Combined
 search for anisotropic birefringence in the gravitational-wave transient
 catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
 
-0. F. Roelofs<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, M.
-Janssen<font color="#a300a3"><sup>(#)</sup></font>, *et al.*, [SYMBA: An
+0. F. Roelofs<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, M.
+Janssen<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.*, [SYMBA: An
 end-to-end VLBI synthetic data generation
 pipeline](https://arxiv.org/abs/2004.01161), *Astron. & Astrophys.* 636
 (2020) A5
 
-0. R. Xu<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, J. Zhao, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, [Neutron star
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star
 structure in the minimal gravitational standard-model extension and the
 implication to continuous gravitational
 waves](https://arxiv.org/abs/1909.10372),
 *Phys. Lett. B* 803 (2020) 135283
 
-0. X. Liu<font color="#a300a3"><sup>(#)</sup></font>, Z. Cao<font
-color="#a300a3"><sup>($\ast$)</sup></font>, **L. Shao**, [Validating the
+0. X. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Validating the
 effective-one-body numerical-relativity waveform models for spin-aligned
 binary black holes along eccentric
 orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D* 101 (2020) 044049
@@ -222,7 +222,7 @@ extraction of transient gravitational-wave
 signals](https://arxiv.org/abs/1908.11170), 
 *Class. Quantum Grav.* 37 (2020) 055002
 
-0. A. Weltman<font color="#a300a3"><sup>(#)</sup></font>, *et al.*,
+0. A. Weltman<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.*,
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680),
 *Publ. Astron. Soc. Aust.* 37 (2020) e002
@@ -232,8 +232,8 @@ in the second Advanced LIGO observing run with an improved hidden Markov
 model](https://arxiv.org/abs/1906.12040), 
 *Phys. Rev. D* 100 (2019) 122002
 
-0. J. Liu<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, H. Zhang<font
-color="#a300a3"><sup>($\ast$)</sup></font>, *et al.*, [A wide
+0. J. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*, [A wide
 star$-$black-hole binary system from radial-velocity
 measurements](https://arxiv.org/abs/1911.11989), *Nature* 575 (2019) 618
 
@@ -241,27 +241,27 @@ measurements](https://arxiv.org/abs/1911.11989), *Nature* 575 (2019) 618
    hole signals from the LIGO-Virgo catalog
 GWTC-1](https://arxiv.org/abs/1903.04467), *Phys. Rev. D* 100 (2019) 104036
 
-0. K. Chatziioannou<font color="#a300a3"><sup>(#)</sup></font>, R. Cotesta,
+0. K. Chatziioannou<font color="#5c5c5c"><sup>(#)</sup></font>, R. Cotesta,
 S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*, [On the properties of the
 massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), *Phys. Rev. D* 100 (2019)
 104015
 
-0. B. Sun<font color="#a300a3"><sup>(#)</sup></font>, Z. Cao<font
-color="#a300a3"><sup>($\ast$)</sup></font>, **L. Shao**, [Constraints on
+0. B. Sun<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Constraints on
 fifth forces through perihelion precession of
 planets](https://arxiv.org/abs/1910.05666), *Phys. Rev. D* 100 (2019)
 084030
 
-0. J. Zhao<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**<font
-color="#a300a3"><sup>($\ast$)</sup></font>, Z. Cao, B.-Q. Ma<font
-color="#a300a3"><sup>($\ast$)</sup></font>, [Reduced-order surrogate models
+0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Cao, B.-Q. Ma<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Reduced-order surrogate models
 for scalar-tensor gravity in the strong field regime and applications to
 binary pulsars and GW170817](https://arxiv.org/abs/1907.00780),
 *Phys. Rev. D* 100 (2019) 064034
 
-0. A. Caputo<font color="#a300a3"><sup>(#)</sup></font>, L. Sberna<font
-color="#a300a3"><sup>($\ast$)</sup></font>, M. Frias, D. Blas, P. Pani,
+0. A. Caputo<font color="#5c5c5c"><sup>(#)</sup></font>, L. Sberna<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Frias, D. Blas, P. Pani,
 **L. Shao**, W. Yan, [Constraints on millicharged dark matter and axionlike
 particles from timing of radio waves](https://arxiv.org/abs/1902.02695),
 *Phys. Rev. D* 100 (2019) 063515
@@ -284,11 +284,11 @@ runs](https://arxiv.org/abs/1903.08844), *Phys. Rev. D* 100 (2019) 062001
 second observing runs](https://arxiv.org/abs/1811.12907), 
 *Phys. Rev. X* 9 (2019) 031040 
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 [Lorentz-violating matter-gravity couplings in small-eccentricity binary
 pulsars](https://arxiv.org/abs/1908.10019), *Symmetry* 11 (2019) 1098
 
-0. O. Porth<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, K.
+0. O. Porth<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
 Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, *et al.*, [The event
 horizon general relativistic magnetohydrodynamic code comparison
 project](https://arxiv.org/abs/1904.04923),
@@ -310,13 +310,13 @@ run](https://arxiv.org/abs/1902.08442), *Phys. Rev. D* 99 (2019) 122002
    at two harmonics in 2015-2017 LIGO
 data](https://arxiv.org/abs/arXiv:1902.08507), *Astrophys. J.* 879 (2019) 10
 
-0. X. Miao<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**<font
-color="#a300a3"><sup>($\ast$)</sup></font>, B.-Q. Ma<font
-color="#a300a3"><sup>($\ast$)</sup></font>, [Bounding the mass of graviton
+0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, B.-Q. Ma<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the mass of graviton
 in a dynamic regime with binary pulsars](https://arxiv.org/abs/1905.12836),
 *Phys. Rev. D* 99 (2019) 123015
 
-0. F. Zhang<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
+0. F. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 W. Zhu, [Gravitational-wave merging events from the dynamics of
 stellar-mass binary black holes around the massive black hole in a galactic
 nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.* 877 (2019) 87
@@ -325,14 +325,14 @@ nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.* 877 (2019) 87
    remnant of the binary neutron star merger
 GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* 875 (2019) 160
 
-0. M. Soares-Santos<font color="#a300a3"><sup>(#)</sup></font>, A.
-Palmese<font color="#a300a3"><sup>($\ast$)</sup></font>, *et al.*, [First
+0. M. Soares-Santos<font color="#5c5c5c"><sup>(#)</sup></font>, A.
+Palmese<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*, [First
 measurement of the Hubble constant from a dark standard siren using the
 Dark Energy Survey galaxies and the LIGO/Virgo binary-black-hole merger
 GW170814](https://arxiv.org/abs/1901.01540),
 *Astrophys. J. Lett.* 876 (2019) L7
 
-0. C. Goddi<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. C. Goddi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
 [First M87 Event Horizon Telescope results and the role of
 ALMA](https://arxiv.org/abs/1910.10193), *Messenger* 177 (2019) 25
 
@@ -344,8 +344,8 @@ run](https://arxiv.org/abs/1901.03310), *Astrophys. J.* 875 (2019) 161
    supernova remnants and Fomalhaut b with Advanced
 LIGO](https://arxiv.org/abs/1812.11656), *Astrophys. J.* 875 (2019) 122
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, Q.G.
-Bailey<font color="#a300a3"><sup>($\ast$)</sup></font>, [Testing the
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Q.G.
+Bailey<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Testing the
 gravitational weak equivalence principle in the standard-model extension
 with binary pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99
 (2019) 084017
@@ -389,7 +389,7 @@ run](https://arxiv.org/abs/1902.01557), *Astrophys. J.* 874 (2019) 163
    with GW170817](https://arxiv.org/abs/1808.08676), 
 *Phys. Rev. Lett.* 122 (2019) 061104
 
-0. E. Burns<font color="#a300a3"><sup>(#)</sup></font>, A. Goldstein, C.M.
+0. E. Burns<font color="#5c5c5c"><sup>(#)</sup></font>, A. Goldstein, C.M.
 Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor search for electromagnetic
 signals coincident with gravitational-wave candidates in Advanced LIGO’s
 first observing run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871
@@ -403,12 +403,12 @@ first observing run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
    *Phys. Rev. X* 9 (2019) 011001
 
-0. A. De Rosa<font color="#a300a3"><sup>($\ast$)</sup></font>, P. Uttley,
+0. A. De Rosa<font color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Uttley,
 L. Gou, Y. Liu, *et al.*, [Accretion in strong field gravity with
 eXTP](https://arxiv.org/abs/1812.04022),
 *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
 
-0. J.J.M. in 't Zand<font color="#a300a3"><sup>($\ast$)</sup></font>, E.
+0. J.J.M. in 't Zand<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E.
 Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science with
 eXTP](https://arxiv.org/abs/1812.04023),
 *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
@@ -417,8 +417,8 @@ eXTP](https://arxiv.org/abs/1812.04023),
    [Search for subsolar-mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
    *Phys. Rev. Lett.* 121 (2018) 231103
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, Q.G.
-Bailey<font color="#a300a3"><sup>($\ast$)</sup></font>, [Testing
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Q.G.
+Bailey<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Testing
 velocity-dependent CPT-violating gravitational forces with radio
 pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D* 98 (2018) 084049
 
@@ -426,7 +426,7 @@ pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D* 98 (2018) 084049
    equation of state](https://arxiv.org/abs/1805.11581), *Phys. Rev. Lett.* 121
    (2018) 161101 
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N. Wex,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex,
 M. Kramer, [Testing the universality of free fall towards dark matter with
 radio pulsars](https://arxiv.org/abs/1805.08408),
 *Phys. Rev. Lett.* 120 (2018) 241104
@@ -455,19 +455,19 @@ coalescences](https://arxiv.org/abs/1710.05837),
    [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203),
    *Phys. Rev. Lett.* 120 (2018) 031104
 
-0. B.P. Gong<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. B.P. Gong<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
 [Searching ultra-compact pulsar binaries with abnormal timing
 behavior](https://doi.org/10.3847/1538-4357/aaac34),
 *Astrophys. J.* 855 (2018) 35
 
-0. Y.W. Wu<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, G.
-Torricelli-Ciamponi<font color="#a300a3"><sup>($\ast$)</sup></font>, M.
-Massi<font color="#a300a3"><sup>($\ast$)</sup></font>, R.J. Reid, B. Zhang,
+0. Y.W. Wu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G.
+Torricelli-Ciamponi<font color="#5c5c5c"><sup>($\ast$)</sup></font>, M.
+Massi<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.J. Reid, B. Zhang,
 **L. Shao**, X.W. Zheng, [Revisiting LS I +61$^\circ$303 with VLBI
 astrometry](https://arxiv.org/abs/1711.07598),
 *Mon. Not. R. Astron. Soc.* 474 (2018) 4245
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N.
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
 Sennett, A. Buonanno, M. Kramer, N. Wex, [Constraining nonperturbative
 strong-field effects in scalar-tensor gravity by combining pulsar timing
 and laser-interferometer gravitational-wave
@@ -486,8 +486,8 @@ detectors](https://arxiv.org/abs/1704.07561),
    [Estimating the contribution of dynamical ejecta in the kilonova associated with GW170817](https://arxiv.org/abs/1710.05836),
    *Astrophys. J. Lett.* 850 (2017) L39  
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, B.
-Zhang<font color="#a300a3"><sup>($\ast$)</sup></font>, [Bayesian framework
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, B.
+Zhang<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bayesian framework
 to constrain the photon mass with a catalog of fast radio
 bursts](https://arxiv.org/abs/1705.01278),
 *Phys. Rev. D* 95 (2017) 123010
@@ -504,7 +504,7 @@ bursts](https://arxiv.org/abs/1705.01278),
    [GW170817: Observation of gravitational waves from a binary neutron star inspiral](https://arxiv.org/abs/1710.05832),
    *Phys. Rev. Lett.* 119 (2017) 161101
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, 
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 
    [An independent test on the local position invariance of gravity with the triple pulsar PSR J0337+1715](https://arxiv.org/abs/1707.06535),
    *Class. Quantum Grav.* 34 (2017) 175011
 
@@ -520,9 +520,9 @@ bursts](https://arxiv.org/abs/1705.01278),
    [Search for post-merger gravitational waves from the remnant of the binary neutron star merger GW170817](https://arxiv.org/abs/1710.09320),
    *Astrophys. J. Lett.* 851 (2017) L16
 
-0. N. Sennett<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, J. Steinhoff<font
-color="#a300a3"><sup>($\ast$)</sup></font>, [Effective action model of
+0. N. Sennett<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Effective action model of
 dynamically scalarizing binary neutron
 stars](https://arxiv.org/abs/1708.08285),
 *Phys. Rev. D* 96 (2017) 084019
@@ -559,98 +559,98 @@ stars](https://arxiv.org/abs/1708.08285),
    [Search for gravitational waves from Scorpius X-1 in the first Advanced LIGO observing run with a hidden Markov model](https://arxiv.org/abs/1704.03719),
    *Phys. Rev. D* 95 (2017) 122003
 
-0. A. Bohé<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#a300a3"><sup>($\ast$)</sup></font>, A. Taracchini<font
-color="#a300a3"><sup>($\ast$)</sup></font>, A. Buonanno, *et al.*,
+0. A. Bohé<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Taracchini<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Buonanno, *et al.*,
 [Improved effective-one-body model of spinning, nonprecessing binary black
 holes for the era of gravitational-wave astrophysics with advanced
 detectors](https://arxiv.org/abs/1611.03703),
 *Phys. Rev. D* 95 (2017) 044028
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N.
-Wex<font color="#a300a3"><sup>($\ast$)</sup></font>, [Tests of
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
+Wex<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of
 gravitational symmetries with radio
 pulsars](https://arxiv.org/abs/1604.03662),
 *Sci. China Phys. Mech. Astron.* 59 (2016) 699501
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, 
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 
    [Testing the strong equivalence principle with the triple pulsar PSR J0337+1715](https://arxiv.org/abs/1602.05725),
    *Phys. Rev. D* 93 (2016) 084023
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, 
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 
    [New pulsar limit on local Lorentz invariance violation of gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
    *Phys. Rev. D* 90 (2014) 122009
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
    [Tests of local Lorentz invariance violation of gravity in the standard model extension with pulsars](https://arxiv.org/abs/1402.6452),
    *Phys. Rev. Lett.* 112 (2014) 111103
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N. Wex<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [New limits on the violation of local position invariance of gravity](https://arxiv.org/abs/1307.2637),
    *Class. Quantum Grav.* 30 (2013) 165020
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, R.N. Caballero, M. Kramer, N. Wex, D.J.
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.N. Caballero, M. Kramer, N. Wex, D.J.
    Champion, A. Jessner,
    [A new limit on local Lorentz invariance violation of gravity from solitary pulsars](https://arxiv.org/abs/1307.2552),
    *Class. Quantum Grav.* 30 (2013) 165019
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N. Wex<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [New tests of local Lorentz invariance of gravity with small-eccentricity binary pulsars](https://arxiv.org/abs/1209.4503),
    *Class. Quantum Grav.* 29 (2012) 215018
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Note on a new fundamental length scale $l$ instead of the Newtonian constant $G$](https://arxiv.org/abs/1006.3031),
    *Sci. China Phys. Mech. Astron.* 54 (2011) 1771 
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, B.-Q. Ma,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, B.-Q. Ma,
    [Lorentz violation induced vacuum birefringence and its astrophysical consequences](https://arxiv.org/abs/1104.4438),
    *Phys. Rev. D* 83 (2011) 127702
 
-0. H. Liu<font color="#a300a3"><sup>(#)</sup></font>, Y. Chi, **L. Shao**, B.-Q. Ma,
+0. H. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Chi, **L. Shao**, B.-Q. Ma,
    [Octet quark contents from SU(3) flavor symmetry](https://arxiv.org/abs/1104.3737),
    *Europhys. Lett.* 94 (2011) 31001
 
-0. X. Zhang<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. X. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Photon gas thermodynamics in doubly special relativity](https://arxiv.org/abs/1102.2613),
    *Astropart. Phys.* 34 (2011) 840
 
-0. Z. Xiao<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. Z. Xiao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Eikonal equation of the Lorentz-violating Maxwell theory](https://arxiv.org/abs/1011.5074),
    *Eur. Phys. J. C* 70 (2010) 1153
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Lorentz violation effects on astrophysical propagation of very high energy photons](https://arxiv.org/abs/1007.2269),
    *Mod. Phys. Lett. A* 25 (2010) 3251
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [First digit law in non-extensive statistics](https://arxiv.org/abs/1010.2699),
    *Phys. Rev. E* 82 (2010) 041110
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [The significant digit law in statistical physics](https://arxiv.org/abs/1005.0660),
    *Physica A* 389 (2010) 3109
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, Z. Xiao, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Xiao, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Lorentz violation from cosmological objects with very high energy photon emissions](https://arxiv.org/abs/0911.2276),
    *Astropart. Phys.* 33 (2010) 312
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Empirical mantissa distributions of pulsars](https://arxiv.org/abs/1005.1702),
    *Astropart. Phys.* 33 (2010) 255
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, Y.-J. Zhang<font color="#a300a3"><sup>($\ast$)</sup></font>, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, Y.-J. Zhang<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Sea quark contents of octet baryons](https://arxiv.org/abs/1002.4747),
    *Phys. Lett. B* 686 (2010) 136
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [First digit distribution of hadron full width](https://arxiv.org/abs/1004.3077),
    *Mod. Phys. Lett. A* 24 (2009) 3275
 
-0. Y. Zhang<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. Y. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Nuclear EMC effect in a statistical model](https://arxiv.org/abs/0909.0454),
    *Nucl. Phys. A* 828 (2009) 390 
 
-0. Y. Zhang<font color="#a300a3"><sup>(#)</sup></font>, **L. Shao**, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. Y. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [Statistical effect in the parton distribution functions of the nucleon](https://arxiv.org/abs/0812.3294),
    *Phys. Lett. B* 671 (2009) 30
 {: reversed="reversed"}
@@ -664,82 +664,82 @@ pulsars](https://arxiv.org/abs/1604.03662),
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
-0. Y. Gao<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Precession of triaxially deformed neutron
+0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* (accepted), arXiv:2011.04472
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, [Pulsar tests of the graviton
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Pulsar tests of the graviton
 mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* (accepted),
 arXiv:2009.06817
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, 
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405),
    in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020), p. 170
 
-0. G. Bower<font color="#a300a3"><sup>($\ast$)</sup></font>, *et al.*, [ngVLAKey Science Goal 4: Fundamental Physics with
+0. G. Bower<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*, [ngVLAKey Science Goal 4: Fundamental Physics with
 Galactic Center
 Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
 *American Astronomical Society*, AAS Meeting no. 235, id. no. 364.21
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, [Degeneracy in studying the supranuclear
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Degeneracy in studying the supranuclear
    equation of state and modified gravity with neutron
    stars](https://arxiv.org/abs/1901.07546), *AIP Conference Proceedings* 2127 (2019) 020016
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, [Testing fifth forces from the Galactic dark
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing fifth forces from the Galactic dark
    matter](https://arxiv.org/abs/1907.02232), *Proceedings* 17 (2019) 3
 
-0. G.C. Bower<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*, [Fundamental physics with Galactic center
+0. G.C. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*, [Fundamental physics with Galactic center
 pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
 *Bulletin of the American Astronomical Society* 51 (2019) 438
 
-0. B.S. Sathyaprakash<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
+0. B.S. Sathyaprakash<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
    [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
 *Bulletin of the American Astronomical Society* 51 (2019) 251
 
-0. P. Demorest<font color="#a300a3"><sup>($\ast$)</sup></font>, *et al.*, [ngVLA
+0. P. Demorest<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*, [ngVLA
 searches for pulsars at the Galactic
 center](http://adsabs.harvard.edu/abs/2019AAS...23336124D), *American
 Astronomical Society*, AAS Meeting no. 233, id. no. 361.24
 
-0. G.C. Bower<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. G.C. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
 [Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
 in *Science with a Next Generation Very Large Array* (ASP Conference Series, San Francisco, 2018), p.793
 
-0. D. Muna<font color="#a300a3"><sup>(#)</sup></font>, *et al.*,
+0. D. Muna<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.*,
   [The astropy problem](https://arxiv.org/abs/1610.03159),
   arXiv:1610.03159
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
    [Experimental studies on the Lorentz symmetry in post-Newtonian gravity with pulsars](http://dx.doi.org/10.3390/universe2040029),
    *Universe* 2 (2016) 29
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, I.H. Stairs<font color="#a300a3"><sup>($\ast$)</sup></font>, *et al.*,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, I.H. Stairs<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*,
    [Testing gravity with pulsars in the SKA era](https://arxiv.org/abs/1501.00058),
    *PoS* (AASKA14) 042
 
-0. G.H. Janssen<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. G.H. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
    [Gravitational wave astronomy with the SKA](https://arxiv.org/abs/1501.00127),
    *PoS* (AASKA14) 037
 
-0. A. Li<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, J. Wang, **L. Shao**, R.-X. Xu,
+0. A. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Wang, **L. Shao**, R.-X. Xu,
    [The type of Vela-like pulsars: a normal neutron star or a hybrid star?](http://adsabs.harvard.edu/abs/2015AcASn..56S..22L),
    *Acta Astron. Sin. Suppl.* 56 (2015) 22
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N. Wex, M. Kramer,
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex, M. Kramer,
    [New tests of local Lorentz invariance and local position invariance of gravity with pulsars](https://arxiv.org/abs/1211.6558),
    in *Proceedings of the Thirteenth Marcel Grossmann Meeting on General
    Relativity* (World Scientific, Singapore, 2015), p. 1704
 
-0. A. Li<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, J. Wang, **L. Shao**, R.-X. Xu, [The amount of crustal
+0. A. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Wang, **L. Shao**, R.-X. Xu, [The amount of crustal
 entrainment and the type of Vela-like
 pulsars](https://arxiv.org/abs/1406.4994), arXiv:1406.4994
 
-0. **L. Shao**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, N. Wex<font color="#a300a3"><sup>($\ast$)</sup></font>, M. Kramer<font color="#a300a3"><sup>($\ast$)</sup></font>, 
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex<font color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
    [New constraints on preferred frame effects from binary pulsars](https://arxiv.org/abs/1209.5171),
    in *Proceedings of the International Astronomical Union*, Symposium S291
    (Cambridge University Press, 2013), p. 496
 
-0. **L. Shao**<font color="#a300a3"><sup>(#)</sup></font>, Y. Zhang, B.-Q. Ma<font color="#a300a3"><sup>($\ast$)</sup></font>, 
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Zhang, B.-Q. Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
    [Parton distribution functions and nuclear EMC effect in a statistical model](https://arxiv.org/abs/1008.1689),
    *Chin.  Phys. C* 34 (2010) 1417
 {: reversed="reversed"}
@@ -753,39 +753,39 @@ pulsars](https://arxiv.org/abs/1406.4994), arXiv:1406.4994
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big>
 
-0. 王弋尘<font color="#a300a3"><sup>(#)</sup></font>, 缪雪丽<font
-color="#a300a3"><sup>($\ast$)</sup></font>, **邵立晶**<font
-color="#a300a3"><sup>($\ast$)</sup></font>, [用中子星限制暗物质粒子散射截面](TBA), 《天文学报》,
+0. 王弋尘<font color="#5c5c5c"><sup>(#)</sup></font>, 缪雪丽<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [用中子星限制暗物质粒子散射截面](TBA), 《天文学报》,
 submitted
 
-0. **邵立晶**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), 《科学通报》 65 (2020) 4013
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), 《科学通报》 65 (2020) 4013
 
-0. 高勇<font color="#a300a3"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
+0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
 《中国国家天文》9 (2019) 54
 
-0. **邵立晶**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>,
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
    [GW170817: 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48 (2019) 567
 
-0. **邵立晶**<font color="#a300a3"><sup>(#,$\ast$)</sup></font> [编译],
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font> [编译],
    [一“波”发现](http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml), 《物理》 47 (2018) 734
 
-0. **邵立晶**<font color="#a300a3"><sup>(#,$\ast$)</sup></font> [编译], 
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font> [编译], 
    [“亲爱的，开心点，你刚有了个重大发现！”](http://www.wuli.ac.cn/CN/abstract/abstract71787.shtml),
    《物理》 47 (2018) 177
 
-0. 刘见<font color="#a300a3"><sup>(#)</sup></font>, 王刚, 胡一鸣, 张腾, 罗子人, 王晴岚, **邵立晶**<font color="#a300a3"><sup>($\ast$)</sup></font>, 
+0. 刘见<font color="#5c5c5c"><sup>(#)</sup></font>, 王刚, 胡一鸣, 张腾, 罗子人, 王晴岚, **邵立晶**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
    [首例引力波探测事件 GW150914 与引力波天文学](https://doi.org/10.1360/N972016-00429),
    《科学通报》 61 (2016) 1502
 
-0. **邵立晶**<font color="#a300a3"><sup>(#)</sup></font>,  马伯强<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **邵立晶**<font color="#5c5c5c"><sup>(#)</sup></font>,  马伯强<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [OPERA 超光速中微子与人类对时空观的认识历程](https://doi.org/10.3969/j.issn.1673-8128.2011.04.003),
    《前沿科学》 5 (2011) 4
 
-0. **邵立晶**<font color="#a300a3"><sup>(#)</sup></font>,  马伯强,
+0. **邵立晶**<font color="#5c5c5c"><sup>(#)</sup></font>,  马伯强,
    [低能光子的量子引力“遗迹”效应](http://en.cnki.com.cn/Article_en/CJFDTotal-YBSF201105006.htm),
    《山西大同大学学报 (自然科学版)》 27 (2011) 19
 
-0. **邵立晶**<font color="#a300a3"><sup>(#,$\ast$)</sup></font>,  马伯强<font color="#a300a3"><sup>($\ast$)</sup></font>,
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,  马伯强<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
    [首位数规律在物理学中的应用](http://www.kjdb.org/CN/Y2010/V28/I18/98),
    《科技导报》 28 (2010) 98
 {: reversed="reversed"}
