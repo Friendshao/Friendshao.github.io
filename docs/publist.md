@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 129)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
-- [**Chinese Articles**](#chinese) <small>(in total 10)</small>
+- [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
 ---
 
@@ -752,6 +752,8 @@ pulsars](https://arxiv.org/abs/1406.4994), arXiv:1406.4994
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big>
+
+0. 李洪波<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), 《天文学进展》, submitted
 
 0. 王弋尘<font color="#5c5c5c"><sup>(#)</sup></font>, 缪雪丽<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**<font
