@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 129)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 130)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -80,6 +80,11 @@ interferometer](https://arxiv.org/abs/2009.09305),
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. T. Akutsu, *et al.*, [Vibration isolation systems for the beam splitter
+and signal recycling mirrors of the KAGRA gravitational wave
+detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
+*Class. Quantum Grav.* 38 (2021) 065011
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Signature of
