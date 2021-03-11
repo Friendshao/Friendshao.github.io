@@ -30,7 +30,7 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Testing no-hair
 theorem by quasi-periodic oscillations: the quadrupole of GRO
 J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 
-0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
+0. R. Abbott, *et al.* (LIGO/Virgo/KAGRA Collaboration), [Constraints on cosmic strings using data from the
 third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
 arXiv:2101.12248
 
@@ -40,7 +40,7 @@ Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](TBA), submitted
 
-0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
+0. R. Abbott, *et al.* (LIGO/Virgo/KAGRA Collaboration), [Upper limits on the isotropic gravitational-wave
 background from Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
 
@@ -51,12 +51,15 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [NANOGrav signal from
 first-order confinement/deconfinement phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 
-0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
+0. R. Abbott, *et al.* (LIGO/Virgo/KAGRA Collaboration), [Diving below the spin-down limit: Constraints on
 gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 
 0. J. Baker, T. Baker, C. Carbone, G. Congedo, C. Contaldi, I. Dvorkin<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, <i>et al.</i>, [High angular
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Gair, Z. Haiman, D.F. Mota,
+A. Renzini, E. Buis, G. Cusin, J.M. Ezquiaga, G. Mueller, M. Pieroni, J.
+Quenby, A. Ricciardone, I.D. Saltas, **L. Shao**, N.T. Tamanini, M.
+Zumalacárregui, [High angular
 resolution gravitational wave astronomy](https://arxiv.org/abs/1908.11410),
 *Exp. Astron.* (submitted), arXiv:1908.11410
 
@@ -67,21 +70,27 @@ neutron stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D*
 (accepted), arXiv:2012.01320
 
 0. A. Sesana<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
-Korsakova<font color="#5c5c5c"><sup>($\ast$)</sup></font>, <i>et al.</i>,
+Korsakova<font color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Arca Sedda,
+V. Baibhav, E. Barausse, S. Barke, E. Berti, M. Bonetti, P.R. Capelo, C.
+Caprini, J. Garcia-Bellido, Z. Haiman, K. Jani, O. Jennrich, P. Johansson,
+F.M. Khan, V. Korol, A. Lamberts, A. Lupi, A.M. Mangiagli, G. Nardini, F.
+Pacucci, A. Petiteau, A. Raccanelli, S. Rajendran, J. Regan, **L. Shao**, A.
+Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
+Zumalacarregui,
 [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
 
-0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: Calibration, detector
 characterization, physical environmental monitors, and the geophysics
 interferometer](https://arxiv.org/abs/2009.09305),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2009.09305
 
-0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
-0. T. Akutsu, *et al.*, [Vibration isolation systems for the beam splitter
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Vibration isolation systems for the beam splitter
 and signal recycling mirrors of the KAGRA gravitational wave
 detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
 *Class. Quantum Grav.* 38 (2021) 065011
@@ -98,18 +107,23 @@ analysis](https://arxiv.org/abs/2011.04418), *Phys. Rev. D* 103 (2021)
 024040
 
 0. K. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, L. Guillemot,
-A. Istrate, **L. Shao**, T.M. Tauris, N. Wex, *et al.*, [A revisit of PSR
-J1909$-$3744 with 15-year high-precision
+A.G. Istrate, **L. Shao**, T.M. Tauris, N. Wex, J. Antoniadis, A.
+Chalumeau, I. Cognard, G. Desvignes, P.C.C. Freire, M.S. Kehl, G. Theureau,
+[A revisit of PSR J1909$-$3744 with 15-year high-precision
 timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.* 499
 (2020) 2276
 
 0. M. Arca Sedda<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, C.P.L.
-Berry, K. Jani, <i>et al.</i>, [The missing link in gravitational-wave
-astronomy: Discoveries waiting in the decihertz
+Berry, K. Jani, P. Amaro-Seoane, P. Auclair, J. Baird, T. Baker, E. Berti,
+K. Breivik, A. Burrows, C. Caprini, X. Chen, D. Doneva, J.M. Ezquiaga, K.E.
+Saavik Ford, M.L. Katz, S. Kolkowitz, B. McKernan, G. Mueller, G.P.
+Nardini, S. Rajendran, A. Sesana, **L. Shao**, N. Tamanini, D. Vartanyan,
+N. Warburton, H. Witek, K. Wong, M. Zevin, [The missing link in
+gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375),
 *Class. Quantum Grav.* 37 (2020) 215011
 
-0. D. Psaltis<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. D. Psaltis<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT Collaboration),
 [Gravitational test beyond the first post-Newtonian order with the shadow
 of the M87 black
 hole](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.141104),
@@ -121,12 +135,12 @@ velocity and Lorentz invariance violation by neutrino emission from the
 blazar TXS 0506+056](https://arxiv.org/abs/2009.05201),
 *Phys. Rev. D* 102 (2020) 063027
 
-0. B.P. Abbott, *et al.*, [Prospects for observing and localizing
+0. B.P. Abbott, *et al.* (KAGRA/LIGO/Virgo Collaboration), [Prospects for observing and localizing
 gravitational-wave transients with Advanced LIGO, Advanced Virgo and
 KAGRA](http://doi.org/10.1007/s41114-020-00026-9),
 *Living Rev. Relativ.* 23 (2020) 3
 
-0. M. Wielgus<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. M. Wielgus<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT Collaboration),
 [Monitoring the morphology of M87$^\star$ in 2009-2017 with the Event
 Horizon
 Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/abac0d),
@@ -146,13 +160,15 @@ electromagnetic and gravitational
 radiation](https://arxiv.org/abs/2007.02528),
 *Mon. Not. R. Astron. Soc.* 498 (2020) 1826
 
-0. E. Barausse<font color="#5c5c5c"><sup>(#)</sup></font>, E. Berti, T. Hertog, S.A. Hughes, P. Jetzer<font
+0. E. Barausse<font color="#5c5c5c"><sup>(#)</sup></font>, E. Berti, T.
+Hertog, S.A. Hughes, P. Jetzer<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Pani, T.P. Sotiriou, N.
-Tamanini, H. Witek, K. Yagi, N. Yunes, *et al.*, [Prospects for fundamental
-physics with LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ.
-Gravit.* 52 (2020) 81
+Tamanini, H. Witek, K. Yagi, N. Yunes, *et al.* (LISA Collaboration),
+[Prospects for fundamental physics with
+LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
+81
 
-0. J.-Y. Kim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. J.-Y. Kim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT Collaboration),
 [Event Horizon Telescope imaging of the archetypical blazar 3C 279 at an
 extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
@@ -170,13 +186,13 @@ S.-Y. Zhou, [New graviton mass bound from binary
 pulsars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020)
 024069
 
-0. R. Gold<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
+0. R. Gold<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT Collaboration),
 [Verification of radiative transfer schemes for the
 EHT](https://doi.org/10.3847/1538-4357/ab96c6), *Astrophys. J.* 897 (2020)
 148
 
 0. A.E. Broderick<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et
-al.*, [Themis: A parameter estimation framework for the Event Horizon
+al.* (EHT Collaboration), [Themis: A parameter estimation framework for the Event Horizon
 Telescope](https://doi.org/10.3847/1538-4357/ab91a4),
 *Astrophys. J.* 897 (2020) 139
 
@@ -204,7 +220,7 @@ catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
 
 0. F. Roelofs<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, M.
-Janssen<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.*, [SYMBA: An
+Janssen<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT Collaboration), [SYMBA: An
 end-to-end VLBI synthetic data generation
 pipeline](https://arxiv.org/abs/2004.01161), *Astron. & Astrophys.* 636
 (2020) A5
@@ -222,33 +238,58 @@ effective-one-body numerical-relativity waveform models for spin-aligned
 binary black holes along eccentric
 orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D* 101 (2020) 044049
 
-0. B.P. Abbott, *et al.*, [A guide to LIGO-Virgo detector noise and
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), [A guide to LIGO-Virgo detector noise and
 extraction of transient gravitational-wave
 signals](https://arxiv.org/abs/1908.11170), 
 *Class. Quantum Grav.* 37 (2020) 055002
 
-0. A. Weltman<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.*,
+0. A. Weltman<font color="#5c5c5c"><sup>(#)</sup></font>, P. Bull, S.
+Camera, K. Kelley, H. Padmanabhan, J. Pritchard, A. Raccanelli, S.
+Riemer-Sørensen, **L. Shao**, S. Andrianomena, E. Athanassoula, D. Bacon,
+R. Barkana, G. Bertone, C. Bœhm, C. Bonvin, A. Bosma, M. Brüggen, C.
+Burigana, F.C. Calore, C. Clarkson, R.M.T. Connors, Á.d.l. Cruz-Dombriz,
+P.K.S. Dunsby, J. Fonseca, N. Fornengo, D. Gaggero, I. Harrison, J. Larena,
+Y.-. Ma, R. Maartens, M. Méndez-Isla, S.D. Mohanty, S. Murray, D.
+Parkinson, A. Pourtsidou, P.J. Quinn, M. Regis, P. Saha, M. Sahlén, M.
+Sakellariadou, J. Silk, T. Trombetti, F. Vazza, T. Venumadhav, F. Vidotto,
+F. Villaescusa-Navarro, Y. Wang, C. Weniger, L. Wolz, F. Zhang, B.M.
+Gaensler<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680),
 *Publ. Astron. Soc. Aust.* 37 (2020) e002
 
-0. B.P. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), [Search for gravitational waves from Scorpius X-1
 in the second Advanced LIGO observing run with an improved hidden Markov
 model](https://arxiv.org/abs/1906.12040), 
 *Phys. Rev. D* 100 (2019) 122002
 
 0. J. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*, [A wide
-star$-$black-hole binary system from radial-velocity
-measurements](https://arxiv.org/abs/1911.11989), *Nature* 575 (2019) 618
+color="#5c5c5c"><sup>($\ast$)</sup></font>, A.W. Howard, Z. Bai, Y. Lu, R.
+Soria, S. Justham, X. Li, Z. Zheng, T. Wang, K. Belczynski, J. Casares, W.
+Zhang, H. Yuan, Y. Dong, Y. Lei, H. Isaacson, S. Wang, Y. Bai, Y.G. Shao,
+Y. Wang, Z. Niu, K. Cui, C. Zheng, X. Mu, L. Zhang, W. Wang, A. Heger, Z.
+Qi, S. Liao, M. Lattanzi, W. Gu, J. Wang, J. Wu, **L. Shao**, R. Shen, X.
+Wang, J. Bregman, R. Di Stefano, Q. Liu, Z. Han, T. Zhang, H. Wang, J. Ren,
+J. Zhang, J. Zhang, X. Wang, A. Cabrera-Lavers, R. Corradi, R. Rebolo, Y.
+Zhao, G. Zhao, Y. Chu, X. Cui, [A wide star$-$black-hole binary system from
+radial-velocity measurements](https://arxiv.org/abs/1911.11989), *Nature*
+575 (2019) 618
 
-0. B.P. Abbott, *et al.*,  [Tests of general relativity with the binary black
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Tests of general relativity with the binary black
    hole signals from the LIGO-Virgo catalog
 GWTC-1](https://arxiv.org/abs/1903.04467), *Phys. Rev. D* 100 (2019) 104036
 
 0. K. Chatziioannou<font color="#5c5c5c"><sup>(#)</sup></font>, R. Cotesta,
-S. Ghonge, J. Lange, K.K.-Y. Ng, *et al.*, [On the properties of the
-massive binary black hole merger
+S. Ghonge, J. Lange, K.K.Y. Ng, J. Calderón Bustillo, J. Clark, C. Haster,
+S. Khan, M. Pürrer, V. Raymond, S. Vitale, N. Afshari, S. Babak, K.
+Barkett, J. Blackman, A. Bohé, M. Boyle, A. Buonanno, M.C. Campanelli, T.
+Chu, E. Flynn, H. Fong, A. Garcia, M. Giesler, M. Haney, M. Hannam, I.
+Harry, J. Healy, D. Hemberger, I. Hinder, K. Jani, B. Khamersa, L.E.
+Kidder, P. Kumar, P. Laguna, C.O. Lousto, G. Lovelace, T.B. Littenberg, L.
+London, M. Millhouse, L.K. Nuttall, F. Ohme, R. O'Shaughnessy, S. Ossokine,
+F. Pannarale, P. Schmidt, H.P. Pfeiffer, M.A. Scheel, **L. Shao**, D.
+Shoemaker, B. Szilagyi, A. Taracchini, S.A. Teukolsky, Y. Zlochower, [On
+the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), *Phys. Rev. D* 100 (2019)
 104015
 
@@ -271,20 +312,20 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Frias, D. Blas, P. Pani,
 particles from timing of radio waves](https://arxiv.org/abs/1902.02695),
 *Phys. Rev. D* 100 (2019) 063515
 
-0. B.P. Abbott, *et al.*,  [Binary black hole population properties inferred
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Binary black hole population properties inferred
    from the first and second observing runs of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/1811.12940), *Astrophys. J. Lett.* 882 (2019) L24
 
-0. B.P. Abbott, *et al.*,  [Search for the isotropic stochastic background
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Search for the isotropic stochastic background
    using data from Advanced LIGO's second observing
 run](https://arxiv.org/abs/1903.02886), 
 *Phys. Rev. D* 100 (2019) 061101
 
-0. B.P. Abbott, *et al.*,  [Directional limits on persistent gravitational
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Directional limits on persistent gravitational
    waves using data from Advanced LIGO's first two observing
 runs](https://arxiv.org/abs/1903.08844), *Phys. Rev. D* 100 (2019) 062001
 
-0. B.P. Abbott, *et al.*,  [GWTC-1: A gravitational-wave transient catalog of
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [GWTC-1: A gravitational-wave transient catalog of
    compact binary mergers observed by LIGO and Virgo during the first and
 second observing runs](https://arxiv.org/abs/1811.12907), 
 *Phys. Rev. X* 9 (2019) 031040 
@@ -294,24 +335,24 @@ second observing runs](https://arxiv.org/abs/1811.12907),
 pulsars](https://arxiv.org/abs/1908.10019), *Symmetry* 11 (2019) 1098
 
 0. O. Porth<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
-Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, *et al.*, [The event
+Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, *et al.* (EHT Collaboration), [The event
 horizon general relativistic magnetohydrodynamic code comparison
 project](https://arxiv.org/abs/1904.04923),
 *Astrophys. J. Suppl.* 243 (2019) 26
 
-0. B.P. Abbott, *et al.*,  [All-sky search for continuous gravitational waves
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [All-sky search for continuous gravitational waves
    from isolated neutron stars using Advanced LIGO O2
 data](https://arxiv.org/abs/1903.01901), *Phys. Rev. D* 100 (2019) 024004
 
-0. B.P. Abbott, *et al.*,  [Tests of general relativity with
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Tests of general relativity with
    GW170817](https://arxiv.org/abs/1811.00364), *Phys. Rev. Lett.* 123 (2019)
 011102
 
-0. B.P. Abbott, *et al.*,  [Narrow-band search for gravitational waves from
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Narrow-band search for gravitational waves from
    known pulsars using the second LIGO observing
 run](https://arxiv.org/abs/1902.08442), *Phys. Rev. D* 99 (2019) 122002
 
-0. B.P. Abbott, *et al.*,  [Searches for gravitational waves from known pulsars
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Searches for gravitational waves from known pulsars
    at two harmonics in 2015-2017 LIGO
 data](https://arxiv.org/abs/arXiv:1902.08507), *Astrophys. J.* 879 (2019) 10
 
@@ -326,26 +367,33 @@ W. Zhu, [Gravitational-wave merging events from the dynamics of
 stellar-mass binary black holes around the massive black hole in a galactic
 nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.* 877 (2019) 87
 
-0. B.P. Abbott, *et al.*, [Search for gravitational waves from a long-lived
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), [Search for gravitational waves from a long-lived
    remnant of the binary neutron star merger
 GW170817](https://arxiv.org/abs/1810.02581), *Astrophys. J.* 875 (2019) 160
 
 0. M. Soares-Santos<font color="#5c5c5c"><sup>(#)</sup></font>, A.
-Palmese<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*, [First
+Palmese<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.* (DES/LIGO/Virgo Collaboration), [First
 measurement of the Hubble constant from a dark standard siren using the
 Dark Energy Survey galaxies and the LIGO/Virgo binary-black-hole merger
 GW170814](https://arxiv.org/abs/1901.01540),
 *Astrophys. J. Lett.* 876 (2019) L7
 
-0. C. Goddi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
-[First M87 Event Horizon Telescope results and the role of
+0. C. Goddi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Crew, V.
+Impellizzeri, I. Martí-Vidal, L.D. Matthews, H. Messias, H. Rottmann, W.
+Alef, L. Blackburn, T. Bronzwaer, C.-. Chan, J. Davelaar, R. Deane, J.
+Dexter, S. Doeleman, H. Falcke, V.L. Fish, R. Fraga-Encinas, C.M. Fromm,
+R.I. Herrero-Illana, D. James, M. Janssen, M. Kramer, T.P. Krichbaum, M. De
+Laurentis, E. Liuzzo, Y. Mizuno, M. Moscibrodzka, I. Natarajan, O. Porth,
+L. Rezzolla, K. Rygl, F. Roelofs, E. Ros, A.L. Roy, **L. Shao**, H.J. van
+Langevelde, I. van Bemmel, R. Tilanus, P. Torne, M. Wielgus, Z. Younsi,
+J.A. Zensus, [First M87 Event Horizon Telescope results and the role of
 ALMA](https://arxiv.org/abs/1910.10193), *Messenger* 177 (2019) 25
 
-0. B.P. Abbott, *et al.*,  [Low-latency gravitational-wave alerts for
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Low-latency gravitational-wave alerts for
    multimessenger astronomy during the second Advanced LIGO and Virgo observing
 run](https://arxiv.org/abs/1901.03310), *Astrophys. J.* 875 (2019) 161
 
-0. B.P. Abbott, *et al.*,  [Searches for continuous gravitational waves from 15
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Searches for continuous gravitational waves from 15
    supernova remnants and Fomalhaut b with Advanced
 LIGO](https://arxiv.org/abs/1812.11656), *Astrophys. J.* 875 (2019) 122
 
@@ -355,70 +403,69 @@ gravitational weak equivalence principle in the standard-model extension
 with binary pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99
 (2019) 084017
 
-
-0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VI. The
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope results. VI. The
    shadow and mass of the central black
 hole](https://iopscience.iop.org/article/10.3847/2041-8213/ab1141), *Astrophys.
 J. Lett.* 875 (2019) L6
 
-0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. V.
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope results. V.
    Physical origin of the asymmetric
 ring](https://iopscience.iop.org/article/10.3847/2041-8213/ab0f43), *Astrophys.
 J. Lett.* 875 (2019) L5
 
-0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. IV.
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope results. IV.
    Imaging the central supermassive black
 hole](https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85), *Astrophys.
 J. Lett.* 875 (2019) L4
 
-0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. III. Data
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope results. III. Data
    processing and
 calibration](https://iopscience.iop.org/article/10.3847/2041-8213/ab0c57),
 *Astrophys.  J.  Lett.* 875 (2019) L3
 
-0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. II. Array
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope results. II. Array
    and
 instrumentation](https://iopscience.iop.org/article/10.3847/2041-8213/ab0c96),
 *Astrophys.  J. Lett.* 875 (2019) L2
 
-0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. I. The
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope results. I. The
    shadow of the supermassive black
 hole](https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7), *Astrophys.
 J. Lett.* 875 (2019) L1
 
-0. B.P. Abbott, *et al.*,  [Search for transient gravitational-wave signals
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),  [Search for transient gravitational-wave signals
    associated with magnetar bursts during Advanced LIGO's second observing
 run](https://arxiv.org/abs/1902.01557), *Astrophys. J.* 874 (2019) 163
 
-0. B.P. Abbott, *et al.*, [Constraining the $p$-mode–$g$-mode tidal instability
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), [Constraining the $p$-mode–$g$-mode tidal instability
    with GW170817](https://arxiv.org/abs/1808.08676), 
 *Phys. Rev. Lett.* 122 (2019) 061104
 
 0. E. Burns<font color="#5c5c5c"><sup>(#)</sup></font>, A. Goldstein, C.M.
-Hui, *et al.*, [A Fermi Gamma-ray Burst Monitor search for electromagnetic
+Hui, *et al.* (Fermi GBM/LIGO/Virgo Collaboration), [A Fermi Gamma-ray Burst Monitor search for electromagnetic
 signals coincident with gravitational-wave candidates in Advanced LIGO’s
 first observing run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871
 (2019) 90
 
-0. A. Albert, *et al.*, 
+0. A. Albert, *et al.* (ANTARES/IceCubeLIGO/Virgo Collaboration), 
    [Search for multimessenger sources of gravitational waves and high-energy neutrinos with Advanced LIGO during its first observing run, ANTARES and IceCube](https://arxiv.org/abs/1810.10693), 
    *Astrophys. J.* 870 (2019) 134
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
    *Phys. Rev. X* 9 (2019) 011001
 
 0. A. De Rosa<font color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Uttley,
-L. Gou, Y. Liu, *et al.*, [Accretion in strong field gravity with
+L. Gou, Y. Liu, *et al.* (eXTP Collaboration), [Accretion in strong field gravity with
 eXTP](https://arxiv.org/abs/1812.04022),
 *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
 
 0. J.J.M. in 't Zand<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E.
-Bozzo, J. Qu, X.-D. Li, *et al.*, [Observatory science with
+Bozzo, J. Qu, X.-D. Li, *et al.* (eXTP Collaboration), [Observatory science with
 eXTP](https://arxiv.org/abs/1812.04023),
 *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [Search for subsolar-mass ultracompact binaries in Advanced LIGO's first observing run](https://arxiv.org/abs/1808.04771), 
    *Phys. Rev. Lett.* 121 (2018) 231103
 
@@ -427,7 +474,7 @@ Bailey<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Testing
 velocity-dependent CPT-violating gravitational forces with radio
 pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D* 98 (2018) 084049
 
-0. B.P. Abbott, *et al.*, [GW170817: Measurements of neutron star radii and
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), [GW170817: Measurements of neutron star radii and
    equation of state](https://arxiv.org/abs/1805.11581), *Phys. Rev. Lett.* 121
    (2018) 161101 
 
@@ -436,33 +483,34 @@ M. Kramer, [Testing the universality of free fall towards dark matter with
 radio pulsars](https://arxiv.org/abs/1805.08408),
 *Phys. Rev. Lett.* 120 (2018) 241104
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [Search for tensor, vector, and scalar polarizations in the stochastic
    gravitational-wave background](https://arxiv.org/abs/1802.10194),
    *Phys. Rev. Lett.* 120 (2018) 201102
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [Full band all-sky search for periodic gravitational waves in the O1 LIGO
    data](https://arxiv.org/abs/1802.05241), 
    *Phys. Rev. D* 97 (2018) 102003
 
-0. B.P. Abbott, *et al.*, [Constraints on cosmic strings using data from
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), [Constraints on cosmic strings using data from
 the first Advanced LIGO observing run](https://arxiv.org/abs/1712.01168),
 *Phys. Rev. D* 97 (2018) 102002
    
 
-0. B.P. Abbott, *et al.*, [GW170817: Implications for the stochastic
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), [GW170817: Implications for the stochastic
 gravitational-wave background from compact binary
 coalescences](https://arxiv.org/abs/1710.05837),
 *Phys. Rev. Lett.* 120 (2018) 091101
 
-0. B.P. Abbott, *et al.*,
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),
    [First search for nontensorial gravitational waves from known pulsars](https://arxiv.org/abs/1709.09203),
    *Phys. Rev. Lett.* 120 (2018) 031104
 
-0. B.P. Gong<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
-[Searching ultra-compact pulsar binaries with abnormal timing
-behavior](https://doi.org/10.3847/1538-4357/aaac34),
+0. B.P. Gong<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.P. Li,
+J.P. Yuan, J. Tian, Y.Y. Zhang, D. Li, B. Jiang, X.D. Li, H.G. Wang, Y.C.
+Zou, **L. Shao**, [Searching ultra-compact pulsar binaries with abnormal
+timing behavior](https://doi.org/10.3847/1538-4357/aaac34),
 *Astrophys. J.* 855 (2018) 35
 
 0. Y.W. Wu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G.
@@ -479,15 +527,15 @@ and laser-interferometer gravitational-wave
 detectors](https://arxiv.org/abs/1704.07561),
 *Phys. Rev. X* 7 (2017) 041025
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [First narrow-band search for continuous gravitational waves from known pulsars in advanced detector data](https://arxiv.org/abs/1710.02327), 
    *Phys. Rev. D* 96 (2017) 122006 
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [On the progenitor of binary neutron star merger GW170817](https://arxiv.org/abs/1710.05838),
    *Astrophys. J. Lett.* 850 (2017) L40 
 
-0. B.P. Abbott, *et al.*,
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),
    [Estimating the contribution of dynamical ejecta in the kilonova associated with GW170817](https://arxiv.org/abs/1710.05836),
    *Astrophys. J. Lett.* 850 (2017) L39  
 
@@ -497,15 +545,15 @@ to constrain the photon mass with a catalog of fast radio
 bursts](https://arxiv.org/abs/1705.01278),
 *Phys. Rev. D* 95 (2017) 123010
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo/1M2H/DEC GW-EM/DES/DLT40/Las Cumbres Observatory/VINROUGE/MASTER Collaboration), 
    [A gravitational-wave standard siren measurement of the Hubble constant](https://arxiv.org/abs/1710.05835),
    *Nature* 551 (2017) 85 
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo/Fermi GBM/INTEGRAL Collaboration), 
    [Gravitational waves and gamma-rays from a binary neutron star merger: GW170817 and GRB170817A](https://arxiv.org/abs/1710.05834),
    *Astrophys. J. Lett.* 848 (2017) L13 
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [GW170817: Observation of gravitational waves from a binary neutron star inspiral](https://arxiv.org/abs/1710.05832),
    *Phys. Rev. Lett.* 119 (2017) 161101
 
@@ -513,17 +561,28 @@ bursts](https://arxiv.org/abs/1705.01278),
    [An independent test on the local position invariance of gravity with the triple pulsar PSR J0337+1715](https://arxiv.org/abs/1707.06535),
    *Class. Quantum Grav.* 34 (2017) 175011
 
-0. B.P. Abbott, *et al.*, 
-   [Multi-messenger observations of a binary neutron star merger](https://arxiv.org/abs/1710.05833),
-   *Astrophys. J. Lett.* 848 (2017) L12
+0. B.P. Abbott, *et al.* (LIGO/Virgo/Fermi GBM/INTEGRAL/IceCube/AstroSat
+Cadmium Zinc Telluride Imager/IPN/Insight-Hxmt/ANTARES/Swift/AGILE
+Team/1M2H/DEC GW-EM/DES/DLT40/GRAWITA/Fermi LAT/ATCA/ASKAP/Las Cumbres
+Observatory/OzGrav/DWF/AST3/CAASTRO/VINROUGE/MASTER/J-GEM/GROWTH/JAGWAR/Caltech-NRAO/TTU-NRAO/NuSTAR/Pan-STARRS/MAXI
+Team/TZAC Consortium/KU/Nordic Optical Telescope/ePESSTO/GROND/Texas Tech
+University/SALT/TOROS/BOOTES/MWA/CALET/IKI-GW
+Follow-up/H.E.S.S./LOFAR/LWA/HAWC/Pierre Auger/ALMA/Euro VLBI/Pi of the
+Sky/Chandra Team at McGill University/DFN/ATLAS/HTRU Survey/RIMAS/RATIR/SKA
+South Africa/MeerKAT Collaboration), [Multi-messenger observations of a
+binary neutron star merger](https://arxiv.org/abs/1710.05833),
+*Astrophys. J. Lett.* 848 (2017) L12
 
-0. A. Albert, *et al.*, 
-   [Search for high-energy neutrinos from binary neutron star merger GW170817 with ANTARES, IceCube, and the Pierre Auger Observatory](https://arxiv.org/abs/1710.05839),
-   *Astrophys. J. Lett.* 850 (2017) L35
+0. A. Albert, *et al.* (ANTARES/IceCube/Pierre Auger/LIGO/Virgo
+Collaboration), [Search for high-energy neutrinos from binary neutron star
+merger GW170817 with ANTARES, IceCube, and the Pierre Auger
+Observatory](https://arxiv.org/abs/1710.05839),
+*Astrophys. J. Lett.* 850 (2017) L35
 
-0. B.P. Abbott, *et al.*, 
-   [Search for post-merger gravitational waves from the remnant of the binary neutron star merger GW170817](https://arxiv.org/abs/1710.09320),
-   *Astrophys. J. Lett.* 851 (2017) L16
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), [Search for
+post-merger gravitational waves from the remnant of the binary neutron star
+merger GW170817](https://arxiv.org/abs/1710.09320),
+*Astrophys. J. Lett.* 851 (2017) L16
 
 0. N. Sennett<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff<font
@@ -532,47 +591,50 @@ dynamically scalarizing binary neutron
 stars](https://arxiv.org/abs/1708.08285),
 *Phys. Rev. D* 96 (2017) 084019
 
-0. B.P. Abbott, *et al.*,
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),
    [GW170814: A three-detector observation of gravitational waves from a binary black hole coalescence](https://arxiv.org/abs/1709.09660),
    *Phys. Rev. Lett.* 119 (2017) 141101
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [GW170608: Observation of a 19-solar-mass binary black hole coalescence](https://arxiv.org/abs/1711.05578),
    *Astrophys. J. Lett.* 851 (2017) L35
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [All-sky search for periodic gravitational waves in the O1 LIGO data](https://arxiv.org/abs/1707.02667),
    *Phys. Rev. D* 96 (2017) 062002  
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [First low-frequency Einstein@Home all-sky search for continuous gravitational waves in Advanced LIGO data](https://arxiv.org/abs/1707.02669),
    *Phys. Rev. D* 96 (2017) 122004 
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [Upper limits on gravitational waves from Scorpius X-1 from a model-based cross-correlation search in Advanced LIGO data](https://arxiv.org/abs/1706.03119),
    *Astrophys. J.* 847 (2017) 47
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [GW170104: Observation of a 50-solar-mass binary black hole coalescence at redshift 0.2](https://arxiv.org/abs/1706.01812),
    *Phys. Rev. Lett.* 118 (2017) 221101 
 
-0. B.P. Abbott, *et al.*, 
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration), 
    [Search for intermediate mass black hole binaries in the first observing run of Advanced LIGO](https://arxiv.org/abs/1704.04628),
    *Phys. Rev. D* 96 (2017) 022001 
 
-0. B.P. Abbott, *et al.*,
+0. B.P. Abbott, *et al.* (LIGO/Virgo Collaboration),
    [Search for gravitational waves from Scorpius X-1 in the first Advanced LIGO observing run with a hidden Markov model](https://arxiv.org/abs/1704.03719),
    *Phys. Rev. D* 95 (2017) 122003
 
 0. A. Bohé<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Taracchini<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Buonanno, *et al.*,
+color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Buonanno, S. Babak, I.W.
+Harry, I. Hinder, S. Ossokine, M. Pürrer, V. Raymond, T. Chu, H. Fong, P.
+Kumar, H.P. Pfeiffer, M. Boyle, D.A. Hemberger, L.E. Kidder, G. Lovelace,
+M.A. Scheel, B. Szilágyi,
 [Improved effective-one-body model of spinning, nonprecessing binary black
 holes for the era of gravitational-wave astrophysics with advanced
 detectors](https://arxiv.org/abs/1611.03703),
 *Phys. Rev. D* 95 (2017) 044028
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
+1. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
 Wex<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of
 gravitational symmetries with radio
 pulsars](https://arxiv.org/abs/1604.03662),
@@ -681,8 +743,10 @@ arXiv:2009.06817
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405),
    in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020), p. 170
 
-0. G. Bower<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*, [ngVLAKey Science Goal 4: Fundamental Physics with
-Galactic Center
+0. G. Bower<font color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Chatterjee,
+J. Cordes, P. Demorest, J. Deneva, J. Dexter, R. Eatough, M. Kramer, T.
+Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLAKey Science
+Goal 4: Fundamental Physics with Galactic Center
 Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
 *American Astronomical Society*, AAS Meeting no. 235, id. no. 364.21
 
@@ -693,38 +757,77 @@ Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing fifth forces from the Galactic dark
    matter](https://arxiv.org/abs/1907.02232), *Proceedings* 17 (2019) 3
 
-0. G.C. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*, [Fundamental physics with Galactic center
+0. G.C. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
+Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter, R. Eatough, M.
+Kramer, J. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
+[Fundamental physics with Galactic center
 pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
 *Bulletin of the American Astronomical Society* 51 (2019) 438
 
-0. B.S. Sathyaprakash<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
+0. B.S. Sathyaprakash<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Buonanno, L. Lehner, C. Van Den Broeck, P. Ajith, A. Ghosh, K. Chatziioannou, P. Pani, M. Puerrer, T. Sotiriou, S. Vitale, N. Yunes, K.G. Arun, E. Barausse, M. Baryakhtar, R. Brito, A. Maselli, T. Dietrich, W. East, I.H. Harry, G. Pratten, **L. Shao**, N. Tamanini, M. van de Meent, V. Varma, J. Vines, H. Yang, M. Zumalacarregui,
    [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
 *Bulletin of the American Astronomical Society* 51 (2019) 251
 
-0. P. Demorest<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*, [ngVLA
-searches for pulsars at the Galactic
-center](http://adsabs.harvard.edu/abs/2019AAS...23336124D), *American
-Astronomical Society*, AAS Meeting no. 233, id. no. 361.24
+0. P. Demorest<font color="#5c5c5c"><sup>($\ast$)</sup></font>, G.C. Bower,
+S. Chatterjee, J. Cordes, J. Deneva, J. Dexter, M. Kramer, T.J.W. Lazio,
+S.M. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA searches for pulsars
+at the Galactic center](http://adsabs.harvard.edu/abs/2019AAS...23336124D),
+*American Astronomical Society*, AAS Meeting no. 233, id. no. 361.24
 
-0. G.C. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
-[Galactic center pulsars with the ngVLA](https://arxiv.org/abs/1810.06623),
-in *Science with a Next Generation Very Large Array* (ASP Conference Series, San Francisco, 2018), p.793
+0. G.C. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
+Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter, M. Kramer, J.
+Lazio, S. Ransom, **L. Shao**, N. Wex, R. Wharton, [Galactic center pulsars
+with the ngVLA](https://arxiv.org/abs/1810.06623), in *Science with a Next
+Generation Very Large Array* (ASP Conference Series, San Francisco, 2018),
+p.793
 
-0. D. Muna<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.*,
-  [The astropy problem](https://arxiv.org/abs/1610.03159),
-  arXiv:1610.03159
+0. D. Muna<font color="#5c5c5c"><sup>(#)</sup></font>, M. Alexander, A.
+Allen, R. Ashley, D. Asmus, R. Azzollini, M. Bannister, R. Beaton, A.
+Benson, G.B. Berriman, M. Bilicki, P. Boyce, J. Bridge, J. Cami, E. Cangi,
+X. Chen, N. Christiny, C. Clark, M. Collins, J.C. Comparat, D. Croton, I.
+Delberth Davids, É. Depagne, J. Donor, L.A. dos Santos, S. Douglas, A. Du,
+M. Durbin, D. Erb, D. Faes, J.G. Fernández-Trincado, A. Foley, S.
+Fotopoulou, S. Frimann, P. Frinchaboy, R. Garcia-Dias, A. Gawryszczak, E.
+George, S. Gonzalez, K. Gordon, N. Gorgone, C. Gosmeyer, K. Grasha, P.
+Greenfield, R. Grellmann, J. Guillochon, M. Gurwell, M. Haas, A. Hagen, D.
+Haggard, T. Haines, P. Hall, W. Hellwing, E.C. Herenz, S. Hinton, R.
+Hlozek, J. Hoffman, D. Holman, B.W. Holwerda, A. Horton, C. Hummels, D.
+Jacobs, J. Juel Jensen, D. Jones, A. Karick, L. Kelley, M. Kenworthy, B.
+Kitchener, D. Klaes, S. Kohn, P. Konorski, C. Krawczyk, K. Kuehn, T.
+Kuutma, M.T. Lam, R. Lane, J. Liske, D. Lopez-Camara, K. Mack, S. Mangham,
+Q. Mao, D.J.E. Marsh, C. Mateu, L. Maurin, J. McCormac, I. Momcheva, H.
+Monteiro, M. Mueller, R. Munoz, R. Naidu, N. Nelson, C. Nitschelm, C.
+North, J. Nunez-Iglesias, S. Ogaz, R. Owen, J. Parejko, V. Patrício, J.
+Pepper, M. Perrin, T. Pickering, J. Piscionere, R. Pogge, R. Poleski, A.
+Pourtsidou, A.M. Price-Whelan, M.L. Rawls, S. Read, G. Rees, H. Rein, T.
+Rice, S. Riemer-Sørensen, N. Rusomarov, S.F. Sanchez, M. Santander-García,
+G. Sarid, W. Schoenell, A. Scholz, R.L. Schuhmann, W. Schuster, P.
+Scicluna, M. Seidel, **L. Shao**, P. Sharma, A. Shulevski, D. Shupe, C.
+Sifón, B. Simmons, M. Sinha, I. Skillen, B. Soergel, T. Spriggs, S.
+Srinivasan, A. Stevens, O. Streicher, E. Suchyta, J. Tan, O.G. Telford, R.
+Thomas, C. Tonini, G. Tremblay, S. Tuttle, T. Urrutia, S. Vaughan, M.
+Verdugo, A. Wagner, J. Walawender, A. Wetzel, K. Willett, P.K.G. Williams,
+G. Yang, G. Zhu, A. Zonca, [The astropy
+problem](https://arxiv.org/abs/1610.03159), arXiv:1610.03159
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
    [Experimental studies on the Lorentz symmetry in post-Newtonian gravity with pulsars](http://dx.doi.org/10.3390/universe2040029),
    *Universe* 2 (2016) 29
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, I.H. Stairs<font color="#5c5c5c"><sup>($\ast$)</sup></font>, *et al.*,
-   [Testing gravity with pulsars in the SKA era](https://arxiv.org/abs/1501.00058),
-   *PoS* (AASKA14) 042
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, I.H.
+Stairs<font color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Antoniadis, A.
+Deller, P. Freire, J. Hessels, G. Janssen, M. Kramer, J. Kunz, C.
+Laemmerzahl, V. Perlick, A. Possenti, S. Ransom, B. Stappers, W. van
+Straten, [Testing gravity with pulsars in the SKA
+era](https://arxiv.org/abs/1501.00058),
+*PoS* (AASKA14) 042
 
-0. G.H. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*,
-   [Gravitational wave astronomy with the SKA](https://arxiv.org/abs/1501.00127),
-   *PoS* (AASKA14) 037
+0. G.H. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G.
+Hobbs, M. McLaughlin, C. Bassa, A. Deller, M. Kramer, K. Lee, C.
+Mingarelli, P. Rosado, S. Sanidas, A. Sesana, **L. Shao**, I. Stairs, B.
+Stappers, J.P.W. Verbiest, [Gravitational wave astronomy with the
+SKA](https://arxiv.org/abs/1501.00127),
+*PoS* (AASKA14) 037
 
 0. A. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Wang, **L. Shao**, R.-X. Xu,
    [The type of Vela-like pulsars: a normal neutron star or a hybrid star?](http://adsabs.harvard.edu/abs/2015AcASn..56S..22L),
