@@ -29,6 +29,7 @@ tr:nth-child(odd) {
 | **Executive Board Member** | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | 2019-2020 |
 | **Editorial Board Member** | [Universe](http://www.mdpi.com/journal/universe) | 2018-present |
 | **Outstanding Reviewer** | [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | [2018](/docs/CQG2018.pdf), [2019](/docs/CQG2019.pdf) |
+| | [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://www.springer.com/journal/11433) | [2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA) |
 | | [Universe](http://www.mdpi.com/journal/universe) | [2018](/docs/Universe2018.pdf) |
 | **Reviewer** | [More than 20 journals](/docs/journal) | |
 

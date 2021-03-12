@@ -26,7 +26,7 @@ tr:nth-child(odd) {
 | [Astrophysical Journal](http://iopscience.iop.org/journal/0004-637X) | **Reviewer** |
 | [Astrophysical Journal Letters](http://iopscience.iop.org/journal/2041-8205) | **Reviewer** |
 | [Atoms](http://www.mdpi.com/journal/atoms) | **Reviewer** |
-| [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | **Advisory Panel Member** (2020—2021)<br>**Outstanding Reviewer** ([2018](CQG2018.pdf), [2019](CQG2019.pdf)) |
+| [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | **Advisory Panel Member** (2020—2022)<br>**Outstanding Reviewer** ([2018](CQG2018.pdf), [2019](CQG2019.pdf)) |
 | [Classical and Quantum Gravity Letters](https://iopscience.iop.org/journal/0264-9381/page/Letters) | **Reviewer** |
 | [Communications in Theoretical Physics](http://iopscience.iop.org/journal/0253-6102) |  **Reviewer** |
 | [Entropy](http://www.mdpi.com/journal/entropy) |  **Reviewer** |
@@ -44,7 +44,7 @@ tr:nth-child(odd) {
 | [Physical Review Letters](https://journals.aps.org/prl/) |  **Reviewer** |
 | [Physics Letters B](https://www.journals.elsevier.com/physics-letters-b/) |  **Reviewer** |
 | [Research in Astronomy and Astrophysics](http://iopscience.iop.org/journal/1674-4527) |  **Reviewer** |
-| [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | **Executive Board Member** (2019—2020) |
-| [Science China – Physics, Mechanics and Astronomy](https://link.springer.com/journal/11433) | **Reviewer** | 
+| [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | **Executive Board Member** (2019—2021) |
+| [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://link.springer.com/journal/11433) | **Outstanding Reviewer** ([2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA)) | 
 | [Symmetry](http://www.mdpi.com/journal/symmetry) |  **Reviewer** |
 | [Universe](http://www.mdpi.com/journal/universe) | **Editor** (2018—present)<br>**Outstanding Reviewer** ([2018](Universe2018.pdf)) |
