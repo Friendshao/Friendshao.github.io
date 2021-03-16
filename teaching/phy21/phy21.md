@@ -55,6 +55,7 @@ tr:nth-child(odd) {
 | | D. Halliday *et al.*，《Fundamentals of Physics (7th Edition)》（2005）|
 | **教师** | 邵立晶 | 
 | | Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
+| | 【答疑时间】每周六13:00-14:00PM（建议来前电话联系，以免空跑） | 
 | **助教A** | 张中府：KIAA-405，zhangzhongfu@pku.edu.cn |
 | | 负责单号班；【习题课】周四10-11节，三教507 |
 | **助教B** | 高勇：KIAA-102，gaoyong.physics@pku.edu.cn |
