@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 130)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 131)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+anisotropic gravitational-wave backgrounds using data from Advanced LIGO's
+and Advanced Virgo's first three observing
+runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 **L. Shao**,
