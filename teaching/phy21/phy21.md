@@ -69,7 +69,7 @@ tr:nth-child(odd) {
 | [0. 课程介绍](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | [1. 质点运动学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | [2. 牛顿力学的基本定律](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| 3. 动量变化定理与动量守恒 | [HW1](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 19) |  |
+| [3. 动量变化定理与动量守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW1](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 19) |  |
 | 4. 动能与势能——机械能变化定理与机械能守恒 | | |
 | 5. 角动量变化定理与角动量守恒 | [HW2](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 31) |  |
 | 6. 质心力学定理 | | |
