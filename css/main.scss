@@ -3,6 +3,13 @@
 ---
 @charset "utf-8";
 
+.avatar {
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
 div.container {
   float: right;
   display: table;
