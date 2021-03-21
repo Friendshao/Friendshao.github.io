@@ -460,12 +460,12 @@ first observing run](https://arxiv.org/abs/1810.02764), *Astrophys. J.* 871
    [Properties of the binary neutron star merger GW170817](https://arxiv.org/abs/1805.11579), 
    *Phys. Rev. X* 9 (2019) 011001
 
-0. A. De Rosa<font color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Uttley,
+0. A. De Rosa<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P. Uttley,
 L. Gou, Y. Liu, *et al.* (eXTP Collaboration), [Accretion in strong field gravity with
 eXTP](https://arxiv.org/abs/1812.04022),
 *Sci. China Phys. Mech. Astron.* 62 (2019) 029504
 
-0. J.J.M. in 't Zand<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E.
+0. J.J.M. in 't Zand<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, E.
 Bozzo, J. Qu, X.-D. Li, *et al.* (eXTP Collaboration), [Observatory science with
 eXTP](https://arxiv.org/abs/1812.04023),
 *Sci. China Phys. Mech. Astron.* 62 (2019) 029506
@@ -751,7 +751,7 @@ arXiv:2009.06817
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405),
    in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020), p. 170
 
-0. G. Bower<font color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Chatterjee,
+0. G. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chatterjee,
 J. Cordes, P. Demorest, J. Deneva, J. Dexter, R. Eatough, M. Kramer, T.
 Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLAKey Science
 Goal 4: Fundamental Physics with Galactic Center
@@ -776,7 +776,7 @@ pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B),
    [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
 *Bulletin of the American Astronomical Society* 51 (2019) 251
 
-0. P. Demorest<font color="#5c5c5c"><sup>($\ast$)</sup></font>, G.C. Bower,
+0. P. Demorest<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G.C. Bower,
 S. Chatterjee, J. Cordes, J. Deneva, J. Dexter, M. Kramer, T.J.W. Lazio,
 S.M. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA searches for pulsars
 at the Galactic center](http://adsabs.harvard.edu/abs/2019AAS...23336124D),
