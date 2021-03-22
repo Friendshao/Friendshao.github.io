@@ -739,13 +739,14 @@ pulsars](https://arxiv.org/abs/1604.03662),
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
-0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Precession of triaxially deformed neutron
+0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
+[Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
-*Astron. Nachr.* (accepted), arXiv:2011.04472
+*Astron. Nachr.* 342 (2021) 364
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* (accepted),
-arXiv:2009.06817
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Pulsar
+tests of the graviton mass](https://arxiv.org/abs/2009.06817), *Astron.
+Nachr.* 342 (2021) 300
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 
    [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405),
