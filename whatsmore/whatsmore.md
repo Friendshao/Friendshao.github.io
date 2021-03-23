@@ -34,18 +34,22 @@ tr:nth-child(odd) {
 | **Reviewer** | [More than 20 journals](/docs/journal) | |
 
 <br>
+<hr>
+<p></p>
 
 ### Serving for Academic Conferences
 
-| **CONFERENCE** | **ROLE** | **TIME** | **LOCATION** |
-| [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html) | Organizer | May 3-7, 2021 | Leiden Netherlands |
-| [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021) | Session Chair | Feb 22-28, 2021 | Online |
-| [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519) | Session Chair | Dec 4-14, 2020 | Online |
-| [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop) | Session Chair | Nov 9-13, 2020 | Pohang Korea |
-| [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/) | SOC & LOC & Session Chair | Nov 28-29, 2019 | Beijing China |
-| [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559) | SOC & Session Chair | Aug 13-17, 2019 | Kunming China |
+| **ROLE** | **CONFERENCE** |
+| <b>Organizer</b> | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html), May 3-7, 2021, Leiden Netherlands |
+| <b>Session Chair</b> | [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021), Feb 22-28, 2021, Online|
+| <b>Session Chair</b> | [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519), Dec 4-14, 2020, Online|
+| <b>Session Chair</b> | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop), Nov 9-13, 2020, Pohang Korea|
+| <b>SOC & LOC & Session Chair</b> | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/), Nov 28-29, 2019, Beijing China |
+| <b>SOC & Session Chair</b> | [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), Aug 13-17, 2019, Kunming China |
 
 <br>
+<hr>
+<p></p>
 
 ### Undergraduate/Bachelor/Doctoral Theses <small><small>[[Read More](/docs/theses)]</small></small>
 
