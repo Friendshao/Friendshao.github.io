@@ -40,12 +40,12 @@ tr:nth-child(odd) {
 ### Serving for Academic Conferences
 
 | **ROLE** | **CONFERENCE** |
-| <b>Organizer</b> | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html), May 3-7, 2021, Leiden Netherlands |
-| <b>Session Chair</b> | [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021), Feb 22-28, 2021, Online|
-| <b>Session Chair</b> | [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519), Dec 4-14, 2020, Online|
-| <b>Session Chair</b> | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop), Nov 9-13, 2020, Pohang Korea|
-| <b>SOC & LOC & Session Chair</b> | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/), Nov 28-29, 2019, Beijing China |
-| <b>SOC & Session Chair</b> | [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), Aug 13-17, 2019, Kunming China |
+| Organizer | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html), May 3-7, 2021, Leiden Netherlands |
+| Session Chair | [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021), Feb 22-28, 2021, Online|
+| Session Chair | [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519), Dec 4-14, 2020, Online|
+| Session Chair | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop), Nov 9-13, 2020, Pohang Korea|
+| SOC & LOC & Session Chair | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/), Nov 28-29, 2019, Beijing China |
+| SOC & Session Chair | [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), Aug 13-17, 2019, Kunming China |
 
 <br>
 <hr>
