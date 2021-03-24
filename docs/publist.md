@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 131)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 134)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -95,6 +95,21 @@ and the geophysics interferometer](https://arxiv.org/abs/2009.09305),
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. C. Goddi, *et al.* (EHT Collaboration), [Polarimetric properties of
+Event Horizon Telescope targets from
+ALMA](http://doi.org/10.3847/2041-8213/abee6a), *Astrophys. J. Lett.* 910
+(2021) TBA
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon
+Telescope results. VIII. Magnetic field structure near the event
+horizon](http://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
+910 (2021) L13
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon
+Telescope results. VII. Polarization of the
+ring](http://doi.org/10.3847/2041-8213/abe71e), *Astrophys. J. Lett.* 910
+(2021) L12
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Vibration isolation systems
 for the beam splitter and signal recycling mirrors of the KAGRA
