@@ -103,12 +103,12 @@ ALMA](http://doi.org/10.3847/2041-8213/abee6a), *Astrophys. J. Lett.* 910
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon
 Telescope results. VIII. Magnetic field structure near the event
-horizon](http://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
+horizon](https://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
 910 (2021) L13
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon
 Telescope results. VII. Polarization of the
-ring](http://doi.org/10.3847/2041-8213/abe71e), *Astrophys. J. Lett.* 910
+ring](https://doi.org/10.3847/2041-8213/abe71d), *Astrophys. J. Lett.* 910
 (2021) L12
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Vibration isolation systems
