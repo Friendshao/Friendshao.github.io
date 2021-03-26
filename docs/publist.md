@@ -99,17 +99,17 @@ science](https://arxiv.org/abs/2008.02921),
 0. C. Goddi, *et al.* (EHT Collaboration), [Polarimetric properties of
 Event Horizon Telescope targets from
 ALMA](http://doi.org/10.3847/2041-8213/abee6a), *Astrophys. J. Lett.* 910
-(2021) TBA
+(2021) L14
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon
 Telescope results. VIII. Magnetic field structure near the event
 horizon](https://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
 910 (2021) L13
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon
-Telescope results. VII. Polarization of the
-ring](https://doi.org/10.3847/2041-8213/abe71d), *Astrophys. J. Lett.* 910
-(2021) L12
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope
+   results. VII. Polarization of the
+ring](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d), *Astrophys.
+J. Lett.* 910 (2021) L12
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Vibration isolation systems
 for the beam splitter and signal recycling mirrors of the KAGRA
