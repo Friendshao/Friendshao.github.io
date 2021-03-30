@@ -22,8 +22,8 @@ layout: default
 
 0. H. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the
-photon mass with cosmological propagation of fast radio bursts](TBA),
-submitted
+photon mass with cosmological propagation of fast radio
+bursts](https://arxiv.org/abs/2103.15299), arXiv:2103.15299
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 anisotropic gravitational-wave backgrounds using data from Advanced LIGO's
