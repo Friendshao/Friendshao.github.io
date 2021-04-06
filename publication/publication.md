@@ -7,6 +7,9 @@ permalink: /publication/
 
 **For a nearly complete list, please check at [<big><big>This Link</big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
 
+- **All papers**: $22,000+$ citations, $H=49$ [[Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) (April 2021)]
+- **Excluding ligo/eht/kagra papers**: $1,700+$ citations, $H=23$ [[Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) (April 2021)]
+  
 ---
 
 <p></p>
@@ -104,3 +107,15 @@ by the **Event Horizon Telescope** Collaboration
    Observation of Gravitational Waves from a Binary Neutron Star
 Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101),
 by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
+
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
