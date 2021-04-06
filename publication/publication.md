@@ -4,11 +4,33 @@ title: Publication
 permalink: /publication/
 ---
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+</style>
+
+### **Publication Summary**
 
 **For a nearly complete list, please check at [<big><big>This Link</big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
 
-- **All papers**: $22,000+$ citations, $H=49$ [[Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) (April 2021)]
-- **Excluding ligo/eht/kagra papers**: $1,700+$ citations, $H=23$ [[Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) (April 2021)]
+| <small> (last updated: April 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
+| **All papers** | $22$,$000+$ | $49$ | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
+| **Excluding ligo/eht/kagra papers** | $1$,$700+$ | $23$ | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) |
+
+<br>
   
 ---
 
