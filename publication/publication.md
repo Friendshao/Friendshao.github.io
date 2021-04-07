@@ -27,8 +27,8 @@ tr:nth-child(odd) {
 - **For a nearly complete list, please check at [<big><big>This Link</big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
 
 | <small> (last updated: April 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
-| **All papers** | $22$,$000+$ | $49$ | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
-| **Excluding ligo/eht/kagra papers** | $1$,$700+$ | $23$ | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) |
+| **All papers** | 22,000+ | 49 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
+| **Excluding ligo/eht/kagra papers** | 1,700+ | 23 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) |
 
 <br>
   
