@@ -49,7 +49,7 @@ $$\delta S = 0$$
 | | H. Goldstein, C. Poole, J. Safko, *Classical Mechanics* (3rd ed), 2002 |
 | | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
 | **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
-| **单号班助教** |  |
+| **单号班助教** | 李洪波 |
 | | **习题课**： |
 | **双号班助教** | |
 | | **习题课**： |
