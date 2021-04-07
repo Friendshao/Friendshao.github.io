@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ### **Publication Summary**
 
-**For a nearly complete list, please check at [<big><big>This Link</big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
+- **For a nearly complete list, please check at [<big><big>This Link</big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
 
 | <small> (last updated: April 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
 | **All papers** | $22$,$000+$ | $49$ | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
