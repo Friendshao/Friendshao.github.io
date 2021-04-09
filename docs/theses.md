@@ -36,7 +36,7 @@ tr:nth-child(odd) {
   [Miao+PRD'19](https://doi.org/10.1103/PhysRevD.99.123015), 
   [Miao+ApJ'20](https://doi.org/10.3847/1538-4357/ab9dfe), 
   [Wang+21](https://arxiv.org/abs/2103.15299), 
-  [Wang+天文学报'21](TBA)
+  [Wang+AcASn'21](TBA)
 - **邵立晶**，[用射电脉冲星检验时空的基本对称性](phd_thesis.pdf)（北京大学，2015年5月）
   - <small>Testing Spacetime Symmetries with Radio Pulsars
 
@@ -60,5 +60,5 @@ tr:nth-child(odd) {
 - **王惠美**，Bounding the Photon Mass with Fast Radio Bursts（北京大学，2020年11月）
   - <small> **Publication**: [Wang+21](https://arxiv.org/abs/2103.15299)
 - **王弋尘**，Constraining Dark-matter Particles with Neutron Stars（北京大学，2020年11月）
-  - <small> **Publication**: [Wang+天文学报'21](TBA)
+  - <small> **Publication**: [Wang+AcASn'21](TBA)
 - **安子訸**，Fisher Matrix in Gravitational-wave Data Analysis（北京大学，2020年11月）
