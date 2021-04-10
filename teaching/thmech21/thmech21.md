@@ -49,10 +49,11 @@ $$\delta S = 0$$
 | | H. Goldstein, C. Poole, J. Safko, *Classical Mechanics* (3rd ed), 2002 |
 | | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
 | **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
-| **单号班助教** | 李洪波 |
-| | **习题课**： |
+| |【答疑时间】每周六13:00-14:00PM（建议来前电话联系，以免空跑） |
+| **单号班助教** | 李洪波，lihb2020@stu.pku.edu.cn |
+| | **习题课**：负责单号班 |
 | **双号班助教** | |
-| | **习题课**： |
+| | **习题课**：负责双号班 |
 
 <p></p>
 
@@ -71,8 +72,8 @@ $$\delta S = 0$$
 | 8. 力学中的变分方法 | | |
 | 9. 连续介质动力学 | | |
 | 10. 相对论性的分析力学 | | |
+| *答疑* | 邵立晶（K217）<br>李洪波（）<br> |  | 
 | **期末考试（闭卷）** | | |
-
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
