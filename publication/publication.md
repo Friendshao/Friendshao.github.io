@@ -22,21 +22,15 @@ tr:nth-child(odd) {
 }
 </style>
 
-### **Publication Summary**
-
-- **For a nearly complete list, please check at [<big><big>This Link</big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
-
-| <small> (last updated: April 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
-| **All papers** | 22,000+ | 49 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
-| **Excluding ligo/eht/kagra papers** | 1,700+ | 23 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) |
-
-<br>
+**For a nearly complete list, please check at [<big><big>This Link</big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
   
 ---
 
 <p></p>
 
 ### **Selected First-author/Corresponding-author Papers**
+
+0. X. Miao, J. Zhao, **L. Shao**, N. Wex, *et al.*, [Tests of conservation laws in post-Newtonian gravity with binary pulsars](https://arxiv.org/abs/2006.09652), *The Astrophysical Journal* 898 (2020) 69
 
 0. **L. Shao**, N. Wex, M. Kramer,
    [Testing the universality of free fall towards dark matter with radio
@@ -129,6 +123,16 @@ by the **Event Horizon Telescope** Collaboration
    Observation of Gravitational Waves from a Binary Neutron Star
 Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101),
 by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
+
+---
+
+<p></p>
+
+### **Publication Status**
+
+| <small> (last updated: April 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
+| **All papers** | 22,000+ | 49 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
+| **Excluding ligo/eht/kagra papers** | 1,700+ | 23 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3AEHT%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) |
 
 
 <script type="text/x-mathjax-config">
