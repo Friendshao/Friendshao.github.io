@@ -68,7 +68,7 @@ tr:nth-child(odd) {
 #### **Chronological**
 
 | **SEMESTER** | **COURSE** | **ROLE** | **COMMENT** | 
-| PKU'21F | [**Theoretical Mechanics (A)**](thmech21/thmech21) | Lecturer | <small>TAs: Hongbo Li & TBA |
+| PKU'21F | [**Theoretical Mechanics (A)**](thmech21/thmech21) | Lecturer | <small>TAs: Hongbo Li & Rui Zhu |
 | PKU'21F | [**General Relativity & Astrophysics**](gr21/gr21) | Lecturer | <small>TA: |
 | PKU'21S | [**General Physics (I)**](phy21/phy21) | Lecturer | <small>TAs: Yong Gao & Zhongfu Zhang |
 | PKU'20F | [**General Physics (II)**](phy20/phy20) | Lecturer | <small>TAs: Chang Liu & Lei Geng |
