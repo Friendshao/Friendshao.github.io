@@ -22,7 +22,7 @@ tr:nth-child(odd) {
 
 # <b>Classical Electrodynamics (电动力学)</b>
 
-### <u>Fall 2021, Peking University</u>
+### <u>Fall 2022, Peking University</u>
 
 <div style="display: flex; justify-content: center;">
 <img src="James_Clerk_Maxwell.jpg" width="300">
