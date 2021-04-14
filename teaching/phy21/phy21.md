@@ -73,9 +73,9 @@ tr:nth-child(odd) {
 | [4. 动能与势能——机械能变化定理与机械能守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | [5. 角动量变化定理与角动量守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW2](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 31) |  |
 | [6. 质心力学定理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| 7. 刚体力学 | [HW3](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 9) |  |
-| 8. 振动 | | |
-| 9. 波动 | [HW4](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 16) |  |
+| [7. 刚体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW3](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 9) |  |
+| 8. 振动 | [HW4](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 16) |  |
+| 9. 波动 | |  |
 | 10. 流体力学 | | |
 | 11. 哈密顿原理 | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 5) |  |
 | **期中考试**（闭卷、笔试） | 2021年4月28日 | 13:00-14:50PM |
