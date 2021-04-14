@@ -77,7 +77,7 @@ tr:nth-child(odd) {
 | 8. 振动 | | |
 | 9. 波动 | [HW4](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 16) |  |
 | 10. 流体力学 | | |
-| 11. 哈密顿原理 | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 23) |  |
+| 11. 哈密顿原理 | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 5) |  |
 | **期中考试**（闭卷、笔试） | 2021年4月28日 | 13:00-14:50PM |
 | 12. 静电场 | | |
 | 13. 静电场中的导体和电介质 | [HW6](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 14) |  |
