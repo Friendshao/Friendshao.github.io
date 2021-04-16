@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 135)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 137)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -75,11 +75,16 @@ Zumalacárregui, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
 *Exp. Astron.* (submitted), arXiv:1908.11410
 
-0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Precession of
-spheroids under Lorentz violation and observational consequences for
-neutron stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D*
-(accepted), arXiv:2012.01320
+0. M. Arca Sedda<font color="#5c5c5c"><sup>(#)</sup></font>, C.P.L.
+Berry<font color="#5c5c5c"><sup>($\ast$)</sup></font>, K. Jani, P.
+Amaro-Seoane, P. Auclair, J. Baird, T. Baker, E. Berti, K. Breivik, C.
+Caprini, X. Chen, D. Doneva, J.M. Ezquiaga, K.E. Saavik Ford, M.L. Katz, S.
+Kolkowitz, B. McKernan, G. Mueller, G.P. Nardini, I. Pikovski, S.
+Rajendran, A. Sesana, **L. Shao**, N. Tamanini, N. Warburton, H. Witek, K.
+Wong, M. Zevin, [The missing link in gravitational-wave astronomy: A
+summary of discoveries waiting in the decihertz
+range](https://dx.doi.org/10.1007/s10686-021-09713-z),
+*Exp. Astron.* (accepted), arXiv:TBA
 
 0. A. Sesana<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
 Korsakova<font color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Arca Sedda,
@@ -100,6 +105,17 @@ and the geophysics interferometer](https://arxiv.org/abs/2009.09305),
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Precession of
+spheroids under Lorentz violation and observational consequences for
+neutron stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* TBA (2021)
+TBA
+
+0. J.C. Algaba, *et al.* (EHT Collaboration), [Broadband multi-wavelength
+properties of M87 during the 2017 Event Horizon Telescope
+campaign](https://arxiv.org/abs/2104.06855),
+*Astrophys. J. Lett.* 911 (2021) L11
 
 0. C. Goddi, *et al.* (EHT Collaboration), [Polarimetric properties of
 Event Horizon Telescope targets from
@@ -144,8 +160,8 @@ timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.* 499
 Berry, K. Jani, P. Amaro-Seoane, P. Auclair, J. Baird, T. Baker, E. Berti,
 K. Breivik, A. Burrows, C. Caprini, X. Chen, D. Doneva, J.M. Ezquiaga, K.E.
 Saavik Ford, M.L. Katz, S. Kolkowitz, B. McKernan, G. Mueller, G.P.
-Nardini, S. Rajendran, A. Sesana, **L. Shao**, N. Tamanini, D. Vartanyan,
-N. Warburton, H. Witek, K. Wong, M. Zevin, [The missing link in
+Nardini, I. Pikovski, S. Rajendran, A. Sesana, **L. Shao**, N. Tamanini, D.
+Vartanyan, N. Warburton, H. Witek, K. Wong, M. Zevin, [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375),
 *Class. Quantum Grav.* 37 (2020) 215011
