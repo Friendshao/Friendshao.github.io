@@ -109,11 +109,12 @@ science](https://arxiv.org/abs/2008.02921),
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Precession of
 spheroids under Lorentz violation and observational consequences for
-neutron stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* TBA (2021)
-TBA
+neutron stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021)
+084028
 
-0. J.C. Algaba, *et al.* (EHT Collaboration), [Broadband multi-wavelength
-properties of M87 during the 2017 Event Horizon Telescope
+0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS /
+EAVN Collaboration), [Broadband multi-wavelength properties of M87 during
+the 2017 Event Horizon Telescope
 campaign](https://arxiv.org/abs/2104.06855),
 *Astrophys. J. Lett.* 911 (2021) L11
 
