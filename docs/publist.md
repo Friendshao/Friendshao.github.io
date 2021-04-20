@@ -36,7 +36,7 @@ runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
 arXiv:2102.04669
 
 0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Testing no-hair
+Shao**, [Testing no-hair
 theorem by quasi-periodic oscillations: the quadrupole of GRO
 J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 
@@ -55,11 +55,9 @@ on the isotropic gravitational-wave background from Advanced LIGO's and
 Advanced Virgo's third observing run](https://arxiv.org/abs/2101.12130),
 arXiv:2101.12130
 
-0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Wu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Yu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [NANOGrav signal from
-first-order confinement/deconfinement phase transition in different QCD
+0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
+P. Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement
+phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Diving below
@@ -250,10 +248,9 @@ al.* (EHT Collaboration), [Themis: A parameter estimation framework for the
 Event Horizon Telescope](https://doi.org/10.3847/1538-4357/ab91a4),
 *Astrophys. J.* 897 (2020) 139
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-X. Li<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Resonant instability of
-axionic dark matter clumps](https://arxiv.org/abs/2002.09144),
+0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
+L.-X. Li, [Resonant instability of axionic dark matter
+clumps](https://arxiv.org/abs/2002.09144),
 *J. Cosmol. Astropart. Phys.* 07 (2020) 038
 
 0. Z. Xiao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
@@ -665,10 +662,8 @@ merger GW170817](https://arxiv.org/abs/1710.09320),
 *Astrophys. J. Lett.* 851 (2017) L16
 
 0. N. Sennett<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Effective action model of
-dynamically scalarizing binary neutron
-stars](https://arxiv.org/abs/1708.08285),
+Shao**, J. Steinhoff, [Effective action model of dynamically scalarizing
+binary neutron stars](https://arxiv.org/abs/1708.08285),
 *Phys. Rev. D* 96 (2017) 084019
 
 0. B.P. Abbott, *et al.* (LIGO / Virgo Collaboration), [GW170814: A
@@ -1035,7 +1030,7 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [OPERA
 [低能光子的量子引力“遗迹”效应](http://en.cnki.com.cn/Article_en/CJFDTotal-YBSF201105006.htm),
 《山西大同大学学报 (自然科学版)》 27 (2011) 19
 
-0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 马伯强<font
+0. **邵立晶**<font color="#5c5c5c"><sup>(#)</sup></font>, 马伯强<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [首位数规律在物理学中的应用](http://www.kjdb.org/CN/Y2010/V28/I18/98), 《科技导报》 28 (2010)
 98
