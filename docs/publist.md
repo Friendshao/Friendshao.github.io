@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 137)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 138)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -74,6 +74,16 @@ Quenby, A. Ricciardone, I.D. Saltas, **L. Shao**, N.T. Tamanini, M.
 Zumalacárregui, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
 *Exp. Astron.* (submitted), arXiv:1908.11410
+
+0. K. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
+R.P. Eatough, R. Karuppusamy, M. Kramer, P. Torne, R. Wharton, S.
+Chatterjee, J.M. Cordes, G.B. Crew, C. Goddi, S.M. Ransom, H. Rottmann, F.
+Abbate, G.C. Bower, C.D. Brinkerink, H. Falcke, A. Noutsos, A.
+Hernandez-Gomez, W. Jiang, M.D. Johnson, R.-S. Lu, Y. Pidopryhora, L.
+Rezzolla, **L. Shao**, Z. Shen, N. Wex, [An 86-GHz search for pulsars in
+the Galactic Center with the Atacama Large Millimeter/submillimeter
+Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
+arXiv:2104.08986
 
 0. M. Arca Sedda<font color="#5c5c5c"><sup>(#)</sup></font>, C.P.L.
 Berry<font color="#5c5c5c"><sup>($\ast$)</sup></font>, K. Jani, P.
