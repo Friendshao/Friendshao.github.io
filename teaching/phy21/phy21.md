@@ -95,6 +95,7 @@ tr:nth-child(odd) {
 
 - 课程日历（2021年2月9日）：[我爱上课.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 - 课程作业（2021年1月21日）：[我爱写作业.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
+- 力学讲义（2021年4月21日）：[普通物理I（力学）.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 
 
 

@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 138)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 139)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,21 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
+M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
+A. McCann, G. Oganesyan, E. Palazzi, S. Ronchini, A. Rossi, O. Sharan
+Salafia, L. Salmon, S. Ascenzi, A. Capone, S. Celli, S. Dall'Osso, I.F. Di
+Palma, P. Fermani, D. Guetta, L. Hanlon, E. Howell, S. Paltani, L.
+Rezzolla, S. Vinciguerra, A. Zegarelli, L. Amati, A. Blain, E. Bozzo, S.
+Chaty, P. D'Avanzo, M. De Pasquale, H. Dereli-Bégué, G. Ghirlanda, A.
+Gomboc, D. Götz, I. Horvath, R. Hudec, L. Izzo, E. Le Floch, L. Li, F.
+Longo, S. Komossa, A.K.H. Kong, S. Mereghetti, R. Mignani, A. Nathanail,
+P.T. O'Brien, J.P. Osborne, A. Pe'er, S. Piranomonte, P. Rosati, S.
+Savaglio, F. Schüssler, O. Sergijenko, L. Shao, N. Tanvir, S. Turriziani,
+Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
+astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
+arXiv:2104.09534
 
 0. H. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the
