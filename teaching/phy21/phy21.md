@@ -70,14 +70,14 @@ tr:nth-child(odd) {
 | [1. 质点运动学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | [2. 牛顿力学的基本定律](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | [3. 动量变化定理与动量守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW1](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 19) |  |
-| [4. 动能与势能——机械能变化定理与机械能守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [4. 机械能变化定理与机械能守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | [5. 角动量变化定理与角动量守恒](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW2](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Mar 31) |  |
 | [6. 质心力学定理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | [7. 刚体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW3](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 9) |  |
 | [8. 振动](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW4](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 16) |  |
 | [9. 波动](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | |  |
 | [10. 流体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [11. 哈密顿原理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 5) |  |
+| [11. 哈密顿原理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 5) | 第11章作业可以不写 |
 | **期中考试**（闭卷、笔试） | 2021年4月28日，二教101 | 13:00-14:50PM |
 | 12. 静电场 | | |
 | 13. 静电场中的导体和电介质 | [HW6](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 14) |  |
