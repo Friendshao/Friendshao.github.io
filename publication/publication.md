@@ -30,7 +30,24 @@ tr:nth-child(odd) {
 
 ### **Selected First-author/Corresponding-author Papers**
 
-0. X. Miao, J. Zhao, **L. Shao**, N. Wex, *et al.*, [Tests of conservation laws in post-Newtonian gravity with binary pulsars](https://arxiv.org/abs/2006.09652), *The Astrophysical Journal* 898 (2020) 69
+0. **L. Shao**, [Combined search for anisotropic birefringence in the
+gravitational-wave transient catalog
+GWTC-1](https://arxiv.org/abs/2002.01185),
+*Physical Review D* 101 (2020) 104019
+
+0. X. Miao, J. Zhao, **L. Shao**, N. Wex, *et al.*, [Tests of conservation
+laws in post-Newtonian gravity with binary
+pulsars](https://arxiv.org/abs/2006.09652), *The Astrophysical Journal* 898
+(2020) 69
+
+0. **L. Shao**, Q.G. Bailey, [Testing the gravitational weak equivalence
+principle in the standard-model extension with binary
+pulsars](https://arxiv.org/abs/1903.11760), *Physical Review D* 99 (2019)
+084017
+
+0. **L. Shao**, Q.G. Bailey, [Testing velocity-dependent CPT-violating
+gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332),
+*Physical Review D* 98 (2018) 084049
 
 0. **L. Shao**, N. Wex, M. Kramer,
    [Testing the universality of free fall towards dark matter with radio

@@ -40,8 +40,8 @@ tr:nth-child(odd) {
 ### Serving for Academic Conferences
 
 | **ROLE** | **CONFERENCE** |
-| Organizer | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html), May 3-7, 2021, Leiden Netherlands |
-| Session Chair | [2020/2021 Annual Meeting of the Chinese Physical Society, Division of Gravitation and Relativistic Astrophysics](http://gra2020.csp.escience.cn/), Apr 23-28, 2021, Shenyang China |
+| Organizer & Session Chair | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html), May 3-7, 2021, Leiden Netherlands |
+| Session Chair | [Annual Meeting of the Chinese Physical Society, Division of Gravitation and Relativistic Astrophysics](http://gra2020.csp.escience.cn/), Apr 23-28, 2021, Shenyang China |
 | Session Chair | [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021), Feb 22-28, 2021, Online|
 | Session Chair | [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519), Dec 4-14, 2020, Online|
 | Session Chair | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop), Nov 9-13, 2020, Pohang Korea|
