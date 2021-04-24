@@ -52,14 +52,14 @@ tr:nth-child(odd) {
 <hr>
 <p></p>
 
-### Undergraduate/Bachelor/Doctoral Theses <small><small>[[Read More](/docs/theses)]</small></small>
+### Theses & Reports <small><small>[[Read More](/docs/theses)]</small></small>
 
-| **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** |
-| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | | |
-| 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> |
-| 2019 | | Zhongpeng Sun <small>(孙忠鹏)</small><br>Wenlong Li <small>(李汶隆) | |
-| 2015 | Lijing Shao <small>(邵立晶) | | |
-| 2005 | | Lijing Shao <small>(邵立晶) |  |
+| **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC**
+| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | | | Rui Xu <small>(徐睿) |
+| 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> | |
+| 2019 | | Zhongpeng Sun <small>(孙忠鹏)</small><br>Wenlong Li <small>(李汶隆) | | |
+| 2015 | Lijing Shao <small>(邵立晶) | | | |
+| 2005 | | Lijing Shao <small>(邵立晶) |  | |
 
 
 <!-- 
