@@ -22,6 +22,18 @@ tr:nth-child(odd) {
 }
 </style>
 
+### Theses & Reports <small><small>[[Read More](/docs/theses)]</small></small>
+
+| **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC**
+| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | | | Rui Xu <small>(徐睿) |
+| 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> | |
+| 2019 | | Zhongpeng Sun <small>(孙忠鹏)</small><br>Wenlong Li <small>(李汶隆) | | |
+| 2015 | Lijing Shao <small>(邵立晶) | | | |
+| 2005 | | Lijing Shao <small>(邵立晶) |  | |
+
+<br>
+<p></p>
+
 ### Serving for Academic Journals <small><small>[[Read More](/docs/journal)]</small></small>
 
 | **ROLE** | **JOURNAL** | **TIME** |
@@ -34,7 +46,6 @@ tr:nth-child(odd) {
 | Reviewer | [More than 20 journals](/docs/journal) | |
 
 <br>
-<hr>
 <p></p>
 
 ### Serving for Academic Conferences
@@ -47,19 +58,6 @@ tr:nth-child(odd) {
 | Session Chair | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop), Nov 9-13, 2020, Pohang Korea|
 | SOC & LOC & Session Chair | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/), Nov 28-29, 2019, Beijing China |
 | SOC & Session Chair | [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559), Aug 13-17, 2019, Kunming China |
-
-<br>
-<hr>
-<p></p>
-
-### Theses & Reports <small><small>[[Read More](/docs/theses)]</small></small>
-
-| **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC**
-| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | | | Rui Xu <small>(徐睿) |
-| 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> | |
-| 2019 | | Zhongpeng Sun <small>(孙忠鹏)</small><br>Wenlong Li <small>(李汶隆) | | |
-| 2015 | Lijing Shao <small>(邵立晶) | | | |
-| 2005 | | Lijing Shao <small>(邵立晶) |  | |
 
 
 <!-- 
