@@ -30,7 +30,7 @@ Chaty, P. D'Avanzo, M. De Pasquale, H. Dereli-Bégué, G. Ghirlanda, A.
 Gomboc, D. Götz, I. Horvath, R. Hudec, L. Izzo, E. Le Floch, L. Li, F.
 Longo, S. Komossa, A.K.H. Kong, S. Mereghetti, R. Mignani, A. Nathanail,
 P.T. O'Brien, J.P. Osborne, A. Pe'er, S. Piranomonte, P. Rosati, S.
-Savaglio, F. Schüssler, O. Sergijenko, L. Shao, N. Tanvir, S. Turriziani,
+Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
 Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
