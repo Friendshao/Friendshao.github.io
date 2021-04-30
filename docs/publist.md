@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 139)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 140)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
+from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
+glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
+arXiv:2104.14417
 
 0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
 M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
