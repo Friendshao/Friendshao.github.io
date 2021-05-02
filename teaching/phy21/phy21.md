@@ -77,24 +77,24 @@ tr:nth-child(odd) {
 | [8. 振动](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW4](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Apr 16) |  |
 | [9. 波动](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | |  |
 | [10. 流体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
-| [11. 哈密顿原理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 5) | 第11章作业可以不写 |
+| [11. 哈密顿原理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 5) | （第11章作业可以不写） |
 | **期中考试**（闭卷、笔试） | 2021年4月28日，二教101 | 13:00-14:50PM |
-| 12. 静电场 | | |
-| 13. 静电场中的导体和电介质 | [HW6](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 14) |  |
-| 14. 直流电 | [HW7](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 26) |  |
-| 15. 恒定磁场 | | |
-| 16. 磁介质 | [HW8](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 4) |  |
+| 12. 静电场 |  [HW6](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 14)  | |
+| 13. 静电场中的导体和电介质 | [HW7](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 26) |  |
+| 14. 直流电 |  |  |
+| 15. 恒定磁场 | [HW8](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 4) | |
+| 16. 磁介质 |  |  |
 | 17. 电磁感应 | [HW9](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 11) | |
 | 18. 交流电 | | |
-| 19. 麦克斯韦电磁场理论 | [HW10](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 17) | 习题课交 |
+| 19. 麦克斯韦电磁场理论 | [HW10](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 17) | 习题课交（第8章作业可以不写） |
 | **期末考试**（闭卷、笔试） | 2021年6月23日·下午 | 14:00-16:00PM |
 
 <p></p>
 
 ## 文件下载
 
-- 课程日历（2021年2月9日）：[我爱上课.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
-- 课程作业（2021年1月21日）：[我爱写作业.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
+- 课程日历（2021年5月1日）：[我爱上课.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
+- 课程作业（2021年5月2日）：[我爱写作业.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 - 力学讲义（2021年4月21日）：[普通物理I（力学）.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 
 
