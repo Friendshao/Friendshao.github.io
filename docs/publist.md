@@ -111,8 +111,8 @@ Kolkowitz, B. McKernan, G. Mueller, G.P. Nardini, I. Pikovski, S.
 Rajendran, A. Sesana, **L. Shao**, N. Tamanini, N. Warburton, H. Witek, K.
 Wong, M. Zevin, [The missing link in gravitational-wave astronomy: A
 summary of discoveries waiting in the decihertz
-range](https://dx.doi.org/10.1007/s10686-021-09713-z),
-*Exp. Astron.* (accepted), arXiv:TBA
+range](https://arxiv.org/abs/2104.14583),
+*Exp. Astron.* (accepted), arXiv:2104.14583
 
 0. A. Sesana<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
 Korsakova<font color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Arca Sedda,
