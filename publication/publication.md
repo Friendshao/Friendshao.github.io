@@ -33,26 +33,26 @@ tr:nth-child(odd) {
 0. **L. Shao**, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog
 GWTC-1](https://arxiv.org/abs/2002.01185),
-*Physical Review D* 101 (2020) 104019
+*Phys. Rev. D* 101 (2020) 104019
 
 0. X. Miao, J. Zhao, **L. Shao**, N. Wex, *et al.*, [Tests of conservation
 laws in post-Newtonian gravity with binary
-pulsars](https://arxiv.org/abs/2006.09652), *The Astrophysical Journal* 898
+pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* 898
 (2020) 69
 
 0. **L. Shao**, Q.G. Bailey, [Testing the gravitational weak equivalence
 principle in the standard-model extension with binary
-pulsars](https://arxiv.org/abs/1903.11760), *Physical Review D* 99 (2019)
+pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99 (2019)
 084017
 
 0. **L. Shao**, Q.G. Bailey, [Testing velocity-dependent CPT-violating
 gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332),
-*Physical Review D* 98 (2018) 084049
+*Phys. Rev. D* 98 (2018) 084049
 
 0. **L. Shao**, N. Wex, M. Kramer,
    [Testing the universality of free fall towards dark matter with radio
    pulsars](https://arxiv.org/abs/1805.08408),
-   *Physical Review Letters* 120 (2018) 241104
+   *Phys. Rev. Lett.* 120 (2018) 241104
   - <small>Featured by PRL editors as an "Editors' Suggestion" [[certificate]](LQ16789.pdf)
   <img src="suggestion_PRL.jpg" alt="PRL" style="width:30px;height:30px;"> 
   - <small>Featured by
@@ -61,11 +61,15 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332),
 [German](https://www.mpifr-bonn.mpg.de/pressemeldungen/2018/8)
   <img src="mpifr.jpg" alt="PRL" style="width:32px;height:32px;"> 
 
+0. **L. Shao**, B.  Zhang, [Bayesian framework to constrain the photon mass
+with a catalog of fast radio bursts](https://arxiv.org/abs/1705.01278),
+*Phys. Rev. D* 95 (2017) 123010
+
 0. **L. Shao**, N. Sennett, A. Buonanno, M. Kramer, N. Wex,
     [Constraining nonperturbative strong-field effects in scalar-tensor gravity
     by combining pulsar timing and laser-interferometer gravitational-wave
     detectors](http://arxiv.org/abs/1704.07561), 
-    *Physical Review X* 7 (2017) 041025
+    *Phys. Rev. X* 7 (2017) 041025
   - <small>Featured by the Max Planck Institute for Gravitational Physics
     (Albert Einstein
     Institute): [English](http://www.aei.mpg.de/2147555/stronger-tests-of-einstein-s-relativity)
@@ -75,21 +79,31 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332),
     [Improved effective-one-body model of spinning, nonprecessing binary black
     holes for the era of gravitational-wave astrophysics with advanced
     detectors](http://arxiv.org/abs/1611.03703), 
-   *Physical Review D* 95 (2017) 044028
+   *Phys. Rev. D* 95 (2017) 044028
   - <small>Implemented as the "SEOBNRv4" waveform model in LIGO Algorithm Library
   <img src="LIGO.jpg" alt="LIGO" style="height:28px;">
 
 0. **L. Shao**, 
     [Testing the strong equivalence principle with the triple pulsar PSR
     J0337+1715](http://arxiv.org/abs/1602.05725), 
-    *Physical Review D* 93 (2016) 084023 
+    *Phys. Rev. D* 93 (2016) 084023 
   - <small>Featured by PRD editors as an "Editors' Suggestion"
   <img src="suggestion_PRD.png" alt="PRD" style="width:30px;height:30px;">
+
+0. **L. Shao**, N.  Wex, [Tests of gravitational symmetries with radio
+pulsars](https://arxiv.org/abs/1604.03662),
+*Sci. China Phys. Mech. Astron.* 59 (2016) 699501
+
+0. **L. Shao**, I.H.  Stairs, *et al.*, [Testing gravity with pulsars in the
+SKA era](https://arxiv.org/abs/1501.00058),
+*PoS* (AASKA14) 042
+  - <small>Chapter in SKA white paper "Advancing Astrophysics with the Square
+  Kilometre Array"
 
 0. **L. Shao**,
     [Tests of local Lorentz invariance violation of gravity in the standard
     model extension](http://arxiv.org/abs/1402.6452), 
-    *Physical Review Letters* 112 (2014) 111103 
+    *Phys. Rev. Lett.* 112 (2014) 111103 
   - <small>Featured by School of Physics, Peking University:
     [English](http://www.phy.pku.edu.cn/english/news/140304.xml) / 
     [Chinese](http://www.phy.pku.edu.cn/research/projects/140304.xml)
@@ -98,21 +112,21 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332),
 0. **L. Shao**, R.N. Caballero, M. Kramer, *et al.*,
     [A new limit on local Lorentz invariance violation of gravity from solitary
     pulsars](http://arxiv.org/abs/1307.2552),
-    *Classical and Quantum Gravity* 30 (2013) 165019 
+    *Class. Quantum Grav.* 30 (2013) 165019 
   - <small>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sck+13.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
 0. **L. Shao** & N. Wex, 
     [New limits on the violation of local position invariance of
     gravity](http://arxiv.org/abs/1307.2637),
-    *Classical and Quantum Gravity* 30 (2013) 165020
+    *Class. Quantum Grav.* 30 (2013) 165020
   - <small>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sw13.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
 0. **L. Shao** & N. Wex,
     [New tests of local Lorentz invariance of gravity with small-eccentricity
     binary pulsars](http://arxiv.org/abs/1209.4503),
-    *Classical and Quantum Gravity* 29 (2012) 215018
+    *Class. Quantum Grav.* 29 (2012) 215018
   - <small>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sw12.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
