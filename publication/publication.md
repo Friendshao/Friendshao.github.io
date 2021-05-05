@@ -100,6 +100,10 @@ SKA era](https://arxiv.org/abs/1501.00058),
   - <small>Chapter in SKA white paper "Advancing Astrophysics with the Square
   Kilometre Array"
 
+0. **L. Shao**, [New pulsar limit on local Lorentz invariance violation of
+gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
+*Phys. Rev. D* 90 (2014) 122009
+
 0. **L. Shao**,
     [Tests of local Lorentz invariance violation of gravity in the standard
     model extension](http://arxiv.org/abs/1402.6452), 
