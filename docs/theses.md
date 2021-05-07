@@ -42,6 +42,12 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Thesis**
 
+- **邓景元**, [脉冲星的受迫进动](DengJingyuan.pdf)（北京大学，2021年6月）
+  - <small>The Forced Precession of Pulsars
+- **王惠美**, [各向异性压强下中子星的结构](WangHuimei.pdf)（北京大学，2021年6月）
+  - <small>The Structure of Neutron stars with Anisotropic Pressure
+- **郭明浩**, [标量-张量引力理论的数值研究](GuoMinghao.pdf)（北京大学，2021年5月）
+  - <small>A Numerical Study of Scalar-tensor Gravity Theory
 - **陶昱**, [数值相对论引力波波形的初步研究](TaoYu.pdf)（北京大学，2020年5月）
   - <small>Brief Studies on Gravitational Waveform of Numerical Relativity
 - **夏鹤明**, [深度学习在引力波数据处理中的应用](XiaHeming.pdf)（北京大学，2020年6月）
