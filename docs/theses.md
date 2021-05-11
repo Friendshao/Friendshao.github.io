@@ -42,6 +42,8 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Thesis**
 
+- **邱令倩**，[人工神经网络于引力波数据分析中的探究](theses/QiuLingqian.pdf)（北京大学，2021年6月）
+  - <small>Research on Artificial Neural Network in Gravitational Wave Data Analysis
 - **邓景元**，[脉冲星的受迫进动](theses/DengJingyuan.pdf)（北京大学，2021年6月）
   - <small>The Forced Precession of Pulsars
 - **王惠美**，[各向异性压强下中子星的结构](theses/WangHuimei.pdf)（北京大学，2021年6月）

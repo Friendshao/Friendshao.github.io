@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 141)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 142)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. A. Rezaei Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
+Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
+quasi-dilaton massive Gravity](https://arxiv.org/abs/2105.03744),
+arXiv:2105.03744
 
 0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
