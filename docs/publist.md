@@ -22,7 +22,7 @@ layout: default
 
 0. A. Rezaei Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
-quasi-dilaton massive Gravity](https://arxiv.org/abs/2105.03744),
+quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
 arXiv:2105.03744
 
 0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
