@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 142)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 143)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, H. Xu, 
+**L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B.-Q. Ma,
+[Stringent tests of gravity with highly relativistic binary pulsars in the era
+of LISA and SKA](TBA), submitted
 
 0. A. Rezaei Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
