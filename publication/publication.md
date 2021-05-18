@@ -165,9 +165,9 @@ by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
 
 ### **Publication Status**
 
-| <small> (last updated: April 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
-| **All papers** | 23,000+ | 49 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
-| **Excluding ligo/eht/kagra papers** | 1,700+ | 23 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3AEHT%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) |
+| <small> (last updated: May 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
+| **All papers** | 23,000+ | 50 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
+| **Excluding ligo/eht/kagra papers** | 1,800+ | 23 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3ALIGO%20AND%20not%20cn%3AEHT%20AND%20not%20cn%3A%22Event%20Horizon%20Telescope%22%20AND%20not%20cn%3AKAGRA&ui-citation-summary=true) |
 
 
 <script type="text/x-mathjax-config">
