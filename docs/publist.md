@@ -90,7 +90,7 @@ the spin-down limit: Constraints on gravitational waves from the energetic
 young pulsar PSR J0537$-$6910](https://arxiv.org/abs/2012.12926),
 arXiv:2012.12926
 
-0. A. Rezaei Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
+0. A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
 quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744), *Phys. Rev. D* (accepted),
 arXiv:2105.03744
