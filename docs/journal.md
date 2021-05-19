@@ -39,6 +39,7 @@ tr:nth-child(odd) {
 | [Journal of High Energy Astrophysics](https://www.journals.elsevier.com/journal-of-high-energy-astrophysics) |  **Reviewer** |
 | [Modern Physics Letters A](https://www.worldscientific.com/worldscinet/mpla) |  **Reviewer** |
 | [Monthly Notices of the Royal Astronomical Society](https://academic.oup.com/mnras) | **Reviewer** |
+| [Nature Astronomy](https://www.nature.com/natastron/) |  **Reviewer** |
 | [New Astronomy](https://www.journals.elsevier.com/new-astronomy/) |  **Reviewer** |
 | [Physical Review D](https://journals.aps.org/prd/) |  **Reviewer** |
 | [Physical Review Letters](https://journals.aps.org/prl/) |  **Reviewer** |
