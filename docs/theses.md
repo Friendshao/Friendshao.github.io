@@ -43,7 +43,7 @@ tr:nth-child(odd) {
 <big><big> **Bachelor Thesis**
 
 - **邱令倩**，[适用于引力波探测的神经网络模型探究](theses/QiuLingqian.pdf)（北京大学，2021年6月）
-  - <small>Research on Artificial Neural Network in Gravitational Wave Data Analysis
+  - <small>Research on Suitable Neural Network Models  for Gravitational Wave Detection
 - **邓景元**，[脉冲星的受迫进动](theses/DengJingyuan.pdf)（北京大学，2021年6月）
   - <small>The Forced Precession of Pulsars
 - **王惠美**，[各向异性压强下中子星的结构](theses/WangHuimei.pdf)（北京大学，2021年6月）
