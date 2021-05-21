@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 143)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 144)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -143,6 +143,11 @@ and the geophysics interferometer](https://arxiv.org/abs/2009.09305),
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. P. Kocherlakota<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
+Collaboration), [Constraints on black-hole charges with the 2017 EHT
+observations of M87$^\ast$](https://arxiv.org/abs/2105.09343), *Phys. Rev. D*
+103 (2021) 104047
 
 0. R. Narayan, *et al.* (EHT Collaboration), [The polarized image of a
 synchrotron emitting ring of gas orbiting a black
