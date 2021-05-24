@@ -138,11 +138,11 @@ frequencies](https://arxiv.org/abs/1908.11391),
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA:
 Calibration, detector characterization, physical environmental monitors,
 and the geophysics interferometer](https://arxiv.org/abs/2009.09305),
-*Prog. Theor. Exp. Phys.* (accepted), arXiv:2009.09305
+*Prog. Theor. Exp. Phys.* 2021 (2021) 05A102
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
-*Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+*Prog. Theor. Exp. Phys.* 2021 (2021) 05A103
 
 0. P. Kocherlakota<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
 Collaboration), [Constraints on black-hole charges with the 2017 EHT
