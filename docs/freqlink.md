@@ -62,7 +62,7 @@ layout: default
    [pan](http://pan.pku.edu.cn/),
    [PHY](http://www.phy.pku.edu.cn/), 
    [SD](https://pkuhelper.pku.edu.cn/hole/),
-   [ZC](https://phyxgb.pku.edu.cn/meetplan), 
+   [ZC](http://meetplan.phy.pku.edu.cn), 
    [Port](https://portal.pku.edu.cn/))
 - [KIAA](http://kiaa.pku.edu.cn/),
   [Room](http://room.kiaa.club),
