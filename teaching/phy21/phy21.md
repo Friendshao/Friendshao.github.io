@@ -79,11 +79,11 @@ tr:nth-child(odd) {
 | [10. 流体力学](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
 | [11. 哈密顿原理](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW5](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 5) | （第11章作业可以不写） |
 | **期中考试**（闭卷、笔试） | 2021年4月28日，二教101 | 13:00-14:50PM |
-| 12. 静电场 |  [HW6](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 14)  | |
-| 13. 静电场中的导体和电介质 | [HW7](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 26) |  |
-| 14. 直流电 |  |  |
-| 15. 恒定磁场 | [HW8](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 4) | |
-| 16. 磁介质 |  |  |
+| [12. 静电场](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) |  [HW6](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 14)  | |
+| [13. 静电场中的导体和电介质](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW7](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: May 26) |  |
+| [14. 直流电](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) |  |  |
+| [15. 恒定磁场](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW8](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 4) | |
+| [16. 磁介质](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) |  |  |
 | 17. 电磁感应 | [HW9](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 11) | |
 | 18. 交流电 | | |
 | 19. 麦克斯韦电磁场理论 | [HW10](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 17) | 习题课交（第8章作业可以不写） |
