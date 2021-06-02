@@ -68,11 +68,6 @@ anisotropic gravitational-wave backgrounds using data from Advanced LIGO's
 and Advanced Virgo's first three observing
 runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
-**L. Shao**,
-[Axion induced spin effective couplings](https://arxiv.org/abs/2102.04669),
-arXiv:2102.04669
-
 0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**, [Testing no-hair
 theorem by quasi-periodic oscillations: the quadrupole of GRO
@@ -102,6 +97,11 @@ matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 the spin-down limit: Constraints on gravitational waves from the energetic
 young pulsar PSR J0537$-$6910](https://arxiv.org/abs/2012.12926),
 arXiv:2012.12926
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
+**L. Shao**,
+[Axion induced spin effective couplings](https://arxiv.org/abs/2102.04669),
+*Phys. Rev. D* (accepted), arXiv:2102.04669
 
 0. A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
@@ -1043,7 +1043,7 @@ model](https://arxiv.org/abs/1008.1689),
 <big><big>**Chinese Articles**</big></big>
 
 0. 李洪波<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新,
-[核心坍缩型超新星致引力波暴](TBA), 《天文学进展》, submitted
+[核心坍缩型超新星致引力波暴](TBA), 《天文学进展》, accepted
 
 0. 王弋尘<font color="#5c5c5c"><sup>(#)</sup></font>, 缪雪丽<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**<font
