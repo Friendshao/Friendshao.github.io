@@ -42,14 +42,18 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Thesis**
 
+- **李春江**，[FAST数据中射电频率干扰的来源研究](theses/LiChunjiang.pdf)（北京大学，2021年6月）
+  - <small>Track Down Radio Frequency Interference in FAST Data
 - **邱令倩**，[适用于引力波探测的神经网络模型探究](theses/QiuLingqian.pdf)（北京大学，2021年6月）
   - <small>Research on Suitable Neural Network Models  for Gravitational Wave Detection
 - **邓景元**，[脉冲星的受迫进动](theses/DengJingyuan.pdf)（北京大学，2021年6月）
   - <small>The Forced Precession of Pulsars
 - **王惠美**，[各向异性压强下中子星的结构](theses/WangHuimei.pdf)（北京大学，2021年6月）
   - <small>The Structure of Neutron Stars with Anisotropic Pressure
-- **郭明浩**，[标量-张量引力理论的数值研究](theses/GuoMinghao.pdf)（北京大学，2021年5月）
+- **郭明浩**，[标量张量引力理论的数值研究](theses/GuoMinghao.pdf)（北京大学，2021年6月）
   - <small>A Numerical Study of Scalar-tensor Gravity Theory
+- **赵鑫淼**，[利用脉冲星检验Sgr A$^\ast$黑洞时空](theses/ZhaoXinmiao.pdf)（北京大学，2021年5月）
+  - <small>Test the Spacetime of Sgr A$^\ast$ with Pulsars
 - **陶昱**，[数值相对论引力波波形的初步研究](theses/TaoYu.pdf)（北京大学，2020年5月）
   - <small>Brief Studies on Gravitational Waveform of Numerical Relativity
 - **夏鹤明**，[深度学习在引力波数据处理中的应用](theses/XiaHeming.pdf)（北京大学，2020年6月）
@@ -80,3 +84,17 @@ tr:nth-child(odd) {
 - **王弋尘**，Constraining Dark-matter Particles with Neutron Stars（北京大学，2020年11月）
   <!-- - <small> **Publication**: [Wang+AcASn'21](TBA) -->
 - **安子訸**，Fisher Matrix in Gravitational-wave Data Analysis（北京大学，2020年11月）
+
+
+
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
