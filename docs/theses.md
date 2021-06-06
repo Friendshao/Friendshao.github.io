@@ -22,7 +22,7 @@ tr:nth-child(odd) {
 
 <big><big> **Doctoral Thesis**
 
-- **赵俊杰**，[利用脉冲双星与引力波检验偶极辐射](theses/ZhaoJunjie.pdf)（北京大学，2021年4月）
+- **赵俊杰**，[利用脉冲双星与引力波检验偶极辐射](theses/ZhaoJunjie.pdf)（北京大学，2021年6月）
   - <small> Testing Dipole Radiation with Binary Pulsars and Gravitational Waves
   <!-- - <small> **Publications**: 
   [Zhao+PRD'19](https://doi.org/10.1103/PhysRevD.100.064034), 
@@ -30,7 +30,7 @@ tr:nth-child(odd) {
   [Liu+MNRAS'20](https://doi.org/10.1093/mnras/staa1512),
   [Miao+ApJ'20](https://doi.org/10.3847/1538-4357/ab9dfe),
   [Xia+PRD'21](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.024040) -->
-- **缪雪丽**，[用脉冲双星检验引力理论](theses/MiaoXueli.pdf)（北京大学，2021年4月）
+- **缪雪丽**，[用脉冲双星检验引力理论](theses/MiaoXueli.pdf)（北京大学，2021年6月）
   - <small> Testing Gravity Theories with Binary Pulsar Systems
   <!-- - <small> **Publications**: 
   [Miao+PRD'19](https://doi.org/10.1103/PhysRevD.99.123015), 
