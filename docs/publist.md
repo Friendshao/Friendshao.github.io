@@ -79,10 +79,6 @@ Shao**, [Testing no-hair
 theorem by quasi-periodic oscillations: the quadrupole of GRO
 J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
-on cosmic strings using data from the third Advanced LIGO-Virgo observing
-run](https://arxiv.org/abs/2101.12248), arXiv:2101.12248
-
 0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
@@ -99,10 +95,9 @@ P. Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement
 phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Diving below
-the spin-down limit: Constraints on gravitational waves from the energetic
-young pulsar PSR J0537$-$6910](https://arxiv.org/abs/2012.12926),
-arXiv:2012.12926
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
+on cosmic strings using data from the third Advanced LIGO-Virgo observing
+run](https://arxiv.org/abs/2101.12248), *Phys. Rev. Lett.* (accepted), arXiv:2101.12248
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 **L. Shao**,
@@ -153,6 +148,11 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Diving below
+the spin-down limit: Constraints on gravitational waves from the energetic
+young pulsar PSR J0537$-$6910](https://arxiv.org/abs/2012.12926),
+*Astrophys. J. Lett.* 913 (2021) L27
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA:
 Calibration, detector characterization, physical environmental monitors,
