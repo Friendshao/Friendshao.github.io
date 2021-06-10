@@ -83,7 +83,7 @@ J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
-observatories](TBA), submitted
+observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper limits
 on the isotropic gravitational-wave background from Advanced LIGO's and
@@ -103,11 +103,6 @@ run](https://arxiv.org/abs/2101.12248), *Phys. Rev. Lett.* (accepted), arXiv:210
 **L. Shao**,
 [Axion induced spin effective couplings](https://arxiv.org/abs/2102.04669),
 *Phys. Rev. D* (accepted), arXiv:2102.04669
-
-0. A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
-Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
-quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744), *Phys. Rev. D* (accepted),
-arXiv:2105.03744
 
 0. K. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
 R.P. Eatough, R. Karuppusamy, M. Kramer, P. Torne, R. Wharton, S.
@@ -148,6 +143,11 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
+Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
+quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744), *Phys. Rev. D*
+103 (2021) 123518
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Diving below
 the spin-down limit: Constraints on gravitational waves from the energetic
