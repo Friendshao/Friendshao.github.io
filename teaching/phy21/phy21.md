@@ -88,7 +88,7 @@ tr:nth-child(odd) {
 | 18. 交流电 | | |
 | 19. 麦克斯韦电磁场理论 | [HW10](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 17) | 习题课交（第8章作业可以不写） |
 | *助教答疑* | 科维理所K208 | 2021年6月19日·9:00-11:00AM |
-| *教师答疑* | 科维理所K217 | 2021年6月22日·14:00-17:00PM |
+| *教师答疑* | 科维理所K217 | 2021年6月21日·14:00-17:00PM |
 | **期末考试**（闭卷、笔试） | 2021年6月23日·下午 | 二教105，14:00-16:00PM |
 
 <p></p>
@@ -98,6 +98,7 @@ tr:nth-child(odd) {
 - 课程日历（2021年5月1日）：[我爱上课.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 - 课程作业（2021年5月2日）：[我爱写作业.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 - 力学讲义（2021年4月21日）：[普通物理I（力学）.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
+- 电磁学讲义（2021年6月14日）：[普通物理I（电磁学）.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 
 
 
