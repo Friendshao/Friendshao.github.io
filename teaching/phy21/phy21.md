@@ -20,6 +20,13 @@ tr:nth-child(odd) {
 }
 </style>
 
+
+<h2>
+<font color="red">
+*** Notice: links are not maintained after the end of course! 
+</font>
+</h2>
+
 # <b>General Physics I (普通物理 I)</b>
 
 ### <u>Spring 2021, Peking University</u>
@@ -84,9 +91,9 @@ tr:nth-child(odd) {
 | [14. 直流电](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) |  |  |
 | [15. 恒定磁场](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW8](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 4) | |
 | [16. 磁介质](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) |  |  |
-| 17. 电磁感应 | [HW9](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 11) | |
-| 18. 交流电 | | |
-| 19. 麦克斯韦电磁场理论 | [HW10](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 17) | 习题课交（第8章作业可以不写） |
+| [17. 电磁感应](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW9](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 11) | |
+| [18. 交流电](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | | |
+| [19. 麦克斯韦电磁场理论](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) | [HW10](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8) (ddl: Jun 17) | 习题课交（第8章作业可以不写） |
 | *助教答疑* | 科维理所K208 | 2021年6月19日·9:00-11:00AM |
 | *教师答疑* | 科维理所K217 | 2021年6月21日·14:00-17:00PM |
 | **期末考试**（闭卷、笔试） | 2021年6月23日·下午 | 二教105，14:00-16:00PM |
