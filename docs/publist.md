@@ -104,16 +104,6 @@ run](https://arxiv.org/abs/2101.12248), *Phys. Rev. Lett.* (accepted), arXiv:210
 [Axion induced spin effective couplings](https://arxiv.org/abs/2102.04669),
 *Phys. Rev. D* (accepted), arXiv:2102.04669
 
-0. K. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
-R.P. Eatough, R. Karuppusamy, M. Kramer, P. Torne, R. Wharton, S.
-Chatterjee, J.M. Cordes, G.B. Crew, C. Goddi, S.M. Ransom, H. Rottmann, F.
-Abbate, G.C. Bower, C.D. Brinkerink, H. Falcke, A. Noutsos, A.
-Hernandez-Gomez, W. Jiang, M.D. Johnson, R.-S. Lu, Y. Pidopryhora, L.
-Rezzolla, **L. Shao**, Z. Shen, N. Wex, [An 86-GHz search for pulsars in
-the Galactic Center with the Atacama Large Millimeter/submillimeter
-Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
-arXiv:2104.08986
-
 0. J. Baker, T. Baker, C. Carbone, G. Congedo, C. Contaldi, I. Dvorkin<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Gair, Z. Haiman, D.F. Mota,
 A. Renzini, E. Buis, G. Cusin, J.M. Ezquiaga, G. Mueller, M. Pieroni, J.
@@ -143,6 +133,15 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. K. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes, R.P.
+Eatough, R. Karuppusamy, M. Kramer, P. Torne, R. Wharton, S.  Chatterjee, J.M.
+Cordes, G.B. Crew, C. Goddi, S.M. Ransom, H. Rottmann, F.  Abbate, G.C. Bower,
+C.D. Brinkerink, H. Falcke, A. Noutsos, A.  Hernandez-Gomez, W. Jiang, M.D.
+Johnson, R.-S. Lu, Y. Pidopryhora, L.  Rezzolla, **L. Shao**, Z. Shen, N. Wex,
+[An 86-GHz search for pulsars in the Galactic Center with the Atacama Large
+Millimeter/submillimeter Array](https://arxiv.org/abs/2104.08986), *Astrophys.
+J.* 914 (2021) 30
 
 0. A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
