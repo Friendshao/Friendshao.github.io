@@ -42,6 +42,7 @@ tr:nth-child(odd) {
 | [Nature Astronomy](https://www.nature.com/natastron/) |  **Reviewer** |
 | [New Astronomy](https://www.journals.elsevier.com/new-astronomy/) |  **Reviewer** |
 | [Physical Review D](https://journals.aps.org/prd/) |  **Reviewer** |
+| [Physical Review E](https://journals.aps.org/pre/) |  **Reviewer** |
 | [Physical Review Letters](https://journals.aps.org/prl/) |  **Reviewer** |
 | [Physics Letters B](https://www.journals.elsevier.com/physics-letters-b/) |  **Reviewer** |
 | [Physics of the Dark Universe](https://www.journals.elsevier.com/physics-of-the-dark-universe/) | **Reviewer** |

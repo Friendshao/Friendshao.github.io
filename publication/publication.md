@@ -165,8 +165,8 @@ by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
 
 ### **Publication Status**
 
-| <small> (last updated: May 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
-| **All Papers** | 24,000+ | 50 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
+| <small> (last updated: June 2021) | **CITATION** | **$H$-FACTOR** | **LINK** |
+| **All Papers** | 24,000+ | 51 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
 | **Short-author-list Papers** | 1,800+ | 23 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=250&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true) |
 
 
