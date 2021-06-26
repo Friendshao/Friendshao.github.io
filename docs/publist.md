@@ -44,11 +44,6 @@ arXiv:2105.11641
 [Stringent tests of gravity with highly relativistic binary pulsars in the era
 of LISA and SKA](TBA), submitted
 
-0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
-from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
-glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
-arXiv:2104.14417
-
 0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
 M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
 A. McCann, G. Oganesyan, E. Palazzi, S. Ronchini, A. Rossi, O. Sharan
@@ -69,11 +64,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the
 photon mass with cosmological propagation of fast radio
 bursts](https://arxiv.org/abs/2103.15299), arXiv:2103.15299
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-anisotropic gravitational-wave backgrounds using data from Advanced LIGO's
-and Advanced Virgo's first three observing
-runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
-
 0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**, [Testing no-hair
 theorem by quasi-periodic oscillations: the quadrupole of GRO
@@ -85,19 +75,25 @@ Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper limits
-on the isotropic gravitational-wave background from Advanced LIGO's and
-Advanced Virgo's third observing run](https://arxiv.org/abs/2101.12130),
-arXiv:2101.12130
-
 0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 P. Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement
 phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
-on cosmic strings using data from the third Advanced LIGO-Virgo observing
-run](https://arxiv.org/abs/2101.12248), *Phys. Rev. Lett.* (accepted), arXiv:2101.12248
+0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
+from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
+glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
+*Astrophys. J.* (accepted), arXiv:2104.14417
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+anisotropic gravitational-wave backgrounds using data from Advanced LIGO's and
+Advanced Virgo's first three observing runs](https://arxiv.org/abs/2103.08520),
+*Phys. Rev. D* (accepted), arXiv:2103.08520
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper limits
+on the isotropic gravitational-wave background from Advanced LIGO's and
+Advanced Virgo's third observing run](https://arxiv.org/abs/2101.12130),
+*Phys. Rev. D* (accepted), arXiv:2101.12130
 
 0. J. Baker, T. Baker, C. Carbone, G. Congedo, C. Contaldi, I. Dvorkin<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Gair, Z. Haiman, D.F. Mota,
@@ -128,6 +124,10 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
+cosmic strings using data from the third Advanced LIGO-Virgo observing
+run](https://arxiv.org/abs/2101.12248), *Phys. Rev. Lett.* 126 (2021) 241102 
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 **L. Shao**,
