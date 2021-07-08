@@ -71,6 +71,6 @@ width="20">pku.edu.cn
 
 <img src="office.png" width="30"> **Address:** KIAA at Peking University, Yiheyuan Road 5, Haidian District, Beijing 100871, China
 
-<img src="meet.png" width="32"> **Group Meeting:** Sundays 9:00-11:30 PM, KIAA-208
+<img src="meet.png" width="32"> **Group Meeting:** Sundays 9:00-11:30 AM, KIAA-208
 
 <img src="open.jpg" width="30"> **Office Hours:** Thursdays 14:00-17:00 PM (by appointment)
