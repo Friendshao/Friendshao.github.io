@@ -82,6 +82,13 @@ $$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~
 | *助教答疑（高勇、刘畅）* | 科维理所K208 | Jan. 7（10-11am & 14-17pm） |
 | **期末考试（闭卷）** | [课程小结](https://www.icloud.com/iclouddrive/0t11I0ACD7hG7FrZLxnrS1YoA)  | 2020年1月8日（8:30am），二教207室 |
 
+<p></p>
+
+## 学生对课程的总体评价
+
+<div style="display: flex; justify-content: center;">
+<img src="thmech19_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({

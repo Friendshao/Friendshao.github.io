@@ -107,7 +107,13 @@ tr:nth-child(odd) {
 - 力学讲义（2021年4月21日）：[普通物理I（力学）.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 - 电磁学讲义（2021年6月14日）：[普通物理I（电磁学）.pdf](https://disk.pku.edu.cn/link/C43F352A4E7B0B3CCB9CEE8840A1E1C8)
 
+<p></p>
 
+## 学生对课程的总体评价
+
+<div style="display: flex; justify-content: center;">
+<img src="phy21_score.png" width="880">
+</div>
 
 
 <script type="text/x-mathjax-config">

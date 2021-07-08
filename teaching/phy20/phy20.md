@@ -100,8 +100,13 @@ tr:nth-child(odd) {
 | *答疑* | KIAA217<br>KIAA404<br>物院西415 | 2021年1月15日14:00-16:00PM<br>2021年1月17日9:00-11:00AM |
 | **期末考试** | | **2021年1月18日8:30AM**，二教411，闭卷 |
 
+<p></p>
 
+## 学生对课程的总体评价
 
+<div style="display: flex; justify-content: center;">
+<img src="phy20_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
