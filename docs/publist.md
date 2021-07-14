@@ -54,7 +54,7 @@ arXiv:2105.11641
 0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, H. Xu, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B.-Q. Ma,
 [Stringent tests of gravity with highly relativistic binary pulsars in the era
-of LISA and SKA](TBA), submitted
+of LISA and SKA](https://arxiv.org/abs/2107.05812), arXiv:2107.05812
 
 0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
 M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
