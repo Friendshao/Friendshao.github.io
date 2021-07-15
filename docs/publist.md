@@ -46,11 +46,6 @@ LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
-continuous gravitational waves from young supernova remnants in the early third
-observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/2105.11641),
-arXiv:2105.11641
-
 0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, H. Xu, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B.-Q. Ma,
 [Stringent tests of gravity with highly relativistic binary pulsars in the era
@@ -86,6 +81,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
+continuous gravitational waves from young supernova remnants in the early third
+observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/2105.11641),
+*Astrophys. J.* (accepted), arXiv:2105.11641
 
 0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, P.
 Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement phase
