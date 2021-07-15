@@ -87,10 +87,10 @@ Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
 
-0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
-P. Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement
-phase transition in different QCD
-matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
+0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, P.
+Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement phase
+transition in different QCD matters](https://arxiv.org/abs/2101.08012), *Phys.
+Rev. D* (accepted), arXiv:2101.08012
 
 0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
