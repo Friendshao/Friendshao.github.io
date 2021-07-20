@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 152)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 153)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -81,6 +81,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
+
+0. M. Janssen, *et al.* (EHT Collaboration), [Event Horizon Telescope
+observations of the jet launching and collimation in Centaurus
+A](https://doi.org/10.1038/s41550-021-01417-w), Nat. Astron. (accepted)
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 continuous gravitational waves from young supernova remnants in the early third
