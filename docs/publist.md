@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 153)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 154)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh, Y.
+Izadi, S. Kazempour<font color="#5c5c5c"><sup>($\ast$)</sup></font>, **L.
+Shao**, [Cosmological aspects of cubic Galileon massive
+gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
@@ -82,9 +87,10 @@ Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
 
-0. M. Janssen, *et al.* (EHT Collaboration), [Event Horizon Telescope
-observations of the jet launching and collimation in Centaurus
-A](https://doi.org/10.1038/s41550-021-01417-w), Nat. Astron. (accepted)
+0. M. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
+Collaboration), [Event Horizon Telescope observations of the jet launching and
+collimation in Centaurus A](https://doi.org/10.1038/s41550-021-01417-w), Nat.
+Astron. (accepted)
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 continuous gravitational waves from young supernova remnants in the early third
@@ -164,10 +170,10 @@ Johnson, R.-S. Lu, Y. Pidopryhora, L.  Rezzolla, **L. Shao**, Z. Shen, N. Wex,
 Millimeter/submillimeter Array](https://arxiv.org/abs/2104.08986), *Astrophys.
 J.* 914 (2021) 30
 
-0. A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
-Kazempour, **L. Shao**, [Cosmological perturbations in Gauss-Bonnet
-quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744), *Phys. Rev. D*
-103 (2021) 123518
+0. A.R. Akbarieh<font color="#5c5c5c"><sup>(#)</sup></font>, S.  Kazempour<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Cosmological
+perturbations in Gauss-Bonnet quasi-dilaton massive
+gravity](https://arxiv.org/abs/2105.03744), *Phys. Rev. D* 103 (2021) 123518
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Diving below
 the spin-down limit: Constraints on gravitational waves from the energetic
