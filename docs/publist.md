@@ -112,11 +112,6 @@ anisotropic gravitational-wave backgrounds using data from Advanced LIGO's and
 Advanced Virgo's first three observing runs](https://arxiv.org/abs/2103.08520),
 *Phys. Rev. D* (accepted), arXiv:2103.08520
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper limits
-on the isotropic gravitational-wave background from Advanced LIGO's and
-Advanced Virgo's third observing run](https://arxiv.org/abs/2101.12130),
-*Phys. Rev. D* (accepted), arXiv:2101.12130
-
 0. J. Baker, T. Baker, C. Carbone, G. Congedo, C. Contaldi, I. Dvorkin<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Gair, Z. Haiman, D.F. Mota,
 A. Renzini, E. Buis, G. Cusin, J.M. Ezquiaga, G. Mueller, M. Pieroni, J.
@@ -146,6 +141,11 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper limits
+on the isotropic gravitational-wave background from Advanced LIGO's and
+Advanced Virgo's third observing run](https://arxiv.org/abs/2101.12130),
+*Phys. Rev. D* 104 (2021) 022004
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Observation of
 gravitational waves from two neutron star$-$black hole
