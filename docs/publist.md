@@ -9,8 +9,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 154)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 19)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 153)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
 ---
@@ -521,17 +521,6 @@ LIGO/Virgo binary-black-hole merger
 GW170814](https://arxiv.org/abs/1901.01540),
 *Astrophys. J. Lett.* 876 (2019) L7
 
-0. C. Goddi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Crew, V.
-Impellizzeri, I. Martí-Vidal, L.D. Matthews, H. Messias, H. Rottmann, W.
-Alef, L. Blackburn, T. Bronzwaer, C.-. Chan, J. Davelaar, R. Deane, J.
-Dexter, S. Doeleman, H. Falcke, V.L. Fish, R. Fraga-Encinas, C.M. Fromm,
-R.I. Herrero-Illana, D. James, M. Janssen, M. Kramer, T.P. Krichbaum, M. De
-Laurentis, E. Liuzzo, Y. Mizuno, M. Moscibrodzka, I. Natarajan, O. Porth,
-L. Rezzolla, K. Rygl, F. Roelofs, E. Ros, A.L. Roy, **L. Shao**, H.J. van
-Langevelde, I. van Bemmel, R. Tilanus, P. Torne, M. Wielgus, Z. Younsi,
-J.A. Zensus, [First M87 Event Horizon Telescope results and the role of
-ALMA](https://arxiv.org/abs/1910.10193), *Messenger* 177 (2019) 25
-
 0. B.P. Abbott, *et al.* (LIGO / Virgo Collaboration), [Low-latency
 gravitational-wave alerts for multimessenger astronomy during the second
 Advanced LIGO and Virgo observing run](https://arxiv.org/abs/1901.03310),
@@ -947,6 +936,17 @@ Kramer, T. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
 [ngVLAKey Science Goal 4: Fundamental Physics with Galactic Center
 Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
 *American Astronomical Society*, AAS Meeting no. 235, id. no. 364.21
+
+0. C. Goddi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Crew, V.
+Impellizzeri, I. Martí-Vidal, L.D. Matthews, H. Messias, H. Rottmann, W.
+Alef, L. Blackburn, T. Bronzwaer, C.-. Chan, J. Davelaar, R. Deane, J.
+Dexter, S. Doeleman, H. Falcke, V.L. Fish, R. Fraga-Encinas, C.M. Fromm,
+R.I. Herrero-Illana, D. James, M. Janssen, M. Kramer, T.P. Krichbaum, M. De
+Laurentis, E. Liuzzo, Y. Mizuno, M. Moscibrodzka, I. Natarajan, O. Porth,
+L. Rezzolla, K. Rygl, F. Roelofs, E. Ros, A.L. Roy, **L. Shao**, H.J. van
+Langevelde, I. van Bemmel, R. Tilanus, P. Torne, M. Wielgus, Z. Younsi,
+J.A. Zensus, [First M87 Event Horizon Telescope results and the role of
+ALMA](https://arxiv.org/abs/1910.10193), *Messenger* 177 (2019) 25
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 [Degeneracy in studying the supranuclear equation of state and modified
