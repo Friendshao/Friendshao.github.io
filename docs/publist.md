@@ -44,7 +44,8 @@ data](https://arxiv.org/abs/2107.00600), arXiv:2107.00600
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
-around double white dwarfs with LISA and Taiji](TBA), submitted
+around double white dwarfs with LISA and
+Taiji](https://arxiv.org/abs/2108.01357), arXiv:2108.01357
 
 0. M. Guo<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
@@ -116,11 +117,6 @@ from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
 *Astrophys. J.* (accepted), arXiv:2104.14417
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-anisotropic gravitational-wave backgrounds using data from Advanced LIGO's and
-Advanced Virgo's first three observing runs](https://arxiv.org/abs/2103.08520),
-*Phys. Rev. D* (accepted), arXiv:2103.08520
-
 0. J. Baker, T. Baker, C. Carbone, G. Congedo, C. Contaldi, I. Dvorkin<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Gair, Z. Haiman, D.F. Mota,
 A. Renzini, E. Buis, G. Cusin, J.M. Ezquiaga, G. Mueller, M. Pieroni, J.
@@ -150,6 +146,11 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+anisotropic gravitational-wave backgrounds using data from Advanced LIGO's and
+Advanced Virgo's first three observing runs](https://arxiv.org/abs/2103.08520),
+*Phys. Rev. D* 104 (2021) 022005 
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper limits
 on the isotropic gravitational-wave background from Advanced LIGO's and
