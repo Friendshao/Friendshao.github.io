@@ -142,10 +142,10 @@ Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
 
-0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, P.
-Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement phase
-transition in different QCD matters](https://arxiv.org/abs/2101.08012), *Phys.
-Rev. D* 104 (2021) 043510
+0. S.-L. Li<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**, P.  Wu, H.
+Yu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [NANOGrav signal from
+first-order confinement/deconfinement phase transition in different QCD
+matters](https://arxiv.org/abs/2101.08012), *Phys.  Rev. D* 104 (2021) 043510
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 anisotropic gravitational-wave backgrounds using data from Advanced LIGO's and
