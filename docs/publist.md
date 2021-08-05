@@ -107,11 +107,6 @@ continuous gravitational waves from young supernova remnants in the early third
 observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/2105.11641),
 *Astrophys. J.* (accepted), arXiv:2105.11641
 
-0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, P.
-Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement phase
-transition in different QCD matters](https://arxiv.org/abs/2101.08012), *Phys.
-Rev. D* (accepted), arXiv:2101.08012
-
 0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
@@ -146,6 +141,11 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. S.-L. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, P.
+Wu, H. Yu, [NANOGrav signal from first-order confinement/deconfinement phase
+transition in different QCD matters](https://arxiv.org/abs/2101.08012), *Phys.
+Rev. D* 104 (2021) 043510
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 anisotropic gravitational-wave backgrounds using data from Advanced LIGO's and
