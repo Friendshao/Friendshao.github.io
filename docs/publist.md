@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 155)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 156)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
+Lorentz/CPT symmetry through fifty gravitational-wave
+events](https://arxiv.org/abs/2108.02974), arXiv:2108.02974
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
