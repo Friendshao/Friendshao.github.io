@@ -66,11 +66,6 @@ LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
 
-0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, H. Xu, 
-**L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B.-Q. Ma,
-[Stringent tests of gravity with highly relativistic binary pulsars in the era
-of LISA and SKA](https://arxiv.org/abs/2107.05812), arXiv:2107.05812
-
 0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
 M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
 A. McCann, G. Oganesyan, E. Palazzi, S. Ronchini, A. Rossi, O. Sharan
@@ -101,6 +96,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
+
+0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, H. Xu, 
+**L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B.-Q. Ma,
+[Stringent tests of gravity with highly relativistic binary pulsars in the era
+of LISA and SKA](https://arxiv.org/abs/2107.05812), *Astrophys. J.* (accepted), arXiv:2107.05812
 
 0. M. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Event Horizon Telescope observations of the jet launching and
