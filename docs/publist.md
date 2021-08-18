@@ -81,15 +81,16 @@ Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
 
-0. H. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the
-photon mass with cosmological propagation of fast radio
-bursts](https://arxiv.org/abs/2103.15299), arXiv:2103.15299
-
 0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**, [Testing no-hair
 theorem by quasi-periodic oscillations: the quadrupole of GRO
 J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
+
+0. H. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the
+photon mass with cosmological propagation of fast radio
+bursts](https://arxiv.org/abs/2103.15299), 
+*Phys. Lett. B* (accepted), arXiv:2103.15299
 
 0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
