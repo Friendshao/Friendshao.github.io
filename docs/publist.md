@@ -95,7 +95,8 @@ J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
-observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
+observatories](https://arxiv.org/abs/2106.04883),  
+*Phys. Rev. D* (accepted), arXiv:2106.04883
 
 0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, H. Xu, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B.-Q. Ma,
