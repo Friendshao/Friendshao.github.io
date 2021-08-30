@@ -25,11 +25,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
 neutron star$-$black hole mergers: multiband observations and early
 warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
-Lorentz/CPT symmetry through fifty gravitational-wave
-events](https://arxiv.org/abs/2108.02974), arXiv:2108.02974
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars in massive
@@ -90,6 +85,12 @@ arXiv:2104.09534
 Shao**, [Testing no-hair
 theorem by quasi-periodic oscillations: the quadrupole of GRO
 J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
+Lorentz/CPT symmetry through fifty gravitational-wave
+events](https://arxiv.org/abs/2108.02974), *Astrophys. J.* (accepted),
+arXiv:2108.02974
 
 0. H. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the

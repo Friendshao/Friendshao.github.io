@@ -6,22 +6,13 @@ permalink: /about/
 
 ## About me
 
-<img style="float: right;" src="Barcelona2018.jpeg" width="280" hspace="10"> 
+<img style="float: right;" src="shao2.png" width="180" hspace="10"> 
 
-Since September 2018, I am a **Research Professor** in the [Kavli Institute
+Since September 1, 2018, I am an **Assistant Professor** (研究员/助理教授) in the [Kavli Institute
 for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
 University](http://www.pku.edu.cn/), Beijing China.
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
 
-### Research Interests <small><small>([Research Group](https://kiaagravity.github.io))</small></small>
-
-- Tests of gravity theories
-- Gravitational waves
-- Pulsars and neutron stars
-- Black-hole spacetime & black-hole astrophysics
-- Precision tests of fundamental physics
-- Astrophysical studies of dark matter
-- Bayesian data analysis and statistics
 
 ---
 
@@ -29,9 +20,9 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 ### Selected Professional Recognitions
 
-- Assistant Professor (研究员/助理教授/博士生导师/博雅青年学者) at
-  [KIAA-PKU](http://kiaa.pku.edu.cn/people/lijing-shao-%E9%82%B5%E7%AB%8B%E6%99%B6)
-- Head of a [Max Planck Partner Group](http://kiaa.pku.edu.cn/info/1129/7050.htm) between KIAA and MPIfR
+- Doctoral Supervisor (博士生导师)
+- Boya Youth Scholar (博雅青年学者) at [Peking University](http://www.pku.edu.cn/)
+- Head of a [Max Planck Partner Group](http://kiaa.pku.edu.cn/info/1129/7050.htm)  between [KIAA](http://kiaa.pku.edu.cn/) and [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en)
 - Elected to the Young Elite Scientists Sponsorship Program (青年人才托举工程) by the [CAST](http://www.cast.org.cn/)
 - [2020 Breakthrough Prize in Fundamental
   Physics](https://friendshao.github.io/docs/breakthrough_Certificate_2020.pdf) awarded to the EHTC (shared by 347 members)
@@ -48,6 +39,16 @@ University](http://www.pku.edu.cn/), Beijing China.
 ---
 
 <p></p>
+
+### Research Interests <small><small>([Research Group](https://kiaagravity.github.io))</small></small>
+
+- Tests of gravity theories
+- Gravitational waves
+- Pulsars and neutron stars
+- Black-hole spacetime & black-hole astrophysics
+- Precision tests of fundamental physics
+- Astrophysical studies of dark matter
+- Bayesian data analysis and statistics
 
 ### Information for Recruiting Students
 
