@@ -92,12 +92,6 @@ Lorentz/CPT symmetry through fifty gravitational-wave
 events](https://arxiv.org/abs/2108.02974), *Astrophys. J.* (accepted),
 arXiv:2108.02974
 
-0. H. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the
-photon mass with cosmological propagation of fast radio
-bursts](https://arxiv.org/abs/2103.15299), 
-*Phys. Lett. B* (accepted), arXiv:2103.15299
-
 0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
 Ma, [Dipole radiation from binary neutron stars with ground-based
@@ -154,6 +148,12 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. H. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the photon
+mass with cosmological propagation of fast radio
+bursts](https://arxiv.org/abs/2103.15299), 
+*Phys. Lett. B* 820 (2021) 136596
 
 0. S.-L. Li<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**, P.  Wu, H.
 Yu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [NANOGrav signal from
