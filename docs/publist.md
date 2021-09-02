@@ -81,10 +81,10 @@ Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
 
-0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**, [Testing no-hair
-theorem by quasi-periodic oscillations: the quadrupole of GRO
-J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
+0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.  Shao**,
+[Testing no-hair theorem by quasi-periodic oscillations: the quadrupole of GRO
+J1655$-$40](https://arxiv.org/abs/2102.02232), 
+*J. Cosmol. Astropart. Phys.* (accepted), arXiv:2102.02232
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
