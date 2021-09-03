@@ -47,11 +47,6 @@ run](https://arxiv.org/abs/2107.03701), arXiv:2107.03701
 continuous gravitational waves from isolated neutron stars in the early O3 LIGO
 data](https://arxiv.org/abs/2107.00600), arXiv:2107.00600
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
-around double white dwarfs with LISA and
-Taiji](https://arxiv.org/abs/2108.01357), arXiv:2108.01357
-
 0. M. Guo<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 [Extended reduced-order surrogate models for scalar-tensor gravity in the strong
@@ -80,6 +75,11 @@ Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
 Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
+around double white dwarfs with LISA and
+Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted), arXiv:2108.01357
 
 0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.  Shao**,
 [Testing no-hair theorem by quasi-periodic oscillations: the quadrupole of GRO
