@@ -106,8 +106,8 @@ of LISA and SKA](https://arxiv.org/abs/2107.05812), *Astrophys. J.* (accepted), 
 
 0. M. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Event Horizon Telescope observations of the jet launching and
-collimation in Centaurus A](https://doi.org/10.1038/s41550-021-01417-w), Nat.
-Astron. (accepted)
+collimation in Centaurus A](https://doi.org/10.1038/s41550-021-01417-w), *Nat.
+Astron.* (accepted)
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 continuous gravitational waves from young supernova remnants in the early third
