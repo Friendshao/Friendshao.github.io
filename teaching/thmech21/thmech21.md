@@ -60,7 +60,7 @@ $$\delta S = 0$$
 ## 课程内容
 
 | **内容** | **作业** | **备注** |
-| 0. 课程介绍 | | |
+| [0. 课程介绍](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
 | [1. 矢量力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
 | 2. 拉格朗日方程 | | |
 | 3. 有心运动 | | |
