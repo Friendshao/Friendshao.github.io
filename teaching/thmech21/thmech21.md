@@ -62,7 +62,7 @@ $$\delta S = 0$$
 | **内容** | **作业** | **备注** |
 | [0. 课程介绍](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
 | [1. 矢量力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
-| 2. 拉格朗日方程 | | |
+| [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
 | 3. 有心运动 | | |
 | 4. 小振动 | | |
 | *答疑* | 科维理所K208 | 10月27日·19:00-20:30PM<br>10月30日·19:00-20:30PM | 
