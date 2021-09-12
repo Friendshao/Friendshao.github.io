@@ -61,8 +61,8 @@ $$\delta S = 0$$
 
 | **内容** | **作业** | **备注** |
 | [0. 课程介绍](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
-| [1. 矢量力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
-| [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
+| [1. 矢量力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW1](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW1 ddl: Sep 22 |
+| [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW2](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW2 ddl: Oct 11 |
 | 3. 有心运动 | | |
 | 4. 小振动 | | |
 | *答疑* | 科维理所K208 | 10月27日·19:00-20:30PM<br>10月30日·19:00-20:30PM | 
@@ -75,6 +75,14 @@ $$\delta S = 0$$
 | 10. 相对论性的分析力学 | | |
 | *答疑* | 科维理所K208 | 1月2日·19:00-20:30PM<br>1月9日·09:30-11:00AM | 
 | **期末考试（闭卷，笔试）** | | 2022年1月10日·上午 |
+
+<p></p>
+
+## 文件下载
+
+- 课程日历（2021年9月11日）：[我爱上课.pdf](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E)
+
+<p></p>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
