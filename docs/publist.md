@@ -53,10 +53,6 @@ data](https://arxiv.org/abs/2107.00600), arXiv:2107.00600
 field and applications to binary pulsars and gravitational
 waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-intermediate mass black hole binaries in the third observing run of Advanced
-LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
@@ -75,6 +71,11 @@ Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
 Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+intermediate mass black hole binaries in the third observing run of Advanced
+LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
+*Astron. & Astrophys.* (accepted), arXiv:2105.15120
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
