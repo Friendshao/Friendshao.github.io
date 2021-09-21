@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 157)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 159)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,15 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
+LIGO data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
+
+0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, W. Zhao, [Tests of
+gravitaitonal-wave birefringence with the gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718),
+arXiv:2109.09718
 
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
