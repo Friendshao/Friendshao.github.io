@@ -63,7 +63,7 @@ $$\delta S = 0$$
 | [0. 课程介绍](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
 | [1. 矢量力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW1](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW1 ddl: Sep 22 |
 | [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW2](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW2 ddl: Oct 11 |
-| 3. 有心运动 | | |
+| 3. 有心运动 | [HW3](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW3 ddl: Oct 20 |
 | 4. 小振动 | | |
 | *答疑* | 科维理所K208 | 10月27日·19:00-20:30PM<br>10月30日·19:00-20:30PM | 
 | **期中考试（闭卷，笔试）** | 2021年11月1日 | 时间随堂，地点待定 |
