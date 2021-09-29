@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 159)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 161)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,16 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
+strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
+arXiv:2109.13234
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+subsolar-mass binaries in the first half of Advanced LIGO and Virgo's third
+observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
@@ -33,11 +43,6 @@ arXiv:2109.09718
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
 neutron star$-$black hole mergers: multiband observations and early
 warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
-
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars in massive
-scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
@@ -80,6 +85,13 @@ Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
 Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars in massive
+scalar-tensor gravity: X-ray pulsars and tidal
+deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* (accepted),
+arXiv:2109.13453
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 intermediate mass black hole binaries in the third observing run of Advanced
