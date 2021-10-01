@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 161)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 162)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -85,6 +85,12 @@ Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
 Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
+
+0. F. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, X. Chen, **L.
+Shao**, K. Inayoshi, [The eccentric and accelerating stellar binary black hole
+mergers in galactic nuclei: observing in ground and space gravitational wave
+observatories](https://arxiv.org/abs/2109.14842), *Astrophys. J* (accepted),
+arXiv:2109.14842
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
