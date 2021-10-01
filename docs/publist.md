@@ -120,13 +120,6 @@ Lorentz/CPT symmetry through fifty gravitational-wave
 events](https://arxiv.org/abs/2108.02974), *Astrophys. J.* (accepted),
 arXiv:2108.02974
 
-0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
-Ma, [Dipole radiation from binary neutron stars with ground-based
-laser-interferometer and atom-interferometer gravitational-wave
-observatories](https://arxiv.org/abs/2106.04883),  
-*Phys. Rev. D* (accepted), arXiv:2106.04883
-
 0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, H. Xu, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B.-Q. Ma,
 [Stringent tests of gravity with highly relativistic binary pulsars in the era
@@ -176,6 +169,13 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
+Ma, [Dipole radiation from binary neutron stars with ground-based
+laser-interferometer and atom-interferometer gravitational-wave
+observatories](https://arxiv.org/abs/2106.04883),  
+*Phys. Rev. D* 104 (2021) 084008
 
 0. H. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bounding the photon
