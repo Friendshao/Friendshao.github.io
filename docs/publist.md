@@ -89,7 +89,7 @@ arXiv:2104.09534
 0. F. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, X. Chen, **L.
 Shao**, K. Inayoshi, [The eccentric and accelerating stellar binary black hole
 mergers in galactic nuclei: observing in ground and space gravitational wave
-observatories](https://arxiv.org/abs/2109.14842), *Astrophys. J* (accepted),
+observatories](https://arxiv.org/abs/2109.14842), *Astrophys. J.* (accepted),
 arXiv:2109.14842
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
