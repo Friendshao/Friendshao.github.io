@@ -48,8 +48,8 @@ warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
 long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
 Virgo run](https://arxiv.org/abs/2107.13796), arXiv:2107.13796
 
-0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh, Y.
-Izadi, S. Kazempour<font color="#5c5c5c"><sup>($\ast$)</sup></font>, **L.
+0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.  Izadi, S. Kazempour, **L.
 Shao**, [Cosmological aspects of cubic Galileon massive
 gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
 
