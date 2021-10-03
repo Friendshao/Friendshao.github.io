@@ -67,8 +67,8 @@ $$\delta S = 0$$
 | [4. 小振动](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW4](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW4 ddl: Oct 27 |
 | *答疑* | 科维理所K208 | 10月27日·19:00-20:30PM<br>10月30日·19:00-20:30PM | 
 | **期中考试（闭卷，笔试）** | 2021年11月1日 | 时间随堂，地点待定 |
-| 5. 刚体运动学 | | |
-| 6. 刚体动力学 | | |
+| [5. 刚体运动学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
+| [6. 刚体动力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | | |
 | 7. 哈密顿力学 | | |
 | 8. 力学中的变分方法 | | |
 | 9. 连续介质动力学 | | |
