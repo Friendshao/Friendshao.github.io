@@ -48,11 +48,6 @@ warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
 long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
 Virgo run](https://arxiv.org/abs/2107.13796), arXiv:2107.13796
 
-0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.  Izadi, S. Kazempour, **L.
-Shao**, [Cosmological aspects of cubic Galileon massive
-gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.03701), arXiv:2107.03701
@@ -85,6 +80,12 @@ Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
 Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
+
+0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.  Izadi, S. Kazempour, **L.
+Shao**, [Cosmological aspects of cubic Galileon massive
+gravity](https://arxiv.org/abs/2107.09919), *Phys. Rev.  D* (accepted),
+arXiv:2107.09919
 
 0. F. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, X. Chen, **L.
 Shao**, K. Inayoshi, [The eccentric and accelerating stellar binary black hole
