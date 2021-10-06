@@ -110,11 +110,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
 around double white dwarfs with LISA and
 Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted), arXiv:2108.01357
 
-0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.  Shao**,
-[Testing no-hair theorem by quasi-periodic oscillations: the quadrupole of GRO
-J1655$-$40](https://arxiv.org/abs/2102.02232), 
-*J. Cosmol. Astropart. Phys.* (accepted), arXiv:2102.02232
-
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
 Lorentz/CPT symmetry through fifty gravitational-wave
@@ -170,6 +165,11 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.  Shao**,
+[Testing no-hair theorem by quasi-periodic oscillations: the quadrupole of GRO
+J1655$-$40](https://arxiv.org/abs/2102.02232), 
+*J. Cosmol. Astropart. Phys.* 10 (2021) 003
 
 0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
