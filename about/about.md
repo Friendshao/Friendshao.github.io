@@ -52,9 +52,9 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 ### Information for Recruiting Students
 
-- [Master & PhD Students](https://kiaagravity.github.io/assets/phd)
-- [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate)
-- [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor)
+- [Master & PhD Students](https://kiaagravity.github.io/assets/phd)（博士研究生）
+- [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate)（本科生科研）
+- [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor)（本科生毕业设计）
 
 - Lists of [**current members**](https://kiaagravity.github.io/member/) and [**past students**](https://friendshao.github.io/docs/theses), as well as their research topics 
 
