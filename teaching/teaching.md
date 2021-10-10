@@ -48,9 +48,12 @@ tr:nth-child(odd) {
 
 | **ID** | **COURSE** | **RECORD** | **COMMENT** |
 | 00407794 | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [2021F](gr21/gr21) (26 ppl.)<br>[2020F](gr20/gr20) (35 ppl.)<br>[2019F](gr19/gr19) (24 ppl.) | |
+| 00430151 | **Lectures on Frontiers of Modern Physics (Ⅰ)**<br>**现代物理前沿讲座（I）** | 2018F (2 hr)<br>2020F (2 hr)<br>2021F (2 hr) | <small>Guest Lecturer |
 | 00431132<br><small>(Ex. 00431680) | **General Physics (I)**<br>**普通物理（I）** | [2021S](phy21/phy21) (158 ppl.) | <small>Mechanics<br>Electromagnetism |
 | 00431133<br><small>(Ex. 00431680) | **General Physics (II)**<br>**普通物理（II）** | [2020F](phy20/phy20) (75 ppl.) | <small>Thermal Physics<br>Optics<br>Modern Physics |
+| 00431547 | **Frontier of Astrophysics**<br>**天体物理前沿** | 2019S (2 hr)<br>2019F (2 hr)<br>2021F (1 hr) | <small>Guest Lecturer |
 | 00432198<br><small>(Ex. 00432205) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | [2021F](thmech21/thmech21) (119 ppl.)<br>[2019F](thmech19/thmech19) (96 ppl.) | |
+| Tsinghua U. | **Lectures on Frontier of Astrophysics**<br>**天体物理前沿讲座** | 2020F (2 hr) | <small>Guest Lecturer |
 
 <!-----------------------------
 
