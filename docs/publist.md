@@ -121,11 +121,6 @@ arXiv:2108.02974
 [Stringent tests of gravity with highly relativistic binary pulsars in the era
 of LISA and SKA](https://arxiv.org/abs/2107.05812), *Astrophys. J.* (accepted), arXiv:2107.05812
 
-0. M. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
-Collaboration), [Event Horizon Telescope observations of the jet launching and
-collimation in Centaurus A](https://doi.org/10.1038/s41550-021-01417-w), *Nat.
-Astron.* (accepted)
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 continuous gravitational waves from young supernova remnants in the early third
 observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/2105.11641),
@@ -165,6 +160,11 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. M. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
+Collaboration), [Event Horizon Telescope observations of the jet launching and
+collimation in Centaurus A](https://doi.org/10.1038/s41550-021-01417-w), *Nat.
+Astron.* 5 (2021) 1017
 
 0. A. Allahyari<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.  Shao**,
 [Testing no-hair theorem by quasi-periodic oscillations: the quadrupole of GRO

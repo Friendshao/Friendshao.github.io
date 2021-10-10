@@ -32,7 +32,7 @@ layout: default
   [Baidu](http://www.baidu.com/),
   [smallpdf](http://smallpdf.com/),
   [sortime](https://www.sortime.com/v/web),
-  [kdocs](https://www.kdocs.cn/latest) ([Day](https://www.kdocs.cn/p/135742198521), [rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
+  [kdocs](https://www.kdocs.cn/latest) ([day](https://www.kdocs.cn/p/135742198521), [rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
   [worldtime](https://www.worldtimebuddy.com/)
 - [feedReader](http://feedreader.com/online/),
   [Dropbox](https://www.dropbox.com/home),
