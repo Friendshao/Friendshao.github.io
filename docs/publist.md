@@ -77,10 +77,6 @@ arXiv:2104.09534
 long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
 Virgo run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* (accepted), arXiv:2107.13796
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-continuous gravitational waves from isolated neutron stars in the early O3 LIGO
-data](https://arxiv.org/abs/2107.00600), *Phys. Rev. D* (accepted), arXiv:2107.00600
-
 0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.  Izadi, S. Kazempour, **L.
 Shao**, [Cosmological aspects of cubic Galileon massive
@@ -160,6 +156,10 @@ A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
 *Exp. Astron.* (accepted), arXiv:1908.11391
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+continuous gravitational waves from isolated neutron stars in the early O3 LIGO
+data](https://arxiv.org/abs/2107.00600), *Phys. Rev. D* 104 (2021) 082004 
 
 0. M. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Event Horizon Telescope observations of the jet launching and
