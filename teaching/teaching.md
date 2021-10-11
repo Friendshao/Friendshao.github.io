@@ -80,7 +80,7 @@ tr:nth-child(odd) {
 | PKU'19F | [**Theoretical Mechanics (A)**](thmech19/thmech19) | **Lecturer** <small><small> * TAs: Chang Liu & Yong Gao |
 | PKU'19F | [**General Relativity & Astrophysics**](gr19/gr19) | **Lecturer** <small><small> * TA: Xionghui Cao |
 | PKU'13F | [**Quantum Statistical Physics**](qsp2013/qsp2013.html) | **TA** <small><small> * Lectured by Prof. Ryuichi Shindou |
-| PKU'10F | **What is Science?** | **TA** <small><small> * Lectured by Prof. Yi Rao |
+| PKU'10F | **What is Science?** | **TA** <small><small> * Lectured by Profs. Yi Rao & Guosheng Wu |
 | PKU'10S | **Probability Theory and Statistics** | **TA** <small><small> * Lectured by Prof. Zhenxi Dong |
 | PKU'09F | **Linear Algebra** | **TA** <small><small> * Lectured by Prof. Maoying Tian <br> ** <b> Excellent Teaching Assistant</b> Award |
 
