@@ -28,18 +28,6 @@ University](http://www.pku.edu.cn/), Beijing China.
   Physics](https://friendshao.github.io/docs/breakthrough_Certificate_2020.pdf) awarded to the EHTC (shared by 347 members)
 - World's Top 2% Scientists 2020
 
-### Services
-
-- Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2022)
-- Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (2019-2022)
-- [MDPI](https://www.mdpi.com/) Open Science Ambassador (2020-2022)
-- Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) (2018-now)
-- Outstanding Reviewer for Classical and Quantum Gravity ([2018](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/), [2019](https://publishingsupport.iopscience.iop.org/questions/classical-quantum-gravity-2019-reviewer-awards/)), Universe ([2018](https://www.mdpi.com/journal/universe/awards/591/download)), and SCIENCE CHINA: Physics, Mechanics & Astronomy ([2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA))
-
----
-
-<p></p>
-
 ### Research Interests <small><small>([Research Group](https://kiaagravity.github.io))</small></small>
 
 - Tests of gravity theories
@@ -49,6 +37,24 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Precision tests of fundamental physics
 - Astrophysical studies of dark matter
 - Bayesian data analysis and statistics
+
+---
+
+<p></p>
+
+### Teaching
+
+- General Physics <font color="gray"><small><small> * including Mechanics, Electromagnetism, Thermal Physics, Optics, & Modern Physics</small></small></font>
+- Theoretical Mechanics
+- General Relativity & Astrophysics
+
+### Services
+
+- Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2022)
+- Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (2019-2022)
+- [MDPI](https://www.mdpi.com/) Open Science Ambassador (2020-2022)
+- Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) (2018-now)
+- Outstanding Reviewer for Classical and Quantum Gravity ([2018](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/), [2019](https://publishingsupport.iopscience.iop.org/questions/classical-quantum-gravity-2019-reviewer-awards/)), Universe ([2018](https://www.mdpi.com/journal/universe/awards/591/download)), and SCIENCE CHINA: Physics, Mechanics & Astronomy ([2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA))
 
 ### Information for Recruiting Students
 
