@@ -44,10 +44,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
 neutron star$-$black hole mergers: multiband observations and early
 warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
-run](https://arxiv.org/abs/2107.03701), arXiv:2107.03701
-
 0. M. Guo<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 [Extended reduced-order surrogate models for scalar-tensor gravity in the strong
@@ -72,6 +68,10 @@ Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
 Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 arXiv:2104.09534
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
