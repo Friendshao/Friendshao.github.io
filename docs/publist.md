@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 162)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 163)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky,
+all-frequency directional search for persistent gravitational waves from
+Advanced LIGO's and Advanced Virgo's first three observing
+runs](https://arxiv.org/abs/2110.09834), arXiv:2110.09834
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
