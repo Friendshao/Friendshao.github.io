@@ -66,7 +66,7 @@ $$\delta S = 0$$
 | [3. 有心运动](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW3](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW3 ddl: Oct 20 |
 | [4. 小振动](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW4](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW4 ddl: Oct 27 |
 | *答疑* | 科维理所K107<br>科维理所K217 | 10月27日·19:00-20:30PM<br>10月30日·19:00-20:30PM | 
-| **期中考试（闭卷，笔试）** | 2021年11月1日 | 时间随堂，地点待定 |
+| **期中考试（闭卷，笔试）** | 2021年11月1日<br>8:00-9:50AM | 地点：二教203 |
 | [5. 刚体运动学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW5](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW5 ddl: Nov 10 |
 | [6. 刚体动力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW6](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW6 ddl: Nov 24 |
 | [7. 哈密顿力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW7](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW7 ddl: Dec 6 |
