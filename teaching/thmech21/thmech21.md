@@ -65,7 +65,7 @@ $$\delta S = 0$$
 | [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW1](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E)<br>[HW2](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW1 ddl: Sep 22<br>HW2 ddl: Oct 11 |
 | [3. 有心运动](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW3](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW3 ddl: Oct 20 |
 | [4. 小振动](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW4](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW4 ddl: Oct 27 |
-| *答疑* | 科维理所K208 | 10月27日·19:00-20:30PM<br>10月30日·19:00-20:30PM | 
+| *答疑* | 科维理所K107<br>科维理所K208 | 10月27日·19:00-20:30PM<br>10月30日·19:00-20:30PM | 
 | **期中考试（闭卷，笔试）** | 2021年11月1日 | 时间随堂，地点待定 |
 | [5. 刚体运动学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW5](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW5 ddl: Nov 10 |
 | [6. 刚体动力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW6](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW6 ddl: Nov 24 |
@@ -73,7 +73,7 @@ $$\delta S = 0$$
 | [8. 力学中的变分方法](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW8](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW8 ddl: Dec 13 |
 | [9. 连续介质动力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW9](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW9 ddl: Dec 22 |
 | [10. 相对论性的分析力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW10](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW10 ddl: Dec 29 |
-| *答疑* | 科维理所K208 | 1月2日·19:00-20:30PM<br>1月9日·09:30-11:00AM | 
+| *答疑* | 科维理所K107<br>科维理所K208 | 1月2日·19:00-20:30PM<br>1月9日·09:30-11:00AM | 
 | **期末考试（闭卷，笔试）** | | 2022年1月10日·上午 |
 
 <p></p>
