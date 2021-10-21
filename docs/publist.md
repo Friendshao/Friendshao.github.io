@@ -1136,8 +1136,9 @@ model](https://arxiv.org/abs/1008.1689),
 
 0. 王弋尘<font color="#5c5c5c"><sup>(#)</sup></font>, 缪雪丽<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [用中子星限制暗物质粒子散射截面](TBA), 《天文学报》,
-accepted
+color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008),
+《天文学报》, 62 (2021) 54
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), 《科学通报》
