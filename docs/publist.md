@@ -72,7 +72,7 @@ P.T. O'Brien, J.P. Osborne, A. Pe'er, S. Piranomonte, P. Rosati, S.
 Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
 Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
-arXiv:2104.09534
+*Exp. Astron.* (accepted), arXiv:2104.09534
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
@@ -138,7 +138,7 @@ A. Renzini, E. Buis, G. Cusin, J.M. Ezquiaga, G. Mueller, M. Pieroni, J.
 Quenby, A. Ricciardone, I.D. Saltas, **L. Shao**, N.T. Tamanini, M.
 Zumalacárregui, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410),
-*Exp. Astron.* (accepted), arXiv:1908.11410
+*Exp. Astron.* 51 (2021) 1441
 
 0. M. Arca Sedda<font color="#5c5c5c"><sup>(#)</sup></font>, C.P.L.
 Berry<font color="#5c5c5c"><sup>($\ast$)</sup></font>, K. Jani, P.
@@ -149,7 +149,7 @@ Rajendran, A. Sesana, **L. Shao**, N. Tamanini, N. Warburton, H. Witek, K.
 Wong, M. Zevin, [The missing link in gravitational-wave astronomy: A
 summary of discoveries waiting in the decihertz
 range](https://arxiv.org/abs/2104.14583),
-*Exp. Astron.* (accepted), arXiv:2104.14583
+*Exp. Astron.* 51 (2021) 1427
 
 0. A. Sesana<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
 Korsakova<font color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Arca Sedda,
@@ -160,7 +160,7 @@ Pacucci, A. Petiteau, A. Raccanelli, S. Rajendran, J. Regan, **L. Shao**,
 A. Spallicci, N. Tamanini, M. Volonteri, N. Warburton, K. Wong, M.
 Zumalacarregui, [Unveiling the gravitational Universe at $\mu$-Hz
 frequencies](https://arxiv.org/abs/1908.11391),
-*Exp. Astron.* (accepted), arXiv:1908.11391
+*Exp. Astron.* 51 (2021) 1333
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 continuous gravitational waves from isolated neutron stars in the early O3 LIGO
