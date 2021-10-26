@@ -1,4 +1,4 @@
----
+n---
 layout: default
 ---
 
@@ -49,15 +49,15 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
 neutron star$-$black hole mergers: multiband observations and early
 warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
+dark photon dark matter using data from LIGO's and Virgo's third observing
+run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+
 0. M. Guo<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 [Extended reduced-order surrogate models for scalar-tensor gravity in the strong
 field and applications to binary pulsars and gravitational
 waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D* (accepted), arXiv:2106.01622
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
-dark photon dark matter using data from LIGO's and Virgo's third observing
-run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
 
 0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
 M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
