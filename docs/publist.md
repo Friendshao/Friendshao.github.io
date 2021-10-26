@@ -53,7 +53,7 @@ warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 [Extended reduced-order surrogate models for scalar-tensor gravity in the strong
 field and applications to binary pulsars and gravitational
-waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
+waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D* (accepted), arXiv:2106.01622
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
