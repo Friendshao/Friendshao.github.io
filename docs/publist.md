@@ -82,12 +82,6 @@ run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03
 long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
 Virgo run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* (accepted), arXiv:2107.13796
 
-0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.  Izadi, S. Kazempour, **L.
-Shao**, [Cosmological aspects of cubic Galileon massive
-gravity](https://arxiv.org/abs/2107.09919), *Phys. Rev.  D* (accepted),
-arXiv:2107.09919
-
 0. F. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, X. Chen, **L.
 Shao**, K. Inayoshi, [The eccentric and accelerating stellar binary black hole
 mergers in galactic nuclei: observing in ground and space gravitational wave
@@ -131,6 +125,11 @@ observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/2105.11641),
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
 *Astrophys. J.* (accepted), arXiv:2104.14417
+
+0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.  Izadi, S. Kazempour, **L.
+Shao**, [Cosmological aspects of cubic Galileon massive
+gravity](https://arxiv.org/abs/2107.09919), *Phys. Rev.  D* 104 (2021) 083543
 
 0. J. Baker, T. Baker, C. Carbone, G. Congedo, C. Contaldi, I. Dvorkin<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Gair, Z. Haiman, D.F. Mota,
