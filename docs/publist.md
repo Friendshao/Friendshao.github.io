@@ -25,12 +25,6 @@ all-frequency directional search for persistent gravitational waves from
 Advanced LIGO's and Advanced Virgo's first three observing
 runs](https://arxiv.org/abs/2110.09834), arXiv:2110.09834
 
-0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
-strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
-arXiv:2109.13234
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass binaries in the first half of Advanced LIGO and Virgo's third
 observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
@@ -52,6 +46,12 @@ warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+
+0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
+strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
+*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2109.13234
 
 0. M. Guo<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
