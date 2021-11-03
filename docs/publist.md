@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 163)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 164)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -46,6 +46,11 @@ warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+
+0. K. Satapathy, *et al.* (EHT Collaboration), [The variability of the
+black-hole image in M87 at the dynamical time
+scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.* (accepted),
+arXiv:2111.01317 
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
