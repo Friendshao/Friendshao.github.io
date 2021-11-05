@@ -93,13 +93,6 @@ mergers in galactic nuclei: observing in ground and space gravitational wave
 observatories](https://arxiv.org/abs/2109.14842), *Astrophys. J.* (accepted),
 arXiv:2109.14842
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars in massive
-scalar-tensor gravity: X-ray pulsars and tidal
-deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* 104 (2021)
-104014
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
@@ -130,6 +123,13 @@ observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/2105.11641),
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
 *Astrophys. J.* (accepted), arXiv:2104.14417
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars in massive
+scalar-tensor gravity: X-ray pulsars and tidal
+deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* 104 (2021)
+104014
 
 0. S.M. Aslmarand<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.  Izadi, S. Kazempour, **L.
