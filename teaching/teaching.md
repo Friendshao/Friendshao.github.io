@@ -52,6 +52,8 @@ tr:nth-child(odd) {
 | 00431132 | **General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2021S**](phy21/phy21) (158 ppl.) |  
 | 00431133 | **General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20/phy20) (75 ppl.) | 
 | 00431547 | **Frontier of Astrophysics**<br>**天体物理前沿** | 2021F (1 hr) <small>*<small>Guest Lecturer</small></small><br>2019F (2 hr) <small>*<small>Guest Lecturer</small></small><br>2019S (2 hr) <small>*<small>Guest Lecturer</small></small> | 
+| 00431651 | **Seminar for Equilibrium Statistical Physics**<br>**平衡态统计物理讨论班** | | 
+| 00432140 | **Electrodynamics (A)**<br>**电动力学（A）**<br><small><small> * exercise class ID: 00432160 | | 
 | 00432198 | **Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2021F**](thmech21/thmech21) (119 ppl.)<br>[**2019F**](thmech19/thmech19) (96 ppl.) | 
 | [Tsinghua U.](http://astro.tsinghua.edu.cn/) | **Lectures on The Frontiers of Astrophysics**<br>**天体物理前沿讲座** | 2021F (2 hr) <small>*<small>Guest Lecturer</small></small><br>2020F (2 hr) <small>*<small>Guest Lecturer</small></small> |
 

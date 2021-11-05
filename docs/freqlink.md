@@ -75,6 +75,7 @@ layout: default
   [kiaagravity.io](https://kiaagravity.github.io/),
   [google scholar](https://scholar.google.com/citations?user=x7Rnzn8AAAAJ&hl=en),
   [douban](https://www.douban.com/),
+  [jianshu](https://www.jianshu.com/),
   [weibo](https://weibo.com/)
 - [hyperspace](http://hyperspace.uni-frankfurt.de/),
   [pulsarastronomy](http://pulsarastronomy.net/pulsar/preprints),
