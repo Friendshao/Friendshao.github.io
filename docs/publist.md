@@ -97,8 +97,8 @@ arXiv:2109.14842
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal
-deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* (accepted),
-arXiv:2109.13453
+deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* 104 (2021)
+104014
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 intermediate mass black hole binaries in the third observing run of Advanced
