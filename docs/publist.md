@@ -114,15 +114,15 @@ arXiv:2108.02974
 [Stringent tests of gravity with highly relativistic binary pulsars in the era
 of LISA and SKA](https://arxiv.org/abs/2107.05812), *Astrophys. J.* (accepted), arXiv:2107.05812
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
-continuous gravitational waves from young supernova remnants in the early third
-observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/2105.11641),
-*Astrophys. J.* (accepted), arXiv:2105.11641
-
 0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
 *Astrophys. J.* (accepted), arXiv:2104.14417
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
+continuous gravitational waves from young supernova remnants in the early third
+observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/2105.11641),
+*Astrophys. J.* 921 (2021) 80 
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, **L. Shao**<font
