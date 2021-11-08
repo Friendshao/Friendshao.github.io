@@ -75,6 +75,7 @@ tr:nth-child(odd) {
 #### **Chronological**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
+| PKU'22S | [**General Physics (I)**](phy22/phy22) | **Lecturer** <small><small> * TA: TBA |
 | PKU'21F | [**Theoretical Mechanics (A)**](thmech21/thmech21) | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
 | PKU'21F | [**General Relativity & Astrophysics**](gr21/gr21) | **Lecturer** <small><small> * TA: Zihang Wang |
 | PKU'21S | [**General Physics (I)**](phy21/phy21) | **Lecturer** <small><small> * TAs: Yong Gao & Zhongfu Zhang |
