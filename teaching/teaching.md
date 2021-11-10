@@ -44,17 +44,14 @@ tr:nth-child(odd) {
 
 ## Teaching Activities
 
-#### **Overview**
+### **Overview**
 
 | **ID** | **COURSE** | **RECORD** |
 | 00407794 | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2021F**](gr21/gr21) (26 ppl.)<br>[**2020F**](gr20/gr20) (35 ppl.)<br>[**2019F**](gr19/gr19) (24 ppl.) | 
-| 00430151 | **Lectures on The Frontiers of Modern Physics (Ⅰ)**<br>**现代物理前沿讲座（I）** | 2021F (2 hr) <small>*<small>Guest Lecturer</small></small><br>2020F (2 hr) <small>*<small>Guest Lecturer</small></small><br>2018F (2 hr) <small>*<small>Guest Lecturer</small></small> | 
 | 00431132 | **General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2021S**](phy21/phy21) (158 ppl.) |  
 | 00431133 | **General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20/phy20) (75 ppl.) | 
 | 00431134 | **Seminar for General Physics (I)**<br>**普通物理（I）讨论班** | [**2022S**](phy22/phy22) (40 ppl.) |  
-| 00431547 | **Frontier of Astrophysics**<br>**天体物理前沿** | 2021F (1 hr) <small>*<small>Guest Lecturer</small></small><br>2019F (2 hr) <small>*<small>Guest Lecturer</small></small><br>2019S (2 hr) <small>*<small>Guest Lecturer</small></small> | 
 | 00432198 | **Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2021F**](thmech21/thmech21) (119 ppl.)<br>[**2019F**](thmech19/thmech19) (96 ppl.) | 
-| [Tsinghua U.](http://astro.tsinghua.edu.cn/) | **Lectures on The Frontiers of Astrophysics**<br>**天体物理前沿讲座** | 2021F (2 hr) <small>*<small>Guest Lecturer</small></small><br>2020F (2 hr) <small>*<small>Guest Lecturer</small></small> |
 
 <!-----------------------------
 
@@ -72,7 +69,7 @@ tr:nth-child(odd) {
 <p></p>
 
 
-#### **Chronological**
+### **Chronological**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
 | PKU'22S | [**Seminar for General Physics (I)**](phy22/phy22) | **Lecturer** |
@@ -89,7 +86,11 @@ tr:nth-child(odd) {
 | PKU'09F | **Linear Algebra** | **TA** <small><small> * Lectured by Prof. Maoying Tian <br> ** <b> Excellent Teaching Assistant</b> Award |
 
 <br>
+
+--- 
+
 <p></p>
+
 
 #### 教学奖励
 
@@ -97,3 +98,12 @@ tr:nth-child(odd) {
 - 2020年，北京大学“第二十届青年教师教学基本功比赛”理工类**一等奖（第一名）**，并获得“**优秀教案奖**”、“**最佳教学演示奖**”和“**最受学生欢迎奖**” [[北大新闻网](https://news.pku.edu.cn/xwzh/0f1e21b1407d4b8c8e96903a5adcddd4.htm)、[北大工会](https://gh.pku.edu.cn/jczz/jxsw/lxb/wlxygk/925665.htm)]
 
 - 青年教师谈教学之“**邵立晶：打造攀登物理世界的阶梯**” [[北大教务部](https://mp.weixin.qq.com/s/c2FjHwyffPuv93Eu6cMNEw)]
+
+<p></p>
+
+#### 前沿讲座课
+
+| **ID** | **COURSE** | **RECORD** |
+| 00430151 | **Lectures on The Frontiers of Modern Physics (Ⅰ)**<br>**现代物理前沿讲座（I）** | 2021F (2 hr)<br>2020F (2 hr)<br>2018F (2 hr) | 
+| 00431547 | **Frontier of Astrophysics**<br>**天体物理前沿** | 2021F (1 hr)<br>2019F (2 hr)<br>2019S (2 hr) | 
+| [Tsinghua U.](http://astro.tsinghua.edu.cn/) | **Lectures on The Frontiers of Astrophysics**<br>**天体物理前沿讲座** | 2021F (2 hr)<br>2020F (2 hr) |
