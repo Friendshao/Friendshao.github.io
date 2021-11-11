@@ -120,16 +120,15 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
 around double white dwarfs with LISA and
 Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted), arXiv:2108.01357
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
-Lorentz/CPT symmetry through fifty gravitational-wave
-events](https://arxiv.org/abs/2108.02974), *Astrophys. J.* (accepted),
-arXiv:2108.02974
-
 0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
 *Astrophys. J.* (accepted), arXiv:2104.14417
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
+Lorentz/CPT symmetry through fifty gravitational-wave
+events](https://arxiv.org/abs/2108.02974), *Astrophys. J.* 921 (2021) 158
 
 0. X. Miao<font color="#5c5c5c"><sup>(#)</sup></font>, H. Xu, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B.-Q. Ma,
