@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 168)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 169)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 20)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
+massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent
+perturbations](https://arxiv.org/abs/TBA), arXiv:TBA
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
@@ -100,10 +105,6 @@ astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
-Virgo run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* (accepted), arXiv:2107.13796
-
 0. F. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, X. Chen, **L.
 Shao**, K. Inayoshi, [The eccentric and accelerating stellar binary black hole
 mergers in galactic nuclei: observing in ground and space gravitational wave
@@ -124,6 +125,10 @@ Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted), arXiv:2108.01
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
 *Astrophys. J.* (accepted), arXiv:2104.14417
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
+Virgo run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* 104 (2021) 102001
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
