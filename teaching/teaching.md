@@ -55,7 +55,6 @@ tr:nth-child(odd) {
 
 <!-----------------------------
 
-| | **Astroparticle Physics** |
 | 00431651 | **Seminar for Equilibrium Statistical Physics**<br>**平衡态统计物理讨论班** | | 
 | 00432140 | **Electrodynamics (A)**<br>**电动力学（A）**<br><small><small> * exercise class ID: 00432160 | | 
 | 00431650 | **Equilibrium Statistical Physics** | | |
@@ -72,7 +71,7 @@ tr:nth-child(odd) {
 ### **Chronological**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
-| PKU'22S | [**Astroparticle Physics**](astroparticle22/astroparticle22) | **co-Lecturer** <small><small> * TA: TBA<br><i>with</i> B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
+| PKU'22S | [**Astroparticle Physics**](astroparticle22/astroparticle22) | **co-Lecturer** <small><small> * TA: TBA<br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
 | PKU'22S | [**General Physics (I)**](phy22/phy22) | **Lecturer** <small><small> * TA: TBA |
 | PKU'21F | [**Theoretical Mechanics (A)**](thmech21/thmech21) | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
 | PKU'21F | [**General Relativity & Astrophysics**](gr21/gr21) | **Lecturer** <small><small> * TA: Zihang Wang |
