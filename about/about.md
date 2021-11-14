@@ -28,7 +28,7 @@ University](http://www.pku.edu.cn/), Beijing China.
   Physics](https://friendshao.github.io/docs/breakthrough_Certificate_2020.pdf) awarded to the EHTC (shared by 347 members)
 - World's Top 2% Scientists 2020
 
-### Research Interests <small><small>([Research Group](https://kiaagravity.github.io))</small></small>
+### Research Interests
 
 - Tests of gravity theories
 - Gravitational waves
@@ -37,6 +37,8 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Precision tests of fundamental physics
 - Astrophysical studies of dark matter
 - Bayesian data analysis and statistics
+
+ <img src="group.png" width="50"> &nbsp;&nbsp; **For more, please check at [<big>our Group Page</big>](https://kiaagravity.github.io)**  <img src="team.png" width="50">
 
 ---
 
