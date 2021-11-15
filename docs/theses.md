@@ -79,6 +79,8 @@ tr:nth-child(odd) {
 
 <big><big> **Undergraduate Student Research Study**
 
+- **康亚城**，Exoplanets with Space-based Gravitational-wave Detectors（北京大学，2021年11月）
+- **胡泽昕**，Neutron Star Structures in Scalar-tensor Gravity（北京大学，2021年11月）
 - **王惠美**，Bounding the Photon Mass with Fast Radio Bursts（北京大学，2020年11月）
   <!-- - <small> **Publication**: [Wang+21](https://arxiv.org/abs/2103.15299) -->
 - **王弋尘**，Constraining Dark-matter Particles with Neutron Stars（北京大学，2020年11月）
