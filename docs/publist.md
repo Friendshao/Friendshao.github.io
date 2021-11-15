@@ -23,7 +23,7 @@ layout: default
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
 massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent
-perturbations](https://arxiv.org/abs/TBA), arXiv:TBA
+perturbations](https://arxiv.org/abs/2111.06561), arXiv:2111.06561
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
