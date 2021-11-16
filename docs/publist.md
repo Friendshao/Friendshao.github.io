@@ -997,7 +997,8 @@ nucleon](https://arxiv.org/abs/0812.3294),
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
-0. V. Kalogera, B.S. Sathyaprakash, M. Bailes, M.-A.  Bizouard, A. Buonanno, A.
+0. V. Kalogera<font color="#5c5c5c"><sup>(#)</sup></font>, B.S. Sathyaprakash,
+M. Bailes, M.-A.  Bizouard, A. Buonanno, A.
 Burrows, M. Colpi, M. Evans, S. Fairhurst, S. Hild, M.M. Kasliwal, L. Lehner, I.
 Mandel, V. Mandic, S. Nissanke, M.A. Papa, S. Reddy, S.  Rosswog, C. Van Den
 Broeck, P. Ajith, S. Anand, I. Andreoni, K.G.  Arun, E. Barausse, M. Baryakhtar,
@@ -1012,8 +1013,8 @@ Sotiriou, N. Tamanini, T. Tauris, E. Thrane, R. Valiante, M. van de Meent, V.
 Varma, J. Vines, S. Vitale, H. Yang, N. Yunes, M. Zumalacarregui, M. Punturo, D.
 Reitze, P.  Couvares, S. Katsanevas, T. Kajita, H. Lueck, D. McClelland, S.
 Rowan, G. Sanders, D. Shoemaker, J. van den Brand, [The next generation global
-gravitational wave observatory: the science book](https://arxiv.org/abs/TBA),
-arXiv:TBA
+gravitational wave observatory: the science
+book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 [Precession of triaxially deformed neutron
