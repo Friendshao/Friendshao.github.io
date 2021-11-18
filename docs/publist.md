@@ -116,15 +116,15 @@ intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
 *Astron. & Astrophys.* (accepted), arXiv:2105.15120
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
-around double white dwarfs with LISA and
-Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted), arXiv:2108.01357
-
 0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
 *Astrophys. J.* (accepted), arXiv:2104.14417
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
+around double white dwarfs with LISA and
+Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* 162 (2021) 247
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave bursts in the third Advanced LIGO and Advanced
