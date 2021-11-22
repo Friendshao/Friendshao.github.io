@@ -42,7 +42,7 @@ $$\delta S = 0$$
 
 | **时间** | 周一1-2节，周三7-8节 |
 | **地点** | 二教401 |
-| **期末考试时间** | 2022年1月10日·上午 |
+| **期末考试时间** | 2022年1月3日·上午 |
 | **教科书** | **梁昆淼 [原著]，鞠国兴 & 施毅 [修订]《力学(第四版)下册》（2009）** |
 | **参考书** | 鞠国兴，《理论力学学习指导与习题解析(第二版)》，2018 |
 | | 刘川，《理论力学》，2019 |
@@ -71,10 +71,10 @@ $$\delta S = 0$$
 | [6. 刚体动力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW6](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW6 ddl: Nov 24 |
 | [7. 哈密顿力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW7](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW7 ddl: Dec 6 |
 | [8. 力学中的变分方法](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW8](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW8 ddl: Dec 13 |
-| [9. 连续介质动力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW9](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW9 ddl: Dec 22 |
-| [10. 相对论性的分析力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW10](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW10 ddl: Dec 29 |
-| *答疑* | 科维理所K107<br>科维理所K217 | 1月2日·19:00-20:30PM<br>1月9日·09:30-11:00AM | 
-| **期末考试（闭卷，笔试）** | | 2022年1月10日·上午 |
+| [9. 连续介质动力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW9](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW9 ddl: Dec 20 |
+| [10. 相对论性的分析力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW10](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW10（免交） |
+| *答疑* | 科维理所K107<br>科维理所K217 | 12月31日·19:00-21:00PM | 
+| **期末考试（闭卷，笔试）** | 2022年1月3日<br>8:30-10:30AM |  |
 
 <p></p>
 
