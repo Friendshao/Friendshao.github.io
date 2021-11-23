@@ -60,14 +60,14 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, W. Zhao, [Tests of
 gravitaitonal-wave birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
-0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
-neutron star$-$black hole mergers: multiband observations and early
-warnings](https://arxiv.org/abs/2108.08490), arXiv:2108.08490
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+
+0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
+neutron star$-$black hole mergers: multiband observations and early
+warnings](https://arxiv.org/abs/2108.08490), *Astrophys. J.* (accepted), arXiv:2108.08490
 
 0. K. Satapathy, *et al.* (EHT Collaboration), [The variability of the
 black-hole image in M87 at the dynamical time
