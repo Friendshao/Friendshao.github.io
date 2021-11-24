@@ -74,12 +74,6 @@ black-hole image in M87 at the dynamical time
 scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.* (accepted),
 arXiv:2111.01317 
 
-0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
-strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
-*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2109.13234
-
 0. M. Guo<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, 
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 [Extended reduced-order surrogate models for scalar-tensor gravity in the strong
@@ -120,6 +114,12 @@ LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120),
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
 glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
 *Astrophys. J.* (accepted), arXiv:2104.14417
+
+0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
+strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
+*Mon. Not. R. Astron. Soc.* 509 (2022) 2758
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
