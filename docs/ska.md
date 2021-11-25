@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## 第一致谢
+<big><big> **Catalog A**
 
 0. Hu, Z., Gao, Y., Xu, R., **Shao, L.**, 2021, [Scalarized neutron stars in massive scalar-tensor gravity: X-ray pulsars and tidal deformability](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j4014H/abstract), PhRvD, 104, 104014
 
@@ -57,7 +57,7 @@ layout: default
 
 <p></p>
 
-## 非第一致谢
+<big><big> **Catalog B**
 
 0. Xu, R., Gao, Y., **Shao, L.**, 2021, [Signatures of Lorentz Violation in Continuous Gravitational-Wave Spectra of Ellipsoidal Neutron Stars](https://ui.adsabs.harvard.edu/abs/2021Galax...9...12X/abstract), Galaxies, 9, 12
 
