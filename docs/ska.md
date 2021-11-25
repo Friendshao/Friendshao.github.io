@@ -55,6 +55,8 @@ layout: default
 
 ---
 
+<p></p>
+
 ## 非第一致谢
 
 0. Xu, R., Gao, Y., **Shao, L.**, 2021, [Signatures of Lorentz Violation in Continuous Gravitational-Wave Spectra of Ellipsoidal Neutron Stars](https://ui.adsabs.harvard.edu/abs/2021Galax...9...12X/abstract), Galaxies, 9, 12
