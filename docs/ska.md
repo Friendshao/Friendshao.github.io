@@ -53,6 +53,8 @@ layout: default
 
 0. **Shao, L.**, [Pulsar tests of the graviton mass](https://ui.adsabs.harvard.edu/abs/2021AN....342..300S/abstract), AN, 342, 300
 
+0. Wang, L., Hu, J., **Xia, C.-J.**, Xu, J.-F., Peng, G.-X., Xu, R.-X., 2021, [Stable Up-Down Quark Matter Nuggets, Quark Star Crusts, and a New Family of White Dwarfs](https://ui.adsabs.harvard.edu/abs/2021Galax...9...70W/abstract), Galaxies, 9, 70
+
 ---
 
 <p></p>
