@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<big><big> **Catalog A**
+<big><big><big> **SKA专项：脉冲星理论研究支撑**
+
+<p></p>
+
+<big><big> **目录A**
 
 0. Hu, Z., Gao, Y., Xu, R., **Shao, L.**, 2021, [Scalarized neutron stars in massive scalar-tensor gravity: X-ray pulsars and tidal deformability](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j4014H/abstract), PhRvD, 104, 104014
 
@@ -55,11 +59,13 @@ layout: default
 
 0. Wang, L., Hu, J., **Xia, C.-J.**, Xu, J.-F., Peng, G.-X., Xu, R.-X., 2021, [Stable Up-Down Quark Matter Nuggets, Quark Star Crusts, and a New Family of White Dwarfs](https://ui.adsabs.harvard.edu/abs/2021Galax...9...70W/abstract), Galaxies, 9, 70
 
+<p></p>
+
 ---
 
 <p></p>
 
-<big><big> **Catalog B**
+<big><big> **目录B**
 
 0. Xu, R., Gao, Y., **Shao, L.**, 2021, [Signatures of Lorentz Violation in Continuous Gravitational-Wave Spectra of Ellipsoidal Neutron Stars](https://ui.adsabs.harvard.edu/abs/2021Galax...9...12X/abstract), Galaxies, 9, 12
 
