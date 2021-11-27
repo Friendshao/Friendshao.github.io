@@ -22,7 +22,6 @@ layout: default
 
 0. Xu, F., Tang, C.-H., Geng, J.-J., Wang, F.-Y., Wang, Y.-Y., Kuerban, A., **Huang, Y.-F.**, 2021, [X-Ray Plateaus in Gamma-Ray Burst Afterglows and Their Application in Cosmology](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..135X/abstract), ApJ, 920, 135
 
-
 0. Wu, G.-L., **Yu, Y.-W.**, Zhu, J.-P., 2021, [Does a long-lived remnant neutron star exist after short gamma-ray burst GRB 160821B?](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A.124W/abstract), A&A, 654, A124
 
 0. Wang, H., Miao, X., **Shao, L.**, 2021, [Bounding the photon mass with cosmological propagation of fast radio bursts](https://ui.adsabs.harvard.edu/abs/2021PhLB..82036596W/abstract), PhLB, 820, 136596
@@ -59,6 +58,10 @@ layout: default
 
 0. Wang, L., Hu, J., **Xia, C.-J.**, Xu, J.-F., Peng, G.-X., Xu, R.-X., 2021, [Stable Up-Down Quark Matter Nuggets, Quark Star Crusts, and a New Family of White Dwarfs](https://ui.adsabs.harvard.edu/abs/2021Galax...9...70W/abstract), Galaxies, 9, 70
 
+0. Li, S.-Z., **Yu, Y.-W.**, Gao, H., Zhang, B., 2021, [The Evolution of a Newborn Millisecond Magnetar with a Propeller-recycling Disk](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...87L/abstract), ApJ, 907, 87
+
+0. **俞云伟** 2021, [中子星研究的过往今来](https://doi.org/10.7693/wl20210602), 物理, 50, 371
+
 <p></p>
 
 ---
@@ -68,8 +71,6 @@ layout: default
 <big><big> **目录B**
 
 0. Xu, R., Gao, Y., **Shao, L.**, 2021, [Signatures of Lorentz Violation in Continuous Gravitational-Wave Spectra of Ellipsoidal Neutron Stars](https://ui.adsabs.harvard.edu/abs/2021Galax...9...12X/abstract), Galaxies, 9, 12
-
-0. Li, S.-Z., **Yu, Y.-W.**, Gao, H., Zhang, B., 2021, [The Evolution of a Newborn Millisecond Magnetar with a Propeller-recycling Disk](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...87L/abstract), ApJ, 907, 87
 
 0. Rusul, A., **Zheng, X.-P.**, Esamdin, A., Guo, L., Xia, L.-X., 2021, [State-switching Mechanism of Intermittent Pulsars](https://ui.adsabs.harvard.edu/abs/2021ApJ...909...68R/abstract), ApJ, 909, 68
 
@@ -113,3 +114,5 @@ layout: default
 
 
 0. Li, L., **Dai, Z.-G.**, 2021, [GRB 170817A Afterglow from a Relativistic Electron-Positron Pair Wind Observed Off-axis](https://ui.adsabs.harvard.edu/abs/2021ApJ...918...52L/abstract), ApJ, 918, 52
+
+0. 王弋尘, 缪雪丽, **邵立晶**, 2021, [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008), 天文学报 62, 54
