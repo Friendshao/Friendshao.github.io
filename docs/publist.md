@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 169)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 170)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 21)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
+gravitational waves from known pulsars at two harmonics in the second and third
+LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), arXiv:2111.13106
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
@@ -74,12 +78,6 @@ black-hole image in M87 at the dynamical time
 scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.* (accepted),
 arXiv:2111.01317 
 
-0. M. Guo<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, 
-**L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
-[Extended reduced-order surrogate models for scalar-tensor gravity in the strong
-field and applications to binary pulsars and gravitational
-waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D* (accepted), arXiv:2106.01622
-
 0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
 M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
 A. McCann, G. Oganesyan, E. Palazzi, S. Ronchini, A. Rossi, O. Sharan
@@ -110,16 +108,22 @@ intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
 *Astron. & Astrophys.* (accepted), arXiv:2105.15120
 
-0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
-from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
-glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
-*Astrophys. J.* (accepted), arXiv:2104.14417
-
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
 strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 *Mon. Not. R. Astron. Soc.* 509 (2022) 2758
+
+0. M. Guo<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Zhao, 
+**L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+[Extended reduced-order surrogate models for scalar-tensor gravity in the strong
+field and applications to binary pulsars and gravitational
+waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D* XX (2021) YY
+
+0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
+from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
+glitching pulsar PSR J0537$-$6910](https://arxiv.org/abs/2104.14417),
+*Astrophys. J.* 922 (2021) 71
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Prospects for detecting exoplanets
