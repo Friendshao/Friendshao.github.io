@@ -118,7 +118,7 @@ strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 **L.  Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 [Extended reduced-order surrogate models for scalar-tensor gravity in the strong
 field and applications to binary pulsars and gravitational
-waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D* XX (2021) YY
+waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D* 104 (2021) 104065
 
 0.  R.  Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints
 from LIGO O3 data on gravitational-wave emission due to $r$-modes in the
