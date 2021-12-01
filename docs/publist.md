@@ -9,8 +9,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 170)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 21)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 171)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 22)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
 ---
@@ -19,6 +19,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+gravitational wave emission from scalar boson clouds around spinning black holes
+in LIGO O3 data](https://arxiv.org/abs/2111.15507), arXiv:2111.15507
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 gravitational waves from known pulsars at two harmonics in the second and third
@@ -1000,6 +1004,13 @@ nucleon](https://arxiv.org/abs/0812.3294),
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
+Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
+Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Weir, [Legacy of the first
+workshop on Gravitational Wave Astrophysics for Early Career
+Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 0. V. Kalogera<font color="#5c5c5c"><sup>(#)</sup></font>, B.S. Sathyaprakash,
 M. Bailes, M.-A.  Bizouard, A. Buonanno, A.
