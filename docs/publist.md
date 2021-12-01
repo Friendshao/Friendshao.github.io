@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 171)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 22)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 24)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
 ---
@@ -1039,6 +1039,16 @@ stars](https://arxiv.org/abs/2011.04472),
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Pulsar
 tests of the graviton mass](https://arxiv.org/abs/2009.06817), *Astron.
 Nachr.* 342 (2021) 300
+
+0. B.P. Abbott, *et al.* (LIGO / Virgo Collaboration), [VizieR Online Data
+Catalog: 2015-2017 LIGO obs. analysis for 221 pulsars (Abbott+,
+2019)](https://ui.adsabs.harvard.edu/abs/2020yCat..18790010A/abstract), VizieR
+On-line Data Catalog: J/ApJ/879/10
+
+0. J.-Y. Kim, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: 3C 279
+Event Horizon Telescope imaging (Kim+,
+2020)](https://ui.adsabs.harvard.edu/abs/2020yCat..36400069K/abstract), VizieR
+On-line Data Catalog: J/A+A/640/A69
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Pulsar
 tests of the gravitational Lorentz
