@@ -93,7 +93,7 @@ tr:nth-child(odd) {
 ## 文件下载
 
 - 课程日历：我爱上课.pdf
-- 课程作业：我爱写作业.pdf
+- 课程作业：[我爱写作业.pdf](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)
 
 <p></p>
 

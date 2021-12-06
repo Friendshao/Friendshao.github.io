@@ -73,6 +73,7 @@ $$\delta S = 0$$
 | [8. 力学中的变分方法](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW8](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW8 ddl: Dec 13 |
 | [9. 连续介质动力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW9](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW9 ddl: Dec 20 |
 | [10. 相对论性的分析力学](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | [HW10](https://disk.pku.edu.cn:443/link/F027E5DFBFADCC8E133BFB03BA95720E) | HW10（免交） |
+| *习题课（补）* | 二教405 | 12月22日·第10-11节 |
 | *答疑* | 科维理所K107<br>科维理所K217 | 12月31日·19:00-21:00PM | 
 | **期末考试（闭卷，笔试）** | 2022年1月3日<br>8:30-10:30AM |  |
 
