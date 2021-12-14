@@ -9,8 +9,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 171)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 24)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 172)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 25)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
 ---
@@ -63,14 +63,17 @@ observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
 LIGO data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
 
-0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, W. Zhao, [Tests of
-gravitaitonal-wave birefringence with the gravitaitonal-wave
-catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
+**L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
+gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+
+0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, S.
+Kazempour, **L. Shao**, [Cosmology and perturbations in tachyonic massive
+gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
 
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
@@ -1004,6 +1007,10 @@ nucleon](https://arxiv.org/abs/0812.3294),
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, [General
+relativity withstands double pulsar's
+scrutiny](https://physics.aps.org/articles/v14/173), *Physics* 14 (2021) 173
 
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.

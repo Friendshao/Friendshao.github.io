@@ -37,7 +37,7 @@ tr:nth-child(odd) {
 - This is a course on astroparticle physics. Aiming at teaching the students the basic knowledge of theoretical physics for advanced studies on frontier astroparticle physics issues. 
 
 | **时间** | 周三10-11节 |
-| **地点** | TBA |
+| **地点** | 二教423 |
 | **期末考试时间** | TBA |
 | **先修课程** | 普通物理，高等数学 |
 | **教科书** | **唐纳德·帕金斯 [编著]，来小禹，陈国英，徐仁新 [译]，《粒子天体物理》（2015）** |
