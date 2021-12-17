@@ -31,11 +31,6 @@ in LIGO O3 data](https://arxiv.org/abs/2111.15507), arXiv:2111.15507
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), arXiv:2111.13106
 
-0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
-massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent
-perturbations](https://arxiv.org/abs/2111.06561), arXiv:2111.06561
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
@@ -73,6 +68,12 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
+massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent
+perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* (accepted),
+arXiv:2111.06561
 
 0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmology and perturbations in tachyonic massive
