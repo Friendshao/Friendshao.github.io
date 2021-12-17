@@ -57,10 +57,6 @@ runs](https://arxiv.org/abs/2110.09834), arXiv:2110.09834
 subsolar-mass binaries in the first half of Advanced LIGO and Virgo's third
 observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
-LIGO data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
-
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
@@ -68,6 +64,11 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
+LIGO data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* (accepted),
+arXiv:2109.09255
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
