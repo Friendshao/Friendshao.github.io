@@ -76,7 +76,7 @@ massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent
 perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* (accepted),
 arXiv:2111.06561
 
-0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, S.
+0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmology and perturbations in tachyonic massive
 gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
 
@@ -1012,7 +1012,7 @@ nucleon](https://arxiv.org/abs/0812.3294),
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, [General
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [General
 relativity withstands double pulsar's
 scrutiny](https://physics.aps.org/articles/v14/173), *Physics* 14 (2021) 173
 
