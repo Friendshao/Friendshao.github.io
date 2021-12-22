@@ -36,10 +36,16 @@ scrutiny](https://physics.aps.org/articles/v14/173), *Physics* 14 (2021) 173
 0. Y. Kang, C. Liu, **L. Shao**, [Prospects for detecting exoplanets around
 double white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357),
 *Astron.  J.* 162 (2021) 247
+  - <small>Featured by Kavli Institute for Astronomy and Astrophysics, Peking University:
+    [link](http://kiaa.pku.edu.cn/info/1031/7776.htm) 
+  <img src="pku.png" alt="PKU" style="height:30px;">
 
 0. Z. Wang, **L. Shao**, C. Liu, [New limits on the Lorentz/CPT symmetry through
 fifty gravitational-wave events](https://arxiv.org/abs/2108.02974), *Astrophys.
 J.* 921 (2021) 158
+  - <small>Featured by School of Physics, Peking University:
+    [link](https://mp.weixin.qq.com/s/Cp2NcWvC7Ldi4jbZxLzIsw) 
+  <img src="pku.png" alt="PKU" style="height:30px;">
 
 0. X. Miao, H. Xu, **L. Shao**, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
 highly relativistic binary pulsars in the era of LISA and
