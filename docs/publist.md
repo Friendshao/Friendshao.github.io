@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 173)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 174)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 25)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
+searches for continuous and long-duration transient gravitational waves from
+known pulsars in the LIGO-Virgo third observing
+run](https://arxiv.org/abs/2112.10990), arXiv:2112.10990
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), arXiv:2112.06861
