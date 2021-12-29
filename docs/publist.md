@@ -110,10 +110,6 @@ Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
 astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 *Exp. Astron.* (accepted), arXiv:2104.09534
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
-run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
@@ -124,6 +120,10 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
 strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 *Mon. Not. R. Astron. Soc.* 509 (2022) 2758
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* 104 (2021) 122004
 
 0. F. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, X. Chen, **L.
 Shao**, K. Inayoshi, [The eccentric and accelerating stellar binary black hole
