@@ -75,12 +75,6 @@ continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
 LIGO data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* (accepted),
 arXiv:2109.09255
 
-0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
-massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent
-perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* (accepted),
-arXiv:2111.06561
-
 0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmology and perturbations in tachyonic massive
 gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
@@ -114,6 +108,12 @@ astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
 *Astron. & Astrophys.* (accepted), arXiv:2105.15120
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
+massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent
+perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
+024003
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
