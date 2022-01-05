@@ -79,10 +79,6 @@ continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
 LIGO data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* (accepted),
 arXiv:2109.09255
 
-0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
-Kazempour, **L. Shao**, [Cosmology and perturbations in tachyonic massive
-gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
-
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
 neutron star$-$black hole mergers: multiband observations and early
@@ -112,6 +108,11 @@ astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
 *Astron. & Astrophys.* (accepted), arXiv:2105.15120
+
+0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
+Kazempour, **L. Shao**, [Cosmology and perturbations in tachyonic massive
+gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501),
+*Phys. Rev. D* 105 (2022) 023501
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
