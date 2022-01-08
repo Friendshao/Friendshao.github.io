@@ -44,14 +44,20 @@ tr:nth-child(odd) {
 
 ## Teaching Activities
 
+| [GPI-2022](phy22/phy22) | **General Physics (I)**<br>**普通物理（I）** | 周一3-4节 & 周四3-4节，二教505<br><small>**习题课**: 周四10-11节，二教302 |
+| [AP-2022](astroparticle22/astroparticle22) | **Astroparticle Physics**<br>**天体粒子物理** | 周三10-11节，二教423 |
+
+<br>
+<p></p>
+
 ### **Overview**
 
 | **ID** | **COURSE** | **RECORD** |
 | 00407794 | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2021F**](gr21/gr21) (20 ppl.)<br>[**2020F**](gr20/gr20) (35 ppl.)<br>[**2019F**](gr19/gr19) (24 ppl.) | 
-| 00431132 | **General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2022S**](phy22/phy22) (?? ppl.)<br>[**2021S**](phy21/phy21) (158 ppl.) |  
+| 00431132 | **General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2022S**](phy22/phy22) (90 ppl.)<br>[**2021S**](phy21/phy21) (158 ppl.) |  
 | 00431133 | **General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20/phy20) (75 ppl.) | 
 | 00432198 | **Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2021F**](thmech21/thmech21) (105 ppl.)<br>[**2019F**](thmech19/thmech19) (96 ppl.) | 
-| 00432296 | **Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22/astroparticle22) (?? ppl.) | 
+| 00432296 | **Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22/astroparticle22) (60 ppl.) | 
 
 <!-----------------------------
 
@@ -89,7 +95,7 @@ tr:nth-child(odd) {
 
 <p></p>
 
-### **前沿讲座课**
+### **Frontier Lectures**
 
 | **ID** | **COURSE** | **RECORD** |
 | 00430151 | **Lectures on The Frontiers of Modern Physics (Ⅰ)**<br>**现代物理前沿讲座（I）** | 2021F (2 hr)<br>2020F (2 hr)<br>2018F (2 hr) | 
