@@ -44,13 +44,13 @@ tr:nth-child(odd) {
 
 ## Teaching Activities
 
-| [GPI-2022](phy22/phy22) | **General Physics (I)**<br>**普通物理（I）** | 周一3-4节 & 周四3-4节，二教505<br><small>**习题课**: 周四10-11节，二教302 |
-| [AP-2022](astroparticle22/astroparticle22) | **Astroparticle Physics**<br>**天体粒子物理** | 周三10-11节，二教423 |
+| [GPI-2022S](phy22/phy22) | **General Physics (I)**<br>**普通物理（I）** | 周一3-4节 & 周四3-4节，二教505<br><small>**习题课**: 周四10-11节，二教302 |
+| [AP-2022S](astroparticle22/astroparticle22) | **Astroparticle Physics**<br>**天体粒子物理** | 周三10-11节，二教423 |
 
 <br>
 <p></p>
 
-### **Overview**
+### **Summary Table**
 
 | **ID** | **COURSE** | **RECORD** |
 | 00407794 | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2021F**](gr21/gr21) (20 ppl.)<br>[**2020F**](gr20/gr20) (35 ppl.)<br>[**2019F**](gr19/gr19) (24 ppl.) | 
@@ -74,22 +74,22 @@ tr:nth-child(odd) {
 <p></p>
 
 
-### **Chronological**
+### **Teaching History**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
-| PKU'22S | [**General Physics (I)**](phy22/phy22) | **Lecturer** <small><small> * TAs: Ping He & Zipu Fan |
-| PKU'22S | [**Astroparticle Physics**](astroparticle22/astroparticle22) | **co-Lecturer** <small><small> * TA: TBA<br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
-| PKU'21F | [**Theoretical Mechanics (A)**](thmech21/thmech21) | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
-| PKU'21F | [**General Relativity & Astrophysics**](gr21/gr21) | **Lecturer** <small><small> * TA: Zihang Wang |
-| PKU'21S | [**General Physics (I)**](phy21/phy21) | **Lecturer** <small><small> * TAs: Yong Gao & Zhongfu Zhang |
-| PKU'20F | [**General Physics (II)**](phy20/phy20) | **Lecturer** <small><small> * TAs: Chang Liu & Lei Geng |
-| PKU'20F | [**General Relativity & Astrophysics**](gr20/gr20) | **Lecturer** <small><small> * TA: Tai Zhou |
-| PKU'19F | [**Theoretical Mechanics (A)**](thmech19/thmech19) | **Lecturer** <small><small> * TAs: Chang Liu & Yong Gao |
-| PKU'19F | [**General Relativity & Astrophysics**](gr19/gr19) | **Lecturer** <small><small> * TA: Xionghui Cao |
-| PKU'13F | [**Quantum Statistical Physics**](qsp2013/qsp2013.html) | **TA** <small><small> * Lectured by Prof. Ryuichi Shindou |
-| PKU'10F | **What is Science?** | **TA** <small><small> * Lectured by Profs. Yi Rao & Guosheng Wu |
-| PKU'10S | **Probability Theory and Statistics** | **TA** <small><small> * Lectured by Prof. Zhenxi Dong |
-| PKU'09F | **Linear Algebra** | **TA** <small><small> * Lectured by Prof. Maoying Tian <br> ** <b> Excellent Teaching Assistant</b> Award |
+| PKU'22S | [**General Physics (I)**](phy22/phy22)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Ping He & Zipu Fan |
+| PKU'22S | [**Astroparticle Physics**](astroparticle22/astroparticle22)<br>**天体粒子物理** | **co-Lecturer** <small><small> * TA: TBA<br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
+| PKU'21F | [**Theoretical Mechanics (A)**](thmech21/thmech21)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
+| PKU'21F | [**General Relativity & Astrophysics**](gr21/gr21)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Zihang Wang |
+| PKU'21S | [**General Physics (I)**](phy21/phy21)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Yong Gao & Zhongfu Zhang |
+| PKU'20F | [**General Physics (II)**](phy20/phy20)<br>**普通物理（II）** | **Lecturer** <small><small> * TAs: Chang Liu & Lei Geng |
+| PKU'20F | [**General Relativity & Astrophysics**](gr20/gr20)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Tai Zhou |
+| PKU'19F | [**Theoretical Mechanics (A)**](thmech19/thmech19)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Chang Liu & Yong Gao |
+| PKU'19F | [**General Relativity & Astrophysics**](gr19/gr19)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Xionghui Cao |
+| PKU'13F | [**Quantum Statistical Physics**](qsp2013/qsp2013.html)<br>**量子统计物理** | **TA** <small><small> * Lectured by Prof. Ryuichi Shindou |
+| PKU'10F | **What is Science?**<br>**科学是什么** | **TA** <small><small> * Lectured by Profs. Yi Rao & Guosheng Wu |
+| PKU'10S | **Probability Theory and Statistics**<br>**概率统计** | **TA** <small><small> * Lectured by Prof. Zhenxi Dong |
+| PKU'09F | **Linear Algebra**<br>**线性代数** | **TA** <small><small> * Lectured by Prof. Maoying Tian <br> ** <b> Excellent Teaching Assistant</b> Award |
 
 <br>
 
