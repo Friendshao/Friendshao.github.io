@@ -1227,7 +1227,8 @@ model](https://arxiv.org/abs/1008.1689),
 <big><big>**Chinese Articles**</big></big>
 
 0. 李洪波<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新,
-[核心坍缩型超新星致引力波暴](TBA), 《天文学进展》, accepted
+[核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05), 
+《天文学进展》, 39 (2021) 511
 
 0. 王弋尘<font color="#5c5c5c"><sup>(#)</sup></font>, 缪雪丽<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**<font
