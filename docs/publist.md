@@ -79,11 +79,6 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
-LIGO data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* (accepted),
-arXiv:2109.09255
-
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
 neutron star$-$black hole mergers: multiband observations and early
@@ -113,6 +108,10 @@ astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
 *Astron. & Astrophys.* (accepted), arXiv:2105.15120
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
+LIGO data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* 105 (2022) 022002
 
 0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Kazempour, **L. Shao**, [Cosmology and perturbations in tachyonic massive
