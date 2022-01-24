@@ -84,11 +84,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
 neutron star$-$black hole mergers: multiband observations and early
 warnings](https://arxiv.org/abs/2108.08490), *Astrophys. J.* (accepted), arXiv:2108.08490
 
-0. K. Satapathy, *et al.* (EHT Collaboration), [The variability of the
-black-hole image in M87 at the dynamical time
-scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.* (accepted),
-arXiv:2111.01317 
-
 0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
 M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
 A. McCann, G. Oganesyan, E. Palazzi, S. Ronchini, A. Rossi, O. Sharan
@@ -108,6 +103,10 @@ astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
 *Astron. & Astrophys.* (accepted), arXiv:2105.15120
+
+0. K. Satapathy, *et al.* (EHT Collaboration), [The variability of the
+black-hole image in M87 at the dynamical time
+scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.* 925 (2022) 13
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational waves from 20 accreting millisecond X-ray pulsars in O3
