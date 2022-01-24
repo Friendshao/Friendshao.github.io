@@ -34,7 +34,9 @@ tr:nth-child(odd) {
 
 ## 课程信息
 
-- This is a course on astroparticle physics. Aiming at teaching the students the basic knowledge of theoretical physics for advanced studies on frontier astroparticle physics issues. 
+- This is a course on astroparticle physics, aiming at teaching the students the
+basic knowledge of theoretical physics for advanced studies on frontier
+astroparticle physics issues. 
 
 | **时间** | 周三10-11节 |
 | **地点** | 二教423 |
@@ -61,7 +63,7 @@ tr:nth-child(odd) {
     - dark matter physics
     - high energy cosmic rays
     - astro-neutrino physics
-    - physics of gamma bursts etc.
+    - physics of gamma bursts, etc.
 
 <p></p>
 
