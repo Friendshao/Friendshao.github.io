@@ -96,7 +96,7 @@ $$\delta S = 0$$
 ## 学生对课程的总体评价
 
 <div style="display: flex; justify-content: center;">
-<img src="thmech21_score.jpg" width="880">
+<img src="thmeth21_score.jpg" width="880">
 </div>
 
 <script type="text/x-mathjax-config">
