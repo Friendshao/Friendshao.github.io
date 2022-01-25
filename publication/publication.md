@@ -47,11 +47,6 @@ J.* 921 (2021) 158
     [link](https://mp.weixin.qq.com/s/Cp2NcWvC7Ldi4jbZxLzIsw) 
   <img src="pku.png" alt="PKU" style="height:30px;">
 
-0. X. Miao, H. Xu, **L. Shao**, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
-highly relativistic binary pulsars in the era of LISA and
-SKA](https://arxiv.org/abs/2107.05812),
-*Astrophys. J.* 921 (2021) 114
-
 0. **L. Shao**, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog
 GWTC-1](https://arxiv.org/abs/2002.01185),
