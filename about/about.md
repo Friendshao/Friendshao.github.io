@@ -51,6 +51,14 @@ University](http://www.pku.edu.cn/), Beijing China.
 - General Relativity & Astrophysics
 - Theoretical Mechanics
 
+### Information for Recruiting Students
+
+- Lists of [current members](https://kiaagravity.github.io/member/) and [past students](https://friendshao.github.io/docs/theses), as well as their research topics 
+
+- [Master & PhD Students](https://kiaagravity.github.io/assets/phd)（博士研究生）
+- [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate)（本科生科研）
+- [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor)（本科生毕业设计）
+
 ### Services
 
 - Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2022)
@@ -59,13 +67,14 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) (2018-now)
 - Outstanding Reviewer for Classical and Quantum Gravity ([2018](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/), [2019](https://publishingsupport.iopscience.iop.org/questions/classical-quantum-gravity-2019-reviewer-awards/)), Universe ([2018](https://www.mdpi.com/journal/universe/awards/591/download)), and SCIENCE CHINA: Physics, Mechanics & Astronomy ([2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA))
 
-### Information for Recruiting Students
+<!-- 
+### Research Funds
 
-- [Master & PhD Students](https://kiaagravity.github.io/assets/phd)（博士研究生）
-- [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate)（本科生科研）
-- [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor)（本科生毕业设计）
-
-- Lists of [**current members**](https://kiaagravity.github.io/member/) and [**past students**](https://friendshao.github.io/docs/theses), as well as their research topics 
+- 2020.12—2025.11，科技部SKA专项“脉冲星理论研究支撑”，1350万，主持
+- 2021.01—2025.12，马克斯·普朗克学会“Max Planck Partner Group”，10万欧元，组长
+- 2020.01—2023.12，NSFC面上基金“关于致密双星并合的引力波波形的研究”，60万，主持
+- 2020.01—2024.12，NSFC重大基金之课题四“黑洞烛光的宇宙学应用”，275万，参与
+- 2018.01—2020.12，中国科协青年人才托举工程，45万，入选 -->
 
 ---
 
