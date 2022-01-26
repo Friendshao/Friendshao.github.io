@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 176)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 177)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 25)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
+data](https://arxiv.org/abs/2201.10104), arXiv:2201.10104
 
 0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
 Kramer, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, N. Wex,
