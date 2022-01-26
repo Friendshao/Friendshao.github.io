@@ -20,20 +20,14 @@ layout: default
 
 **Tools**
 
-- [Calendar](https://calendar.google.com/calendar/r),
-  [Onenote](https://www.onenote.com/),
-  [Google](http://www.google.com/ncr)
-  ([Calendar](https://calendar.google.com/calendar/r/month),
-  [keep](https://keep.google.com/),
-  [maps](https://www.google.com/maps),
-  [translate](https://translate.google.com/))
-- [Bing](https://www.bing.com/),
+- [Onenote](https://www.onenote.com/),
   [Evernote](https://www.evernote.com/Home.action),
+  [Bing](https://www.bing.com/),
   [Baidu](http://www.baidu.com/),
-  [smallpdf](http://smallpdf.com/),
-  [sortime](https://www.sortime.com/v/web),
-  [kdocs](https://www.kdocs.cn/latest) ([day](https://www.kdocs.cn/p/135742198521), [rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
-  [worldtime](https://www.worldtimebuddy.com/)
+  [Google](http://www.google.com/ncr)
+- [smallpdf](http://smallpdf.com/),
+  [kdocs](https://www.kdocs.cn/latest) ([rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
+  [time.is](https://time.is/)
 - [feedReader](http://feedreader.com/online/),
   [Dropbox](https://www.dropbox.com/home),
   [github](https://github.com/),
@@ -78,9 +72,7 @@ layout: default
   [jianshu](https://www.jianshu.com/),
   [weibo](https://weibo.com/)
 - [hyperspace](http://hyperspace.uni-frankfurt.de/),
-  [pulsarastronomy](http://pulsarastronomy.net/pulsar/preprints),
   [benty-fields](https://benty-fields.com/daily_arXiv),
-  [arxivist](http://arxivist.com/),
   [GRA](http://gra.itp.ac.cn/12),
   [LSC](https://www.lsc-group.phys.uwm.edu/ppcomm/Papers.html)
 - [NSFC](https://isisn.nsfc.gov.cn/egrantweb/main),
