@@ -88,21 +88,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
 neutron star$-$black hole mergers: multiband observations and early
 warnings](https://arxiv.org/abs/2108.08490), *Astrophys. J.* (accepted), arXiv:2108.08490
 
-0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
-M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
-A. McCann, G. Oganesyan, E. Palazzi, S. Ronchini, A. Rossi, O. Sharan
-Salafia, L. Salmon, S. Ascenzi, A. Capone, S. Celli, S. Dall'Osso, I.F. Di
-Palma, P. Fermani, D. Guetta, L. Hanlon, E. Howell, S. Paltani, L.
-Rezzolla, S. Vinciguerra, A. Zegarelli, L. Amati, A. Blain, E. Bozzo, S.
-Chaty, P. D'Avanzo, M. De Pasquale, H. Dereli-Bégué, G. Ghirlanda, A.
-Gomboc, D. Götz, I. Horvath, R. Hudec, L. Izzo, E. Le Floch, L. Li, F.
-Longo, S. Komossa, A.K.H. Kong, S. Mereghetti, R. Mignani, A. Nathanail,
-P.T. O'Brien, J.P. Osborne, A. Pe'er, S. Piranomonte, P. Rosati, S.
-Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
-Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
-astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
-*Exp. Astron.* (accepted), arXiv:2104.09534
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
@@ -132,6 +117,21 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
 strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 *Mon. Not. R. Astron. Soc.* 509 (2022) 2758
+
+0. R. Ciolfi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Stratta,
+M. Branchesi, B. Gendre, S. Grimm, J. Harms, G.P. Lamb, A. Martin-Carrillo,
+A. McCann, G. Oganesyan, E. Palazzi, S. Ronchini, A. Rossi, O. Sharan
+Salafia, L. Salmon, S. Ascenzi, A. Capone, S. Celli, S. Dall'Osso, I.F. Di
+Palma, P. Fermani, D. Guetta, L. Hanlon, E. Howell, S. Paltani, L.
+Rezzolla, S. Vinciguerra, A. Zegarelli, L. Amati, A. Blain, E. Bozzo, S.
+Chaty, P. D'Avanzo, M. De Pasquale, H. Dereli-Bégué, G. Ghirlanda, A.
+Gomboc, D. Götz, I. Horvath, R. Hudec, L. Izzo, E. Le Floch, L. Li, F.
+Longo, S. Komossa, A.K.H. Kong, S. Mereghetti, R. Mignani, A. Nathanail,
+P.T. O'Brien, J.P. Osborne, A. Pe'er, S. Piranomonte, P. Rosati, S.
+Savaglio, F. Schüssler, O. Sergijenko, **L. Shao**, N. Tanvir, S. Turriziani,
+Y. Urata, M. van Putten, S. Vergani, S. Zane, B. Zhang, [Multi-messenger
+astrophysics with THESEUS in the 2030s](https://arxiv.org/abs/2104.09534),
+*Exp. Astron.* 52 (2021) 245
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo
