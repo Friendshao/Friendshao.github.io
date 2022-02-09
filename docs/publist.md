@@ -57,11 +57,6 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604),
 arXiv:2111.03604
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-gravitational waves associated with gamma-ray bursts detected by Fermi and Swift
-during the LIGO-Virgo run O3b](https://arxiv.org/abs/2111.03608),
-arXiv:2111.03608
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
@@ -82,6 +77,11 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
 run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+gravitational waves associated with gamma-ray bursts detected by Fermi and Swift
+during the LIGO-Virgo run O3b](https://arxiv.org/abs/2111.03608),
+*Astrophys. J.* (accepted), arXiv:2111.03608
 
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
