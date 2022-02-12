@@ -235,7 +235,7 @@ J1655$-$40](https://arxiv.org/abs/2102.02232),
 
 0. J. Zhao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Gao, C. Liu, Z. Cao, B.-Q.
-Ma, [Dipole radiation from binary neutron stars with ground-based
+Ma, [Probing dipole radiation from binary neutron stars with ground-based
 laser-interferometer and atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883),  
 *Phys. Rev. D* 104 (2021) 084008
