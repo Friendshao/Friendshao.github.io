@@ -47,6 +47,12 @@ tr:nth-child(odd) {
   - **Mechanics** (力学)
   - **Electromagnetism** (电磁学)
 
+<div style="display: flex; justify-content: center;">
+<img src="lecturenote_mechanics.png" height="500">
+&nbsp; &nbsp;
+<img src="lecturenote_electromagnetism.png" height="500">
+</div>
+
 | **时间** | 周一3-4节，周四3-4节 |
 | **地点** | 二教505 |
 | **期末考试时间** | 2022年6月13日 · 上午（闭卷、笔试） |
@@ -95,9 +101,10 @@ tr:nth-child(odd) {
 
 ## 文件下载
 
-- 课程日历：[我爱上课.pdf](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)
-- 课程作业：[我爱写作业.pdf](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)
-- [《普通物理（I）》力学讲义](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)
+- **课程日历**：[我爱上课.pdf](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)
+- **课程作业**：[我爱写作业.pdf](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)
+- **力学讲义**：[电子版.pdf](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)、手写版.pdf（待上传）
+- **电磁学讲义**：电子版.pdf（待上传）、手写版.pdf（待上传）
 
 <p></p>
 
