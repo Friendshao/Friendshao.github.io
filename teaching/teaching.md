@@ -44,6 +44,12 @@ tr:nth-child(odd) {
 
 ## Teaching Activities
 
+> Education is to discover oneself and to fulfill purposes of life.
+
+<p></p>
+
+### **2022 Spring Semester**
+
 | [GPI-2022S](phy22/phy22) | **General Physics (I)**<br>**普通物理（I）** | 周一3-4节 & 周四3-4节，二教505<br><small>**习题课**: 周四10-11节，二教302 |
 | [AP-2022S](astroparticle22/astroparticle22) | **Astroparticle Physics**<br>**天体粒子物理** | 周三10-11节，二教423 |
 
