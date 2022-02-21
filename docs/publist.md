@@ -83,15 +83,15 @@ gravitational waves associated with gamma-ray bursts detected by Fermi and Swift
 during the LIGO-Virgo run O3b](https://arxiv.org/abs/2111.03608),
 *Astrophys. J.* (accepted), arXiv:2111.03608
 
-0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
-neutron star$-$black hole mergers: multiband observations and early
-warnings](https://arxiv.org/abs/2108.08490), *Astrophys. J.* (accepted), arXiv:2108.08490
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
 *Astron. & Astrophys.* (accepted), arXiv:2105.15120
+
+0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
+neutron star$-$black hole mergers: multiband observations and early
+warnings](https://arxiv.org/abs/2108.08490), *Astrophys. J.* 926 (2022) 158
 
 0. K. Satapathy, *et al.* (EHT Collaboration), [The variability of the
 black-hole image in M87 at the dynamical time
