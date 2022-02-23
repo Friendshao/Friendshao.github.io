@@ -46,6 +46,7 @@ astroparticle physics issues.
 | **参考书** | Claus Grupen, *Astroparticle Physics* (Springer 2005) |
 | **教师** | **马伯强**，理论物理研究所，物理楼南428，mabq@pku.edu.cn | 
 | | **徐仁新**，天文学系，理科2#楼2912S，r.x.xu@pku.edu.cn<br>**陈斌**，理论物理研究所，物理楼南424，bchen01@pku.edu.cn<br>**黎卓**，天文学系，科维理所K108，zhuo.li@pku.edu.cn<br>**邵立晶**，科维理天文与天体物理研究所，科维理所K217，lshao@pku.edu.cn<br>**刘佳**，理论物理研究所，物理楼南4层，jialiu@pku.edu.cn |
+| **答疑** | 周四16:00-17:00PM，物理南楼428，电话62765708 |
 | **助教** | TBA |
 
 <p></p>
