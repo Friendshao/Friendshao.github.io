@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 177)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 25)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 26)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
 ---
@@ -1058,6 +1058,14 @@ Reitze, P.  Couvares, S. Katsanevas, T. Kajita, H. Lueck, D. McClelland, S.
 Rowan, G. Sanders, D. Shoemaker, J. van den Brand, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. B. Altschul, J. Díaz, J.P. Harding, T. Katori, B. Keating, F. Kislat, A.
+Kostelecký, H. Krawczynski, R. Lehnert<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Mészáros, M. Mewes, D.F.
+Phillips, M. Schreck, **L. Shao**, J. Tasson, R. Walsworth, [Probes of Lorentz
+and CPT symmetry with particles and radiation of astrophysical
+origin](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF0-208.pdf),
+Letter of Interest for Snowmass2021
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 [Precession of triaxially deformed neutron
