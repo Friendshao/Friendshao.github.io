@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 177)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 26)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 27)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
 ---
@@ -1028,6 +1028,14 @@ nucleon](https://arxiv.org/abs/0812.3294),
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
+Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
+Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Weir, [Workshop on Gravitational
+Wave Astrophysics for Early Career
+Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), 
+Nat. Astron. (accepted) 
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [General
 relativity withstands double pulsar's
