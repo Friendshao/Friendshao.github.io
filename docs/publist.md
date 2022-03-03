@@ -10,8 +10,9 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 178)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 27)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
+- [**Miscellaneous**](#misc) <small> (in total 6)</small>
 
 ---
 
@@ -1039,7 +1040,7 @@ Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Weir, [Workshop on Gravitational
 Wave Astrophysics for Early Career
 Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), 
-Nat. Astron. (accepted) 
+*Nat. Astron.* (accepted) 
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [General
 relativity withstands double pulsar's
@@ -1088,28 +1089,11 @@ stars](https://arxiv.org/abs/2011.04472),
 tests of the graviton mass](https://arxiv.org/abs/2009.06817), *Astron.
 Nachr.* 342 (2021) 300
 
-0. B.P. Abbott, *et al.* (LIGO / Virgo Collaboration), [VizieR Online Data
-Catalog: 2015-2017 LIGO obs. analysis for 221 pulsars (Abbott+,
-2019)](https://ui.adsabs.harvard.edu/abs/2020yCat..18790010A/abstract), VizieR
-On-line Data Catalog: J/ApJ/879/10
-
-0. J.-Y. Kim, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: 3C 279
-Event Horizon Telescope imaging (Kim+,
-2020)](https://ui.adsabs.harvard.edu/abs/2020yCat..36400069K/abstract), VizieR
-On-line Data Catalog: J/A+A/640/A69
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Pulsar
 tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), in *Proceedings of the Eighth
 Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020),
 p. 170
-
-0. G. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
-Chatterjee, J. Cordes, P. Demorest, J. Deneva, J. Dexter, R. Eatough, M.
-Kramer, T. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
-[ngVLAKey Science Goal 4: Fundamental Physics with Galactic Center
-Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
-*American Astronomical Society*, AAS Meeting no. 235, id. no. 364.21
 
 0. C. Goddi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Crew, V.
 Impellizzeri, I. Martí-Vidal, L.D. Matthews, H. Messias, H. Rottmann, W.
@@ -1146,13 +1130,6 @@ East, I.H. Harry, G. Pratten, **L. Shao**, N. Tamanini, M. van de Meent, V.
 Varma, J. Vines, H. Yang, M. Zumalacarregui, [Extreme gravity and
 fundamental physics](https://arxiv.org/abs/1903.09221),
 *Bull. Am. Astron. Soc.* 51 (2019) 251
-
-0. P. Demorest<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G.C.
-Bower, S. Chatterjee, J. Cordes, J. Deneva, J. Dexter, M. Kramer, T.J.W.
-Lazio, S.M. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA searches for
-pulsars at the Galactic
-center](http://adsabs.harvard.edu/abs/2019AAS...23336124D),
-*American Astronomical Society*, AAS Meeting no. 233, id. no. 361.24
 
 0. G.C. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
 Chatterjee, J. Cordes, P. Demorest, J.S. Deneva, J. Dexter, M. Kramer, J.
@@ -1297,7 +1274,43 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 98
 {: reversed="reversed"}
 
+<p></p>
 
+---
+
+<p></p>
+
+<a name="misc"></a>
+<big><big>**Miscellaneous**</big></big>
+
+0. 高勇, **邵立晶** [翻译], [爱因斯坦的引力理论是否符合最新的LIGO/VIRGO/KAGRA观测？](https://www.ligo.org/science/Publication-O3bTGR/translations/science-summary-chinese-simplified.pdf), LIGO / Virgo / KAGRA Science Summaries
+
+0. 刘畅, **邵立晶** [翻译], [GWTC-3, 引力波探测星表 第3版](https://www.ligo.org/science/Publication-O3bCatalog/translations/science-summary-chinese-simplified.pdf), LIGO / Virgo / KAGRA Science Summaries
+
+0. B.P. Abbott, *et al.* (LIGO / Virgo Collaboration), [VizieR Online Data
+Catalog: 2015-2017 LIGO obs. analysis for 221 pulsars (Abbott+,
+2019)](https://ui.adsabs.harvard.edu/abs/2020yCat..18790010A/abstract), VizieR
+On-line Data Catalog: J/ApJ/879/10
+
+0. J.-Y. Kim, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: 3C 279
+Event Horizon Telescope imaging (Kim+,
+2020)](https://ui.adsabs.harvard.edu/abs/2020yCat..36400069K/abstract), VizieR
+On-line Data Catalog: J/A+A/640/A69
+
+0. G. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
+Chatterjee, J. Cordes, P. Demorest, J. Deneva, J. Dexter, R. Eatough, M.
+Kramer, T. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
+[ngVLAKey Science Goal 4: Fundamental Physics with Galactic Center
+Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
+*American Astronomical Society*, AAS Meeting no. 235, id. no. 364.21
+
+0. P. Demorest<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G.C.
+Bower, S. Chatterjee, J. Cordes, J. Deneva, J. Dexter, M. Kramer, T.J.W.
+Lazio, S.M. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA searches for
+pulsars at the Galactic
+center](http://adsabs.harvard.edu/abs/2019AAS...23336124D),
+*American Astronomical Society*, AAS Meeting no. 233, id. no. 361.24
+{: reversed="reversed"}
 
 
 <script type="text/x-mathjax-config">
