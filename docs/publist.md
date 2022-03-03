@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 177)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 178)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 27)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 
@@ -19,6 +19,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [First joint
+observation by the underground gravitational-wave detector, KAGRA, with
+GEO600](https://arxiv.org/abs/2203.01270), arXiv:2203.01270
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
