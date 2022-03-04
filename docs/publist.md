@@ -1283,9 +1283,17 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
 
-0. 高勇, **邵立晶** [翻译], [爱因斯坦的引力理论是否符合最新的LIGO/VIRGO/KAGRA观测？](https://www.ligo.org/science/Publication-O3bTGR/translations/science-summary-chinese-simplified.pdf), LIGO / Virgo / KAGRA Science Summaries
+0. 梁迪聪, **邵立晶** [翻译], [GEO-KAGRA O3
+观测运行的结果](https://www.ligo.org/science/Publication-O3GEO-KAGRA/translations/science-summary-chinese-simplified.pdf),
+LIGO / Virgo / KAGRA Science Summaries
 
-0. 刘畅, **邵立晶** [翻译], [GWTC-3, 引力波探测星表 第3版](https://www.ligo.org/science/Publication-O3bCatalog/translations/science-summary-chinese-simplified.pdf), LIGO / Virgo / KAGRA Science Summaries
+0. 高勇, **邵立晶** [翻译],
+[爱因斯坦的引力理论是否符合最新的LIGO/VIRGO/KAGRA观测？](https://www.ligo.org/science/Publication-O3bTGR/translations/science-summary-chinese-simplified.pdf),
+LIGO / Virgo / KAGRA Science Summaries
+
+0. 刘畅, **邵立晶** [翻译], [GWTC-3, 引力波探测星表
+第3版](https://www.ligo.org/science/Publication-O3bCatalog/translations/science-summary-chinese-simplified.pdf),
+LIGO / Virgo / KAGRA Science Summaries
 
 0. B.P. Abbott, *et al.* (LIGO / Virgo Collaboration), [VizieR Online Data
 Catalog: 2015-2017 LIGO obs. analysis for 221 pulsars (Abbott+,
