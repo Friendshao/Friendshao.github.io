@@ -25,7 +25,7 @@ tr:nth-child(odd) {
 ### Theses & Reports <small><small>[[Read More](/docs/theses)]</small></small>
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
-| 2022 | | Yacheng Kang <small>(康亚城)</small><br>Zexin Hu <small>(胡泽昕)</small><br>Peixiang Ji <small>(姬佩祥)</small> | | |
+| 2022 | | Yacheng Kang <small>(康亚城)</small><br>Zexin Hu <small>(胡泽昕)</small><br>Peixiang Ji <small>(姬佩祥)</small> |  Ziming Wang <small>(王子铭)</small><br>	Yiming Dong <small>(董益铭)</small><br>Zhejian Zhang <small>(张喆戬)</small><br>Haoyang Qi <small>(祁昊洋)</small> | |
 | 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | Minghao Guo <small>(郭明浩)</small><br>Jingyuan Deng <small>(邓景元)</small><br>Huimei Wang <small>(王惠美)</small><br>Lingqian Qiu <small>(邱令倩)</small><br>Xinmiao Zhao <small>(赵鑫淼)</small><br>Chunjiang Li <small>(李春江)</small> | Yacheng Kang <small>(康亚城)</small><br>Zexin Hu <small>(胡泽昕)</small> | Rui Xu <small>(徐睿) |
 | 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> | |
 | 2019 | | Zhongpeng Sun <small>(孙忠鹏)</small><br>Wenlong Li <small>(李汶隆) | | |

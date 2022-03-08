@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 178)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 179)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>(in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 6)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J. Zhao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Extending the Fisher
+information matrix in gravitational-wave data
+analysis](https://arxiv.org/abs/2203.02670), arXiv:2203.02670
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [First joint
 observation by the underground gravitational-wave detector, KAGRA, with
