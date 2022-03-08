@@ -64,7 +64,7 @@ tr:nth-child(odd) {
 | 00431132 | **General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2022S**](phy22/phy22) (98 ppl.)<br>[**2021S**](phy21/phy21) (158 ppl.) |  
 | 00431133 | **General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20/phy20) (75 ppl.) | 
 | 00432198 | **Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2021F**](thmech21/thmech21) (105 ppl.)<br>[**2019F**](thmech19/thmech19) (96 ppl.) | 
-| 00432296 | **Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22/astroparticle22) (15 ppl.) | 
+| 00432296 | **Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22/astroparticle22) (14 ppl.) | 
 
 <!-----------------------------
 
