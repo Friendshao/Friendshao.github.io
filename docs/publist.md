@@ -1288,6 +1288,8 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
 
+0. **邵立晶**, [宇宙舍利子](https://mp.weixin.qq.com/s/8eGjm3huO5pXU-tkywVCiw), 赛先生天文
+
 0. 梁迪聪, **邵立晶** [翻译], [GEO-KAGRA O3
 观测运行的结果](https://www.ligo.org/science/Publication-O3GEO-KAGRA/translations/science-summary-chinese-simplified.pdf),
 LIGO / Virgo / KAGRA Science Summaries
