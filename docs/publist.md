@@ -86,7 +86,7 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
-run](https://arxiv.org/abs/2105.13085), arXiv:2105.13085
+run](https://arxiv.org/abs/2105.13085), *Phys. Rev. D* (accepted), arXiv:2105.13085
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves associated with gamma-ray bursts detected by Fermi and Swift
