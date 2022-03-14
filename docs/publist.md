@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 180)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
-- [**Chinese Articles**](#chinese) <small>(in total 11)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 6)</small>
 
 ---
@@ -1255,7 +1255,7 @@ model](https://arxiv.org/abs/1008.1689),
 <p></p>
 
 <a name="chinese"></a>
-<big><big>**Chinese Articles**</big></big>
+<big><big>**Chinese Articles**</big></big> **published in Chinese journals**
 
 0. 李洪波<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新,
 [核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05), 
