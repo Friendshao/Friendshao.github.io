@@ -31,21 +31,21 @@ Duţan, I. Dvorkin, G. Fabj, T. Foglizzo, S. Ford, J.-B. Fouvry, T. Fragkos, C.
 Fryer, M. Gaspari, D. Gerosa, L. Graziani, P.J. Groot, M. Habouzit, D. Haggard,
 Z. Haiman, W.-B. Han, A. Istrate, P.H. Johansson, F.M. Khan, T. Kimpson, K.
 Kokkotas, A. Kong, V. Korol, K. Kremer, T. Kupfer, A. Lamberts, S. Larson, M.
-Lau, D. Liu, N. Lloyd-Ronning, G. Lodato, A. Lupi, C.-P. Ma, T.M., I. Mandel, A.
-Mangiagli, M. Mapelli, S. Mathis, L. Mayer, S. McGee, B. McKernan, M.C. Miller,
-D.F. Mota, M. Mumpower, S.S. Nasim, G. Nelemans, S. Noble, F.  Pacucci, F.
-Panessa, V. Paschalidis, H. Pfister, D.  Porquet, J. Quenby, F. Röpke, J. Regan,
-S. Rosswog, A. Ruiter, M. Ruiz, J. Runnoe, R. Schneider, J. Schnittman, A.
-Secunda, A. Sesana , N. Seto, **L. Shao**, S. Shapiro, C. Sopuerta, N.  Stone, A.
-Suvorov, N. Tamanini, T. Tamfal, T. Tauris, K.  Temmink, J. Tomsick, S. Toonen,
-A. Torres-Orjuela, M. Toscani, A. Tsokaros, C. Unal, V. Vázquez-Aceves, R.
-Valiante, M.  van Putten, J. van Roestel, C. Vignali, M. Volonteri, K. Wu, Z.
-Younsi, S. Yu, S. Zane, L. Zwick, F. Antonini, V. Baibhav, E. Barausse, A.B.
-Rivera, M. Branchesi, G.  Branduardi-Raymont, K. Burdge, S. Chakraborty, J.
-Cuadra, K. Dage, B. Davis, S.E. de Mink, R. Decarli, D. Doneva, S.  Escoffier,
-P. Gandhi, F. Haardt, C.O. Lousto, S. Nissanke, J. Nordhaus, R. O'Shaughnessy,
-S.P. Zwart, A. Pound, F.  Schussler, O. Sergijenko, A. Spallicci, D. Vernieri,
-A.  Vigna-Gómez, [Astrophysics with the Laser Interferometer Space
+Lau, D. Liu, N. Lloyd-Ronning, G. Lodato, A. Lupi, C.-P. Ma, T. Maccarone, I.
+Mandel, A. Mangiagli, M. Mapelli, S. Mathis, L. Mayer, S. McGee, B. McKernan,
+M.C. Miller, D.F. Mota, M. Mumpower, S.S. Nasim, G. Nelemans, S. Noble, F.
+Pacucci, F. Panessa, V. Paschalidis, H. Pfister, D. Porquet, J. Quenby, F.
+Röpke, J. Regan, S. Rosswog, A. Ruiter, M. Ruiz, J. Runnoe, R. Schneider, J.
+Schnittman, A. Secunda, A. Sesana, N. Seto, **L. Shao**, S. Shapiro, C.
+Sopuerta, N. Stone, A. Suvorov, N. Tamanini, T. Tamfal, T. Tauris, K. Temmink,
+J. Tomsick, S. Toonen, A. Torres-Orjuela, M. Toscani, A. Tsokaros, C.  Unal, V.
+Vázquez-Aceves, R. Valiante, M. van Putten, J. van Roestel, C.  Vignali, M.
+Volonteri, K. Wu, Z. Younsi, S. Yu, S. Zane, L. Zwick, F. Antonini, V. Baibhav,
+E. Barausse, A.B. Rivera, M. Branchesi, G. Branduardi-Raymont, K.  Burdge, S.
+Chakraborty, J. Cuadra, K. Dage, B. Davis, S.E. de Mink, R. Decarli, D. Doneva,
+S.  Escoffier, P. Gandhi, F. Haardt, C.O. Lousto, S. Nissanke, J.  Nordhaus, R.
+O'Shaughnessy, S.P. Zwart, A. Pound, F. Schussler, O. Sergijenko, A. Spallicci,
+D. Vernieri, A. Vigna-Gómez, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), arXiv:2203.06016
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J. Zhao, **L.
