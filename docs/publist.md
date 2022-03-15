@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 180)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 181)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 6)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. H. Abe, *et al.*(KAGRA Collaboration)), [Performance of the KAGRA detector
+during the first joint observation with GEO 600
+(O3GK)](https://arxiv.org/abs/2203.07011), arXiv:2203.07011
 
 0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, R. Balasov, I. Bartos,
 S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L. Blecha, S.
