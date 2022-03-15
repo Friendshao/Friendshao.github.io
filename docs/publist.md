@@ -21,7 +21,7 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. H. Abe, *et al.*(KAGRA Collaboration)), [Performance of the KAGRA detector
+0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
 (O3GK)](https://arxiv.org/abs/2203.07011), arXiv:2203.07011
 
