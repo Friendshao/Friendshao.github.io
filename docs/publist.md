@@ -12,7 +12,7 @@ layout: default
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 181)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
-- [**Miscellaneous**](#misc) <small> (in total 6)</small>
+- [**Miscellaneous**](#misc) <small> (in total 8)</small>
 
 ---
 
