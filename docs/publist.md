@@ -127,7 +127,7 @@ during the LIGO-Virgo run O3b](https://arxiv.org/abs/2111.03608),
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 intermediate mass black hole binaries in the third observing run of Advanced
 LIGO and Advanced Virgo](https://arxiv.org/abs/2105.15120), 
-*Astron. & Astrophys.* (accepted), arXiv:2105.15120
+*Astron. & Astrophys.* 659 (2022) A84
 
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron star$-$neutron star and
