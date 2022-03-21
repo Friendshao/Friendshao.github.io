@@ -1076,7 +1076,7 @@ Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Weir, [Workshop on Gravitational
 Wave Astrophysics for Early Career
 Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), 
-*Nat. Astron.* (accepted) 
+*Nat. Astron.* 6 (2022) 304
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [General
 relativity withstands double pulsar's
