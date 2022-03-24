@@ -22,7 +22,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-### Theses & Reports <small><small>[[Read More](/docs/theses)]</small></small>
+### <img src="report.png" style="height:40px;"> &nbsp; <b>Theses & Reports</b> <small><small>[[Read More](/docs/theses)]</small></small>
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
 | 2022 | | Yacheng Kang <small>(康亚城)</small><br>Zexin Hu <small>(胡泽昕)</small><br>Peixiang Ji <small>(姬佩祥)</small> |  Ziming Wang <small>(王子铭)</small><br>	Yiming Dong <small>(董益铭)</small><br>Zhejian Zhang <small>(张喆戬)</small><br>Haoyang Qi <small>(祁昊洋)</small> | |
@@ -35,7 +35,7 @@ tr:nth-child(odd) {
 <br>
 <p></p>
 
-### Serving for Academic Journals <small><small>[[Read More](/docs/journal)]</small></small>
+### <img src="journal.jpeg" style="height:50px;"> &nbsp;<b>Serving for Academic Journals</b> <small><small>[[Read More](/docs/journal)]</small></small>
 
 | **ROLE** | **JOURNAL** | **TIME** |
 | Advisory Panel Member | [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) | 2020-2021 |
@@ -49,7 +49,7 @@ tr:nth-child(odd) {
 <br>
 <p></p>
 
-### Serving for Academic Conferences
+### <img src="conference.jpeg" style="height:45px;"> &nbsp; <b>Serving for Academic Conferences</b>
 
 | **ROLE** | **CONFERENCE** |
 | Organizer & Session Chair | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html), May 3-7, 2021, Leiden Netherlands |
@@ -68,7 +68,6 @@ tr:nth-child(odd) {
 
 | 2024 | Hongbo Li <small>(李洪波)</small> | | |
 | 2023 | Yong Gao <small>(高勇)</small><br>Chang Liu <small>(刘畅)</small> | | |
-| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | Huimei Wang <small>(王惠美)</small><br>Lingqian Qiu <small>(邱令倩)</small><br>Jingyuan Deng <small>(邓景元)</small><br>Chunjiang Li <small>(李春江)</small><br>	Yutong Li <small>(李玉童)</small> | Yacheng Kang <small>(康亚城)</small><br>Yiren Lin <small>(林伊人)</small><br>Yuchang Chen <small>(陈宇畅)</small><br>Zexin Hu <small>(	胡泽昕)</small> |
 
 ### Useful Links
 
