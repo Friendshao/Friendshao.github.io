@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 181)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 182)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
+for gravitational waves associated with fast radio bursts detected by CHIME/FRB
+during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
+arXiv:2203.12038
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
