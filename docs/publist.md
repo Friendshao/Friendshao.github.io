@@ -120,14 +120,14 @@ searches for continuous and long-duration transient gravitational waves from
 known pulsars in the LIGO-Virgo third observing
 run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted), arXiv:2112.10990
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
-dark photon dark matter using data from LIGO's and Virgo's third observing
-run](https://arxiv.org/abs/2105.13085), *Phys. Rev. D* (accepted), arXiv:2105.13085
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves associated with gamma-ray bursts detected by Fermi and Swift
 during the LIGO-Virgo run O3b](https://arxiv.org/abs/2111.03608),
 *Astrophys. J.* (accepted), arXiv:2111.03608
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
+dark photon dark matter using data from LIGO's and Virgo's third observing
+run](https://arxiv.org/abs/2105.13085), *Phys. Rev. D* 105 (2022) 063030 
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 intermediate mass black hole binaries in the third observing run of Advanced
