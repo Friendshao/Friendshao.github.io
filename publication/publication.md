@@ -47,6 +47,11 @@ J.* 921 (2021) 158
     [link](https://mp.weixin.qq.com/s/Cp2NcWvC7Ldi4jbZxLzIsw) 
   <img src="pku.png" alt="PKU" style="height:30px;">
 
+0. X. Miao, H. Xu,  **L.  Shao**, C. Liu, B.-Q. Ma,
+  [Stringent tests of gravity with highly relativistic binary pulsars in the era
+  of LISA and SKA](https://arxiv.org/abs/2107.05812), *Astrophys. J.* 921 (2021)
+  114
+
 0. **L. Shao**, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog
 GWTC-1](https://arxiv.org/abs/2002.01185),
@@ -56,6 +61,10 @@ GWTC-1](https://arxiv.org/abs/2002.01185),
 laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* 898
 (2020) 69
+
+0. **L. Shao**, N. Wex, S.-Y. Zhou, 
+  [New graviton mass bound from binary
+  pulsars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020) 024069
 
 0. **L. Shao**, Q.G. Bailey, [Testing the gravitational weak equivalence
 principle in the standard-model extension with binary
@@ -137,21 +146,26 @@ gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
   - <small>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sck+13.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
-0. **L. Shao** & N. Wex, 
+0. **L. Shao**, N. Wex, 
     [New limits on the violation of local position invariance of
     gravity](http://arxiv.org/abs/1307.2637),
     *Class. Quantum Grav.* 30 (2013) 165020
   - <small>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sw13.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
-0. **L. Shao** & N. Wex,
+0. **L. Shao**, N. Wex,
     [New tests of local Lorentz invariance of gravity with small-eccentricity
     binary pulsars](http://arxiv.org/abs/1209.4503),
     *Class. Quantum Grav.* 29 (2012) 215018
   - <small>Highlighted by Classical and Quantum Gravity [[certificate]](IOP_sw12.pdf)
   <img src="iop.gif" alt="IOP" style="height:38px;">
 
-0. **L. Shao** & B.-Q. Ma,
+0. **L. Shao**, Z. Xiao, B.-Q.  Ma, 
+  [Lorentz violation from cosmological objects with very high energy photon
+  emissions](https://arxiv.org/abs/0911.2276),
+  *Astropart. Phys.* 33 (2010) 312
+
+0. **L. Shao**, B.-Q. Ma,
     [The significant digit law in statistical
     physics](http://arxiv.org/abs/1005.0660),
     *Physica A* 389 (2010) 3109
