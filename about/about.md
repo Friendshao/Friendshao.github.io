@@ -4,15 +4,13 @@ title: About me
 permalink: /about/
 ---
 
-## About me
+## About me [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
 
 <img style="float: right;" src="shao2.png" width="180" hspace="10"> 
 
 Since September 1, 2018, I am an **Assistant Professor** (研究员/助理教授) in the [Kavli Institute
 for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
-University](http://www.pku.edu.cn/), Beijing China.
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
-
+University](http://www.pku.edu.cn/), Beijing China. [[**北大学者主页**](http://scholar.pku.edu.cn/lshao)]
 
 ---
 
