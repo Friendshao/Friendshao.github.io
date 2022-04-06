@@ -65,16 +65,15 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 ## 课程内容
 
 | **内容** | **作业** | **备注** |
-| [0. 课程介绍](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
-| [1. 数学基础](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
-| [2. 电磁现象的普遍规律](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
-| [3. 静电场](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
-| [4. 静磁场](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
-| [5. 电磁波的传播](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
-| **期中考试（闭卷）** |  |  |
-| [6. 电磁波的辐射](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
-| [7. 狭义相对论](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
-| [8. 带电粒子和电磁场的相互作用](https://disk.pku.edu.cn/link/7C039706A3A96522F90B4C7E1CAAA8B6) | | |
+| 0. 课程介绍 | | |
+| 1. 数学基础 | | |
+| 2. 电磁现象的普遍规律 | | |
+| 3. 静电场 | | |
+| 4. 静磁场 | | |
+| 5. 电磁波的传播 | | |
+| 6. 电磁波的辐射 | | |
+| 7. 狭义相对论 | | |
+| 8. 带电粒子和电磁场的相互作用 | | |
 | **期末考试（闭卷）** | | |
 
 

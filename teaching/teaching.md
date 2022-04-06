@@ -52,6 +52,7 @@ tr:nth-child(odd) {
 ### **2022 Fall Semester**
 
 | [TM-2022F](thmech22/thmech22) | **Theoretical Mechanics (A)**<br>**理论力学（A）** |  TBA<br><small>**习题课**: TBA |
+| [CED-2022F](ced22/ced22) | **Electrodynamics (B)**<br>**电动力学（B）** |  TBA<br><small>**习题课**: TBA |
 
 <br>
 <p></p>
@@ -70,13 +71,13 @@ tr:nth-child(odd) {
 | 00407794 | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2021F**](gr21/gr21) (20 ppl.)<br>[**2020F**](gr20/gr20) (35 ppl.)<br>[**2019F**](gr19/gr19) (24 ppl.) | 
 | 00431132 | **General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2022S**](phy22/phy22) (98 ppl.)<br>[**2021S**](phy21/phy21) (158 ppl.) |  
 | 00431133 | **General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20/phy20) (75 ppl.) | 
+| 00432141 | **Electrodynamics (B)**<br>**电动力学（B）**<br><small><small> * exercise class ID: 00432160 | [**2022F**](ced22/ced22) (?? ppl.) | 
 | 00432198 | **Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2022F**](thmech22/thmech22) (?? ppl.)<br>[**2021F**](thmech21/thmech21) (105 ppl.)<br>[**2019F**](thmech19/thmech19) (96 ppl.) | 
 | 00432296 | **Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22/astroparticle22) (14 ppl.) | 
 
 <!-----------------------------
 
 | 00431651 | **Seminar for Equilibrium Statistical Physics**<br>**平衡态统计物理讨论班** | | 
-| 00432140 | **Electrodynamics (A)**<br>**电动力学（A）**<br><small><small> * exercise class ID: 00432160 | | 
 | 00431650 | **Equilibrium Statistical Physics** | | |
 | 00432130 | **Thermodynamics and Statistical Physics (A)** | | |
 
@@ -91,6 +92,7 @@ tr:nth-child(odd) {
 ### **Teaching History**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
+| PKU'22F | [**Electrodynamics (B)**](ced22/ced22)<br>**电动力学（B）** | **Lecturer** <small><small> * TAs: TBA |
 | PKU'22F | [**Theoretical Mechanics (A)**](thmech22/thmech22)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: TBA |
 | PKU'22S | [**General Physics (I)**](phy22/phy22)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Ping He & Zipu Fan |
 | PKU'22S | [**Astroparticle Physics**](astroparticle22/astroparticle22)<br>**天体粒子物理** | **co-Lecturer** <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
