@@ -93,7 +93,7 @@ tr:nth-child(odd) {
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
 | PKU'22F | [**Electrodynamics (B)**](ced22/ced22)<br>**电动力学（B）** | **Lecturer** <small><small> * TA: Yong Gao |
-| PKU'22F | [**Theoretical Mechanics (A)**](thmech22/thmech22)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: TBA |
+| PKU'22F | [**Theoretical Mechanics (A)**](thmech22/thmech22)<br>**理论力学（A）** | **Lecturer** <small><small> * TA: Muxin Liu |
 | PKU'22S | [**General Physics (I)**](phy22/phy22)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Ping He & Zipu Fan |
 | PKU'22S | [**Astroparticle Physics**](astroparticle22/astroparticle22)<br>**天体粒子物理** | **co-Lecturer** <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
 | PKU'21F | [**Theoretical Mechanics (A)**](thmech21/thmech21)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
