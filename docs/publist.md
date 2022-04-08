@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 182)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 183)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Dark
+radiation as a probe for phase transition in the early
+universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
 for gravitational waves associated with fast radio bursts detected by CHIME/FRB
