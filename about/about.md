@@ -10,7 +10,8 @@ permalink: /about/
 
 Since September 1, 2018, I am an **Assistant Professor** (研究员/助理教授) in the [Kavli Institute
 for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
-University](http://www.pku.edu.cn/), Beijing China. [[**北大学者主页**](http://scholar.pku.edu.cn/lshao)]
+University](http://www.pku.edu.cn/), Beijing China. 
+&nbsp; <img src="../publication/pku.png" alt="PKU" style="height:25px;"> [**北大学者主页**](http://scholar.pku.edu.cn/lshao)
 
 ---
 
