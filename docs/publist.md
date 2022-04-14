@@ -136,7 +136,7 @@ run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted), arXiv:2112.1
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves associated with gamma-ray bursts detected by Fermi and Swift
 during the LIGO-Virgo run O3b](https://arxiv.org/abs/2111.03608),
-*Astrophys. J.* (accepted), arXiv:2111.03608
+*Astrophys. J.* 928 (2022) 186
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 dark photon dark matter using data from LIGO's and Virgo's third observing
