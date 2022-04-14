@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 184)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 185)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Realistic detection and early
+warning of binary neutron stars with decihertz gravitational-wave
+observatories](https://arxiv.org/abs/2204.06161), arXiv:2204.06161
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational wave emission from the Milky Way center in O3
