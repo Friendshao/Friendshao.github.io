@@ -95,10 +95,6 @@ and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), arXiv:2112.06861
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-gravitational wave emission from scalar boson clouds around spinning black holes
-in LIGO O3 data](https://arxiv.org/abs/2111.15507), arXiv:2111.15507
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), arXiv:2111.13106
@@ -127,6 +123,10 @@ observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+gravitational wave emission from scalar boson clouds around spinning black holes
+in LIGO O3 data](https://arxiv.org/abs/2111.15507), *Phys. Rev. D* (accepted), arXiv:2111.15507
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
 searches for continuous and long-duration transient gravitational waves from
