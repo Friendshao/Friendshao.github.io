@@ -45,10 +45,11 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 ### Teaching
 
-- Astroparticle Physics
-- General Physics <font color="gray"><small><small> *** including Mechanics, Electromagnetism, Thermal Physics, Optics, & Modern Physics</small></small></font>
-- General Relativity & Astrophysics
-- Theoretical Mechanics
+- Astroparticle Physics (天体粒子物理)
+- Electrodynamics (电动力学)
+- General Physics (普通物理) <font color="gray"><small><small> *** including Mechanics, Electromagnetism, Thermal Physics, Optics, & Modern Physics</small></small></font>
+- General Relativity & Astrophysics (广义相对论与天体物理)
+- Theoretical Mechanics (理论力学)
 
 ### Information for Recruiting Students
 
