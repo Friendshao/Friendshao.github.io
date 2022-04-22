@@ -79,11 +79,6 @@ analysis](https://arxiv.org/abs/2203.02670), arXiv:2203.02670
 gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
 data](https://arxiv.org/abs/2201.10104), arXiv:2201.10104
 
-0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
-Kramer, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, N. Wex,
-[Closing the spontaneous-scalarization window with binary
-pulsars](https://arxiv.org/abs/2201.03771), arXiv:2201.03771
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 continuous gravitational waves from isolated neutron stars using Advanced LIGO
 and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
@@ -115,6 +110,11 @@ observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
+Kramer, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, N. Wex,
+[Closing the spontaneous-scalarization window with binary
+pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* (accepted), arXiv:2201.03771
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [First joint
 observation by the underground gravitational-wave detector, KAGRA, with
