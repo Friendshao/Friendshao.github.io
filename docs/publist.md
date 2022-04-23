@@ -113,7 +113,7 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
 0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
 Kramer, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, N. Wex,
-[Closing the spontaneous-scalarization window with binary
+[Closing a spontaneous-scalarization window with binary
 pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* (accepted), arXiv:2201.03771
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [First joint
