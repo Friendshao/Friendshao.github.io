@@ -70,11 +70,6 @@ O'Shaughnessy, S.P. Zwart, A. Pound, F. Schussler, O. Sergijenko, A. Spallicci,
 D. Vernieri, A. Vigna-Gómez, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), arXiv:2203.06016
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J. Zhao, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Extending the Fisher
-information matrix in gravitational-wave data
-analysis](https://arxiv.org/abs/2203.02670), arXiv:2203.02670
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
 data](https://arxiv.org/abs/2201.10104), arXiv:2201.10104
@@ -110,6 +105,12 @@ observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J. Zhao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Extending the Fisher
+information matrix in gravitational-wave data
+analysis](https://arxiv.org/abs/2203.02670), *Astrophys. J.* (accepted),
+arXiv:2203.02670
 
 0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
 Kramer, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, N. Wex,
