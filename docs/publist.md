@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 185)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 186)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -134,6 +134,11 @@ in LIGO O3 data](https://arxiv.org/abs/2111.15507), *Phys. Rev. D* (accepted), a
 searches for continuous and long-duration transient gravitational waves from
 known pulsars in the LIGO-Virgo third observing
 run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted), arXiv:2112.10990
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [The current status and future
+prospects of KAGRA, the large-scale cryogenic gravitational wave telescope built
+in the Kamioka underground](https://www.mdpi.com/2075-4434/10/3/63), *Galaxies*
+10 (2022) 63
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves associated with gamma-ray bursts detected by Fermi and Swift
