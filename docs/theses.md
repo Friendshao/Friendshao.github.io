@@ -42,6 +42,8 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Thesis**
 
+- **姬佩祥**，[标量-张量引力理论下的宇宙学](theses/JiPeixiang.pdf)（南开大学，2022年5月）
+  - <small>Cosmology in the Scalar-tensor Theory of Gravity
 - **李春江**，[FAST数据中射电频率干扰的来源研究](theses/LiChunjiang.pdf)（北京大学，2021年6月）
   - <small>Track Down Radio Frequency Interference in FAST Data
 - **邱令倩**，[适用于引力波探测的神经网络模型探究](theses/QiuLingqian.pdf)（北京大学，2021年6月）
