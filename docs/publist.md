@@ -78,9 +78,6 @@ data](https://arxiv.org/abs/2201.10104), arXiv:2201.10104
 continuous gravitational waves from isolated neutron stars using Advanced LIGO
 and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
-relativity with GWTC-3](https://arxiv.org/abs/2112.06861), arXiv:2112.06861
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
@@ -105,6 +102,10 @@ observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
+relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
+(accepted), arXiv:2112.06861
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J. Zhao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Extending the Fisher
