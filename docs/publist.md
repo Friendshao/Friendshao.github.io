@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 186)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 187)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -102,6 +102,33 @@ observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. K.G. Arun, E. Belgacem, R. Benkel, L. Bernard, E. Berti, G. Bertone, M.
+Besancon, D. Blas, C.G. Böhmer, R. Brito, G. Calcagni, A. Cardenas-Avendaño, K.
+Clough, M. Crisostomi, V.D. Luca, D. Doneva, S. Escoffier, J.M. Ezquiaga, P.G.
+Ferreira, P. Fleury, S. Foffa, G. Franciolini, N. Frusciante, J. García-Bellido,
+C. Herdeiro, T. Hertog, T. Hinderer, P. Jetzer, L. Lombriser, E. Maggio, M.
+Maggiore, M. Mancarella, A. Maselli, S. Nampalliwar, D. Nichols, M. Okounkova,
+P. Pani, V. Paschalidis, A. Raccanelli, L. Randall, S. Renaux-Petel, A. Riotto,
+M. Ruiz, A. Saffer, M. Sakellariadou, I.D. Saltas, B.S. Sathyaprakash, **L.
+Shao**, C.F. Sopuerta, T.P. Sotiriou, N. Stergioulas, N. Tamanini, F. Vernizzi,
+H.  Witek, K. Wu, K. Yagi, S. Yazadjiev, N. Yunes, M. Zilhao, N. Afshordi, M.
+Angonin, V. Baibhav, E. Barausse, T. Barreiro, N. Bartolo, N. Bellomo, I.
+Ben-Dayan, E.A. Bergshoeff, S. Bernuzzi, D. Bertacca, S. Bhagwat, B. Bonga, L.M.
+Burko, G. Compere, G. Cusin, A.d. Silva, S. Das, C.d. Rham, K. Destounis, E.
+Dimastrogiovanni, F. Duque, R. Easther, H. Farmer, M. Fasiello, S. Fisenko, K.
+Fransen, J. Frauendiener, J. Gair, L.A. Gergely, D. Gerosa, L. Gualtieri, W.
+Han, A. Hees, T. Helfer, J. Hennig, A.C. Jenkins, E. Kajfasz, N. Kaloper, V.
+Karas, B.J.K. , S.A. Klioner, S.M. Koushiappas, M. Lagos, C.L. Poncin-Lafitte,
+F.S.N. Lobo, C. Markakis, P. Martin-Moruno, C. Martins, S. Matarrese, D.R.
+Mayerson, J.P. Mimoso, J. Noller, N.J. Nunes, R. Oliveri, G. Orlando, G. Pappas,
+I. Pikovski, L. Pilo, J. Podolsky, G. Pratten, T. Prokopec, H. Qi, S. Rastgoo,
+A. Ricciardone, R. Rollo, D. Rubiera-Garcia, O. Sergijenko, S. Shapiro, D.
+Shoemaker, A. Spallicci, O. Stashko, L.C. Stein, G. Tasinato, A.J. Tolley, E.C.
+Vagenas, S. Vandoren, D. Vernieri, R. Vicente, T. Wiseman, V.I. Zhdanov, M.
+Zumalacárregui, [New horizons for fundamental physics with
+LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* (accepted),
+arXiv:2205.01597
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
