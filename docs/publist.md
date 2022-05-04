@@ -112,12 +112,12 @@ Maggiore, M. Mancarella, A. Maselli, S. Nampalliwar, D. Nichols, M. Okounkova,
 P. Pani, V. Paschalidis, A. Raccanelli, L. Randall, S. Renaux-Petel, A. Riotto,
 M. Ruiz, A. Saffer, M. Sakellariadou, I.D. Saltas, B.S. Sathyaprakash, **L.
 Shao**, C.F. Sopuerta, T.P. Sotiriou, N. Stergioulas, N. Tamanini, F. Vernizzi,
-H.  Witek, K. Wu, K. Yagi, S. Yazadjiev, N. Yunes, M. Zilhao, N. Afshordi, M.
+H.  Witek, K. Wu, K. Yagi, S. Yazadjiev, N. Yunes, M. Zilhao, N. Afshordi, M.-C.
 Angonin, V. Baibhav, E. Barausse, T. Barreiro, N. Bartolo, N. Bellomo, I.
 Ben-Dayan, E.A. Bergshoeff, S. Bernuzzi, D. Bertacca, S. Bhagwat, B. Bonga, L.M.
 Burko, G. Compere, G. Cusin, A.d. Silva, S. Das, C.d. Rham, K. Destounis, E.
 Dimastrogiovanni, F. Duque, R. Easther, H. Farmer, M. Fasiello, S. Fisenko, K.
-Fransen, J. Frauendiener, J. Gair, L.A. Gergely, D. Gerosa, L. Gualtieri, W.
+Fransen, J. Frauendiener, J. Gair, L.A. Gergely, D. Gerosa, L. Gualtieri, W.-B.
 Han, A. Hees, T. Helfer, J. Hennig, A.C. Jenkins, E. Kajfasz, N. Kaloper, V.
 Karas, B.J.K. , S.A. Klioner, S.M. Koushiappas, M. Lagos, C.L. Poncin-Lafitte,
 F.S.N. Lobo, C. Markakis, P. Martin-Moruno, C. Martins, S. Matarrese, D.R.
