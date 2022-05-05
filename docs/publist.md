@@ -24,7 +24,8 @@ layout: default
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Electromagnetic follow-ups of
 binary neutron star mergers with early warnings from decihertz
-gravitational-wave observatories](https://arxiv.org/abs/TBA), arXiv:TBA
+gravitational-wave observatories](https://arxiv.org/abs/2205.02104),
+arXiv:2205.02104
 
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Realistic detection and early
