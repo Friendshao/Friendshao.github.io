@@ -161,14 +161,15 @@ gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 (accepted),  arXiv:2111.13106
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-gravitational wave emission from scalar boson clouds around spinning black holes
-in LIGO O3 data](https://arxiv.org/abs/2111.15507), *Phys. Rev. D* (accepted), arXiv:2111.15507
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
 searches for continuous and long-duration transient gravitational waves from
 known pulsars in the LIGO-Virgo third observing
 run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted), arXiv:2112.10990
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+gravitational wave emission from scalar boson clouds around spinning black holes
+in LIGO O3 data](https://arxiv.org/abs/2111.15507), *Phys. Rev. D* 105 (2022)
+102001
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [The current status and future
 prospects of KAGRA, the large-scale cryogenic gravitational wave telescope built
