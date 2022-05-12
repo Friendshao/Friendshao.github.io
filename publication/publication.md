@@ -181,7 +181,9 @@ gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
 
 <img src="EHT.png" alt="EHT" style="height:40px;">
 [First M87 Event Horizon Telescope
-Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), 
+Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) and 
+[First Sagittarius A$^\ast$ Event Horizon Telescope
+Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results),
 by the **Event Horizon Telescope** Collaboration
 
 <img src="LSC.png" alt="LSC" style="height:28px;">

@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 188)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 198)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -146,11 +146,6 @@ information matrix in gravitational-wave data
 analysis](https://arxiv.org/abs/2203.02670), *Astrophys. J.* (accepted),
 arXiv:2203.02670
 
-0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
-Kramer, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, N. Wex,
-[Closing a spontaneous-scalarization window with binary
-pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* (accepted), arXiv:2201.03771
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [First joint
 observation by the underground gravitational-wave detector, KAGRA, with
 GEO600](https://arxiv.org/abs/2203.01270), *Prog. Theor. Exp. Phys.* (accepted),
@@ -165,6 +160,64 @@ LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 searches for continuous and long-duration transient gravitational waves from
 known pulsars in the LIGO-Virgo third observing
 run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted), arXiv:2112.10990
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+Telescope results. VI. Testing the black hole
+metric](https://iopscience.iop.org/article/10.3847/2041-8213/ac6756),
+*Astrophys. J. Lett.* 930 (2022) L17
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+Telescope results. V. Testing astrophysical models of the galactic center black
+hole](https://iopscience.iop.org/article/10.3847/2041-8213/ac6672),
+*Astrophys. J. Lett.*930 (2022) L16
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+Telescope results. IV. Variability, morphology, and black hole
+mass](https://iopscience.iop.org/article/10.3847/2041-8213/ac6736),
+*Astrophys. J. Lett.* 930 (2022) L15
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+Telescope results. III. Imaging of the galactic center supermassive black
+hole](https://iopscience.iop.org/article/10.3847/2041-8213/ac6429),
+*Astrophys. J. Lett.* 930 (2022) L14
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+Telescope results. II. EHT and multi-wavelength observations, data processing,
+and calibration](https://iopscience.iop.org/article/10.3847/2041-8213/ac6675),
+*Astrophys. J. Lett.* 930 (2022) L13
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+Telescope results. I. The shadow of the supermassive black hole in the center of
+the Milky Way](https://iopscience.iop.org/article/10.3847/2041-8213/ac6674),
+*Astrophys. J. Lett.* 930 (2022) L12
+
+0. J. Farah<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
+Collaboration), [Selective dynamical imaging of interferometric
+data](https://iopscience.iop.org/article/10.3847/2041-8213/ac6615),  
+*Astrophys. J. Lett.* 930 (2022) L18
+
+0. M. Wielgus<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
+Collaboration), [Millimeter light curves of Sagittarius A$^\ast$ observed during
+the 2017 Event Horizon Telescope
+campaign](https://iopscience.iop.org/article/10.3847/2041-8213/ac6428),  
+*Astrophys. J. Lett.* 930 (2022) L19
+
+0. B. Georgiev<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
+Collaboration), [A universal power law prescription for variability from
+synthetic images of black hole accretion
+flows](https://iopscience.iop.org/article/10.3847/2041-8213/ac65eb),  
+*Astrophys. J. Lett.* 930 (2022) L20
+
+0. A.E. Broderick<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
+Collaboration), [Characterizing and mitigating intraday variability:
+Reconstructing source structure in accreting black holes with
+mm-VLBI](https://iopscience.iop.org/article/10.3847/2041-8213/ac6584),  
+*Astrophys. J. Lett.* 930 (2022) L21
+
+0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
+Kramer, **L. Shao**, N. Wex, [Closing a spontaneous-scalarization window with
+binary pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* 39
+(2022) 11LT01
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 gravitational wave emission from scalar boson clouds around spinning black holes
