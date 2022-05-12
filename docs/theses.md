@@ -32,7 +32,7 @@ tr:nth-child(odd) {
 <big><big> **Bachelor Thesis**
 
 - **康亚城**，[双中子星并合事件的多信使预警探测](theses/KangYacheng.pdf)（北京大学，2022年6月）
-  - <small>Multi-messenger Early-Warning Detections of Binary Neutron Star Mergers
+  - <small>Multi-messenger Early-warning Detections of Binary Neutron Star Mergers
 - **姬佩祥**，[标量-张量引力理论下的宇宙学](theses/JiPeixiang.pdf)（南开大学，2022年5月）
   - <small>Cosmology in the Scalar-tensor Theory of Gravity
 - **李春江**，[FAST数据中射电频率干扰的来源研究](theses/LiChunjiang.pdf)（北京大学，2021年6月）
