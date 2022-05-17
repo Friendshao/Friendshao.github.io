@@ -31,6 +31,8 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Thesis**
 
+- **胡泽昕**，[脉冲星-黑洞测时模型的数值实现与参数估计](theses/HuZexin.pdf)（北京大学，2022年6月）
+  - <small>Black Hole-pulsar Timing Model
 - **康亚城**，[双中子星并合事件的多信使预警探测](theses/KangYacheng.pdf)（北京大学，2022年6月）
   - <small>Multi-messenger Early-warning Detections of Binary Neutron Star Mergers
 - **姬佩祥**，[标量-张量引力理论下的宇宙学](theses/JiPeixiang.pdf)（南开大学，2022年5月）
