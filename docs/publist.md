@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 198)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 199)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -20,6 +20,12 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. M. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, Y.-M. Hu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, [Dark-siren cosmology with
+decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
+arXiv:2205.06991
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Electromagnetic follow-ups of
