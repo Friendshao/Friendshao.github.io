@@ -94,10 +94,6 @@ and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
-cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604),
-arXiv:2111.03604
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
@@ -114,6 +110,10 @@ observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
+cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted),
+arXiv:2111.03604
 
 0. K.G. Arun, E. Belgacem, R. Benkel, L. Bernard, E. Berti, G. Bertone, M.
 Besancon, D. Blas, C.G. Böhmer, R. Brito, G. Calcagni, A. Cardenas-Avendaño, K.
