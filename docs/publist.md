@@ -98,11 +98,6 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky,
-all-frequency directional search for persistent gravitational waves from
-Advanced LIGO's and Advanced Virgo's first three observing
-runs](https://arxiv.org/abs/2110.09834), arXiv:2110.09834
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass binaries in the first half of Advanced LIGO and Virgo's third
 observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
@@ -111,9 +106,15 @@ observing run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky,
+all-frequency directional search for persistent gravitational waves from
+Advanced LIGO's and Advanced Virgo's first three observing
+runs](https://arxiv.org/abs/2110.09834),  *Phys. Rev. D* (accepted),
+arXiv:2110.09834
+
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
-cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted),
-arXiv:2111.03604
+cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604),
+*Astrophys. J.* (accepted), arXiv:2111.03604
 
 0. K.G. Arun, E. Belgacem, R. Benkel, L. Bernard, E. Berti, G. Bertone, M.
 Besancon, D. Blas, C.G. Böhmer, R. Brito, G. Calcagni, A. Cardenas-Avendaño, K.
