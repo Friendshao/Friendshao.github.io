@@ -30,6 +30,19 @@ tr:nth-child(odd) {
 
 ### **Selected First-author/Corresponding-author Papers**
 
+0. J. Zhao, P.C.C. Freire, M.  Kramer, **L. Shao**, N. Wex, [Closing a
+spontaneous-scalarization window with binary
+pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* 39 (2022)
+11LT01
+
+0. C. Liu, **L. Shao**, [Neutron star$-$neutron star and neutron star$-$black
+hole mergers: multiband observations and early
+warnings](https://arxiv.org/abs/2108.08490), *Astrophys. J.* 926 (2022) 158
+
+0. Y. Gao, X.-Y. Lai, **L.  Shao**, R.-X. Xu, [Rotation and deformation of
+strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
+*Mon. Not. R. Astron. Soc.* 509 (2022) 2758
+
 0. **L. Shao**, [General relativity withstands double pulsar's
 scrutiny](https://physics.aps.org/articles/v14/173), *Physics* 14 (2021) 173
 
