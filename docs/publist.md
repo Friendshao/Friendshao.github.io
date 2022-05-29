@@ -21,8 +21,9 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh, H.
-Motavalli, **L. Shao**, [On the cosmology of Dirac-Born-Infeld dRGT massive
+0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**, [On the
+cosmology of Dirac-Born-Infeld dRGT massive
 gravity](https://arxiv.org/abs/2205.10863), arXiv:2205.10863
 
 0. M. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, Y.-M. Hu<font
