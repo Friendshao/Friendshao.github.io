@@ -67,6 +67,16 @@ astroparticle physics issues.
 
 <p></p>
 
+## 专题讲座
+
+- 4月27日：**暗物质物理**（教师：刘佳）
+- 5月11日：**致密星的粒子物理**（教师：徐仁新）
+- 5月18日：**高能中微子天文**（教师：黎卓）
+- 5月25日：**引力波物理**（教师：邵立晶）
+- 6月1日：**黑洞的超辐射**（教师：陈斌）
+
+<p></p>
+
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
