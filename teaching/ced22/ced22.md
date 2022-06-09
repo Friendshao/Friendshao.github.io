@@ -55,7 +55,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 ## 课程信息
 
 | **时间** |  周一7-8节(单) & 周三3-4节 |
-| **地点** | |
+| **地点** | 理教416 |
 | **期末考试时间** | 2022年12月28日·上午 |
 | **教科书** | **郭硕鸿 [著]，黄逎本、李志兵、林琼桂 [修订]，《电动力学(第三版)》（2008）** |
 | **参考书** | J. D. Jackson, *Classical Electrodynamics* (3rd ed), 1999 |
@@ -63,10 +63,8 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | | D. J. Griffiths, *Introduction to Electrodynamics* (4th ed), 2017 |
 | | 郭硕鸿 [著]，黄逎本、方奕忠 [主编]，《电动力学学习辅导书(第三版)》（2009）|
 | **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
-| **单号班助教** | 高勇，gaoyong.physics@pku.edu.cn |
-| | **习题课**： 习题课: 周一10-11节(双) |
-| **双号班助教** | |
-| | **习题课**： |
+| **助教** | 高勇，gaoyong.physics@pku.edu.cn |
+| | **习题课**： 习题课: 周一10-11节(双)；三教308 |
 
 <p></p>
 
