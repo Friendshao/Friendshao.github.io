@@ -155,11 +155,6 @@ information matrix in gravitational-wave data
 analysis](https://arxiv.org/abs/2203.02670), *Astrophys. J.* (accepted),
 arXiv:2203.02670
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [First joint
-observation by the underground gravitational-wave detector, KAGRA, with
-GEO600](https://arxiv.org/abs/2203.01270), *Prog. Theor. Exp. Phys.* (accepted),
-arXiv:2203.01270
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
@@ -169,6 +164,11 @@ LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 searches for continuous and long-duration transient gravitational waves from
 known pulsars in the LIGO-Virgo third observing
 run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted), arXiv:2112.10990
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [First joint
+observation by the underground gravitational-wave detector, KAGRA, with
+GEO600](https://arxiv.org/abs/2203.01270), *Prog. Theor. Exp. Phys.* 2022 (2022)
+063F01
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky,
 all-frequency directional search for persistent gravitational waves from
