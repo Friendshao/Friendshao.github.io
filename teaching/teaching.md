@@ -109,7 +109,7 @@ tr:nth-child(odd) {
 | **ID** | **COURSE** | **RECORD** |
 | 00430151 | **Lectures on The Frontiers of Modern Physics (Ⅰ)**<br>**现代物理前沿讲座（I）** | 2021F (2 hr)<br>2020F (2 hr)<br>2018F (2 hr) | 
 | 00431547 | **Frontier of Astrophysics**<br>**天体物理前沿** | 2021F (1 hr)<br>2019F (2 hr)<br>2019S (2 hr) | 
-| 00920012 | **Seminars on Frontiers of Astrophysics** <font color="gray"><small><small> * Tsinghua University</small></small></font><br>**天体物理前沿讲座** | 2021F (2 hr)<br>2020F (2 hr) |
+| 00920012<br><font color="gray"><small><small> * Tsinghua University</small></small></font> | **Seminars on Frontiers of Astrophysics**<br>**天体物理前沿讲座** | 2021F (2 hr)<br>2020F (2 hr) |
 
 <br>
 
