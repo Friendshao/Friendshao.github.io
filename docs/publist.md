@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 200)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 201)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
+data using independent component analysis](https://arxiv.org/abs/2206.05785),
+arXiv:2206.05785
 
 0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**, [On the
