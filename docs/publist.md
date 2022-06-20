@@ -149,12 +149,6 @@ arXiv:2205.01597
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J. Zhao, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Extending the Fisher
-information matrix in gravitational-wave data
-analysis](https://arxiv.org/abs/2203.02670), *Astrophys. J.* (accepted),
-arXiv:2203.02670
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
@@ -164,6 +158,11 @@ LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 searches for continuous and long-duration transient gravitational waves from
 known pulsars in the LIGO-Virgo third observing
 run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted), arXiv:2112.10990
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J. Zhao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Extending the Fisher
+information matrix in gravitational-wave data
+analysis](https://arxiv.org/abs/2203.02670), *Astrophys. J.* 932 (2022) 102
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [First joint
 observation by the underground gravitational-wave detector, KAGRA, with
