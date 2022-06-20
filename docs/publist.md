@@ -36,12 +36,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 arXiv:2205.06991
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Electromagnetic follow-ups of
-binary neutron star mergers with early warnings from decihertz
-gravitational-wave observatories](https://arxiv.org/abs/2205.02104),
-arXiv:2205.02104
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational wave emission from the Milky Way center in O3
 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), arXiv:2204.04523
@@ -106,10 +100,17 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
+0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Electromagnetic follow-ups of
+binary neutron star mergers with early warnings from decihertz
+gravitational-wave observatories](https://arxiv.org/abs/2205.02104), *Mon. Not.
+R. Astron. Soc.* (accepted), arXiv:2205.02104
+
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Realistic detection and early
 warning of binary neutron stars with decihertz gravitational-wave
-observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* (accepted), arXiv:2204.06161
+observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* (accepted),
+arXiv:2204.06161
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass binaries in the first half of Advanced LIGO and Virgo's third
