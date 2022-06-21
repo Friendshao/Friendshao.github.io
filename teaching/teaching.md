@@ -51,8 +51,8 @@ tr:nth-child(odd) {
 
 ### **2022 Fall Semester**
 
-| [TM-2022F](thmech22/thmech22) | **Theoretical Mechanics (A)**<br>**理论力学（A）** |  周一1-2节 & 周四3-4节；理教313<br><small>**习题课**: 周三10-11节(双)；三教406 & 二教106 |
-| [CED-2022F](ced22/ced22) | **Electrodynamics (B)**<br>**电动力学（B）** |  周一7-8节(单) & 周三3-4节；理教416<br><small>**习题课**: 周一10-11节(双)；三教308 |
+| [TM-2022F](thmech22) | **Theoretical Mechanics (A)**<br>**理论力学（A）** |  周一1-2节 & 周四3-4节；理教313<br><small>**习题课**: 周三10-11节(双)；三教406 & 二教106 |
+| [CED-2022F](ced22) | **Electrodynamics (B)**<br>**电动力学（B）** |  周一7-8节(单) & 周三3-4节；理教416<br><small>**习题课**: 周一10-11节(双)；三教308 |
 
 <br>
 <p></p>
@@ -60,12 +60,12 @@ tr:nth-child(odd) {
 ### **Summary Table**
 
 | **ID** | **COURSE** | **RECORD** |
-| 00407794 | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2021F**](gr21/gr21) (20 ppl.)<br>[**2020F**](gr20/gr20) (35 ppl.)<br>[**2019F**](gr19/gr19) (24 ppl.) | 
-| 00431132 | **General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2022S**](phy22/phy22) (94 ppl.)<br>[**2021S**](phy21/phy21) (158 ppl.) |  
-| 00431133 | **General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20/phy20) (75 ppl.) | 
-| 00432141 | **Electrodynamics (B)**<br>**电动力学（B）**<br><small><small> * exercise class ID: 00432160 | [**2022F**](ced22/ced22) (?? ppl.) | 
-| 00432198 | **Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2022F**](thmech22/thmech22) (?? ppl.)<br>[**2021F**](thmech21/thmech21) (105 ppl.)<br>[**2019F**](thmech19/thmech19) (96 ppl.) | 
-| 00432296 | **Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22/astroparticle22) (8 ppl.) | 
+| 00407794 | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2021F**](gr21) (20 ppl.)<br>[**2020F**](gr20) (35 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
+| 00431132 | **General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2022S**](phy22) (94 ppl.)<br>[**2021S**](phy21) (158 ppl.) |  
+| 00431133 | **General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20) (75 ppl.) | 
+| 00432141 | **Electrodynamics (B)**<br>**电动力学（B）**<br><small><small> * exercise class ID: 00432160 | [**2022F**](ced22) (?? ppl.) | 
+| 00432198 | **Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2022F**](thmech22) (?? ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
+| 00432296 | **Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22) (8 ppl.) | 
 
 <!-----------------------------
 
@@ -84,18 +84,18 @@ tr:nth-child(odd) {
 ### **Teaching History**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
-| PKU'22F | [**Electrodynamics (B)**](ced22/ced22)<br>**电动力学（B）** | **Lecturer** <small><small> * TA: Yong Gao |
-| PKU'22F | [**Theoretical Mechanics (A)**](thmech22/thmech22)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Muxin Liu & Hanlin Song |
-| PKU'22S | [**General Physics (I)**](phy22/phy22)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Ping He & Zipu Fan |
-| PKU'22S | [**Astroparticle Physics**](astroparticle22/astroparticle22)<br>**天体粒子物理** | **co-Lecturer** <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
-| PKU'21F | [**Theoretical Mechanics (A)**](thmech21/thmech21)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
-| PKU'21F | [**General Relativity & Astrophysics**](gr21/gr21)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Zihang Wang |
-| PKU'21S | [**General Physics (I)**](phy21/phy21)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Yong Gao & Zhongfu Zhang |
-| PKU'20F | [**General Physics (II)**](phy20/phy20)<br>**普通物理（II）** | **Lecturer** <small><small> * TAs: Chang Liu & Lei Geng |
-| PKU'20F | [**General Relativity & Astrophysics**](gr20/gr20)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Tai Zhou |
-| PKU'19F | [**Theoretical Mechanics (A)**](thmech19/thmech19)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Chang Liu & Yong Gao |
-| PKU'19F | [**General Relativity & Astrophysics**](gr19/gr19)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Xionghui Cao |
-| PKU'13F | [**Quantum Statistical Physics**](qsp2013/qsp2013.html)<br>**量子统计物理** | **TA** <small><small> * Lectured by Prof. Ryuichi Shindou |
+| PKU'22F | [**Electrodynamics (B)**](ced22)<br>**电动力学（B）** | **Lecturer** <small><small> * TA: Yong Gao |
+| PKU'22F | [**Theoretical Mechanics (A)**](thmech22)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Muxin Liu & Hanlin Song |
+| PKU'22S | [**General Physics (I)**](phy22)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Ping He & Zipu Fan |
+| PKU'22S | [**Astroparticle Physics**](astroparticle22)<br>**天体粒子物理** | **co-Lecturer** <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
+| PKU'21F | [**Theoretical Mechanics (A)**](thmech21)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
+| PKU'21F | [**General Relativity & Astrophysics**](gr21)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Zihang Wang |
+| PKU'21S | [**General Physics (I)**](phy21)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Yong Gao & Zhongfu Zhang |
+| PKU'20F | [**General Physics (II)**](phy20)<br>**普通物理（II）** | **Lecturer** <small><small> * TAs: Chang Liu & Lei Geng |
+| PKU'20F | [**General Relativity & Astrophysics**](gr20)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Tai Zhou |
+| PKU'19F | [**Theoretical Mechanics (A)**](thmech19)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Chang Liu & Yong Gao |
+| PKU'19F | [**General Relativity & Astrophysics**](gr19)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Xionghui Cao |
+| PKU'13F | [**Quantum Statistical Physics**](qsp2013)<br>**量子统计物理** | **TA** <small><small> * Lectured by Prof. Ryuichi Shindou |
 | PKU'10F | **What is Science?**<br>**科学是什么** | **TA** <small><small> * Lectured by Profs. Yi Rao & Guosheng Wu |
 | PKU'10S | **Probability Theory and Statistics**<br>**概率统计** | **TA** <small><small> * Lectured by Prof. Zhenxi Dong |
 | PKU'09F | **Linear Algebra**<br>**线性代数** | **TA** <small><small> * Lectured by Prof. Maoying Tian <br> ** <b> Excellent Teaching Assistant</b> Award |
