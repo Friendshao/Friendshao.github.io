@@ -25,7 +25,8 @@ layout: default
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, [Oscillation modes and
-gravitational waves from strangeon stars](TBA), arXiv:TBA
+gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407),
+arXiv:2206.09407
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
 data using independent component analysis](https://arxiv.org/abs/2206.05785),
