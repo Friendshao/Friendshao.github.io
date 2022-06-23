@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 202)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 204)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
@@ -20,6 +20,16 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
+supermassive black hole shadows with a global very long baseline interferometry
+array](https://arxiv.org/abs/TBA), submitted
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, J. Zhao<font
+color="#5c5c5c"><sup>(#)</sup></font>, Z. An, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Cao, [Simultaneous bounds on the
+gravitational dipole radiation and varying gravitational constant from compact
+binary inspirals](https://arxiv.org/abs/TBA), submitted
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
