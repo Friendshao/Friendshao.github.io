@@ -27,7 +27,8 @@ layout: default
   [Google](http://www.google.com/ncr)
 - [smallpdf](http://smallpdf.com/),
   [kdocs](https://www.kdocs.cn/latest) ([rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
-  [time.is](https://time.is/)
+  [time.is](https://time.is/),
+  [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)
 - [feedReader](http://feedreader.com/online/),
   [Dropbox](https://www.dropbox.com/home),
   [github](https://github.com/),
