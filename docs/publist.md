@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 204)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 23)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 24)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
 
@@ -1097,6 +1097,14 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
+0. R.P. Eatough<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
+K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.  Karuppusamy, **L. Shao**, M.
+Kramer, H. Falcke, L. Rezzolla, [BlackHoleCam — Testing general relativity with
+pulsars orbiting Sagittarius
+A$^\ast$](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_0278),
+in *Proceedings of the Fifteenth Marcel Grossmann Meeting* (World Scientific,
+Singapore, 2022), p. 1866
+
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini<font
@@ -1250,8 +1258,7 @@ a hybrid star?](http://adsabs.harvard.edu/abs/2015AcASn..56S..22L), *Acta Astron
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex,
 M. Kramer, [New tests of local Lorentz invariance and local position
 invariance of gravity with pulsars](https://arxiv.org/abs/1211.6558), in
-*Proceedings of the Thirteenth Marcel Grossmann Meeting on General
-Relativity* (World Scientific, Singapore, 2015), p. 1704
+*Proceedings of the Thirteenth Marcel Grossmann Meeting* (World Scientific, Singapore, 2015), p. 1704
 
 0. A. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Wang, **L.
 Shao**, R.-X. Xu, [The amount of crustal entrainment and the type of
