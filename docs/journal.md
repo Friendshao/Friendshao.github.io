@@ -29,6 +29,7 @@ tr:nth-child(odd) {
 | [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | **Advisory Panel Member** (2020—2022)<br>**Outstanding Reviewer** ([2018](CQG2018.pdf), [2019](CQG2019.pdf)) |
 | [Classical and Quantum Gravity Letters](https://iopscience.iop.org/journal/0264-9381/page/Letters) | **Reviewer** |
 | [Communications in Theoretical Physics](http://iopscience.iop.org/journal/0253-6102) |  **Reviewer** |
+| [Earth and Planetary Physics](http://www.eppcgs.org/) |  **Reviewer** |
 | [Entropy](http://www.mdpi.com/journal/entropy) |  **Reviewer** |
 | [European Physical Journal C](https://link.springer.com/journal/10052) | **Reviewer** | 
 | [European Physical Journal Plus](https://epjplus.epj.org/) |  **Reviewer** |
