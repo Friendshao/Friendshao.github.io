@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 204)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 24)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 25)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
 
@@ -52,10 +52,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 arXiv:2205.06991
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-continuous gravitational wave emission from the Milky Way center in O3
-LIGO-Virgo data](https://arxiv.org/abs/2204.04523), arXiv:2204.04523
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Dark
 radiation as a probe for phase transition in the early
@@ -117,6 +113,10 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+continuous gravitational wave emission from the Milky Way center in O3
+LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), arXiv:2204.04523
+
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Electromagnetic follow-up
 observations of binary neutron star mergers with early warnings from decihertz
@@ -175,7 +175,7 @@ LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
 searches for continuous and long-duration transient gravitational waves from
 known pulsars in the LIGO-Virgo third observing
-run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted), arXiv:2112.10990
+run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* 932 (2022) 133
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J. Zhao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Extending the Fisher
@@ -1096,6 +1096,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
+with radio pulsars in perturbative and nonperturbative
+regimes](https://arxiv.org/abs/TBA), submitted
 
 0. R.P. Eatough<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
 K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.  Karuppusamy, **L. Shao**, M.
