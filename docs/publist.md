@@ -9,8 +9,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 204)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 26)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 203)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 27)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
 
@@ -20,10 +20,6 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
-supermassive black hole shadows with a global very long baseline interferometry
-array](https://arxiv.org/abs/TBA), submitted
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, J. Zhao<font
 color="#5c5c5c"><sup>(#)</sup></font>, Z. An, **L. Shao**<font
@@ -136,6 +132,15 @@ observing run](https://arxiv.org/abs/2109.12197), *Phys. Rev. Lett.* (accepted),
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
 cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
+relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
+(accepted), arXiv:2112.06861
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
+gravitational waves from known pulsars at two harmonics in the second and third
+LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
+(accepted),  arXiv:2111.13106
+
 0. K.G. Arun, E. Belgacem, R. Benkel, L. Bernard, E. Berti, G. Bertone, M.
 Besancon, D. Blas, C.G. Böhmer, R. Brito, G. Calcagni, A. Cardenas-Avendaño, K.
 Clough, M. Crisostomi, V.D. Luca, D. Doneva, S. Escoffier, J.M. Ezquiaga, P.G.
@@ -160,17 +165,7 @@ A. Ricciardone, R. Rollo, D. Rubiera-Garcia, O. Sergijenko, S. Shapiro, D.
 Shoemaker, A. Spallicci, O. Stashko, L.C. Stein, G. Tasinato, A.J. Tolley, E.C.
 Vagenas, S. Vandoren, D. Vernieri, R. Vicente, T. Wiseman, V.I. Zhdanov, M.
 Zumalacárregui, [New horizons for fundamental physics with
-LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* (accepted),
-arXiv:2205.01597
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
-relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
-(accepted), arXiv:2112.06861
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
-gravitational waves from known pulsars at two harmonics in the second and third
-LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
-(accepted),  arXiv:2111.13106
+LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* 25 (2022) 4
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
 searches for continuous and long-duration transient gravitational waves from
@@ -1097,12 +1092,16 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars as a
-laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
+supermassive black hole shadows with a global very long baseline interferometry
+array](https://arxiv.org/abs/TBA), submitted
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
 with radio pulsars in perturbative and nonperturbative
 regimes](https://arxiv.org/abs/TBA), submitted
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars as a
+laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
 
 0. R.P. Eatough<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
 K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.  Karuppusamy, **L. Shao**, M.
