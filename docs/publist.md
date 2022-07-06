@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 203)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 27)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 28)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
 
@@ -37,11 +37,6 @@ arXiv:2206.09407
 0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
 data using independent component analysis](https://arxiv.org/abs/2206.05785),
 arXiv:2206.05785
-
-0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**, [On the
-cosmology of Dirac-Born-Infeld dRGT massive
-gravity](https://arxiv.org/abs/2205.10863), arXiv:2205.10863
 
 0. M. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, Y.-M. Hu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -108,6 +103,11 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**, [On the
+cosmology of Dirac-Born-Infeld dRGT massive
+gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* (accepted), arXiv:2205.10863
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational wave emission from the Milky Way center in O3
@@ -1092,9 +1092,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
-supermassive black hole shadows with a global very long baseline interferometry
-array](https://arxiv.org/abs/TBA), submitted
+0. K. O'Neal-Ault<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, L. Haegel,
+Q.G. Bailey, J. Tasson, M. Bloom, **L. Shao**, [Lorentz and CPT symmetry
+breaking via dispersion and birefringence effects of gravitational
+waves](https://arxiv.org/abs/TBA), submitted
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
 with radio pulsars in perturbative and nonperturbative
@@ -1102,6 +1103,10 @@ regimes](https://arxiv.org/abs/TBA), submitted
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars as a
 laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
+supermassive black hole shadows with a global very long baseline interferometry
+array](https://arxiv.org/abs/TBA), *Front. Phys.* (accepted)
 
 0. R.P. Eatough<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
 K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.  Karuppusamy, **L. Shao**, M.
