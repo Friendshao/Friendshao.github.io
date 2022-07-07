@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 203)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 28)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 29)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 11)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
 
@@ -1092,14 +1092,21 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
 
+0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, C.
+Liu, [New limits on the Lorentz/CPT symmetry through 50 gravitational-wave
+events](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth
+Meeting on CPT and Lorentz Symmetry*
+
 0. K. O'Neal-Ault<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, L. Haegel,
 Q.G. Bailey, J. Tasson, M. Bloom, **L. Shao**, [Lorentz and CPT symmetry
 breaking via dispersion and birefringence effects of gravitational
-waves](https://arxiv.org/abs/TBA), submitted
+waves](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth
+Meeting on CPT and Lorentz Symmetry*
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
 with radio pulsars in perturbative and nonperturbative
-regimes](https://arxiv.org/abs/TBA), submitted
+regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth
+Meeting on CPT and Lorentz Symmetry*
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars as a
 laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
