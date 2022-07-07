@@ -37,6 +37,17 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Astrophysical studies of dark matter
 - Bayesian data analysis and statistics
 
+If you want to join our group, please read the following articles carefully, for
+**(a)** [Master & PhD Students](https://kiaagravity.github.io/assets/phd) <font
+color="gray"><small>(博士研究生)</small></font>, **(b)** [Undergraduate Research
+Study](https://kiaagravity.github.io/assets/undergraduate) <font
+color="gray"><small>(本科生科研)</small></font>, and **(c)** [Bachelor
+Thesis](https://kiaagravity.github.io/assets/bachelor) <font
+color="gray"><small>(本科生毕业设计)</small></font>.  You can get more information
+about research topics from lists of [current
+members](https://kiaagravity.github.io/member/) and [past
+students](https://friendshao.github.io/docs/theses).
+
  <img src="group.png" width="50"> &nbsp;&nbsp; **For more, please check at [<big>our Group Page</big>](https://kiaagravity.github.io)**  <img src="team.png" width="50">
 
 ---
@@ -45,22 +56,12 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 ### Teaching
 
-| &nbsp; &nbsp; &nbsp; 广义相对论与天体物理 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
-| &nbsp; &nbsp; &nbsp; 理论力学 (A) | Theoretical Mechanics (A) |
-| &nbsp; &nbsp; &nbsp; 电动力学 (B) | Electrodynamics (B)  |
-| &nbsp; &nbsp; &nbsp; 普通物理 (I) | General Physics (I) <font color="gray"><small><small> *** including Mechanics & Electromagnetism</small></small></font> |
-| &nbsp; &nbsp; &nbsp; 普通物理 (II) | General Physics (II) <font color="gray"><small><small> *** including Thermal Physics, Optics, & Modern Physics</small></small></font> |
-| &nbsp; &nbsp; &nbsp; 天体粒子物理 | Astroparticle Physics <font color="gray"><small><small> *** co-Lecturer</small></small></font> |
-
-<p></p>
-
-### Information for Recruiting Students
-
-- Lists of [current members](https://kiaagravity.github.io/member/) and [past students](https://friendshao.github.io/docs/theses), as well as their research topics 
-
-| &nbsp; &nbsp; &nbsp; 博士研究生 | [Master & PhD Students](https://kiaagravity.github.io/assets/phd) |
-| &nbsp; &nbsp; &nbsp; 本科生科研 | [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate) |
-| &nbsp; &nbsp; &nbsp; 本科生毕业设计 &nbsp; &nbsp; &nbsp; | [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor) |
+| &nbsp; &nbsp; 广义相对论与天体物理 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
+| &nbsp; &nbsp; 理论力学 (A) | Theoretical Mechanics (A) |
+| &nbsp; &nbsp; 电动力学 (B) | Electrodynamics (B)  |
+| &nbsp; &nbsp; 普通物理 (I) | General Physics (I) <font color="gray"><small><small> *** including Mechanics & Electromagnetism</small></small></font> |
+| &nbsp; &nbsp; 普通物理 (II) | General Physics (II) <font color="gray"><small><small> *** including Thermal Physics, Optics, & Modern Physics</small></small></font> |
+| &nbsp; &nbsp; 天体粒子物理 | Astroparticle Physics <font color="gray"><small><small> *** co-Lecturer</small></small></font> |
 
 <p></p>
 
