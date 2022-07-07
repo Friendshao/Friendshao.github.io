@@ -45,20 +45,24 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 ### Teaching
 
-- Astroparticle Physics - 天体粒子物理
-- Electrodynamics (B) - 电动力学 (B)
-- General Physics (I) - 普通物理 (I) <font color="gray"><small><small> *** including Mechanics & Electromagnetism</small></small></font>
-- General Physics (II) - 普通物理 (II) <font color="gray"><small><small> *** including Thermal Physics, Optics, & Modern Physics</small></small></font>
-- General Relativity & Astrophysics - 广义相对论与天体物理
-- Theoretical Mechanics (A) - 理论力学 (A)
+| &nbsp; &nbsp; &nbsp; 广义相对论与天体物理 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
+| &nbsp; &nbsp; &nbsp; 理论力学 (A) | Theoretical Mechanics (A) |
+| &nbsp; &nbsp; &nbsp; 电动力学 (B) | Electrodynamics (B)  |
+| &nbsp; &nbsp; &nbsp; 普通物理 (I) | General Physics (I) <font color="gray"><small><small> *** including Mechanics & Electromagnetism</small></small></font> |
+| &nbsp; &nbsp; &nbsp; 普通物理 (II) | General Physics (II) <font color="gray"><small><small> *** including Thermal Physics, Optics, & Modern Physics</small></small></font> |
+| &nbsp; &nbsp; &nbsp; 天体粒子物理 | Astroparticle Physics <font color="gray"><small><small> *** co-Lecturer</small></small></font> |
+
+<p></p>
 
 ### Information for Recruiting Students
 
 - Lists of [current members](https://kiaagravity.github.io/member/) and [past students](https://friendshao.github.io/docs/theses), as well as their research topics 
 
-- [Master & PhD Students](https://kiaagravity.github.io/assets/phd)（博士研究生）
-- [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate)（本科生科研）
-- [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor)（本科生毕业设计）
+| &nbsp; &nbsp; &nbsp; 博士研究生 | [Master & PhD Students](https://kiaagravity.github.io/assets/phd) |
+| &nbsp; &nbsp; &nbsp; 本科生科研 | [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate) |
+| &nbsp; &nbsp; &nbsp; 本科生毕业设计 &nbsp; &nbsp; &nbsp; | [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor) |
+
+<p></p>
 
 ### Services
 
