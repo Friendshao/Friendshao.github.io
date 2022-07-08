@@ -21,6 +21,12 @@ tr:nth-child(odd) {
 </style>
 
 
+<h2>
+<font color="red">
+*** Notice: links are not maintained after the end of course! 
+</font>
+</h2>
+
 # <b>General Physics I (普通物理 I)</b>
 
 ### <u>Spring 2022, Peking University</u>
@@ -107,6 +113,13 @@ tr:nth-child(odd) {
 - **电磁学讲义**：[电子版.pdf](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)、[手写版.pdf](https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843)
 
 <p></p>
+
+
+## 学生对课程的总体评价
+
+<div style="display: flex; justify-content: center;">
+<img src="phy22_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
