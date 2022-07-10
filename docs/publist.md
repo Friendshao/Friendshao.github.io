@@ -1309,7 +1309,9 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
 
-0. **邵立晶**, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
+徐睿<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 
 0. 李洪波<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新,
 [核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05), 
