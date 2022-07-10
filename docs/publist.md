@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 203)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 30)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals** (in total 12)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
 - [**Miscellaneous**](#misc) <small> (in total 8)</small>
 
 ---
@@ -1307,7 +1307,7 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 <p></p>
 
 <a name="chinese"></a>
-<big><big>**Chinese Articles**</big></big> **published in Chinese journals**
+<big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
 
 0. **邵立晶**, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 
