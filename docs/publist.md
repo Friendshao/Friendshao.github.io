@@ -12,7 +12,7 @@ layout: default
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 203)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 30)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
-- [**Miscellaneous**](#misc) <small> (in total 8)</small>
+- [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
 ---
 
@@ -1370,6 +1370,17 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
+
+0. Y. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Brown, **L.
+Shao**, W. Zhao, [Tests of gravitational-wave birefringence with the open
+gravitational-wave
+catalog](https://ui.adsabs.harvard.edu/abs/2022APS..APRZ16006W/abstract), APS
+April Meeting 2022, abstract id.Z16.006
+
+0. Y. Izadi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.R. Akbarieh, S.
+Aslmarand, S. Kazempour, **L. Shao**, [Extended dRGT massive gravity via cubic
+Galileon](https://ui.adsabs.harvard.edu/abs/2022APS..APRY16001I/abstract), APS
+April Meeting 2022, abstract id.Y16.001
 
 0. **邵立晶**, [宇宙舍利子](https://mp.weixin.qq.com/s/8eGjm3huO5pXU-tkywVCiw), 赛先生天文
 
