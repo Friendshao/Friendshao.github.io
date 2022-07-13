@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 203)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 30)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 31)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -137,8 +137,8 @@ LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 (accepted),  arXiv:2111.13106
 
 0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**, [On the
-cosmology of Dirac-Born-Infeld dRGT massive
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**,
+[Cosmology of Dirac-Born-Infeld-de Rham-Gabadadze-Tolley massive
 gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* 106 (2022) 023508
 
 0. K.G. Arun, E. Belgacem, R. Benkel, L. Bernard, E. Berti, G. Bertone, M.
@@ -1091,6 +1091,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
+relativistic gravity with radio timing of neutron stars](TBA), as a chapter in
+*Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, submitted
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, **L. Shao**,
 [Precession of spheroids under Lorentz violation and observational consequences
