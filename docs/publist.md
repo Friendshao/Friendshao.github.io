@@ -104,11 +104,6 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
-0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**, [On the
-cosmology of Dirac-Born-Infeld dRGT massive
-gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* (accepted), arXiv:2205.10863
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational wave emission from the Milky Way center in O3
 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), arXiv:2204.04523
@@ -140,6 +135,11 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 (accepted),  arXiv:2111.13106
+
+0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**, [On the
+cosmology of Dirac-Born-Infeld dRGT massive
+gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* 106 (2022) 023508
 
 0. K.G. Arun, E. Belgacem, R. Benkel, L. Bernard, E. Berti, G. Bertone, M.
 Besancon, D. Blas, C.G. Böhmer, R. Brito, G. Calcagni, A. Cardenas-Avendaño, K.
