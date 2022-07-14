@@ -1122,7 +1122,8 @@ laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), ar
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
 supermassive black hole shadows with a global very long baseline interferometry
-array](https://arxiv.org/abs/TBA), *Front. Phys.* (accepted)
+array](https://doi.org/10.1007/s11467-022-1191-0), *Front. Phys.* 17 (2022)
+44601
 
 0. R.P. Eatough<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
 K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.  Karuppusamy, **L. Shao**, M.
