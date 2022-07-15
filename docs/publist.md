@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 203)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 31)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -1091,6 +1091,9 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings and more**
+
+0. **L. Shao**, K. Yagi, [Neutron stars as extreme laboratories for fundamental
+physics](TBA), submitted
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
 relativistic gravity with radio timing of neutron stars](TBA), as a chapter in
