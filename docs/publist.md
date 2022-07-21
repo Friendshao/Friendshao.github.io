@@ -53,10 +53,6 @@ for gravitational waves associated with fast radio bursts detected by CHIME/FRB
 during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
 arXiv:2203.12038
 
-0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
-during the first joint observation with GEO 600
-(O3GK)](https://arxiv.org/abs/2203.07011), arXiv:2203.07011
-
 0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, R. Balasov, I. Bartos,
 S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L. Blecha, S.
 Blondin, T. Bogdanović, S. Boissier, M. Bonetti, S. Bonoli, E. Bortolas, K.
@@ -103,6 +99,10 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
+during the first joint observation with GEO 600
+(O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational wave emission from the Milky Way center in O3
