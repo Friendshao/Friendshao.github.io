@@ -108,12 +108,6 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 continuous gravitational wave emission from the Milky Way center in O3
 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), arXiv:2204.04523
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Electromagnetic follow-up
-observations of binary neutron star mergers with early warnings from decihertz
-gravitational-wave observatories](https://arxiv.org/abs/2205.02104), *Mon. Not.
-R. Astron. Soc.* (accepted), arXiv:2205.02104
-
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Realistic detection and early
 warning of binary neutron stars with decihertz gravitational-wave
@@ -135,6 +129,12 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 (accepted),  arXiv:2111.13106
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Electromagnetic follow-up
+observations of binary neutron star mergers with early warnings from decihertz
+gravitational-wave observatories](https://arxiv.org/abs/2205.02104), *Mon. Not.
+R. Astron. Soc.* 515 (2022) 739
 
 0. S. Kazempour<font color="#5c5c5c"><sup>(#)</sup></font>, A.R. Akbarieh<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H.  Motavalli, **L. Shao**,
