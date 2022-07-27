@@ -108,12 +108,6 @@ during the first joint observation with GEO 600
 continuous gravitational wave emission from the Milky Way center in O3
 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), arXiv:2204.04523
 
-0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Realistic detection and early
-warning of binary neutron stars with decihertz gravitational-wave
-observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* (accepted),
-arXiv:2204.06161
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass binaries in the first half of Advanced LIGO and Virgo's third
 observing run](https://arxiv.org/abs/2109.12197), *Phys. Rev. Lett.* (accepted), arXiv:2109.12197
@@ -129,6 +123,11 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 (accepted),  arXiv:2111.13106
+
+0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Realistic detection and early
+warning of binary neutron stars with decihertz gravitational-wave
+observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* 934 (2022) 84
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Electromagnetic follow-up
