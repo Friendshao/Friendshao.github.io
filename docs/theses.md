@@ -22,6 +22,8 @@ tr:nth-child(odd) {
 
 <big><big> **Doctoral Thesis**
 
+- **Sobhan Kazempour Ishka**, [有质量的引力理论的宇宙学研究](theses/Sobhan_Kazempour.pdf)（University of Tabriz，2022年9月）
+  - <small> Cosmological Aspects of Massive Gravity Theory
 - **赵俊杰**，[利用脉冲双星与引力波检验偶极辐射](theses/ZhaoJunjie.pdf)（北京大学，2021年6月）
   - <small> Testing Dipole Radiation with Binary Pulsars and Gravitational Waves
 - **缪雪丽**，[用脉冲双星检验引力理论](theses/MiaoXueli.pdf)（北京大学，2021年6月）
