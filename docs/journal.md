@@ -38,6 +38,7 @@ tr:nth-child(odd) {
 | [Galaxies](https://www.mdpi.com/journal/galaxies) |  **Reviewer** |
 | [General Relativity and Gravitation](http://www.springer.com/journal/10714) |  **Reviewer** |
 | [International Journal of Modern Physics D](http://www.worldscientific.com/worldscinet/ijmpd) |  **Reviewer** |
+| [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516) |  **Reviewer** |
 | [Journal of High Energy Astrophysics](https://www.journals.elsevier.com/journal-of-high-energy-astrophysics) |  **Reviewer** |
 | [Modern Physics Letters A](https://www.worldscientific.com/worldscinet/mpla) |  **Reviewer** |
 | [Monthly Notices of the Royal Astronomical Society](https://academic.oup.com/mnras) | **Reviewer** |
