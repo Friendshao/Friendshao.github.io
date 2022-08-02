@@ -1121,8 +1121,8 @@ Meeting on CPT and Lorentz Symmetry*
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
 with radio pulsars in perturbative and nonperturbative
-regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth
-Meeting on CPT and Lorentz Symmetry*
+regimes](https://arxiv.org/abs/2208.00142), submitted to *Proceedings of the
+Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars as a
 laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
