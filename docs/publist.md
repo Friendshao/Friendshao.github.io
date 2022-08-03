@@ -130,7 +130,7 @@ LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 (accepted),  arXiv:2111.13106
 
 0. S. Issaoun, *et al.* (EHT Collaboration), [Resolving the inner parsec of the
-blazar J1924–2914 with the Event Horizon
+blazar J1924$-$2914 with the Event Horizon
 Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a40),
 *Astrophys. J.* 934 (2022) 145
 
