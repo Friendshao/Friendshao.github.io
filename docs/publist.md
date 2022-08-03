@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 204)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 205)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -128,6 +128,11 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 (accepted),  arXiv:2111.13106
+
+0. S. Issaoun, *et al.* (EHT Collaboration), [Resolving the inner parsec of the
+blazar J1924–2914 with the Event Horizon
+Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a40),
+*Astrophys. J.* 934 (2022) 145
 
 0. C. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Realistic detection and early
