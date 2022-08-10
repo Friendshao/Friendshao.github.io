@@ -109,10 +109,6 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 during the first joint observation with GEO 600
 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-continuous gravitational wave emission from the Milky Way center in O3
-LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), arXiv:2204.04523
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
 cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
 
@@ -124,6 +120,10 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 gravitational waves from known pulsars at two harmonics in the second and third
 LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
 (accepted),  arXiv:2111.13106
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+continuous gravitational wave emission from the Milky Way center in O3
+LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* 106 (2022) 042003
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass binaries in the first half of Advanced LIGO and Virgo's third
