@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 205)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 206)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+[Bumblebee waves](TBA), submitted
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
@@ -1105,32 +1109,34 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 physics](TBA), submitted
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
-relativistic gravity with radio timing of neutron stars](TBA), as a chapter in
-*Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, submitted
+relativistic gravity with radio timing of neutron stars](TBA), in
+*Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in press
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, **L. Shao**,
 [Precession of spheroids under Lorentz violation and observational consequences
-for neutron stars](https://arxiv.org/abs/TBA), submitted to *Proceedings of the
-Ninth Meeting on CPT and Lorentz Symmetry*
+for neutron stars](https://arxiv.org/abs/TBA), in *Proceedings of the
+Ninth Meeting on CPT and Lorentz Symmetry*, in press
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, C.
 Liu, [New limits on the Lorentz/CPT symmetry through 50 gravitational-wave
-events](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth
-Meeting on CPT and Lorentz Symmetry*
+events](https://arxiv.org/abs/TBA), in *Proceedings of the Ninth
+Meeting on CPT and Lorentz Symmetry*, in press
 
 0. K. O'Neal-Ault<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, L. Haegel,
 Q.G. Bailey, J. Tasson, M. Bloom, **L. Shao**, [Lorentz and CPT symmetry
 breaking via dispersion and birefringence effects of gravitational
-waves](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth
-Meeting on CPT and Lorentz Symmetry*
+waves](https://arxiv.org/abs/TBA), in *Proceedings of the Ninth
+Meeting on CPT and Lorentz Symmetry*, in press
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
 with radio pulsars in perturbative and nonperturbative
-regimes](https://arxiv.org/abs/2208.00142), submitted to *Proceedings of the
+regimes](https://arxiv.org/abs/2208.00142), in *Proceedings of the
 Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars as a
-laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
+laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), 
+in *Modified and Quantum Gravity: From theory to Experimental Searches on All Scales*,
+arXiv:2206.15187
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
 supermassive black hole shadows with a global very long baseline interferometry
