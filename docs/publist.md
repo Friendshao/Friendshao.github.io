@@ -122,8 +122,7 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 gravitational waves from known pulsars at two harmonics in the second and third
-LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.*
-(accepted),  arXiv:2111.13106
+LIGO-Virgo observing runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.* 935 (2022) 1
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational wave emission from the Milky Way center in O3
