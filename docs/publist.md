@@ -120,15 +120,16 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
 
-0. A.E. Broderick, D.W. Pesce, R. Gold, P. Tiede, H.-Y. Pu, R. Anantua, S.
-Britzen, C. Ceccobello, K. Chatterjee, Y. Chen, N.S. Conroy, G.B. Crew, A.
-Cruz-Osorio, Y. Cui, S.S. Doeleman, R. Emami, J. Farah, C.M. Fromm, P.  Galison,
-B. Georgiev, L.C. Ho, D.J. James, B. Jeter, A. Jimenez-Rosales, J.Y.  Koay, C.
-Kramer, T.P. Krichbaum, S.-S. Lee, M. Lindqvist, I. Marti-Vidal, K.M.  Menten,
-Y. Mizuno, J.M. Moran, M. Moscibrodzka, A. Nathanail, J. Neilsen, C. Ni, J.
-Park,  V. Pietu, L. Rezzolla, A. Ricarte, B. Ripperda, **L. Shao**, F.  Tazaki,
-K. Toma,  P. Torne,  J. Weintroub, M. Wielgus, F. Yuan,  S.-S. Zhao, S. Zhang, 
-[The Photon Ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
+0. A.E. Broderick<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.W. Pesce,
+R. Gold, P. Tiede, H.-Y. Pu, R. Anantua, S.  Britzen, C. Ceccobello, K.
+Chatterjee, Y. Chen, N.S. Conroy, G.B. Crew, A.  Cruz-Osorio, Y. Cui, S.S.
+Doeleman, R. Emami, J. Farah, C.M. Fromm, P.  Galison, B. Georgiev, L.C. Ho,
+D.J. James, B. Jeter, A. Jimenez-Rosales, J.Y.  Koay, C.  Kramer, T.P.
+Krichbaum, S.-S. Lee, M. Lindqvist, I. Marti-Vidal, K.M.  Menten, Y. Mizuno,
+J.M. Moran, M. Moscibrodzka, A. Nathanail, J. Neilsen, C. Ni, J.  Park,  V.
+Pietu, L. Rezzolla, A. Ricarte, B. Ripperda, **L. Shao**, F.  Tazaki, K. Toma,
+P. Torne,  J. Weintroub, M. Wielgus, F. Yuan,  S.-S. Zhao, S. Zhang, 
+[The photon ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 gravitational waves from known pulsars at two harmonics in the second and third
