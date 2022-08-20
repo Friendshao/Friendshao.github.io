@@ -9,8 +9,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 207)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 209)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 30)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -20,6 +20,9 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. **L. Shao**, K. Yagi, [Neutron stars as extreme laboratories for fundamental
+physics](TBA), submitted
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
@@ -119,6 +122,11 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
+supermassive black hole shadows with a global very long baseline interferometry
+array](https://link.springer.com/article/10.1007/s11467-022-1191-0), *Front.
+Phys.* 17 (2022) 44601
 
 0. A.E. Broderick<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.W. Pesce,
 R. Gold, P. Tiede, H.-Y. Pu, R. Anantua, S.  Britzen, C. Ceccobello, K.
@@ -1115,9 +1123,6 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
 
-0. **L. Shao**, K. Yagi, [Neutron stars as extreme laboratories for fundamental
-physics](TBA), submitted
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
 relativistic gravity with radio timing of neutron stars](TBA), in
 *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in press
@@ -1147,11 +1152,6 @@ Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
 laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), 
 in *Modified and Quantum Gravity: From theory to Experimental Searches on All Scales*,
 arXiv:2206.15187
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
-supermassive black hole shadows with a global very long baseline interferometry
-array](https://link.springer.com/article/10.1007/s11467-022-1191-0), *Front.
-Phys.* 17 (2022) 44601
 
 0. R.P. Eatough<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
 K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.  Karuppusamy, **L. Shao**, M.
