@@ -72,7 +72,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 
 | **内容** | **备注** |
 | 0. 课程介绍 | |
-| 1. 数学基础 | |
+| 1. 数学基础 | [HW1](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) (ddl: Sep 21) |
 | 2. 经典电动力学基础 |  |
 | 3. 静电场 | |
 | 4. 静磁场 | |
