@@ -21,8 +21,8 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. **L. Shao**, K. Yagi, [Neutron stars as extreme laboratories for fundamental
-physics](TBA), submitted
+0. **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, K. Yagi,
+[Neutron stars as extreme laboratories for gravity tests](TBA), submitted
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
