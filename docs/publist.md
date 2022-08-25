@@ -33,12 +33,6 @@ layout: default
 gravitational waves in the bumblebee gravity
 model](http://arxiv.org/abs/2207.14423), arXiv:2207.14423
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, J. Zhao<font
-color="#5c5c5c"><sup>(#)</sup></font>, Z. An, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Cao, [Simultaneous bounds on the
-gravitational dipole radiation and varying gravitational constant from compact
-binary inspirals](https://arxiv.org/abs/TBA), submitted
-
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
@@ -111,6 +105,12 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, J. Zhao<font
+color="#5c5c5c"><sup>(#)</sup></font>, Z. An, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Cao, [Simultaneous bounds on the
+gravitational dipole radiation and varying gravitational constant from compact
+binary inspirals](https://arxiv.org/abs/TBA), *Phys. Lett. B* (accepted), arXiv:TBA
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
