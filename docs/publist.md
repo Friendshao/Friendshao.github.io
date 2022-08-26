@@ -110,7 +110,8 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 color="#5c5c5c"><sup>(#)</sup></font>, Z. An, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Cao, [Simultaneous bounds on the
 gravitational dipole radiation and varying gravitational constant from compact
-binary inspirals](https://arxiv.org/abs/TBA), *Phys. Lett. B* (accepted), arXiv:TBA
+binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett. B* (accepted),
+arXiv:2208.11913
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
