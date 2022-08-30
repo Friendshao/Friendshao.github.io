@@ -63,6 +63,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | | D. J. Griffiths, *Introduction to Electrodynamics* (4th ed), 2017 |
 | | J. D. Jackson, *Classical Electrodynamics* (3rd ed), 1999 |
 | **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
+| |【答疑时间】每周日14:00-15:00PM（建议来前电话联系，以免空跑） |
 | **助教** | 高勇，gaoyong.physics@pku.edu.cn |
 | | **习题课**： 周一10-11节(双)；三教308 |
 

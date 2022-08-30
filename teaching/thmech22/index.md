@@ -56,7 +56,7 @@ $$\delta S = 0$$
 | | H. Goldstein, C. Poole, J. Safko, *Classical Mechanics* (3rd ed), 2002 |
 | | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
 | **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn；010-62758461 | 
-| |【答疑时间】每周日13:30-14:30PM（建议来前电话联系，以免空跑） |
+| |【答疑时间】每周日14:00-15:00PM（建议来前电话联系，以免空跑） |
 | **单号班助教** | 刘牧鑫，liumx28@mail2.sysu.edu.cn |
 | | **习题课**：周三10-11节(双)，三教406，负责单号 |
 | **双号班助教** | 宋翰林，hanlin@stu.pku.edu.cn |
