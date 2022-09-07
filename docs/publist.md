@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 211)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 212)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 30)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
+solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209),
+arXiv:2209.02209 
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Model-based
 cross-correlation search for gravitational waves from the low-mass X-ray binary
