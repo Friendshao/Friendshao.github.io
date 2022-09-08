@@ -28,7 +28,8 @@ arXiv:2209.02209
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Model-based
 cross-correlation search for gravitational waves from the low-mass X-ray binary
-Scorpius X-1 in LIGO O3 data](https://arxiv.org/abs/TBA), arXiv:TBA
+Scorpius X-1 in LIGO O3 data](https://arxiv.org/abs/2209.02863),
+arXiv:2209.02863
 
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
@@ -38,9 +39,6 @@ Yu, Y. Kang, **L. Shao**, [Kilonova and optical afterglow from binary neutron
 star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469), arXiv:2110.10469
-
-0. **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, K. Yagi,
-[Neutron stars as extreme laboratories for gravity tests](TBA), submitted
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
@@ -119,6 +117,11 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
+color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
+for gravity tests](https://arxiv.org/abs/TBA), *Sci. Bull.* (accepted),
+arXiv:TBA
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
