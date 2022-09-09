@@ -120,19 +120,12 @@ gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
 color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
-for gravity tests](https://arxiv.org/abs/TBA), *Sci. Bull.* (accepted),
-arXiv:TBA
+for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
+arXiv:2209.03351
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
 data](https://arxiv.org/abs/2201.10104), *Phys. Rev. D* (accepted),  arXiv:2201.10104
-
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, J. Zhao<font
-color="#5c5c5c"><sup>(#)</sup></font>, Z. An, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Cao, [Simultaneous bounds on the
-gravitational dipole radiation and varying gravitational constant from compact
-binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett. B* (accepted),
-arXiv:2208.11913
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
@@ -144,6 +137,12 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, J. Zhao<font
+color="#5c5c5c"><sup>(#)</sup></font>, Z. An, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Cao, [Simultaneous bounds on the
+gravitational dipole radiation and varying gravitational constant from compact
+binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett. B* 834 (2022) 137416
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Imaging
 supermassive black hole shadows with a global very long baseline interferometry
