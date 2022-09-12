@@ -49,13 +49,6 @@ triggers](https://arxiv.org/abs/2110.10469), arXiv:2110.10469
 gravitational waves in the bumblebee gravity
 model](http://arxiv.org/abs/2207.14423), arXiv:2207.14423
 
-0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, [Oscillation modes and
-gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407),
-arXiv:2206.09407
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
 data using independent component analysis](https://arxiv.org/abs/2206.05785),
 arXiv:2206.05785
@@ -117,6 +110,12 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, [Oscillation modes and
+gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. Not.  R. Astron. Soc.* (accepted), arXiv:2206.09407
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
 color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
