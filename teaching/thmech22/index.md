@@ -49,7 +49,7 @@ $$\delta S = 0$$
 
 | **时间** |  周一1-2节 & 周四3-4节 |
 | **地点** |  理教313 |
-| **期末考试时间** | 2023年1月2日·上午 |
+| **期末考试时间** | 2022年12月26日·上午 |
 | **先修课程** | 《力学》《高等数学》《线性代数》 |
 | **教科书** | **梁昆淼 [原著]，鞠国兴 & 施毅 [修订]《力学(第四版)下册》（2009）** |
 | **参考书** | 鞠国兴，《理论力学学习指导与习题解析(第二版)》，2018 |
@@ -73,16 +73,16 @@ $$\delta S = 0$$
 | [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW1](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C)<br>[HW2](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW1 ddl: Sep 19<br>HW2 ddl: Sep 29 |
 | [3. 有心运动](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW3](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW3 ddl: Oct 17 |
 | [4. 小振动](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW4](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW4 ddl: Oct 24 |
-| *答疑* | *科维理所K217* | *10月25日·19:00-21:00PM* | 
-| **期中考试（闭卷，笔试）** | 10月27日·随堂 | 地点：待定 |
+| *答疑* | *科维理所K217* | *10月18日·19:00-21:00PM* | 
+| **期中考试（闭卷，笔试）** | 10月20日·随堂 | 地点：待定 |
 | [5. 刚体运动学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW5](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW5 ddl: Nov 7 |
 | [6. 刚体动力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW6](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW6 ddl: Nov 21 |
 | [7. 哈密顿力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW7](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW7 ddl: Dec 1 |
 | [8. 力学中的变分方法](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW8](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW8 ddl: Dec 8 |
 | [9. 连续介质动力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW9](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW9 ddl: Dec 15 |
 | [10. 相对论性的分析力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW10](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW10 (免交) |
-| *答疑* | *科维理所K217* | *1月1日·9:00-11:00AM*  | 
-| **期末考试（闭卷，笔试）** | 1月2日·8:30-10:30AM | 地点：待定 |
+| *答疑* | *科维理所K217* | *12月25日·9:00-11:00AM*  | 
+| **期末考试（闭卷，笔试）** | 12月26日·8:30-10:30AM | 地点：待定 |
 
 <!-- <p></p>
 
