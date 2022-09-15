@@ -71,15 +71,15 @@ $$\delta S = 0$$
 | [0. 课程介绍](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | | |
 | [1. 矢量力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | | |
 | [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW1](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C)<br>[HW2](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW1 ddl: Sep 19<br>HW2 ddl: Sep 29 |
-| [3. 有心运动](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW3](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW3 ddl: Oct 17 |
-| [4. 小振动](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW4](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW4 ddl: Oct 24 |
+| [3. 有心运动](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW3](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW3 ddl: Oct 10 |
+| [4. 小振动](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW4](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW4 ddl: Oct 17 |
 | *答疑* | *科维理所K217* | *10月18日·19:00-21:00PM* | 
 | **期中考试（闭卷，笔试）** | 10月20日·随堂 | 地点：待定 |
-| [5. 刚体运动学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW5](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW5 ddl: Nov 7 |
-| [6. 刚体动力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW6](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW6 ddl: Nov 21 |
-| [7. 哈密顿力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW7](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW7 ddl: Dec 1 |
-| [8. 力学中的变分方法](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW8](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW8 ddl: Dec 8 |
-| [9. 连续介质动力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW9](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW9 ddl: Dec 15 |
+| [5. 刚体运动学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW5](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW5 ddl: Oct 31 |
+| [6. 刚体动力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW6](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW6 ddl: Nov 14 |
+| [7. 哈密顿力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW7](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW7 ddl: Nov 24 |
+| [8. 力学中的变分方法](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW8](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW8 ddl: Dec 1 |
+| [9. 连续介质动力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW9](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW9 ddl: Dec 8 |
 | [10. 相对论性的分析力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW10](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW10 (免交) |
 | *答疑* | *科维理所K217* | *12月25日·9:00-11:00AM*  | 
 | **期末考试（闭卷，笔试）** | 12月26日·8:30-10:30AM | 地点：待定 |
