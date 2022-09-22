@@ -122,10 +122,6 @@ color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
 for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
 arXiv:2209.03351
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
-data](https://arxiv.org/abs/2201.10104), *Phys. Rev. D* (accepted),  arXiv:2201.10104
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
@@ -136,6 +132,10 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
+data](https://arxiv.org/abs/2201.10104), *Phys. Rev. D*  106 (2022) 062002 
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, J. Zhao<font
 color="#5c5c5c"><sup>(#)</sup></font>, Z. An, **L. Shao**<font
