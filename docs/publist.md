@@ -116,12 +116,6 @@ GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the open
 gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), *Phys. Rev. D* (accepted), arXiv:2109.09718
 
-0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, [Oscillation modes and
-gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. Not.  R. Astron. Soc.* (accepted), arXiv:2206.09407
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
 color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
 for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
@@ -137,6 +131,12 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, [Oscillation modes and
+gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. Not.  R. Astron. Soc.* 516 (2022) 6172
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO
