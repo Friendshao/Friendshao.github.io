@@ -25,8 +25,9 @@ tr:nth-child(odd) {
 ### <img src="funds.png" style="height:40px;"> &nbsp; <b>Projects & Funds</b>
 
 | **时间** | **职责** | **课题** | **基金号** | 
+| 2022.11-2025.10 | 参与 | **中德合作交流项目** <br> <small> 射电天文中的引力物理研究 </small> | M-0704 |
 | 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | NULL |
-| 2020.12-2025.11 | **主持** | **SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | 2020SKA0120300 |
+| 2020.12-2025.11 | **主持** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | 2020SKA0120300 |
 | 2020.01-2024.12 | 参与 | **国家自然科学重大基金项目** <br> <small> 黑洞烛光的宇宙学应用 </small> | 11991053 |
 | 2020.01-2023.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究</small> | 11975027 |
 | 2018.01-2020.12 | **入选** | **第四届中国科协青年人才托举工程** | 2018QNRC001 |
@@ -35,7 +36,7 @@ tr:nth-child(odd) {
 
 <!-- 
 | 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society<small>（100,000 EUR）</small> </small> | NULL |
-| 2021.01-2024.12 | **入选** | **国家海外高层次人才青年项目** | NULL | 
+| 2021.01-2023.12 | **入选** | **国家海外高层次人才青年项目** | NULL | 
 | 2020.12-2025.11 | **主持** | **SKA 专项** <br> <small> 脉冲星理论研究支撑<small>（13,500,000 RMB）</small> </small> | 2020SKA0120300 |
 | 2020.01-2023.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究<small>（600,000 RMB）</small>  </small> | 11975027 |
 | 2018.01-2020.12 | **入选** | **第四届中国科协青年人才托举工程**<small><small>（450,000 RMB）</small></small> | 2018QNRC001 |
@@ -47,7 +48,7 @@ tr:nth-child(odd) {
 ### <img src="report.png" style="height:40px;"> &nbsp; <b>Theses & Reports</b> <small><small>[[Read More](/docs/theses)]</small></small>
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
-| 2023 | | Yiming Dong <small>(董益铭)</small><br>Ziming Wang <small>(王子铭)</small> |  Weisong Wang <small>(王伟松)</small><br>	Wenrui Hu <small>(胡文瑞)</small> | |
+| 2023 | | Yiming Dong <small>(董益铭)</small><br>Ziming Wang <small>(王子铭)</small><br>Huapeng Gu <small>(顾华鹏)</small> |  Weisong Wang <small>(王伟松)</small><br>	Wenrui Hu <small>(胡文瑞)</small> | |
 | 2022 | Sobhan Kazempour | Yacheng Kang <small>(康亚城)</small><br>Zexin Hu <small>(胡泽昕)</small><br>Peixiang Ji <small>(姬佩祥)</small> |  Ziming Wang <small>(王子铭)</small><br>	Yiming Dong <small>(董益铭)</small><br>Zhejian Zhang <small>(张喆戬)</small><br>Haoyang Qi <small>(祁昊洋)</small> | |
 | 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | Minghao Guo <small>(郭明浩)</small><br>Jingyuan Deng <small>(邓景元)</small><br>Huimei Wang <small>(王惠美)</small><br>Lingqian Qiu <small>(邱令倩)</small><br>Xinmiao Zhao <small>(赵鑫淼)</small><br>Chunjiang Li <small>(李春江)</small> | Yacheng Kang <small>(康亚城)</small><br>Zexin Hu <small>(胡泽昕)</small> | Rui Xu <small>(徐睿) |
 | 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> | |
