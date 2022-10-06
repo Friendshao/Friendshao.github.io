@@ -73,8 +73,8 @@ $$\delta S = 0$$
 | [2. 拉格朗日方程](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW1](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C)<br>[HW2](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW1 ddl: Sep 19<br>HW2 ddl: Sep 29 |
 | [3. 有心运动](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW3](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW3 ddl: Oct 10 |
 | [4. 小振动](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW4](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW4 ddl: Oct 17 |
-| *答疑* | *科维理所K217* | *10月18日·19:00-21:00PM* | 
-| **期中考试（闭卷，笔试）** | 10月20日·随堂 | 地点：待定 |
+| *答疑* | *科维理所K217* | *10月23日·14:00-16:00PM* | 
+| **期中考试（闭卷，笔试）** | 10月24日·随堂 | 地点：二教109 |
 | [5. 刚体运动学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW5](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW5 ddl: Oct 31 |
 | [6. 刚体动力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW6](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW6 ddl: Nov 14 |
 | [7. 哈密顿力学](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | [HW7](https://disk.pku.edu.cn:443/link/4A19D3C1CF9F5D47E6072C97F9A52C6C) | HW7 ddl: Nov 24 |
