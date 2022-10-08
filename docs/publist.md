@@ -112,10 +112,6 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
 
-0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
-**L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the open
-gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), *Phys. Rev. D* (accepted), arXiv:2109.09718
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
 color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
 for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
@@ -131,6 +127,10 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
+**L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the open
+gravitaitonal-wave catalog](https://arxiv.org/abs/2109.09718), *Phys. Rev. D* 106 (2022) 084005
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
