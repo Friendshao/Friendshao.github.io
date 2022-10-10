@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 213)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 30)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 12)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 13)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
 ---
@@ -1366,6 +1366,10 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
+
+0. 康亚城<font color="#5c5c5c"><sup>(#)</sup></font>, 刘畅, 朱锦平, **邵立晶**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA),
+《中国科学》, submitted
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 徐睿<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
