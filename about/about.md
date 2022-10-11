@@ -37,12 +37,12 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Astrophysical studies of dark matter
 - Bayesian data analysis and statistics
 
-If you want to join our group, please read the following articles carefully, for
-**(a)** [Postdocs](https://kiaagravity.github.io/assets/postdoc) <font color="gray"><small>(博士后)</small></font>,
-**(b)** [Master & PhD Students](https://kiaagravity.github.io/assets/phd) <font color="gray"><small>(博士研究生)</small></font>, 
+Want to join our research? Please read the following articles carefully, for
+**(a)** [Postdoc](https://kiaagravity.github.io/assets/postdoc) <font color="gray"><small>(博后)</small></font>,
+**(b)** [PhD Student](https://kiaagravity.github.io/assets/phd) <font color="gray"><small>(博士生)</small></font>, 
 **(c)** [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate) <font color="gray"><small>(本科生科研)</small></font>, and 
-**(d)** [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor) <font color="gray"><small>(本科生毕业设计)</small></font>.  
-You can get more information about research topics from lists of [current
+**(d)** [Bachelor Thesis](https://kiaagravity.github.io/assets/bachelor) <font color="gray"><small>(本科生毕设)</small></font>.  
+You can get more information about research topics from [current
 members](https://kiaagravity.github.io/member/) and [past
 students](https://friendshao.github.io/docs/theses).
 
