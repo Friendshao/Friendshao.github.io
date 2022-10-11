@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 213)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 214)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 30)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 13)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,13 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
+O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q. Bailey<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
+[Search for anisotropic, birefringent spacetime-symmetry breaking in
+gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
+arXiv:2210.04481
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Desvignes, D.I. Jones, M. Kramer,
@@ -1369,7 +1376,7 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 
 0. 康亚城<font color="#5c5c5c"><sup>(#)</sup></font>, 刘畅, 朱锦平, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA),
-《中国科学》, submitted
+《中国科学：物理学 力学 天文学》, submitted
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 徐睿<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
