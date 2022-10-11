@@ -22,7 +22,7 @@ layout: default
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
 0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
-O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q. Bailey<font
+O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.G. Bailey<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
@@ -37,11 +37,6 @@ polarized electromagnetic waves](TBA), submitted
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
 solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209),
 arXiv:2209.02209 
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Model-based
-cross-correlation search for gravitational waves from the low-mass X-ray binary
-Scorpius X-1 in LIGO O3 data](https://arxiv.org/abs/2209.02863),
-arXiv:2209.02863
 
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
@@ -118,6 +113,11 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Model-based
+cross-correlation search for gravitational waves from the low-mass X-ray binary
+Scorpius X-1 in LIGO O3 data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
+Lett.*  (accepted), arXiv:2209.02863
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
 color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
