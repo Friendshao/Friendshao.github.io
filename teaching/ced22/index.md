@@ -77,7 +77,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | 1. 数学基础 | [HW1](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) (ddl: Sep 21) |
 | 2. 经典电动力学基础 | [HW2](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) (ddl: Oct 5) |
 | <font color="red"><i>课程异动</i></font> | *【9月28日3-4节】改为【9月26日7-8节】，地点不变* |
-| 3. 静电场 | [HW3](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) (ddl: Oct 17) |
+| 3. 静电场 | [HW3](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) (ddl: Oct 19) |
 | 4. 静磁场 | [HW4](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) (ddl: Oct 26) |
 | 5. 电磁波的传播 | |
 | *答疑* | 11月13日·14:00-16:00PM；科维理所K217 | 
