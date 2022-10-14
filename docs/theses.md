@@ -77,6 +77,9 @@ tr:nth-child(odd) {
 
 <big><big> **Undergraduate Student Research Study**
 
+0. **张喆戬**，Testing Equivalence Principle with Pulsar Timing（北京大学，2022年10月）
+0. **董益铭**，Prospects for Constraining the Yukawa Gravity with Pulsars around Sagittarius A$^\ast$（北京大学，2022年10月）
+0. **祁昊洋**，Constraining Ultralight Dark Matters with Pulsar Timing（北京大学，2022年10月）
 0. **王子铭**，Testing Spacetime Symmetries with Gravitational Waves（北京大学，2022年10月）
 0. **康亚城**，Exoplanets with Space-based Gravitational-wave Detectors（北京大学，2021年11月）
 0. **胡泽昕**，Neutron Star Structures in Scalar-tensor Gravity（北京大学，2021年11月）
