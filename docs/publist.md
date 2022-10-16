@@ -122,11 +122,6 @@ cross-correlation search for gravitational waves from the low-mass X-ray binary
 Scorpius X-1 in LIGO O3 data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
 Lett.*  (accepted), arXiv:2209.02863
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
-color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
-for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
-arXiv:2209.03351
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
@@ -137,6 +132,10 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
+color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
+for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
 
 0. Y.-F. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.M. Brown,
 **L. Shao**, W. Zhao, [Tests of gravitaitonal-wave birefringence with the open
