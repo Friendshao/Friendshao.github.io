@@ -78,6 +78,18 @@ for gravitational waves associated with fast radio bursts detected by CHIME/FRB
 during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
 arXiv:2203.12038
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+continuous gravitational waves from isolated neutron stars using Advanced LIGO
+and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
+binary coalescences observed by LIGO and Virgo during the second part of the
+third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
+merging compact binaries inferred using gravitational waves through
+GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
 0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, R. Balasov, I. Bartos,
 S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L. Blecha, S.
 Blondin, T. Bogdanović, S. Boissier, M. Bonetti, S. Bonoli, E. Bortolas, K.
@@ -103,19 +115,7 @@ Chakraborty, J. Cuadra, K. Dage, B. Davis, S.E. de Mink, R. Decarli, D. Doneva,
 S.  Escoffier, P. Gandhi, F. Haardt, C.O. Lousto, S. Nissanke, J.  Nordhaus, R.
 O'Shaughnessy, S.P. Zwart, A. Pound, F. Schussler, O. Sergijenko, A. Spallicci,
 D. Vernieri, A. Vigna-Gómez, [Astrophysics with the Laser Interferometer Space
-Antenna](https://arxiv.org/abs/2203.06016), arXiv:2203.06016
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-continuous gravitational waves from isolated neutron stars using Advanced LIGO
-and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
-binary coalescences observed by LIGO and Virgo during the second part of the
-third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
-merging compact binaries inferred using gravitational waves through
-GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Model-based
 cross-correlation search for gravitational waves from the low-mass X-ray binary
