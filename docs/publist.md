@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 215)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 217)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 30)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 13)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,16 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, X. Miao, Z. Wang, [Prospects
+for constraining the Yukawa gravity with pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/TBA), submitted
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
+in light of Event Horizon Telescope observations](https://arxiv.org/abs/TBA),
+submitted
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Input optics systems of the KAGRA
 detector during O3GK](https://arxiv.org/abs/2210.05934), arXiv:2210.05934
