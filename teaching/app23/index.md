@@ -27,7 +27,7 @@ tr:nth-child(odd) {
 <br>
 
 <div style="display: flex; justify-content: center;">
-<img src="http://127.0.0.1:4000/teaching/astroparticle22/Gogh.jpeg" width="400">
+<img src="https://friendshao.github.io/teaching/astroparticle22/Gogh.jpeg" width="400">
 </div>
 
 <br>
