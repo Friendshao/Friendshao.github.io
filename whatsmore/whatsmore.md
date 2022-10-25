@@ -76,6 +76,7 @@ tr:nth-child(odd) {
 ### <img src="conference.jpeg" style="height:45px;"> &nbsp; <b>Serving for Academic Conferences</b>
 
 | **ROLE** | **CONFERENCE** |
+| Organizer | [The Postdoc Workshop on Gravitational Waves at KIAA: Fall 2022](https://kiaa.pku.edu.cn/info/1026/8621.htm), October 29, 2022, Beijing China |
 | Session Chair | [FAST/Future Pulsar Symposium 11](https://psr.pku.edu.cn/fps/FPS11/FPS11.html), August 3-5, 2022, Xiangtan China |
 | Organizer, Chair | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022.html), August 1-3, 2022, Xiangtan China |
 | Session Chair | [Ninth Meeting on CPT and Lorentz Symmetry](https://lorentz.sitehost.iu.edu/cpt22/), May 17-26, 2022, Bloomington USA |
