@@ -84,10 +84,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 arXiv:2205.06991
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Dark
-radiation as a probe for phase transition in the early
-universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
 for gravitational waves associated with fast radio bursts detected by CHIME/FRB
 during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
@@ -100,6 +96,10 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Dark
+radiation as a probe for phase transition in the early
+universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* (accepted), arXiv:2204.03309
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 continuous gravitational waves from isolated neutron stars using Advanced LIGO
