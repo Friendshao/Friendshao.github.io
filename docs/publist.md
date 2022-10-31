@@ -29,7 +29,7 @@ run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, X. Miao, Z. Wang, [Prospects
 for constraining the Yukawa gravity with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/TBA), submitted
+A$^\ast$](https://arxiv.org/abs/2210.16130), arXiv:2210.16130
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
