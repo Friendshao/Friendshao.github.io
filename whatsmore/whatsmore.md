@@ -25,7 +25,6 @@ tr:nth-child(odd) {
 ### <img src="funds.png" style="height:40px;"> &nbsp; <b>Projects & Funds</b>
 
 | **时间** | **职责** | **课题** | **基金号** | 
-| 2022.11-2025.10 | 参与 | **中德合作交流项目** <br> <small> 射电天文中的引力物理研究 </small> | M-0704 |
 | 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | NULL |
 | 2020.12-2025.11 | **主持** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | 2020SKA0120300 |
 | 2020.01-2024.12 | 参与 | **国家自然科学重大基金项目** <br> <small> 黑洞烛光的宇宙学应用 </small> | 11991053 |
@@ -35,6 +34,7 @@ tr:nth-child(odd) {
 | 2011.01-2013.12<br><font color="gray"><small><small> * 已结题</small></small></font> | 参与 | **国家自然科学青年科学基金项目** <br> <small> 横动量依赖的夸克分布函数及其在高能散射过程中的唯像学 </small> | 11005018 |
 
 <!-- 
+| 2022.11-2025.10 | 参与 | **中德合作交流项目** <br> <small> 射电天文中的引力物理研究 </small> | M-0704 |
 | 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society<small>（100,000 EUR）</small> </small> | NULL |
 | 2021.01-2023.12 | **入选** | **国家海外高层次人才青年项目** | NULL | 
 | 2020.12-2025.11 | **主持** | **SKA 专项** <br> <small> 脉冲星理论研究支撑<small>（13,500,000 RMB）</small> </small> | 2020SKA0120300 |
