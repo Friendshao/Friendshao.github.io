@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 218)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 217)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 30)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 13)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -64,10 +64,6 @@ Yu, Y. Kang, **L. Shao**, [Kilonova and optical afterglow from binary neutron
 star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469), arXiv:2110.10469
-
-0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
-[Bumblebee waves](TBA), submitted
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
