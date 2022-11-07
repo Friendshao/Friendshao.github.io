@@ -82,7 +82,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | 5. 电磁波的传播 | [HW5](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) (ddl: Nov 9) |
 | *答疑* | 11月13日·14:00-16:00PM；科维理所K217 | 
 | **期中考试（闭卷，笔试）** | 11月14日·随堂；地点：理教109 |
-| 6. 电磁波的激发 | |
+| 6. 电磁波的激发 | [HW6](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) (ddl: Nov 30) |
 | 7. 狭义相对论 |  |
 | 8. 运动电荷的电磁场 |  |
 | 9. 介质和电磁场的相互作用 |  |
