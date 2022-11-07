@@ -78,12 +78,6 @@ model](http://arxiv.org/abs/2207.14423), arXiv:2207.14423
 data using independent component analysis](https://arxiv.org/abs/2206.05785),
 arXiv:2206.05785
 
-0. M. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, Y.-M. Hu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, [Dark-siren cosmology with
-decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
-arXiv:2205.06991
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
 for gravitational waves associated with fast radio bursts detected by CHIME/FRB
 during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
@@ -96,6 +90,12 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
+0. M. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, Y.-M. Hu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, [Dark-siren cosmology with
+decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991), 
+*Phys. Dark Univ.* (accepted), arXiv:2205.06991
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Dark
 radiation as a probe for phase transition in the early
