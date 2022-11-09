@@ -93,10 +93,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991), 
 *Phys. Dark Univ.* (accepted), arXiv:2205.06991
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Dark
-radiation as a probe for phase transition in the early
-universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* (accepted), arXiv:2204.03309
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 continuous gravitational waves from isolated neutron stars using Advanced LIGO
 and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), *Phys. Rev. D* (accepted), 
@@ -144,6 +140,10 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, [Dark
+radiation as a probe for phase transition in the early
+universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* 106 (2022) 103504
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
 color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
