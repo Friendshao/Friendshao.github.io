@@ -48,14 +48,15 @@ tr:nth-child(odd) {
 ### <img src="report.png" style="height:40px;"> &nbsp; <b>Theses & Reports</b> <small><small>[[Read More](/docs/theses)]</small></small>
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
-| 2024 | Chang Liu <small>(刘畅)</small><br>Hongbo Li <small>(李洪波)</small> | | | Dicong Liang <small>(梁迪聪)</small><br>Zhenwei Lyu <small>(吕振伟)</small><br>Haitian Wang <small>(王海天)</small><br>Zhanfeng Mai <small>(麦展风)</small><br>Garvin Yim <small>(嚴家榮)</small> |
-| 2023 | Yong Gao <small>(高勇)</small> | Yiming Dong <small>(董益铭)</small><br>Ziming Wang <small>(王子铭)</small><br>Huapeng Gu <small>(顾华鹏)</small> |  Weisong Wang <small>(王伟松)</small><br>	Wenrui Hu <small>(胡文瑞)</small> | Rui Xu <small>(徐睿)</small> |
-| 2022 | Sobhan Kazempour | Yacheng Kang <small>(康亚城)</small><br>Zexin Hu <small>(胡泽昕)</small><br>Peixiang Ji <small>(姬佩祥)</small> |  Ziming Wang <small>(王子铭)</small><br>	Yiming Dong <small>(董益铭)</small><br>Zhejian Zhang <small>(张喆戬)</small><br>Haoyang Qi <small>(祁昊洋)</small> | |
-| 2021 | Junjie Zhao <small>(赵俊杰)</small><br>Xueli Miao <small>(缪雪丽) | Minghao Guo <small>(郭明浩)</small><br>Jingyuan Deng <small>(邓景元)</small><br>Huimei Wang <small>(王惠美)</small><br>Lingqian Qiu <small>(邱令倩)</small><br>Xinmiao Zhao <small>(赵鑫淼)</small><br>Chunjiang Li <small>(李春江)</small> | Yacheng Kang <small>(康亚城)</small><br>Zexin Hu <small>(胡泽昕)</small> | Rui Xu <small>(徐睿) |
-| 2020 | | Yu Tao <small>(陶昱)</small><br>Heming Xia <small>(夏鹤明) | Huimei Wang <small>(王惠美)</small><br>Yichen Wang <small>(王弋尘)</small><br>Zihe An <small>(安子訸)</small> | |
-| 2019 | | Zhongpeng Sun <small>(孙忠鹏)</small><br>Wenlong Li <small>(李汶隆) | | |
-| 2015 | Lijing Shao <small>(邵立晶) | | | |
-| 2005 | | Lijing Shao <small>(邵立晶) |  | |
+| 2024 | C. Liu <small>(刘畅)</small><br>H. Li <small>(李洪波)</small> | | | D. Liang <small>(梁迪聪)</small><br>Z. Lyu <small>(吕振伟)</small><br>H. Wang <small>(王海天)</small><br>Z. Mai <small>(麦展风)</small><br>G. Yim <small>(嚴家榮)</small> |
+| 2023 | Y. Gao <small>(高勇)</small> | Y. Dong <small>(董益铭)</small><br>Z. Wang <small>(王子铭)</small><br>H. Gu <small>(顾华鹏)</small> |  W. Wang <small>(王伟松)</small><br>	W. Hu <small>(胡文瑞)</small> | R. Xu <small>(徐睿)</small> |
+| 2022 | S. Kazempour | Y. Kang <small>(康亚城)</small><br>Z. Hu <small>(胡泽昕)</small><br>P. Ji <small>(姬佩祥)</small> |  Z. Wang <small>(王子铭)</small><br>	Y. Dong <small>(董益铭)</small><br>Z. Zhang <small>(张喆戬)</small><br>H. Qi <small>(祁昊洋)</small> | |
+| 2021 | J. Zhao <small>(赵俊杰)</small><br>X. Miao <small>(缪雪丽) | M. Guo <small>(郭明浩)</small><br>J. Deng <small>(邓景元)</small><br>H. Wang <small>(王惠美)</small><br>L. Qiu <small>(邱令倩)</small><br>X. Zhao <small>(赵鑫淼)</small><br>C. Li <small>(李春江)</small> | Y. Kang <small>(康亚城)</small><br>Z. Hu <small>(胡泽昕)</small> | R. Xu <small>(徐睿) |
+| 2020 | | Y. Tao <small>(陶昱)</small><br>H. Xia <small>(夏鹤明) | H. Wang <small>(王惠美)</small><br>Y. Wang <small>(王弋尘)</small><br>Z. An <small>(安子訸)</small> | |
+| 2019 | | Z. Sun <small>(孙忠鹏)</small><br>W. Li <small>(李汶隆)</small> | | |
+| 2015 | L. Shao <small>(邵立晶)</small> | | | |
+| 2005 | | L. Shao <small>(邵立晶)</small> |  | |
+
 
 <br>
 <p></p>
