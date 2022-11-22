@@ -51,15 +51,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
 solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209),
 arXiv:2209.02209 
 
-0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-R. Song, H. Gao, Z. Cao, Y.-W.
-Yu, Y. Kang, **L. Shao**, [Kilonova and optical afterglow from binary neutron
-star mergers. II. Optimal search strategy for serendipitous observations and
-target-of-opportunity observations of gravitational-wave
-triggers](https://arxiv.org/abs/2110.10469), arXiv:2110.10469
-
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
 gravitational waves in the bumblebee gravity
@@ -81,6 +72,15 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
+0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-R. Song, H. Gao, Z. Cao, Y.-W.
+Yu, Y. Kang, **L. Shao**, [Kilonova and optical afterglow from binary neutron
+star mergers. II. Optimal search strategy for serendipitous observations and
+target-of-opportunity observations of gravitational-wave
+triggers](https://arxiv.org/abs/2110.10469),  *Astrophys. J.* (accepted), arXiv:2110.10469
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, X. Miao, Z. Wang, [Prospects
