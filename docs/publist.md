@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 217)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 30)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 13)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
 ---
@@ -51,11 +51,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
 solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209),
 arXiv:2209.02209 
 
-0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
-gravitational waves in the bumblebee gravity
-model](http://arxiv.org/abs/2207.14423), arXiv:2207.14423
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
 data using independent component analysis](https://arxiv.org/abs/2206.05785),
 arXiv:2206.05785
@@ -72,6 +67,11 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
+0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
+gravitational waves in the bumblebee gravity
+model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* (accepted), arXiv:2207.14423
 
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
@@ -1388,6 +1388,8 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
 
+0. 梁迪聪, **邵立晶** [摘译], [Rainer Weiss：引力波探测的50年](TBA), 《物理》, submitted 
+
 0. 康亚城<font color="#5c5c5c"><sup>(#)</sup></font>, 刘畅, 朱锦平, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA),
 《中国科学：物理学 力学 天文学》, submitted
@@ -1411,7 +1413,7 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 65 (2020) 4013
 
 0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新,
-[双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html), 《中国国家天文》9 (2019) 54
+[双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html), 《中国国家天文》 9 (2019) 54
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [GW170817:
 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48
