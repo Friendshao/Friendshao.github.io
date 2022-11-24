@@ -82,11 +82,6 @@ star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469),  *Astrophys. J.* (accepted), arXiv:2110.10469
 
-0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, X. Miao, Z. Wang, [Prospects
-for constraining the Yukawa gravity with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2210.16130
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 continuous gravitational waves from isolated neutron stars using Advanced LIGO
 and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), *Phys. Rev. D* (accepted), 
@@ -134,6 +129,11 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, X. Miao, Z. Wang, [Prospects
+for constraining the Yukawa gravity with pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* 11 (2022) 051
 
 0. M. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, Y.-M. Hu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
