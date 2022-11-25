@@ -6,7 +6,21 @@ layout: default
 
 <p></p>
 
-<big><big> **目录A**
+<big><big> **第一标注**
+
+0. Wang, X., Kuerban, A., Geng, J.-J., Xu, F., Zhang, X.-L., Zuo, B.-J., Yuan, W.-L., **Huang, Y.-F.**, 2021, [Tidal deformability of strange quark planets and strange dwarfs](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104l3028W/abstract), PhRvD, 104, 123028
+
+0. Huang, X.-R., Zha, S., **Chen, L.-W.**, 2021, [Supernova Preshock Neutronization Burst as a Probe of Nonstandard Neutrino Interactions](https://ui.adsabs.harvard.edu/abs/2021ApJ...923L..26H/abstract), ApJL, 923, L26
+
+0. Shang, X., **Li, A.**, 2021, [Revisiting the Post-glitch Relaxation of the 2000 Vela Glitch with the Neutron Star Equation of States in the Brueckner and Relativistic Brueckner Theories](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..108S/abstract), ApJ, 923, 108
+
+0. Li, S.-Z., **Yu, Y.-W.**, Gao, H., **Dai, Z.-G.**, **Zheng, X.-P.**, 2021, [A Powerful $e^\pm$ Outflow Driven by a Proto-strange Quark Star](https://ui.adsabs.harvard.edu/abs/2021ApJ...922..214L/abstract), ApJ, 922, 214
+
+0. Gao, H.-X., Geng, J.-J., **Huang, Y.-F.**, 2021, [Evolution patterns of the peak energy in the GRB prompt emission](https://ui.adsabs.harvard.edu/abs/2021A%26A...656A.134G/abstract), A&A, 656, A134
+
+0. **Lai, X.-Y.**, **Xia, C.-J.**, **Yu, Y.-W.**, Xu, R.-X., 2021, [Merging strangeon stars II: the ejecta and light curves](https://ui.adsabs.harvard.edu/abs/2021RAA....21..250L/abstract), RAA, 21, 250
+
+0. Guo, M., Zhao, J., **Shao, L.**, 2021, [Extended reduced-order surrogate models for scalar-tensor gravity in the strong field and applications to binary pulsars and gravitational waves](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j4065G/abstract), PhRvD, 104, 104065
 
 0. Hu, Z., Gao, Y., Xu, R., **Shao, L.**, 2021, [Scalarized neutron stars in massive scalar-tensor gravity: X-ray pulsars and tidal deformability](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j4014H/abstract), PhRvD, 104, 104014
 
@@ -60,6 +74,8 @@ layout: default
 
 0. Li, S.-Z., **Yu, Y.-W.**, Gao, H., Zhang, B., 2021, [The Evolution of a Newborn Millisecond Magnetar with a Propeller-recycling Disk](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...87L/abstract), ApJ, 907, 87
 
+0. Yang, S.-H., Pi, C.-M., **Zheng, X.-P.**, 2021, [Strange stars with a mirror-dark-matter core confronting with the observations of compact stars](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104h3016Y/abstract), PhRvD, 104, 083016
+
 0. **俞云伟** 2021, [中子星研究的过往今来](https://doi.org/10.7693/wl20210602), 物理, 50, 371
 
 <p></p>
@@ -68,7 +84,59 @@ layout: default
 
 <p></p>
 
-<big><big> **目录B**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<big><big> **其他标注**
+
+0. Liu, H.-L., **Dai, Z.-G.**, Lü, G.-L., Dohi, A., Yong, G.-C., Hashimoto, M., 2021, [Quiescent luminosities of transiently accreting neutron stars with neutrino heating due to charged pion decay](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104l3004L/abstract), PhRvD, 104, 123004
+
+0. Zhang, F., Chen, X., **Shao, L.**, Inayoshi, K., 2021, [The Eccentric and Accelerating Stellar Binary Black Hole Mergers in Galactic Nuclei: Observing in Ground and Space Gravitational-wave Observatories](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..139Z/abstract), ApJ, 923, 139
+
+0. Deng, C.-M., Zhong, S.-Q., **Dai, Z.-G.**, 2021, [An Accreting Stellar Binary Model for Active Periodic Fast Radio Bursts](https://ui.adsabs.harvard.edu/abs/2021ApJ...922...98D/abstract), ApJ, 922, 98
+
+0. Sun, K.-J., Ko, C. M., Li, F., Xu, J., **Chen, L.-W.**, 2021, [Enhanced yield ratio of light nuclei in heavy ion collisions with a first-order chiral phase transition](https://ui.adsabs.harvard.edu/abs/2021EPJA...57..313S/abstract), EPJA, 57, 313
+
+0. Xin, L. P., Li, H. L., Wang, J., Han, X. H., Qiu, Y. L., Cai, H. B., Niu, C. H., Lu, X. M., Liang, E. W., **Dai, Z. G.**, Wang, X. G., Wang, X. Y., Huang, L., Wu, C., Li, G. W., Feng, Q. C., Deng, J.  S., Sun, S. S., Yang, Y. G., Wei, J. Y., 2021, [Constraints on Optical Emission of FAST-detected FRB 20181130B with GWAC Synchronized Observations](https://ui.adsabs.harvard.edu/abs/2021ApJ...922...78X/abstract), ApJ, 922, 78
 
 0. Xu, R., Gao, Y., **Shao, L.**, 2021, [Signatures of Lorentz Violation in Continuous Gravitational-Wave Spectra of Ellipsoidal Neutron Stars](https://ui.adsabs.harvard.edu/abs/2021Galax...9...12X/abstract), Galaxies, 9, 12
 
@@ -96,8 +164,6 @@ layout: default
 
 0. Allahyari, A., **Shao, L.**, 2021, [Testing no-hair theorem by quasi-periodic oscillations: the quadrupole of GRO J1655-40](https://ui.adsabs.harvard.edu/abs/2021JCAP...10..003A/abstract), JCAP, 2021, 003
 
-0. Yang, S.-H., Pi, C.-M., **Zheng, X.-P.**, 2021, [Strange stars with a mirror-dark-matter core confronting with the observations of compact stars](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104h3016Y/abstract), PhRvD, 104, 083016
-
 0. Wang, Z., **Shao, L.**, Liu, C., 2021, [New Limits on the Lorentz/CPT Symmetry Through 50 Gravitational-wave Events](https://ui.adsabs.harvard.edu/abs/2021ApJ...921..158W/abstract), ApJ, 921, 158
 
 0. Wang, W.-H., Xu, H., Wang, W.-Y., Du, S., Cheng, Q., **Zheng, X.-P.**, Xu, R.-X., 2021,  [Constraining mechanism associated with fast radio burst and glitch from SGR J1935](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2208W/abstract), MNRAS, 507, 2208 
@@ -108,7 +174,7 @@ layout: default
 
 0. Zhao, J., **Shao, L.**, Gao, Y., Liu, C., Cao, Z., Ma, B.-Q., 2021, [Probing dipole radiation from binary neutron stars with ground-based laser-interferometer and atom-interferometer gravitational-wave observatories](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104h4008Z/abstract), PhRvD, 104, 084008
 
-0. Wang, K., **Dai, Z.-G.**, 2021, [The Low-Energy Spectral Index of Gamma-Ray Burst Prompt Emission from Internal Shocks](), Galaxies, 9, 68
+0. Wang, K., **Dai, Z.-G.**, 2021, [The Low-Energy Spectral Index of Gamma-Ray Burst Prompt Emission from Internal Shocks](https://ui.adsabs.harvard.edu/abs/2021Galax...9...68W/abstract), Galaxies, 9, 68
 
 0. Aslmarand, S. M., Akbarieh, A. R., Izadi, Y., Kazempour, S., **Shao, L.**, 2021, [Cosmological aspects of cubic Galileon massive gravity](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104h3543A/abstract), PhRvD, 104, 083543
 
@@ -116,3 +182,16 @@ layout: default
 0. Li, L., **Dai, Z.-G.**, 2021, [GRB 170817A Afterglow from a Relativistic Electron-Positron Pair Wind Observed Off-axis](https://ui.adsabs.harvard.edu/abs/2021ApJ...918...52L/abstract), ApJ, 918, 52
 
 0. 王弋尘, 缪雪丽, **邵立晶**, 2021, [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008), 天文学报 62, 54
+
+
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
