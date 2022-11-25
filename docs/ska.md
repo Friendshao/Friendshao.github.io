@@ -8,6 +8,10 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Xu, H.-j., Li, 
+
+0. Gao, Y., **Lai, X.-Y.**, **Shao, L.**, Xu, R.-X., 2022, [Rotation and deformation of strangeon stars in the Lennard-Jones model](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.2758G/abstract), MNRAS, 509, 2758
+
 0. Wang, X., Kuerban, A., Geng, J.-J., Xu, F., Zhang, X.-L., Zuo, B.-J., Yuan, W.-L., **Huang, Y.-F.**, 2021, [Tidal deformability of strange quark planets and strange dwarfs](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104l3028W/abstract), PhRvD, 104, 123028
 
 0. Huang, X.-R., Zha, S., **Chen, L.-W.**, 2021, [Supernova Preshock Neutronization Burst as a Probe of Nonstandard Neutrino Interactions](https://ui.adsabs.harvard.edu/abs/2021ApJ...923L..26H/abstract), ApJL, 923, L26
@@ -77,6 +81,7 @@ layout: default
 0. Yang, S.-H., Pi, C.-M., **Zheng, X.-P.**, 2021, [Strange stars with a mirror-dark-matter core confronting with the observations of compact stars](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104h3016Y/abstract), PhRvD, 104, 083016
 
 0. **俞云伟** 2021, [中子星研究的过往今来](https://doi.org/10.7693/wl20210602), 物理, 50, 371
+{: reversed="reversed"}
 
 <p></p>
 
@@ -87,48 +92,15 @@ layout: default
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <big><big> **其他标注**
 
-0. Liu, H.-L., **Dai, Z.-G.**, Lü, G.-L., Dohi, A., Yong, G.-C., Hashimoto, M., 2021, [Quiescent luminosities of transiently accreting neutron stars with neutrino heating due to charged pion decay](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104l3004L/abstract), PhRvD, 104, 123004
+0. Zhang, Z., 2022, [Geometrization of light bending and its application to ${\rm SdS}_w$ spacetime](https://ui.adsabs.harvard.edu/abs/2022CQGra..39a5003Z/abstract), CQGra, 39, 015003
+
+0. Wang, F. Y., Hu, J. P., Zhang, G. Q., **Dai, Z. G.**, 2022, [Standardized Long Gamma-Ray Bursts as a Cosmic Distance Indicator](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...97W/abstract), ApJ, 924, 97
+
+0. Xiao, D., **Dai, Z.-G.**, 2022, [New insights into the criterion of fast radio burst in the light of FRB 20121102A](https://ui.adsabs.harvard.edu/abs/2022A%26A...657L...7X/abstract), A&A, 657, L7
+
+0. Liu, H.-L., **Dai, Z.-G.**, Lü, G.-L., Dohi, A., Yong, G.-C., Hashimoto, M.-a., 2021, [Quiescent luminosities of transiently accreting neutron stars with neutrino heating due to charged pion decay](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104l3004L/abstract), PhRvD, 104, 123004
 
 0. Zhang, F., Chen, X., **Shao, L.**, Inayoshi, K., 2021, [The Eccentric and Accelerating Stellar Binary Black Hole Mergers in Galactic Nuclei: Observing in Ground and Space Gravitational-wave Observatories](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..139Z/abstract), ApJ, 923, 139
 
@@ -182,7 +154,7 @@ layout: default
 0. Li, L., **Dai, Z.-G.**, 2021, [GRB 170817A Afterglow from a Relativistic Electron-Positron Pair Wind Observed Off-axis](https://ui.adsabs.harvard.edu/abs/2021ApJ...918...52L/abstract), ApJ, 918, 52
 
 0. 王弋尘, 缪雪丽, **邵立晶**, 2021, [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008), 天文学报 62, 54
-
+{: reversed="reversed"}
 
 
 <script type="text/x-mathjax-config">
