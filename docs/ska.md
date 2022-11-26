@@ -70,6 +70,8 @@ layout: default
 
 0. **Lai, X.-Y.**, **Xia, C.-J.**, **Yu, Y.-W.**, Xu, R.-X., 2021, [Merging strangeon stars II: the ejecta and light curves](https://ui.adsabs.harvard.edu/abs/2021RAA....21..250L/abstract), RAA, 21, 250
 
+0. Yang, S.-H., Pi, C.-M., **Zheng, X.-P.**, 2021, [Strange stars with a mirror-dark-matter core confronting with the observations of compact stars](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104h3016Y/abstract), PhRvD, 104, 083016
+
 0. Guo, M., Zhao, J., **Shao, L.**, 2021, [Extended reduced-order surrogate models for scalar-tensor gravity in the strong field and applications to binary pulsars and gravitational waves](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j4065G/abstract), PhRvD, 104, 104065
 
 0. Hu, Z., Gao, Y., Xu, R., **Shao, L.**, 2021, [Scalarized neutron stars in massive scalar-tensor gravity: X-ray pulsars and tidal deformability](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j4014H/abstract), PhRvD, 104, 104014
@@ -123,8 +125,6 @@ layout: default
 0. Wang, L., Hu, J., **Xia, C.-J.**, Xu, J.-F., Peng, G.-X., Xu, R.-X., 2021, [Stable Up-Down Quark Matter Nuggets, Quark Star Crusts, and a New Family of White Dwarfs](https://ui.adsabs.harvard.edu/abs/2021Galax...9...70W/abstract), Galaxies, 9, 70
 
 0. Li, S.-Z., **Yu, Y.-W.**, Gao, H., Zhang, B., 2021, [The Evolution of a Newborn Millisecond Magnetar with a Propeller-recycling Disk](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...87L/abstract), ApJ, 907, 87
-
-0. Yang, S.-H., Pi, C.-M., **Zheng, X.-P.**, 2021, [Strange stars with a mirror-dark-matter core confronting with the observations of compact stars](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104h3016Y/abstract), PhRvD, 104, 083016
 
 0. 李洪波, **邵立晶**, 徐仁新, 2021, [核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05), 天文学报, 39, 511
 
