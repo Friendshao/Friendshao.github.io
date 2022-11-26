@@ -8,9 +8,9 @@ layout: default
 
 <big><big> **第一标注**
 
-0. Dong, Y., **Shao, L.**, Hu, Z., Miao, X., Wang, Z., 2022, [Prospects for Constraining the Yukawa Gravity with Pulsars around Sagittarius A*](https://ui.adsabs.harvard.edu/abs/2022arXiv221016130D/abstract), JCAP, 11, 051
-
 0. **Lai, X.-Y.**, **Xia, C.-J.**, Xu, R.-X., 2023, [Bulk strong matter: the trinity](https://ui.adsabs.harvard.edu/abs/2023AdPhX...837433L/abstract), AdPhX, 8, 2137433
+
+0. Dong, Y., **Shao, L.**, Hu, Z., Miao, X., Wang, Z., 2022, [Prospects for Constraining the Yukawa Gravity with Pulsars around Sagittarius A*](https://ui.adsabs.harvard.edu/abs/2022arXiv221016130D/abstract), JCAP, 11, 051
 
 0. Li, H.-B., Gao, Y., **Shao, L.**, Xu, R.-X., Xu, R., 2022, [Oscillation modes and gravitational waves from strangeon stars](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.6172L/abstract), MNRAS, 516, 6172
 
@@ -125,6 +125,8 @@ layout: default
 0. Li, S.-Z., **Yu, Y.-W.**, Gao, H., Zhang, B., 2021, [The Evolution of a Newborn Millisecond Magnetar with a Propeller-recycling Disk](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...87L/abstract), ApJ, 907, 87
 
 0. Yang, S.-H., Pi, C.-M., **Zheng, X.-P.**, 2021, [Strange stars with a mirror-dark-matter core confronting with the observations of compact stars](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104h3016Y/abstract), PhRvD, 104, 083016
+
+0. 李洪波, **邵立晶**, 徐仁新, 2021, [核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05), 天文学报, 39, 511
 
 0. **俞云伟** 2021, [中子星研究的过往今来](https://doi.org/10.7693/wl20210602), 物理, 50, 371
 {: reversed="reversed"}
