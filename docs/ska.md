@@ -8,7 +8,53 @@ layout: default
 
 <big><big> **第一标注**
 
-0. Xu, H.-j., Li, 
+0. Dong, Y., **Shao, L.**, Hu, Z., Miao, X., Wang, Z., 2022, [Prospects for Constraining the Yukawa Gravity with Pulsars around Sagittarius A*](https://ui.adsabs.harvard.edu/abs/2022arXiv221016130D/abstract), JCAP, 11, 051
+
+0. **Lai, X.-Y.**, **Xia, C.-J.**, Xu, R.-X., 2023, [Bulk strong matter: the trinity](https://ui.adsabs.harvard.edu/abs/2023AdPhX...837433L/abstract), AdPhX, 8, 2137433
+
+0. Li, H.-B., Gao, Y., **Shao, L.**, Xu, R.-X., Xu, R., 2022, [Oscillation modes and gravitational waves from strangeon stars](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.6172L/abstract), MNRAS, 516, 6172
+
+0. Miao, Z., **Li, A.**, **Dai, Z.-G.**, 2022, [On the moment of inertia of PSR J0737-3039 A from LIGO/Virgo and NICER](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.5071M/abstract), MNRAS, 515, 5071
+
+0. **Shao, L.**, Yagi, K., 2022, [Neutron stars as extreme laboratories for gravity tests](https://ui.adsabs.harvard.edu/abs/2022arXiv220903351S/abstract), SciBu, 67, 1946
+
+0. **Xia, C.-J.**, Maruyama, T., Yasutake, N., Tatsumi, T., 2022, [Nuclear pasta structures at high temperatures](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106f3020X/abstract), PhRvD, 106, 063020
+
+0. **Xia, C.-J.**, Maruyama, T., **Li, A.**, Sun, B. Y., Long, W.-H., Zhang, Y.-X., 2022, [Unified neutron star EOSs and neutron star structures in RMF models](https://ui.adsabs.harvard.edu/abs/2022CoTPh..74i5303X/abstract), CoTPh, 74, 095303
+
+0. Miao, Z., Zhu, Y., **Li, A.**, Huang, F., 2022, [Dark Matter Admixed Neutron Star Properties in the Light of X-Ray Pulse Profile Observations](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...69M/abstract), ApJ, 936, 69
+
+0. **Xia, C.-J.**, Xu, J.-F., Peng, G.-X., Xu, R.-X., 2022, [Interface effects of quark matter: Light-quark nuggets and compact stars](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106c4016X/abstract), PhRvD, 106, 034016
+
+0. Liu, J.-F., Zhu, J.-P., Liu, L.-D., **Yu, Y.-W.**, Zhang, B., 2022, [Magnetar Engines in Fast Blue Optical Transients and Their Connections with SLSNe, SNe Ic-BL, and lGRBs](https://ui.adsabs.harvard.edu/abs/2022ApJ...935L..34L/abstract), ApJL, 935, L34
+
+0. **Tong, H.**, Wang, H.-G., 2022, [Circular Polarization of Fast Radio Bursts in the Curvature Radiation Scenario](https://ui.adsabs.harvard.edu/abs/2022RAA....22g5013T/abstract), RAA, 22, 075013
+
+0. Wang, D., **Gong, B. P.**, 2022, [Possible tidal dissipation in millisecond pulsar binaries](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A..75W/abstract), A&A, 663, A75
+
+0. **Tong, H.**, 2022, [On the Age of the Magnetar Inside GRB 130310A](https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..115T/abstract), RNAAS, 6, 115
+
+0. Yue, T.-G., **Chen, L.-W.**, Zhang, Z., Zhou, Y., 2022, [Constraints on the symmetry energy from PREX-II in the multimessenger era](https://ui.adsabs.harvard.edu/abs/2022PhRvR...4b2054Y/abstract), PhRvR, 4, L022054
+
+0. Yuan, W.-L., **Li, A.**, Miao, Z., Zuo, B., Bai, Z., 2022, [Interacting $ud$ and $uds$ quark matter at finite densities and quark stars](https://ui.adsabs.harvard.edu/abs/2022PhRvD.105l3004Y/abstract), PhRvD, 105, 123004
+
+0. Jin, H.-M., **Xia, C.-J.**, Sun, T.-T., Peng, G.-X., 2022, [Quark condensate and chiral symmetry restoration in neutron stars](https://ui.adsabs.harvard.edu/abs/2022PhLB..82937121J/abstract), PhLB, 829, 137121 
+
+0. Zhao, J., Freire, P. C. C., Kramer, M., **Shao, L.**, Wex, N., 2022, [Closing a spontaneous-scalarization window with binary pulsars](https://ui.adsabs.harvard.edu/abs/2022CQGra..39kLT01Z/abstract), CQGra, 39, 11LT01
+
+0. **Xia, C.-J.**, Sun, B. Y., Maruyama, T., Long, W.-H., **Li, A.**, 2022, [Unified nuclear matter equations of state constrained by the in-medium balance in density-dependent covariant density functionals](https://ui.adsabs.harvard.edu/abs/2022PhRvC.105d5803X/abstract), PhRvC, 105, 045803
+
+0. Li, F., Cai, B.-J., Zhou, Y., Jiang, W.-Z., **Chen, L.-W.**, 2022, [Effects of Isoscalar- and Isovector-scalar Meson Mixing on Neutron Star Structure](https://ui.adsabs.harvard.edu/abs/2022ApJ...929..183L/abstract), ApJ, 929, 183
+
+0. Wu, X.-J., **Yuan, Y.-F.**, Kumar, R., Luo, Y., 2022, [Theoretical analysis on pulsar timing of a millisecond pulsar around a binary black hole](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..708W/abstract), MNRAS, 510, 708
+
+0. **Tong, H.**, Liu, J., Wang, H. G., Yan, Z., 2022, [Three aspects of the radius-to-frequency mapping in fast radio bursts](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.5679T/abstract), MNRAS, 509, 5679
+
+0. Xu, F., Geng, J.-J., Wang, X., Li, L., **Huang, Y.-F.**, 2022, [Is the birth of PSR J0538+2817 accompanied by a gamma-ray burst?](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4916X/abstract), MNRAS, 509, 4916
+
+0. Zhong, H., **Gong, B.**, Qiu, T., 2022, [Gravitational waves from bubble collisions in FLRW spacetime](https://ui.adsabs.harvard.edu/abs/2022JHEP...02..077Z/abstract), JHEP, 2022, 77
+
+0. Xu, R., Gao, Y., **Shao, L.**, 2022, [Neutron stars in massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent perturbations](https://ui.adsabs.harvard.edu/abs/2022PhRvD.105b4003X/abstract), PhRvD, 105, 024003
 
 0. Gao, Y., **Lai, X.-Y.**, **Shao, L.**, Xu, R.-X., 2022, [Rotation and deformation of strangeon stars in the Lennard-Jones model](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.2758G/abstract), MNRAS, 509, 2758
 
@@ -90,9 +136,75 @@ layout: default
 <p></p>
 
 
-
-
 <big><big> **其他标注**
+
+0. Zhang, L., Luo, J.-J., **Huang, Y.-F.**, Gong, Y.-J., Wu, S., 2022, [Distribution of gamma-ray bursts on the T$_90$-HR plane and their classification revisited](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5770Z/abstract), MNRAS, 517, 5770
+
+0. Li, Q.-C., Yang, Y.-P., Wang, F. Y., Xu, K., **Dai, Z.-G.**, 2022, [Repeating fast radio bursts with high burst rates by plate collisions in neutron star crusts](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4612L/abstract), MNRAS, 517, 4612
+
+0. Xie, S.-L., Cai, C., Xiong, S.-L., **Yu, Y.-W**., Zhang, Y.-Q., Lin, L., Zhang, Z., Xue, W.-C., Liu, J.-C., Zhao, Y., Xiao, S., Zheng, C., Yi, Q.-B., Zhang, P., Wang, P., Qiao, R., Peng, W.-X., Huang, Y., Ma, X., Zhao, X.-Y., Li, X.-B., Zheng, S.-J., Ge, M.-Y., Li, C.-K., Li, X.-Q., Wen, X.-Y., Zhang, F., Song, L.-M., Zhang, S.-N., Guo, Z.-W., Zhang, X.-L., Zhao, G.-Y., Li, C.-Y., 2022, [Revisit the periodicity of SGR J1935+2154 bursts with updated sample](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.3854X/abstract), MNRAS, 517, 3854
+
+0. Wang, Z., **Shao, L.**, 2022, [Dark radiation as a probe for a phase transition in the early Universe](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106j3504W/abstract), PhRvD, 106, 103504
+
+0. Wang, Z., Zhao, J., An, Z., **Shao, L.**, Cao, Z., 2022, [Simultaneous bounds on the gravitational dipole radiation and varying gravitational constant from compact binary inspirals](https://ui.adsabs.harvard.edu/abs/2022PhLB..83437416W/abstract), PhLB, 834, 137416
+
+0. Xiao, D., **Dai, Z.-G.**, 2022, [Hints of a universal width-energy relation for classified fast radio bursts](https://ui.adsabs.harvard.edu/abs/2022A%26A...667A..26X/abstract), A&A, 667, A26
+
+0. Wang, Y.-F., Brown, S. M., **Shao, L.**, Zhao, W., 2022, [Tests of gravitational-wave birefringence with the open gravitational-wave catalog](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106h4005W/abstract), PhRvD, 106, 084005
+
+0. Cao, Z., **Chen, L.-W.**, Chu, P.-C., Zhou, Y., 2022, [GW190814: Circumstantial evidence for up-down quark star](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106h3007C/abstract), PhRvD, 106, 083007
+
+0. Wang, C., Zhao, C., Li, X., **Zhou, E.**, Miao, H., Chen, Y., Ma, Y., 2022, [Boosting the sensitivity of high-frequency gravitational wave detectors using PT-symmetry](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106h2002W/abstract), PhRvD, 106, 082002
+
+0. Cai, B.-J., Wang, R., Zhang, Z., **Chen, L.-W.**, 2022, [High-order isospin-dependent surface tension contribution to the fourth-order symmetry energy of finite nuclei](https://ui.adsabs.harvard.edu/abs/2022PhRvC.106d4319C/abstract), PhRvC, 106, 044319
+
+0. Gao, H.-X., Geng, J.-J., Hu, L., Hu, M.-K., Lan, G.-X., Chang, C.-M., Zhang, S.-B., Zhang, X.-L., **Huang, Y.-F.**, Wu, X.-F., 2022, [Gravitationally lensed orphan afterglows of gamma-ray bursts](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..453G/abstract), MNRAS, 516, 453
+
+0. Kurban, A., **Huang, Y.-F.**, Geng, J.-J., Zong, H.-S., 2022, [Searching for strange quark matter objects among white dwarfs](https://ui.adsabs.harvard.edu/abs/2022PhLB..83237204K/abstract), PhLB, 832, 137204
+
+0. Wang, F. Y., Zhang, G. Q., **Dai, Z. G.**, Cheng, K. S., 2022, [Repeating fast radio burst 20201124A originates from a magnetar/Be star binary](https://ui.adsabs.harvard.edu/abs/2022NatCo..13.4382W/abstract), NatCo, 13, 4382
+
+0. Kang, Y., Liu, C., **Shao, L.**, 2022, [Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..739K/abstract), MNRAS, 515, 739
+
+0. Zhang, Z.-D., **Yu, Y.-W.**, Liu, L.-D., 2022, [The Effects of a Magnetar Engine on the Gamma-Ray Burst-associated Supernovae: Application to Double-peaked SN 2006aj](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...54Z/abstract), ApJ, 936, 54
+
+0. Zou, Z.-C., **Huang, Y.-F.**, Zhang, X.-L., 2022, [Gravitational Waves from Strange Star Core–Crust Oscillation](https://ui.adsabs.harvard.edu/abs/2022Univ....8..442Z/abstract), Univ, 8, 442
+
+0. **Shao, L.**, 2022, [Imaging supermassive black hole shadows with a global very long baseline interferometry array](https://ui.adsabs.harvard.edu/abs/2022FrPhy..1744601S/abstract), FrPhy, 17, 44601
+
+0. Wolter, H., Colonna, M., Cozma, D., Danielewicz, P., Ko, C. M., Kumar, R., Ono, A., Tsang, M. B., Xu, J., Zhang, Y.-X., Bratkovskaya, E., Feng, Z.-Q., Gaitanos, T., Le Fèvre, A., Ikeno, N., Kim, Y., Mallik, S., Napolitani, P., Oliinychenko, D., Ogawa, T., Papa, M., Su, J., Wang, R., Wang, Y.-J., Weil, J., Zhang, F.-S., Zhang, G.-Q., Zhang, Z., Aichelin, J., Cassing, W., **Chen, L.-W.**, Cheng, H.-G., Elfner, H., Gallmeister, K., Hartnack, C., Hashimoto, S., Jeon, S., Kim, K., Kim, M., Li, B.-A., Lee, C.-H., Li, Q.-F., Li, Z.-X., Mosel, U., Nara, Y., Niita, K., Ohnishi, A., Sato, T., Song, T., Sorensen, A., Wang, N., Xie, W.-J., 2022, [Transport model comparison studies of intermediate-energy heavy-ion collisions](https://ui.adsabs.harvard.edu/abs/2022PrPNP.12503962W/abstract), PrPNP, 125, 103962
+
+0. Kazempour, S., Akbarieh, A. R., Motavalli, H., **Shao, L.**, 2022, [Cosmology of Dirac-Born-Infeld-de Rham-Gabadadze-Tolley massive gravity](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106b3508K/abstract), PhRvD, 106, 023508 
+
+0. Liu, C., Kang, Y., **Shao, L.**, 2022, [Realistic Detection and Early Warning of Binary Neutron Stars with Decihertz Gravitational-wave Observatories](https://ui.adsabs.harvard.edu/abs/2022ApJ...934...84L/abstract), ApJ, 934, 84
+
+0. Ren, J., **Dai, Z. G.**, 2022, [Broad-band emission from a kilonova ejecta-pulsar wind Nebula system: late-time X-ray afterglow rebrightening of GRB 170817A](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5572R/abstract), MNRAS, 512, 5572
+
+0. Hong, B., Ren, Z.Z., Mu, X.-L., 2022, [Short-range correlation effects in neutron star's radial and non-radial oscillations](https://ui.adsabs.harvard.edu/abs/2022ChPhC..46f5104H/abstract), ChPhC, 46, 065104
+
+0. Wang, Z., Liu, C., Zhao, J., **Shao, L.**, 2022, [Extending the Fisher Information Matrix in Gravitational-wave Data Analysis](https://ui.adsabs.harvard.edu/abs/2022ApJ...932..102W/abstract), ApJ, 932, 102
+
+0. Li, Z., Peng, Q.-H., Kang, M., Liu, X., Zhang, M., **Huang, Y.-F.**, Chou, C.-K., 2022, [Neutrino Rocket Jet Model: An Explanation of High-velocity Pulsars and Their Spin-down Evolution](https://ui.adsabs.harvard.edu/abs/2022ApJ...931..123L/abstract), ApJ, 931, 123
+
+0. Liu, M., Liu, C., Hu, Y.-M., **Shao, L.**, Kang, Y., 2022, [Dark-siren cosmology with Decihertz gravitational-wave detectors](https://ui.adsabs.harvard.edu/abs/2022arXiv220506991L/abstract), PDU, 38, 101136
+
+0. Zhao, Z. Y., Wang, Y. Y., Zou, Y. C., Wang, F. Y., **Dai, Z. G.**, 2022, [Quasi-periodic eruptions from the helium envelope of hydrogen-deficient stars stripped by supermassive black holes](https://ui.adsabs.harvard.edu/abs/2022A%26A...661A..55Z/abstract), A&A, 661, A55
+
+0. Zuo, B.-J., **Huang, Y.-F.**, Feng, H.-T., 2022, [Hybrid stars and the QCD phase transition with an NJL-type model](https://ui.adsabs.harvard.edu/abs/2022PhRvD.105g4011Z/abstract), PhRvD, 105, 074011
+
+0. Li, L., Li, Q.-C., Zhong, S.-Q., Xia, J., Xie, L., Wang, F.-Y., **Dai, Z.-G.**, 2022, [AT2020hur: A Possible Optical Counterpart of FRB 180916B](https://ui.adsabs.harvard.edu/abs/2022ApJ...929..139L/abstract), ApJ, 929, 139
+
+0. Zou, Z.-C., **Huang, Y.-F.**, 2022, [Gravitational-wave Emission from a Primordial Black Hole Inspiraling inside a Compact Star: A Novel Probe for Dense Matter Equation of State](https://ui.adsabs.harvard.edu/abs/2022ApJ...928L..13Z/abstract), ApJL, 928, L13
+
+0. Kurban, A., **Huang, Y.-F.**, Geng, J.-J., Li, B., Xu, F., Wang, X., Zhou, X., Esamdin, A., Wang, N., 2022, [Periodic Repeating Fast Radio Bursts: Interaction between a Magnetized Neutron Star and Its Planet in an Eccentric Orbit](https://ui.adsabs.harvard.edu/abs/2022ApJ...928...94K/abstract), ApJ, 928, 94
+
+0. Zhong, S.-Q., Xie, W.-J., Deng, C.-M., Li, L., **Dai, Z.-G.**, Zhang, H.-M., 2022, [Can a Single Population Account for the Discriminant Properties in Fast Radio Bursts?](https://ui.adsabs.harvard.edu/abs/2022ApJ...926..206Z/abstract), ApJ, 926, 206
+
+0. Liu, C., **Shao, L.**, 2022, [Neutron Star-Neutron Star and Neutron Star-Black Hole Mergers: Multiband Observations and Early Warnings](https://ui.adsabs.harvard.edu/abs/2022ApJ...926..158L/abstract), ApJ, 926, 158
+
+0. Akbarieh, A. R., Kazempour, S., **Shao, L.**, 2022, [Cosmology and perturbations in tachyonic massive gravity](https://ui.adsabs.harvard.edu/abs/2022PhRvD.105b3501A/abstract), PhRvD, 105, 023501
+
+0. Xu, H.-j., Li, H., Zhou, Y., Wang, X., Zhao, J., **Chen, L.-W.**, Wang, F., 2022, [Measuring neutron skin by grazing isobaric collisions](https://ui.adsabs.harvard.edu/abs/2022PhRvC.105a1901X/abstract), PhRvC, 105, L011901
 
 0. Zhang, Z., 2022, [Geometrization of light bending and its application to ${\rm SdS}_w$ spacetime](https://ui.adsabs.harvard.edu/abs/2022CQGra..39a5003Z/abstract), CQGra, 39, 015003
 
