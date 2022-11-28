@@ -8,6 +8,8 @@ layout: default
 
 <big><big> **第一标注**
 
+0. **Li, A.**, 2022, [Can we distinguish quark stars from neutron stars with measurements of global properties?](https://ui.adsabs.harvard.edu/abs/2022EPJWC.26004001L/abstract), 	EPJ Web Conf., 260, 04001
+
 0. **Lai, X.-Y.**, **Xia, C.-J.**, Xu, R.-X., 2023, [Bulk strong matter: the trinity](https://ui.adsabs.harvard.edu/abs/2023AdPhX...837433L/abstract), AdPhX, 8, 2137433
 
 0. Dong, Y., **Shao, L.**, Hu, Z., Miao, X., Wang, Z., 2022, [Prospects for Constraining the Yukawa Gravity with Pulsars around Sagittarius A*](https://ui.adsabs.harvard.edu/abs/2022arXiv221016130D/abstract), JCAP, 11, 051
