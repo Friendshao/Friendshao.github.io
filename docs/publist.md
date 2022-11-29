@@ -82,11 +82,6 @@ star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469),  *Astrophys. J.* (accepted), arXiv:2110.10469
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-continuous gravitational waves from isolated neutron stars using Advanced LIGO
-and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), *Phys. Rev. D* (accepted), 
-arXiv:2201.00697
-
 0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, R. Balasov, I. Bartos,
 S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L. Blecha, S.
 Blondin, T. Bogdanović, S. Boissier, M. Bonetti, S. Bonoli, E. Bortolas, K.
@@ -129,6 +124,10 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+continuous gravitational waves from isolated neutron stars using Advanced LIGO
+and Advanced Virgo O3 data](https://arxiv.org/abs/2201.00697), *Phys. Rev. D* 106 (2022) 102008 
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, X. Miao, Z. Wang, [Prospects
