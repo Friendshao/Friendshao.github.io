@@ -41,11 +41,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
 arXiv:2210.04481
 
-0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Desvignes, D.I. Jones, M. Kramer,
-G. Yim, [Precession of magnetars: dynamical evolutions and modulations on
-polarized electromagnetic waves](TBA), submitted
-
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
 solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209),
@@ -67,6 +62,12 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
+0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Desvignes, D.I. Jones, M. Kramer,
+G. Yim, [Precession of magnetars: dynamical evolutions and modulations on
+polarized electromagnetic waves](https://arxiv.org/abs/2211.17087), *Mon. Not.
+R. Astron. Soc.* (accepted), arXiv:2211.17087
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
