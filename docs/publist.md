@@ -31,9 +31,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
 in light of Event Horizon Telescope observations](https://arxiv.org/abs/TBA),
 submitted
 
-0. T. Akutsu, *et al.* (KAGRA Collaboration), [Input optics systems of the KAGRA
-detector during O3GK](https://arxiv.org/abs/2210.05934), arXiv:2210.05934
-
 0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
 O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.G. Bailey<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
@@ -62,6 +59,10 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Input optics systems of the KAGRA
+detector during O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp.
+Phys.* (accepted),  arXiv:2210.05934
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Desvignes, D.I. Jones, M. Kramer,
