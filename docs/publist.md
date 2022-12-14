@@ -75,11 +75,6 @@ G. Yim, [Precession of magnetars: dynamical evolutions and modulations on
 polarized electromagnetic waves](https://arxiv.org/abs/2211.17087), *Mon. Not.
 R. Astron. Soc.* (accepted), arXiv:2211.17087
 
-0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
-gravitational waves in the bumblebee gravity
-model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* (accepted), arXiv:2207.14423
-
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B. Zhang<font
@@ -131,6 +126,11 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
+gravitational waves in the bumblebee gravity
+model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* 106 (2022) 124019
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 continuous gravitational waves from isolated neutron stars using Advanced LIGO
