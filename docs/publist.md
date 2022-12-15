@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 218)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 30)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 31)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -1204,6 +1204,12 @@ Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
 laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), 
 in *Modified and Quantum Gravity: From theory to Experimental Searches on All Scales*,
 arXiv:2206.15187
+
+0. J.-B. Bayle, B. Bonga, C. Caprini, D. Doneva, M. Muratore<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Petiteau, E. Rossi, **L. Shao**,
+[Overview and progress on the Laser Interferometer Space Antenna
+mission](https://doi.org/10.1038/s41550-022-01847-0),
+*Nat. Astron.* 6 (2022) 1334
 
 0. R.P. Eatough<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
 K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.  Karuppusamy, **L. Shao**, M.
