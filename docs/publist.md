@@ -1408,7 +1408,7 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [分赫兹引力波探测助推双�
 徐睿<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 
-0. 梁迪聪, **邵立晶** [摘译], [Rainer Weiss: 引力波探测的50年](TBA), 《物理》 51 (2022) 853
+0. 梁迪聪, **邵立晶** [摘译], [Rainer Weiss: 引力波探测的50年](http://www.wuli.ac.cn/cn/article/id/5d047897-319b-4a29-96e7-9d0c74dfb340), 《物理》 51 (2022) 853
 
 0. 李洪波<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**, 徐仁新,
 [核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05), 
