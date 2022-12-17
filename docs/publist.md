@@ -43,11 +43,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
 arXiv:2210.04481
 
-0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
-solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209),
-arXiv:2209.02209 
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
 data using independent component analysis](https://arxiv.org/abs/2206.05785),
 arXiv:2206.05785
@@ -64,6 +59,10 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
+solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* (accepted), arXiv:2209.02209 
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Input optics systems of the KAGRA
 detector during O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp.
