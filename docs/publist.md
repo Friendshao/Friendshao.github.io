@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 218)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 219)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 31)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
+with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), arXiv:2212.09346
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass black hole binaries in the second part of Advanced LIGO's and
@@ -58,7 +63,8 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
-GWTC-3](https://arxiv.org/abs/2111.03634), arXiv:2111.03634
+GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted),
+arXiv:2111.03634
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
