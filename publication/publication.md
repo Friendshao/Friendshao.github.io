@@ -22,13 +22,21 @@ tr:nth-child(odd) {
 }
 </style>
 
-**For a nearly complete list, please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=500&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
+**For a nearly complete list, please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
   
 ---
 
 <p></p>
 
 ### **Selected First-author/Corresponding-author Papers**
+
+0. **L. Shao**, K. Yagi, [Neutron stars as extreme laboratories for gravity
+tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
+- <small>Featured by ScienceBulletin:
+    [link](https://mp.weixin.qq.com/s/XzI8A_mOEGkHQIt-KPXn5A)
+
+0. D. Liang, R. Xu, X. Lu, **L. Shao**, [Polarizations of gravitational waves in
+the bumblebee gravity model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* 106 (2022) 124019
 
 0. J. Zhao, P.C.C. Freire, M.  Kramer, **L. Shao**, N. Wex, [Closing a
 spontaneous-scalarization window with binary
