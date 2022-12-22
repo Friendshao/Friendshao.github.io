@@ -34,7 +34,7 @@ tr:nth-child(odd) {
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
 - <small>Featured by ScienceBulletin:
     [link](https://mp.weixin.qq.com/s/XzI8A_mOEGkHQIt-KPXn5A)
-    <img src="SB.png" alt="PKU" style="height:30px;">
+    <img src="SB.png" alt="scibull" style="height:24px;">
 
 0. D. Liang, R. Xu, X. Lu, **L. Shao**, [Polarizations of gravitational waves in
 the bumblebee gravity model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* 106 (2022) 124019
