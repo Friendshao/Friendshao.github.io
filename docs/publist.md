@@ -74,12 +74,6 @@ solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Ph
 detector during O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp.
 Phys.* (accepted),  arXiv:2210.05934
 
-0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Desvignes, D.I. Jones, M. Kramer,
-G. Yim, [Precession of magnetars: dynamical evolutions and modulations on
-polarized electromagnetic waves](https://arxiv.org/abs/2211.17087), *Mon. Not.
-R. Astron. Soc.* (accepted), arXiv:2211.17087
-
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B. Zhang<font
@@ -131,6 +125,12 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Desvignes, D.I. Jones, M. Kramer,
+G. Yim, [Precession of magnetars: dynamical evolutions and modulations on
+polarized electromagnetic waves](https://arxiv.org/abs/2211.17087), *Mon. Not.
+R. Astron. Soc.* 519 (2023) 1080
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
