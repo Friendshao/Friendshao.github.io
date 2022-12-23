@@ -34,7 +34,7 @@ tr:nth-child(odd) {
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
 - <small>Featured by ScienceBulletin:
     [link](https://mp.weixin.qq.com/s/XzI8A_mOEGkHQIt-KPXn5A)
-    <img src="SB.png" alt="scibull" style="height:21px;">
+    <img src="SB.png" alt="scibull" style="height:20px;">
 
 0. D. Liang, R. Xu, X. Lu, **L. Shao**, [Polarizations of gravitational waves in
 the bumblebee gravity model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* 106 (2022) 124019
@@ -221,7 +221,7 @@ by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
 ### **Publication Metrics**
 
 | <small> (last updated: December 2022) | **CITATION** | **$H$-FACTOR** | **LINK** |
-| **All Papers** | 40,000+ | 67 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
+| **All Papers** | 40,000+ | 69 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
 | **Short-author-list Papers** | 3,000+ | 29 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true) |
 
 
