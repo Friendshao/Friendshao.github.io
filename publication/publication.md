@@ -107,7 +107,7 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332),
     the Max Planck Institute for Radio Astronomy: 
 [English](https://www.mpifr-bonn.mpg.de/pressreleases/2018/8) /
 [German](https://www.mpifr-bonn.mpg.de/pressemeldungen/2018/8)
-  <img src="mpifr.jpg" alt="PRL" style="width:32px;height:32px;"> 
+  <img src="mpifr.png" alt="PRL" style="width:32px;height:32px;"> 
 
 0. **L. Shao**, B.  Zhang, [Bayesian framework to constrain the photon mass
 with a catalog of fast radio bursts](https://arxiv.org/abs/1705.01278),
