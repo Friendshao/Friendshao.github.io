@@ -20,12 +20,12 @@ tr:nth-child(odd) {
 }
 </style>
 
-<!-- 
+
 <h2>
 <font color="red">
 *** Notice: links are not maintained after the end of course! 
 </font>
-</h2> -->
+</h2>
 
 # <b>Theoretical Mechanics (理论力学)</b>
 
