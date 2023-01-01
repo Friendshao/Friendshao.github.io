@@ -21,6 +21,12 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
+Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
+K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, [A freely precessing magnetar
+following an X-ray outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1),
+submitted
+
 0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
@@ -110,11 +116,6 @@ O'Shaughnessy, S.P. Zwart, A. Pound, F. Schussler, O. Sergijenko, A. Spallicci,
 D. Vernieri, A. Vigna-Gómez, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Model-based
-cross-correlation search for gravitational waves from the low-mass X-ray binary
-Scorpius X-1 in LIGO O3 data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
-Lett.*  (accepted), arXiv:2209.02863
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
@@ -131,6 +132,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Desvignes, D.I. Jones, M. Kramer,
 G. Yim, [Precession of magnetars: dynamical evolutions and modulations on
 polarized electromagnetic waves](https://arxiv.org/abs/2211.17087), *Mon. Not.
 R. Astron. Soc.* 519 (2023) 1080
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Model-based
+cross-correlation search for gravitational waves from the low-mass X-ray binary
+Scorpius X-1 in LIGO O3 data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
+Lett.*  941 (2022) L30
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
