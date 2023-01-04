@@ -94,14 +94,13 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | *答疑* | 12月20日·14:00-16:00PM；科维理所K217 | 
 | **期末考试（闭卷，笔试）** | 12月21日·8:30-10:30AM；地点：理教209 |
 
-<!-- <p></p>
-
-## 文件下载
-
-- **课程日历**<small>（最后更新：2022年6月9日）</small>：[我爱上课.pdf](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE)
-- **课程作业**<small>（最后更新：2022年6月9日）</small>：[我爱写作业.pdf](https://disk.pku.edu.cn:443/link/7B0B8AB7347CF02BF638E114793723AE) -->
-
 <p></p>
+
+## 学生对课程的总体评价
+
+<div style="display: flex; justify-content: center;">
+<img src="ced22_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({

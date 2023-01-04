@@ -92,12 +92,12 @@ $$\delta S = 0$$
 
 <p></p>
 
-<!-- 
+
 ## 学生对课程的总体评价
 
 <div style="display: flex; justify-content: center;">
-<img src="thmeth21_score.png" width="880">
-</div> -->
+<img src="tm22_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
