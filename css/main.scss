@@ -3,6 +3,19 @@
 ---
 @charset "utf-8";
 
+/* Three columns side by side */
+.column {
+  float: left;
+  width: 47%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+/* Add some shadows to create a card effect */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
 .avatar {
   vertical-align: middle;
   width: 150px;
