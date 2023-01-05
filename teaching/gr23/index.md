@@ -73,7 +73,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | | Office KIAA-217; lshao@pku.edu.cn; 010-62758461 | 
 | | 【答疑时间】每周日14:00-15:00PM（建议来前电话联系，以免空跑） | 
 | **Teaching Assistant** | 胡泽昕 |
-| <font color="blue"><b>网盘链接</b></font> | [猛戳这里](http://pan.pku.edu.cn) （倘若打开有误，请尝试重新刷新） |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](http://pan.pku.edu.cn) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
 
