@@ -72,10 +72,6 @@ merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted),
 arXiv:2111.03634
 
-0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
-solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* (accepted), arXiv:2209.02209 
-
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Input optics systems of the KAGRA
 detector during O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp.
 Phys.* (accepted),  arXiv:2210.05934
@@ -126,6 +122,10 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
+solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107 (2023) 024011
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Desvignes, D.I. Jones, M. Kramer,
