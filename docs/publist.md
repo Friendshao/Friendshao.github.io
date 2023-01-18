@@ -76,15 +76,6 @@ arXiv:2111.03634
 detector during O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp.
 Phys.* (accepted),  arXiv:2210.05934
 
-0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-R. Song, H. Gao, Z. Cao, Y.-W.
-Yu, Y. Kang, **L. Shao**, [Kilonova and optical afterglow from binary neutron
-star mergers. II. Optimal search strategy for serendipitous observations and
-target-of-opportunity observations of gravitational-wave
-triggers](https://arxiv.org/abs/2110.10469),  *Astrophys. J.* (accepted), arXiv:2110.10469
-
 0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, R. Balasov, I. Bartos,
 S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L. Blecha, S.
 Blondin, T. Bogdanović, S. Boissier, M. Bonetti, S. Bonoli, E. Bortolas, K.
@@ -122,6 +113,15 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-R. Song, H. Gao, Z. Cao, Y.-W.
+Yu, Y. Kang, **L. Shao**, [Kilonova and optical afterglow from binary neutron
+star mergers. II. Optimal search strategy for serendipitous observations and
+target-of-opportunity observations of gravitational-wave
+triggers](https://arxiv.org/abs/2110.10469),  *Astrophys. J.* 942 (2023) 88
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
