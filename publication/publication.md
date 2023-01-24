@@ -30,6 +30,13 @@ tr:nth-child(odd) {
 
 ### **Selected First-author/Corresponding-author Papers**
 
+0. R. Xu, D. Liang, **L.  Shao**, [Static spherical vacuum solutions in the
+bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107
+(2023) 024011
+
+0. Y. Gao, X.-Y. Lai, **L.  Shao**, R.-X. Xu, [Rotation and deformation of
+strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234), *Mon. Not. R. Astron. Soc.* 509 (2022) 2758
+
 0. **L. Shao**, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
 - <small>Featured by ScienceBulletin:
