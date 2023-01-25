@@ -27,11 +27,6 @@ K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, [A freely precessing magnetar
 following an X-ray outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1),
 submitted
 
-0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
-with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), arXiv:2212.09346
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass black hole binaries in the second part of Advanced LIGO's and
 Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477),
@@ -66,6 +61,12 @@ arXiv:2203.12038
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
+
+0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
+with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), *Phys.
+Rev. D* (accepted), arXiv:2212.09346
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
