@@ -119,7 +119,7 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
 model of eccentric binary black hole based on
 effective-one-body-numerical-relativity for spin-aligned binary black
-holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 142 (2023) 2350015
+holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
 
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
