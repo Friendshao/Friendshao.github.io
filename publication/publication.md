@@ -34,10 +34,10 @@ tr:nth-child(odd) {
 bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107
 (2023) 024011
 
-0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
-magnetars: dynamical evolutions and modulations on polarized electromagnetic
-waves](https://arxiv.org/abs/2211.17087), *Mon. Not.  R. Astron. Soc.* 519
-(2023) 1080
+0. Y. Gao, **L.  Shao**, G. Desvignes, D.I. Jones, M. Kramer, G. Yim,
+[Precession of magnetars: dynamical evolutions and modulations on polarized
+electromagnetic waves](https://arxiv.org/abs/2211.17087), *Mon. Not.  R. Astron.
+Soc.* 519 (2023) 1080
 
 0. **L. Shao**, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
