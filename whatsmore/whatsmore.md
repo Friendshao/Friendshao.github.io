@@ -45,18 +45,19 @@ tr:nth-child(odd) {
 <br>
 <p></p>
 
-### <img src="report.png" style="height:40px;"> &nbsp; <b>Theses & Reports</b> <small><small>[[Read More](/docs/theses)]</small></small>
+### <img src="report.png" style="height:40px;"> &nbsp; <b>Theses & Reports</b> <small><small>[[Read More](/docs/theses)]</small></small> 
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
-| 2024 | C. Liu <small>(刘畅)</small><br>H. Li <small>(李洪波)</small> | | | D. Liang <small>(梁迪聪)</small><br>Z. Lyu <small>(吕振伟)</small><br>H. Wang <small>(王海天)</small><br>Z. Mai <small>(麦展风)</small><br>G. Yim <small>(嚴家榮)</small> |
-| 2023 | Y. Gao <small>(高勇)</small> | Y. Dong <small>(董益铭)</small><br>Z. Wang <small>(王子铭)</small><br>H. Gu <small>(顾华鹏)</small> |  W. Wang <small>(王伟松)</small><br>	W. Hu <small>(胡文瑞)</small><br>	L. Zhou <small>(周立杭)</small> | R. Xu <small>(徐睿)</small> |
+| 2028 | &#9975; Z. Wang <small>(王子铭)</small><br>&#9975; Y. Dong <small>(董益铭)</small> | | | |
+| 2027 | &#9975; Y. Kang <small>(康亚城)</small><br>&#9975; Z. Hu <small>(胡泽昕)</small><br>&#9975; P. Ji <small>(姬佩祥)</small> | | | |
+| 2024 | &#9975; C. Liu <small>(刘畅)</small><br>&#9975; H. Li <small>(李洪波)</small> | | &#9975; Y. Yang <small>(杨一秋)</small> | &#9975; D. Liang <small>(梁迪聪)</small><br>&#9975; Z. Lyu <small>(吕振伟)</small><br>&#9975; H. Wang <small>(王海天)</small><br>&#9975; Z. Mai <small>(麦展风)</small><br>&#9975; G. Yim <small>(嚴家榮)</small> |
+| 2023 | &#9975; Y. Gao <small>(高勇)</small> | &#9975; Y. Dong <small>(董益铭)</small><br>&#9975; Z. Wang <small>(王子铭)</small><br>&#9975; H. Gu <small>(顾华鹏)</small> |  &#9975; W. Wang <small>(王伟松)</small><br>	&#9975; W. Hu <small>(胡文瑞)</small><br>	&#9975; L. Zhou <small>(周立杭)</small> | &#9975; R. Xu <small>(徐睿)</small> |
 | 2022 | S. Kazempour | Y. Kang <small>(康亚城)</small><br>Z. Hu <small>(胡泽昕)</small><br>P. Ji <small>(姬佩祥)</small> |  Z. Wang <small>(王子铭)</small><br>	Y. Dong <small>(董益铭)</small><br>Z. Zhang <small>(张喆戬)</small><br>H. Qi <small>(祁昊洋)</small> | |
 | 2021 | J. Zhao <small>(赵俊杰)</small><br>X. Miao <small>(缪雪丽) | M. Guo <small>(郭明浩)</small><br>J. Deng <small>(邓景元)</small><br>H. Wang <small>(王惠美)</small><br>L. Qiu <small>(邱令倩)</small><br>X. Zhao <small>(赵鑫淼)</small><br>C. Li <small>(李春江)</small> | Y. Kang <small>(康亚城)</small><br>Z. Hu <small>(胡泽昕)</small> | R. Xu <small>(徐睿) |
 | 2020 | | Y. Tao <small>(陶昱)</small><br>H. Xia <small>(夏鹤明) | H. Wang <small>(王惠美)</small><br>Y. Wang <small>(王弋尘)</small><br>Z. An <small>(安子訸)</small> | |
 | 2019 | | Z. Sun <small>(孙忠鹏)</small><br>W. Li <small>(李汶隆)</small> | | |
 | 2015 | L. Shao <small>(邵立晶)</small> | | | |
 | 2005 | | L. Shao <small>(邵立晶)</small> |  | |
-
 
 <br>
 <p></p>
@@ -121,3 +122,15 @@ are not included, because,
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FShanghai&amp;src=cnZhNzZnMDdqYzA5YzVraTBmYzdibTN0M2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;showTitle=0&amp;showPrint=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 -->
+
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
