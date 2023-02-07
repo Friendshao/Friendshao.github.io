@@ -22,6 +22,8 @@ tr:nth-child(odd) {
 
 <big><big> **Doctoral Thesis**
 
+0. **高勇**，[多信使天文学时代下中子星结构和进动的研究](theses/GaoYong.pdf)（北京大学，2023年6月）
+  - <small> Study of Neutron-star Structures and Precession in the Era of Multimessenger Astrophysics
 0. **Sobhan Kazempour**, [有质量的引力理论的宇宙学研究](theses/Sobhan_Kazempour.pdf)（University of Tabriz，2022年9月）
   - <small> Cosmological Aspects of Massive Gravity Theory
 0. **赵俊杰**，[利用脉冲双星与引力波检验偶极辐射](theses/ZhaoJunjie.pdf)（北京大学，2021年6月）
