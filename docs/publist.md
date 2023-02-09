@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 221)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 223)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 31)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,16 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+[The $g$-mode of neutron stars in pseudo-Newtonian
+gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
+third observing run of LIGO, Virgo, KAGRA and
+GEO](https://arxiv.org/abs/2302.03676), arXiv:2302.03676
 
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
