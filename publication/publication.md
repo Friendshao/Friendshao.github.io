@@ -41,7 +41,7 @@ Soc.* 519 (2023) 1080
 
 0. **L. Shao**, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
-- <small>Featured by ScienceBulletin:
+- <small>Featured by Science Bulletin:
     [link](https://mp.weixin.qq.com/s/XzI8A_mOEGkHQIt-KPXn5A)
     <img src="SB.png" alt="scibull" style="height:20px;">
 
