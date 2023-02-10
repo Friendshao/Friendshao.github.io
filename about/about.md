@@ -38,7 +38,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Astrophysical studies of dark matter
 - Bayesian data analysis and statistics
 
-Want to join our research? Please read the following articles carefully, for
+<font color="red"><b><big>Want to join our research?</big></b></font> Please read the following articles carefully, for
 **(a)** [Postdoc](https://kiaagravity.github.io/assets/postdoc) <font color="gray"><small>(博后)</small></font>,
 **(b)** [PhD Student](https://kiaagravity.github.io/assets/phd) <font color="gray"><small>(博士生)</small></font>, 
 **(c)** [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate) <font color="gray"><small>(本科生科研)</small></font>, and 
