@@ -125,9 +125,10 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
 
-0. S. Jorstad, M. Wielgus, R. Lico, S. Issaoun, *et al.* (EHT Collaboration),
-[The Event Horizon Telescope image of the quasar NRAO
-530](https://arxiv.org/abs/2302.04622), *Astrophys. J.* 943 (2023) 170
+0. S. Jorstad<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, M.
+Wielgus<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Lico, S. Issaoun,
+*et al.* (EHT Collaboration), [The Event Horizon Telescope image of the quasar
+NRAO 530](https://arxiv.org/abs/2302.04622), *Astrophys. J.* 943 (2023) 170
 
 0. X. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
