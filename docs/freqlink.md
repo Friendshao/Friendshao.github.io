@@ -63,7 +63,11 @@ layout: default
   [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en),
    [AEI](http://www.aei.mpg.de/)
   ([ACR](https://www.aei.mpg.de/astro-cosmo-rel))
-  
+- [KAGRA](https://gwcenter.icrr.u-tokyo.ac.jp/) 
+ ([Account](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=12137),
+  [Committee](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA/KSC#committees), 
+  [Maillist](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=12150))  
+
 **Collections**
 
 - [Friendshao.io](https://friendshao.github.io/),
