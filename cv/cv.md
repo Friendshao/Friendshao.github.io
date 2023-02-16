@@ -22,7 +22,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-## Curriculum Vitae
+## <b>Curriculum Vitae</b>
 
 | **TIME** | **POSITION** | **AFFILIATION** | **CITY** |
 | 2018.9-present | **Assistant Professor** | [Kavli Institute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) | Beijing |

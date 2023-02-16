@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-## About me [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
+## <b>About me</b> [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
 
 <img style="float: right;" src="shao2.png" width="180" hspace="10"> 
 

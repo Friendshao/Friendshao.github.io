@@ -42,7 +42,7 @@ tr:nth-child(odd) {
 
 <!---------------------------------------------------------------->
 
-## Teaching Activities
+## <b>Teaching Activities</b>
 
 > Education is to discover oneself and to fulfill purposes of life. <br>
 > 教育的目的在于人的自我实现。

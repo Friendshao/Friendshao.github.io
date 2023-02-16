@@ -22,11 +22,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-**For a nearly complete list, please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
-
----
-
-<p></p>
+<!-- <p></p>
 
 ### **Publication Metrics**
 
@@ -34,11 +30,24 @@ tr:nth-child(odd) {
 | **All Papers** | 40,000+ | 69 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary) |
 | **Short-author-list Papers** | 3,000+ | 29 | [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true) |
 
+--- -->
+
+<p></p>
+
+## <b>Publication</b>
+
+**For a nearly complete list, please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
+
 ---
 
 <p></p>
 
-### <b>Publication</b> <small>(a partial list)</small>
+### **Metrics**
+
+- [**All Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary): 40,000+ citations with $H=69$ 
+- [**Short-author-list Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true): 3,000+ citations with $H=29$
+
+### **Short-author-list Papers** <small><small>(incomplete)
 
 - Zhu J-P, Wu S, Yang Y-P, Liu C, Zhang B, Song H-R, Gao H, Cao Z, Yu Y-W, Kang Y, **Shao L**, 2023, 
   <a href="https://doi.org/10.3847/1538-4357/aca527" style="color: Fuchsia;">ApJ</a>, 942, 88 
@@ -379,9 +388,6 @@ gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
     Project: [link](http://demonstrations.wolfram.com/BenfordsLawInStatisticalPhysics/)
   <img src="mathematica.png" alt="Math" style="height:30px;">
 {: reversed="reversed"} -->
-
----
-<p></p>
 
 ### **Selected Collaboration Papers**
 
