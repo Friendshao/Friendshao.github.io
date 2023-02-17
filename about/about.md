@@ -74,6 +74,23 @@ students](https://friendshao.github.io/docs/theses).
 - Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) (2018-now)
 - Outstanding Reviewer for Classical and Quantum Gravity ([2018](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/), [2019](https://publishingsupport.iopscience.iop.org/questions/classical-quantum-gravity-2019-reviewer-awards/)), Universe ([2018](https://www.mdpi.com/journal/universe/awards/591/download)), and SCIENCE CHINA: Physics, Mechanics & Astronomy ([2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA))
 
+### Memberships
+
+- 2014-present, SKA Pulsar and Gravitational Wave Science Working Groups
+- 2018-present, Event Horizon Telescope Collaboration
+- 2018-present, KAGRA Scientific Collaboration
+- 2018-present, LISA Consortium
+- 2018-present, IAU Individual Member
+- 2018-present, Gravitation and Relativistic Astrophysics, CPS
+- 2020-present, Chinese Astronomical Society
+- 2020-present, Beijing Astronomical Society
+- 2020-present, Cosmic Explorer Consortium
+- 2021-present, Einstein Telescope Observational Science Board
+- 2021-present, Chinese Institute of Electronics
+- 2022-present, Chinese Physical Society
+- 2017-2021, BlackHoleCam Project
+- 2015-2017, LIGO Scientific Collaboration
+
 <!-- 
 ### Research Funds
 
