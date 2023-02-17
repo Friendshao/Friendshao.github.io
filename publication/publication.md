@@ -50,167 +50,167 @@ tr:nth-child(odd) {
 ### **Short-author-list Papers** <small><small>(incomplete)
 
 - Zhu J-P, Wu S, Yang Y-P, Liu C, Zhang B, Song H-R, Gao H, Cao Z, Yu Y-W, Kang Y, **Shao L**, 2023, 
-  <a href="https://doi.org/10.3847/1538-4357/aca527" style="color: Fuchsia;">ApJ</a>, 942, 88 
+  <a href="https://doi.org/10.3847/1538-4357/aca527" style="color: #00bfff;">ApJ</a>, 942, 88 
 - Gao Y, **Shao L**, Desvignes G, Jones D I, Kramer M, Yim G, 2023,
-  <a href="https://doi.org/10.1093/mnras/stac3546" style="color: Fuchsia;">MNRAS</a>, 519, 1080
+  <a href="https://doi.org/10.1093/mnras/stac3546" style="color: #00bfff;">MNRAS</a>, 519, 1080
 - Xu R, Liang D, **Shao L**, 2023, 
-  <a href="https://doi.org/10.1103/PhysRevD.107.024011" style="color: Fuchsia;">Phys. Rev. D</a>, 107, 024011
+  <a href="https://doi.org/10.1103/PhysRevD.107.024011" style="color: #00bfff;">Phys. Rev. D</a>, 107, 024011
 - Bayle J-B, Bonga B, Caprini C, Doneva D, Muratore M, Petiteau A, Rossi E, **Shao L**, 2022,
-  <a href="https://doi.org/10.1038/s41550-022-01847-0" style="color: Fuchsia;">Nat. Astron.</a>, 6, 1334
+  <a href="https://doi.org/10.1038/s41550-022-01847-0" style="color: #00bfff;">Nat. Astron.</a>, 6, 1334
 - **Shao L**, Yagi K, 2022,
-  <a href="https://doi.org/10.1016/j.scib.2022.09.018" style="color: Fuchsia;">Sci. Bull.</a>, 67, 1946
+  <a href="https://doi.org/10.1016/j.scib.2022.09.018" style="color: #00bfff;">Sci. Bull.</a>, 67, 1946
 - Dong Y, **Shao L**, Hu Z, Miao X, Wang Z, 2022, 
-  <a href="https://doi.org/10.1088/1475-7516/2022/11/051" style="color: Fuchsia;">JCAP</a>, 11, 051
+  <a href="https://doi.org/10.1088/1475-7516/2022/11/051" style="color: #00bfff;">JCAP</a>, 11, 051
 - Liu C, Kang Y, **Shao L**, 2022,
-  <a href="https://doi.org/10.3847/1538-4357/ac7a39" style="color: Fuchsia;">ApJ</a>, 934, 84
+  <a href="https://doi.org/10.3847/1538-4357/ac7a39" style="color: #00bfff;">ApJ</a>, 934, 84
 - Liu C, **Shao L**, 2022,
-  <a href="https://doi.org/10.3847/1538-4357/ac3cbf" style="color: Fuchsia;">ApJ</a>, 926, 158
+  <a href="https://doi.org/10.3847/1538-4357/ac3cbf" style="color: #00bfff;">ApJ</a>, 926, 158
 - Wang Z, Liu C, Zhao J, **Shao L**, 2022,
-  <a href="https://doi.org/10.3847/1538-4357/ac6b99" style="color: Fuchsia;">ApJ</a>, 932, 102
+  <a href="https://doi.org/10.3847/1538-4357/ac6b99" style="color: #00bfff;">ApJ</a>, 932, 102
 - Kang Y, Liu C, **Shao L**, 2022,
-  <a href="https://doi.org/10.1093/mnras/stac1738" style="color: Fuchsia;">MNRAS</a>, 515, 739
+  <a href="https://doi.org/10.1093/mnras/stac1738" style="color: #00bfff;">MNRAS</a>, 515, 739
 - Gao Y, Lai X-Y, **Shao L**, Xu R-X, 2022,
-  <a href="https://doi.org/10.1093/mnras/stab3181" style="color: Fuchsia;">MNRAS</a>, 509, 2758
+  <a href="https://doi.org/10.1093/mnras/stab3181" style="color: #00bfff;">MNRAS</a>, 509, 2758
 - Li H-B, Gao Y, **Shao L**, Xu R-X, 2022,
-  <a href="https://doi.org/10.1093/mnras/stac2622" style="color: Fuchsia;">MNRAS</a>, 516, 6172
+  <a href="https://doi.org/10.1093/mnras/stac2622" style="color: #00bfff;">MNRAS</a>, 516, 6172
 - Liang D, Xu R, Lu X, **Shao L**, 2022,
-  <a href="https://doi.org/10.1103/PhysRevD.106.124019" style="color: Fuchsia;">Phys. Rev. D</a>, 106, 124019
+  <a href="https://doi.org/10.1103/PhysRevD.106.124019" style="color: #00bfff;">Phys. Rev. D</a>, 106, 124019
 - Wang Z, **Shao L**, 2022,
-  <a href="https://doi.org/10.1103/PhysRevD.106.103504" style="color: Fuchsia;">Phys. Rev. D</a>, 106, 103504
+  <a href="https://doi.org/10.1103/PhysRevD.106.103504" style="color: #00bfff;">Phys. Rev. D</a>, 106, 103504
 - Wang Y-F, Brown S M, **Shao L**, Zhao W, 2022,
-  <a href="https://doi.org/10.1103/PhysRevD.106.084005" style="color: Fuchsia;">Phys. Rev. D</a>, 106, 084005
+  <a href="https://doi.org/10.1103/PhysRevD.106.084005" style="color: #00bfff;">Phys. Rev. D</a>, 106, 084005
 - Akbarieh A R, Kazempour S, **Shao L**, 2022,
-  <a href="https://doi.org/10.1103/PhysRevD.105.023501" style="color: Fuchsia;">Phys. Rev. D</a>, 105, 023501
+  <a href="https://doi.org/10.1103/PhysRevD.105.023501" style="color: #00bfff;">Phys. Rev. D</a>, 105, 023501
 - Xu R, Gao Y, **Shao L**, 2022,
-  <a href="https://doi.org/10.1103/PhysRevD.105.024003" style="color: Fuchsia;">Phys. Rev. D</a>, 105, 024003
+  <a href="https://doi.org/10.1103/PhysRevD.105.024003" style="color: #00bfff;">Phys. Rev. D</a>, 105, 024003
 - Kazempour S, Akbarieh A R, Motavalli H, **Shao L**, 2022,
-  <a href="https://doi.org/10.1103/PhysRevD.106.023508" style="color: Fuchsia;">Phys. Rev. D</a>, 106, 023508
+  <a href="https://doi.org/10.1103/PhysRevD.106.023508" style="color: #00bfff;">Phys. Rev. D</a>, 106, 023508
 - Wang Z, Zhao J, An Z, **Shao L**, Cao Z, 2022,
-  <a href="https://doi.org/10.1016/j.physletb.2022.137416" style="color: Fuchsia;">Phys. Lett. B</a>, 834, 137416
+  <a href="https://doi.org/10.1016/j.physletb.2022.137416" style="color: #00bfff;">Phys. Lett. B</a>, 834, 137416
 - Zhao J, Freire P C C, Kramer M, **Shao L**, Wex N, 2022,
-  <a href="https://doi.org/10.1088/1361-6382/ac69a3" style="color: Fuchsia;">Class. Quantum Grav.</a>, 39, 11LT01
+  <a href="https://doi.org/10.1088/1361-6382/ac69a3" style="color: #00bfff;">Class. Quantum Grav.</a>, 39, 11LT01
 - Liu M, Liu C, Hu Y-M, **Shao L**, Kang Y, 2022,
-  <a href="https://doi.org/10.1016/j.dark.2022.101136" style="color: Fuchsia;">Phys. Dark Univ.</a>, 38, 101136
+  <a href="https://doi.org/10.1016/j.dark.2022.101136" style="color: #00bfff;">Phys. Dark Univ.</a>, 38, 101136
 - **Shao L**, 2021,
-  <a href="https://physics.aps.org/articles/v14/173" style="color: Fuchsia;">Physics</a>, 14, 173
+  <a href="https://physics.aps.org/articles/v14/173" style="color: #00bfff;">Physics</a>, 14, 173
 - Allahyari A, **Shao L**, 2021,
-  <a href="https://doi.org/10.1088/1475-7516/2021/10/003" style="color: Fuchsia;">JCAP</a>, 10, 003
+  <a href="https://doi.org/10.1088/1475-7516/2021/10/003" style="color: #00bfff;">JCAP</a>, 10, 003
 - Kang Y, Liu C, **Shao L**, 2021,
-  <a href="https://doi.org/10.3847/1538-3881/ac23d8" style="color: Fuchsia;">AJ</a>, 162, 247
+  <a href="https://doi.org/10.3847/1538-3881/ac23d8" style="color: #00bfff;">AJ</a>, 162, 247
 - Wang Z, **Shao L**, Liu C, 2021,
-  <a href="https://doi.org/10.3847/1538-4357/ac223c" style="color: Fuchsia;">ApJ</a>, 921, 158
+  <a href="https://doi.org/10.3847/1538-4357/ac223c" style="color: #00bfff;">ApJ</a>, 921, 158
 - Miao X, Xu H, **Shao L**, Liu C, Ma B-Q, 2021,
-  <a href="https://doi.org/10.3847/1538-4357/ac1d48" style="color: Fuchsia;">ApJ</a>, 921, 114
+  <a href="https://doi.org/10.3847/1538-4357/ac1d48" style="color: #00bfff;">ApJ</a>, 921, 114
 - Zhang F, Chen X, **Shao L**, Inayoshi K, 2021,
-  <a href="https://doi.org/10.3847/1538-4357/ac2c07" style="color: Fuchsia;">ApJ</a>, 923, 139
+  <a href="https://doi.org/10.3847/1538-4357/ac2c07" style="color: #00bfff;">ApJ</a>, 923, 139
 - Guo M, Zhao J, **Shao L**, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.104.104065" style="color: Fuchsia;">Phys. Rev. D</a>, 104, 104065
+  <a href="https://doi.org/10.1103/PhysRevD.104.104065" style="color: #00bfff;">Phys. Rev. D</a>, 104, 104065
 - Hu Z, Gao Y, Xu R, **Shao L**, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.104.104014" style="color: Fuchsia;">Phys. Rev. D</a>, 104, 104014
+  <a href="https://doi.org/10.1103/PhysRevD.104.104014" style="color: #00bfff;">Phys. Rev. D</a>, 104, 104014
 - Aslmarand S M, Akbarieh A R, Izadi Y, Kazempour S, **Shao L**, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.104.083543" style="color: Fuchsia;">Phys. Rev. D</a>, 104, 083543
+  <a href="https://doi.org/10.1103/PhysRevD.104.083543" style="color: #00bfff;">Phys. Rev. D</a>, 104, 083543
 - Zhao J, **Shao L**, Gao Y, Liu C, Cao Z, Ma B-Q, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.104.084008" style="color: Fuchsia;">Phys. Rev. D</a>, 104, 084008
+  <a href="https://doi.org/10.1103/PhysRevD.104.084008" style="color: #00bfff;">Phys. Rev. D</a>, 104, 084008
 - Li S-L, **Shao L**, Wu P, Yu H, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.104.043510" style="color: Fuchsia;">Phys. Rev. D</a>, 104, 043510
+  <a href="https://doi.org/10.1103/PhysRevD.104.043510" style="color: #00bfff;">Phys. Rev. D</a>, 104, 043510
 - Wang Z, **Shao L**, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.103.116021" style="color: Fuchsia;">Phys. Rev. D</a>, 103, 116021
+  <a href="https://doi.org/10.1103/PhysRevD.103.116021" style="color: #00bfff;">Phys. Rev. D</a>, 103, 116021
 - Akbarieh A R, Kazempour S, **Shao L**, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.103.123518" style="color: Fuchsia;">Phys. Rev. D</a>, 103, 123518
+  <a href="https://doi.org/10.1103/PhysRevD.103.123518" style="color: #00bfff;">Phys. Rev. D</a>, 103, 123518
 - Xu R, Gao Y, **Shao L**, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.103.084028" style="color: Fuchsia;">Phys. Rev. D</a>, 103, 084028
+  <a href="https://doi.org/10.1103/PhysRevD.103.084028" style="color: #00bfff;">Phys. Rev. D</a>, 103, 084028
 - Xia H, **Shao L**, Zhao J, Cao Z, 2021,
-  <a href="https://doi.org/10.1103/PhysRevD.103.024040" style="color: Fuchsia;">Phys. Rev. D</a>, 103, 024040
+  <a href="https://doi.org/10.1103/PhysRevD.103.024040" style="color: #00bfff;">Phys. Rev. D</a>, 103, 024040
 - Wang H, Miao X, **Shao L**, 2021,
-  <a href="https://doi.org/10.1016/j.physletb.2021.136596" style="color: Fuchsia;">Phys. Lett. B</a>, 820, 136596
+  <a href="https://doi.org/10.1016/j.physletb.2021.136596" style="color: #00bfff;">Phys. Lett. B</a>, 820, 136596
 - Wang Z, **Shao L**, Li L-X, 2020,
-  <a href="https://doi.org/10.1088/1475-7516/2020/07/038" style="color: Fuchsia;">JCAP</a>, 07, 038
+  <a href="https://doi.org/10.1088/1475-7516/2020/07/038" style="color: #00bfff;">JCAP</a>, 07, 038
 - Miao X, Zhao J, **Shao L**, Wex N, Kramer M, Ma B-Q, 2020,
-  <a href="https://doi.org/10.3847/1538-4357/ab9dfe" style="color: Fuchsia;">ApJ</a>, 898, 69
+  <a href="https://doi.org/10.3847/1538-4357/ab9dfe" style="color: #00bfff;">ApJ</a>, 898, 69
 - Liu K, Guillemot L, Istrate A G, **Shao L**, Tauris T M, Wex N, *et al*, 2020,
-  <a href="https://doi.org/10.1093/mnras/staa2993" style="color: Fuchsia;">MNRAS</a>, 499, 2276
+  <a href="https://doi.org/10.1093/mnras/staa2993" style="color: #00bfff;">MNRAS</a>, 499, 2276
 - Gao Y, **Shao L**, Xu R, Sun L, Liu C, Xu R-X, 2020,
-  <a href="https://doi.org/10.1093/mnras/staa2476" style="color: Fuchsia;">MNRAS</a>, 498, 1826
+  <a href="https://doi.org/10.1093/mnras/staa2476" style="color: #00bfff;">MNRAS</a>, 498, 1826
 - Liu C, **Shao L**, Zhao J, Gao Y, 2020,
-  <a href="https://doi.org/10.1093/mnras/staa1512" style="color: Fuchsia;">MNRAS</a>, 496, 182
+  <a href="https://doi.org/10.1093/mnras/staa1512" style="color: #00bfff;">MNRAS</a>, 496, 182
 - Wang K, Xi S-Q, **Shao L**, Liu R-Y, Li Z, Zhang Z-K, 2020,
-  <a href="https://doi.org/10.1103/PhysRevD.102.063027" style="color: Fuchsia;">Phys. Rev. D</a>, 102, 063027
+  <a href="https://doi.org/10.1103/PhysRevD.102.063027" style="color: #00bfff;">Phys. Rev. D</a>, 102, 063027
 - Xu R, Gao Y, **Shao L**, 2020,
-  <a href="https://doi.org/10.1103/PhysRevD.102.064057" style="color: Fuchsia;">Phys. Rev. D</a>, 102, 064057
+  <a href="https://doi.org/10.1103/PhysRevD.102.064057" style="color: #00bfff;">Phys. Rev. D</a>, 102, 064057
 - **Shao L**, Wex N, Zhou S-Y, 2020,
-  <a href="https://doi.org/10.1103/PhysRevD.102.024069" style="color: Fuchsia;">Phys. Rev. D</a>, 102, 024069
+  <a href="https://doi.org/10.1103/PhysRevD.102.024069" style="color: #00bfff;">Phys. Rev. D</a>, 102, 024069
 - **Shao L**, 2020,
-  <a href="https://doi.org/10.1103/PhysRevD.101.104019" style="color: Fuchsia;">Phys. Rev. D</a>, 101, 104019
+  <a href="https://doi.org/10.1103/PhysRevD.101.104019" style="color: #00bfff;">Phys. Rev. D</a>, 101, 104019
 - Liu X, Cao Z, **Shao L**, 2020,
-  <a href="https://doi.org/10.1103/PhysRevD.101.044049" style="color: Fuchsia;">Phys. Rev. D</a>, 101, 044049
+  <a href="https://doi.org/10.1103/PhysRevD.101.044049" style="color: #00bfff;">Phys. Rev. D</a>, 101, 044049
 - Xu R, Zhao J, **Shao L**, 2020,
-  <a href="https://doi.org/10.1016/j.physletb.2020.135283" style="color: Fuchsia;">Phys. Lett. B</a>, 803, 135283
+  <a href="https://doi.org/10.1016/j.physletb.2020.135283" style="color: #00bfff;">Phys. Lett. B</a>, 803, 135283
 - Weltman A, Bull P, Camera S, Kelley K, Padmanabhan H, Pritchard J, Raccanelli A, Riemer-Sørensen S, **Shao L**, *et al.*, 2020,
-  <a href="https://doi.org/10.1017/pasa.2019.42" style="color: Fuchsia;">PASA</a>, 37, e002
+  <a href="https://doi.org/10.1017/pasa.2019.42" style="color: #00bfff;">PASA</a>, 37, e002
 - Xiao Z, **Shao L**, 2020,
-  <a href="https://doi.org/10.1088/1361-6471/ab8c30" style="color: Fuchsia;">J. Phys. G</a>, 47, 085002
+  <a href="https://doi.org/10.1088/1361-6471/ab8c30" style="color: #00bfff;">J. Phys. G</a>, 47, 085002
 - Zhang F, **Shao L**, Zhu W, 2019,
-  <a href="https://doi.org/10.3847/1538-4357/ab1b28" style="color: Fuchsia;">ApJ</a>, 877, 87
+  <a href="https://doi.org/10.3847/1538-4357/ab1b28" style="color: #00bfff;">ApJ</a>, 877, 87
 - Sun B, Cao Z, **Shao L**, 2019,
-  <a href="https://doi.org/10.1103/PhysRevD.100.084030" style="color: Fuchsia;">Phys. Rev. D</a>, 100, 084030
+  <a href="https://doi.org/10.1103/PhysRevD.100.084030" style="color: #00bfff;">Phys. Rev. D</a>, 100, 084030
 - Zhao J, **Shao L**, Cao Z, Ma B-Q, 2019,
-  <a href="https://doi.org/10.1103/PhysRevD.100.064034" style="color: Fuchsia;">Phys. Rev. D</a>, 100, 064034
+  <a href="https://doi.org/10.1103/PhysRevD.100.064034" style="color: #00bfff;">Phys. Rev. D</a>, 100, 064034
 - Caputo A, Sberna L, Frias M, Blas D, Pani P, **Shao L**, Yan W, 2019,
-  <a href="https://doi.org/10.1103/PhysRevD.100.063515" style="color: Fuchsia;">Phys. Rev. D</a>, 100, 063515
+  <a href="https://doi.org/10.1103/PhysRevD.100.063515" style="color: #00bfff;">Phys. Rev. D</a>, 100, 063515
 - Miao X, **Shao L**, Ma B-Q, 2019,
-  <a href="https://doi.org/10.1103/PhysRevD.99.123015" style="color: Fuchsia;">Phys. Rev. D</a>, 99, 123015
+  <a href="https://doi.org/10.1103/PhysRevD.99.123015" style="color: #00bfff;">Phys. Rev. D</a>, 99, 123015
 - **Shao L**, Bailey Q G, 2019, 
-  <a href="https://doi.org/10.1103/PhysRevD.99.084017" style="color: Fuchsia;">Phys. Rev. D</a>, 99, 084017
+  <a href="https://doi.org/10.1103/PhysRevD.99.084017" style="color: #00bfff;">Phys. Rev. D</a>, 99, 084017
 - Gong B P, Li Y P, Yuan J P, Tian J, Zhang Y Y, Li D, Jiang B, Li X D, Wang H G, Zou Y C, **Shao L**, 2018,
-  <a href="https://doi.org/10.3847/1538-4357/aaac34" style="color: Fuchsia;">ApJ</a>, 855, 35
+  <a href="https://doi.org/10.3847/1538-4357/aaac34" style="color: #00bfff;">ApJ</a>, 855, 35
 - Wu Y W, Torricelli-Ciamponi G, Massi M, Reid R J, Zhang B, **Shao L**, Zheng X W, 2018,
-  <a href="https://doi.org/10.1093/mnras/stx3003" style="color: Fuchsia;">MNRAS</a>, 474, 4245
+  <a href="https://doi.org/10.1093/mnras/stx3003" style="color: #00bfff;">MNRAS</a>, 474, 4245
 - **Shao L**, Wex N, Kramer M, 2018,
-  <a href="https://doi.org/10.1103/PhysRevLett.120.241104" style="color: Fuchsia;">Phys. Rev. Lett.</a>, 120, 241104
+  <a href="https://doi.org/10.1103/PhysRevLett.120.241104" style="color: #00bfff;">Phys. Rev. Lett.</a>, 120, 241104
 - **Shao L**, Bailey Q G, 2018,
-  <a href="https://doi.org/10.1103/PhysRevD.98.084049" style="color: Fuchsia;">Phys. Rev. D</a>, 98, 084049
+  <a href="https://doi.org/10.1103/PhysRevD.98.084049" style="color: #00bfff;">Phys. Rev. D</a>, 98, 084049
 - **Shao L**, Sennett N, Buonanno A, Kramer M, Wex N, 2017,
-  <a href="https://doi.org/10.1103/PhysRevX.7.041025" style="color: Fuchsia;">Phys. Rev. X</a>, 7, 041025
+  <a href="https://doi.org/10.1103/PhysRevX.7.041025" style="color: #00bfff;">Phys. Rev. X</a>, 7, 041025
 - **Shao L**, Zhang B, 2017,
-  <a href="https://doi.org/10.1103/PhysRevD.95.123010" style="color: Fuchsia;">Phys. Rev. D</a>, 95, 123010
+  <a href="https://doi.org/10.1103/PhysRevD.95.123010" style="color: #00bfff;">Phys. Rev. D</a>, 95, 123010
 - Sennett N, **Shao L**, Steinhoff J, 2017,
-  <a href="https://doi.org/10.1103/PhysRevD.96.084019" style="color: Fuchsia;">Phys. Rev. D</a>, 96, 084019
+  <a href="https://doi.org/10.1103/PhysRevD.96.084019" style="color: #00bfff;">Phys. Rev. D</a>, 96, 084019
 - Bohé A, **Shao L**, Taracchini A, Buonanno A, *et al.*, 2017,
-  <a href="https://doi.org/10.1103/PhysRevD.95.044028" style="color: Fuchsia;">Phys. Rev. D</a>, 95, 044028
+  <a href="https://doi.org/10.1103/PhysRevD.95.044028" style="color: #00bfff;">Phys. Rev. D</a>, 95, 044028
 - **Shao L**, 2017,
-  <a href="https://doi.org/10.1088/1361-6382/aa8124" style="color: Fuchsia;">Class. Quantum Grav.</a>, 34, 175011
+  <a href="https://doi.org/10.1088/1361-6382/aa8124" style="color: #00bfff;">Class. Quantum Grav.</a>, 34, 175011
 - **Shao L**, 2016,
-  <a href="https://doi.org/10.1103/PhysRevD.93.084023" style="color: Fuchsia;">Phys. Rev. D</a>, 93, 084023
+  <a href="https://doi.org/10.1103/PhysRevD.93.084023" style="color: #00bfff;">Phys. Rev. D</a>, 93, 084023
 - **Shao L**, Stairs I H, *et al.*, 2015,
-  <a href="https://doi.org/10.22323/1.215.0042" style="color: Fuchsia;">PoS</a>, AASKA14, 037
+  <a href="https://doi.org/10.22323/1.215.0042" style="color: #00bfff;">PoS</a>, AASKA14, 037
 - **Shao L**, 2014,
-  <a href="https://doi.org/10.1103/PhysRevLett.112.111103" style="color: Fuchsia;">Phys. Rev. Lett.</a>, 112, 111103
+  <a href="https://doi.org/10.1103/PhysRevLett.112.111103" style="color: #00bfff;">Phys. Rev. Lett.</a>, 112, 111103
 - **Shao L**, 2014,
-  <a href="https://doi.org/10.1103/PhysRevD.90.122009" style="color: Fuchsia;">Phys. Rev. D</a>, 90, 122009
+  <a href="https://doi.org/10.1103/PhysRevD.90.122009" style="color: #00bfff;">Phys. Rev. D</a>, 90, 122009
 - **Shao L**, Wex N, 2013,
-  <a href="https://doi.org/10.1088/0264-9381/30/16/165020" style="color: Fuchsia;">Class. Quantum Grav.</a>, 30, 165020
+  <a href="https://doi.org/10.1088/0264-9381/30/16/165020" style="color: #00bfff;">Class. Quantum Grav.</a>, 30, 165020
 - **Shao L**, Caballero R N, Kramer M, Wex N, Champion D J, Jessner A, 2013,
-  <a href="https://doi.org/10.1088/0264-9381/30/16/165019" style="color: Fuchsia;">Class. Quantum Grav.</a>, 30, 165019
+  <a href="https://doi.org/10.1088/0264-9381/30/16/165019" style="color: #00bfff;">Class. Quantum Grav.</a>, 30, 165019
 - **Shao L**, Wex N, 2012,
-  <a href="https://doi.org/10.1088/0264-9381/29/21/215018" style="color: Fuchsia;">Class. Quantum Grav.</a>, 29, 215018
+  <a href="https://doi.org/10.1088/0264-9381/29/21/215018" style="color: #00bfff;">Class. Quantum Grav.</a>, 29, 215018
 - **Shao L**, Ma B-Q, 2011,
-  <a href="https://doi.org/10.1103/PhysRevD.83.127702" style="color: Fuchsia;">Phys. Rev. D</a>, 83, 127702
+  <a href="https://doi.org/10.1103/PhysRevD.83.127702" style="color: #00bfff;">Phys. Rev. D</a>, 83, 127702
 - Zhang X, **Shao L**, Ma B-Q, 2011,
-  <a href="https://doi.org/10.1016/j.astropartphys.2011.03.001" style="color: Fuchsia;">Astropart. Phys.</a>, 34, 840
+  <a href="https://doi.org/10.1016/j.astropartphys.2011.03.001" style="color: #00bfff;">Astropart. Phys.</a>, 34, 840
 - **Shao L**, Ma B-Q, 2010,
-  <a href="https://doi.org/10.1103/PhysRevE.82.041110" style="color: Fuchsia;">Phys. Rev. E</a>, 82, 041110
+  <a href="https://doi.org/10.1103/PhysRevE.82.041110" style="color: #00bfff;">Phys. Rev. E</a>, 82, 041110
 - **Shao L**, Ma B-Q, 2010,
-  <a href="https://doi.org/10.1016/j.physletb.2010.02.049" style="color: Fuchsia;">Phys. Lett. B</a>, 686, 136
+  <a href="https://doi.org/10.1016/j.physletb.2010.02.049" style="color: #00bfff;">Phys. Lett. B</a>, 686, 136
 - Xiao Z, **Shao L**, Ma B-Q, 2010,
-  <a href="https://doi.org/10.1140/epjc/s10052-010-1502-4" style="color: Fuchsia;">Eur. Phys. J. C</a>, 70, 1153
+  <a href="https://doi.org/10.1140/epjc/s10052-010-1502-4" style="color: #00bfff;">Eur. Phys. J. C</a>, 70, 1153
 - **Shao L**, Xiao Z, Ma B-Q, 2010,
-  <a href="https://doi.org/10.1016/j.astropartphys.2010.03.003" style="color: Fuchsia;">Astropart. Phys.</a>, 33, 312
+  <a href="https://doi.org/10.1016/j.astropartphys.2010.03.003" style="color: #00bfff;">Astropart. Phys.</a>, 33, 312
 - **Shao L**, Ma B-Q, 2010,
-  <a href="https://doi.org/10.1016/j.astropartphys.2010.02.003" style="color: Fuchsia;">Astropart. Phys.</a>, 33, 255
+  <a href="https://doi.org/10.1016/j.astropartphys.2010.02.003" style="color: #00bfff;">Astropart. Phys.</a>, 33, 255
 - Zhang Y, **Shao L**, Ma B-Q, 2009,
-  <a href="https://doi.org/10.1016/j.physletb.2008.11.033" style="color: Fuchsia;">Phys. Lett. B</a>, 671, 30
+  <a href="https://doi.org/10.1016/j.physletb.2008.11.033" style="color: #00bfff;">Phys. Lett. B</a>, 671, 30
 - Zhang Y, **Shao L**, Ma B-Q, 2009,
-  <a href="https://doi.org/10.1016/j.nuclphysa.2009.07.006" style="color: Fuchsia;">Nucl. Phys. A</a>, 828, 390
+  <a href="https://doi.org/10.1016/j.nuclphysa.2009.07.006" style="color: #00bfff;">Nucl. Phys. A</a>, 828, 390
 
 <!-- ### **Selected First-author/Corresponding-author Papers**
 
