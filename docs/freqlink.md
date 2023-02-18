@@ -67,6 +67,7 @@ layout: default
  ([Account](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=12137),
   [Committee](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA/KSC#committees), 
   [Maillist](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=12150),
+  [System-B](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=14750),
   [wiki](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA#links))  
 
 **Collections**

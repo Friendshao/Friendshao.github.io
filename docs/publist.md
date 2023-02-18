@@ -38,19 +38,9 @@ following an X-ray outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1),
 submitted
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-subsolar-mass black hole binaries in the second part of Advanced LIGO's and
-Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477),
-arXiv:2212.01477
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
-
-0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
-in light of Event Horizon Telescope observations](https://arxiv.org/abs/2302.05671),
-arXiv:2302.05671
 
 0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
 O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.G. Bailey<font
@@ -72,6 +62,15 @@ arXiv:2203.12038
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+subsolar-mass black hole binaries in the second part of Advanced LIGO's and
+Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
+in light of Event Horizon Telescope observations](https://arxiv.org/abs/2302.05671),
+*Astrophys. J.* (accepted), arXiv:2302.05671
+
 0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
@@ -82,10 +81,6 @@ Rev. D* (accepted), arXiv:2212.09346
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted),
 arXiv:2111.03634
-
-0. T. Akutsu, *et al.* (KAGRA Collaboration), [Input optics systems of the KAGRA
-detector during O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp.
-Phys.* (accepted),  arXiv:2210.05934
 
 0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, R. Balasov, I. Bartos,
 S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L. Blecha, S.
@@ -124,6 +119,10 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Input optics systems of the KAGRA
+detector during O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp.
+Phys.* 2023 (2023) 023F01
 
 0. S. Jorstad<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, M.
 Wielgus<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Lico, S. Issaoun,

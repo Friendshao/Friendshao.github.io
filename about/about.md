@@ -81,7 +81,7 @@ students](https://friendshao.github.io/docs/theses).
 - 2018-present, KAGRA Scientific Collaboration
 - 2018-present, LISA Consortium
 - 2018-present, IAU Individual Member
-- 2018-present, Gravitation and Relativistic Astrophysics, CPS
+- 2018-present, Gravitation and Relativistic Astrophysics, Chinese Physical Society
 - 2020-present, Chinese Astronomical Society
 - 2020-present, Beijing Astronomical Society
 - 2020-present, Cosmic Explorer Consortium
