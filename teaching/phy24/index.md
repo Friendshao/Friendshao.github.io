@@ -74,6 +74,7 @@ tr:nth-child(odd) {
 | **助教** | （单号助教） |
 | | （双号助教） |
 | | 【习题课】 |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](http://pan.pku.edu.cn) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
 
