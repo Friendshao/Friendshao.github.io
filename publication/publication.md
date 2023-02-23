@@ -55,6 +55,8 @@ tr:nth-child(odd) {
   <a href="https://doi.org/10.1093/mnras/stac3546" style="color: #00bfff;">MNRAS</a>, 519, 1080
 - Xu R, Liang D, **Shao L**, 2023, 
   <a href="https://doi.org/10.1103/PhysRevD.107.024011" style="color: #00bfff;">Phys. Rev. D</a>, 107, 024011
+- Liang D, Xu R, Mai Z-F, **Shao L**, 2023, 
+  <a href="https://doi.org/10.1103/PhysRevD.107.044053" style="color: #00bfff;">Phys. Rev. D</a>, 107, 044053
 - Bayle J-B, Bonga B, Caprini C, Doneva D, Muratore M, Petiteau A, Rossi E, **Shao L**, 2022,
   <a href="https://doi.org/10.1038/s41550-022-01847-0" style="color: #00bfff;">Nat. Astron.</a>, 6, 1334
 - **Shao L**, Yagi K, 2022,

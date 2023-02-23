@@ -71,12 +71,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
 in light of Event Horizon Telescope observations](https://arxiv.org/abs/2302.05671),
 *Astrophys. J.* (accepted), arXiv:2302.05671
 
-0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
-with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), *Phys.
-Rev. D* (accepted), arXiv:2212.09346
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted),
@@ -120,6 +114,18 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
 
+0. X. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
+model of eccentric binary black hole based on
+effective-one-body-numerical-relativity for spin-aligned binary black
+holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
+
+0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
+with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), *Phys.
+Rev. D* 107 (2023) 044053
+
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Input optics systems of the KAGRA
 detector during O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp.
 Phys.* 2023 (2023) 023F01
@@ -128,12 +134,6 @@ Phys.* 2023 (2023) 023F01
 Wielgus<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Lico, S. Issaoun,
 *et al.* (EHT Collaboration), [The Event Horizon Telescope image of the quasar
 NRAO 530](https://arxiv.org/abs/2302.04622), *Astrophys. J.* 943 (2023) 170
-
-0. X. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
-model of eccentric binary black hole based on
-effective-one-body-numerical-relativity for spin-aligned binary black
-holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
 
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Wu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y.-P. Yang<font
