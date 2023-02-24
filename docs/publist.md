@@ -42,13 +42,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
-O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.G. Bailey<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
-[Search for anisotropic, birefringent spacetime-symmetry breaking in
-gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
-arXiv:2210.04481
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
 data using independent component analysis](https://arxiv.org/abs/2206.05785),
 arXiv:2206.05785
@@ -61,6 +54,13 @@ arXiv:2203.12038
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
+
+0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
+O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.G. Bailey<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
+[Search for anisotropic, birefringent spacetime-symmetry breaking in
+gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
+*Phys. Rev. D* (accepted), arXiv:2210.04481
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass black hole binaries in the second part of Advanced LIGO's and
