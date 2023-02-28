@@ -184,7 +184,7 @@ tr:nth-child(odd) {
 - **Shao L**, 2016,
   <a href="https://doi.org/10.1103/PhysRevD.93.084023" style="color: #00bfff;">Phys. Rev. D</a>, 93, 084023
 - **Shao L**, Stairs I H, *et al.*, 2015,
-  <a href="https://doi.org/10.22323/1.215.0042" style="color: #00bfff;">PoS</a>, AASKA14, 037
+  <a href="https://doi.org/10.22323/1.215.0042" style="color: #00bfff;">PoS</a>, AASKA14, 042
 - **Shao L**, 2014,
   <a href="https://doi.org/10.1103/PhysRevLett.112.111103" style="color: #00bfff;">Phys. Rev. Lett.</a>, 112, 111103
 - **Shao L**, 2014,
