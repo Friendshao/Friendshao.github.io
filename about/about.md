@@ -109,11 +109,11 @@ students](https://friendshao.github.io/docs/theses).
 
 <img src="email.png" width="30"> **Email:** lshao<img src="at.jpg"
 width="20">pku.edu.cn
-
+ 
 <img src="phone.png" width="30"> **Fax:** +86-(0)10-6275-7900
 
-<img src="office.png" width="30"> **Address:** KIAA at Peking University, Yiheyuan Road 5, Haidian District, Beijing 100871, China
+<img src="office.png" width="30"> **Address:** K217, KIAA at Peking University, Beijing 100871, China
 
-<img src="meet.png" width="32"> **Group Meeting:** Sundays 9:00-11:30 AM, KIAA-208
+<img src="meet.png" width="32"> **Group Meeting:** Sundays 9:00-11:30 AM (1st meeting room)
 
 <img src="open.jpg" width="30"> **Office Hours:** Thursdays 14:00-17:00 PM (by appointment)
