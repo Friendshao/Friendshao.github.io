@@ -71,6 +71,8 @@ tr:nth-child(odd) {
 
 <big><big> **Postdoctoral Report**
 
+0. **徐睿**，[替代引力理论中的致密天体](theses/XuRui2.pdf)（北京大学，2023年3月）
+  - <small> Compact Objects in Alternative Theories of Gravity
 0. **徐睿**，[中子星在引力替代理论中的结构](theses/XuRui.pdf)（北京大学，2021年4月）
   - <small> Neutron Star Structure in Alternative Gravitational Theories
 {: reversed="reversed"}
