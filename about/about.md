@@ -26,7 +26,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Elected to the Young Elite Scientists Sponsorship Program (青年人才托举工程) by the [CAST](http://www.cast.org.cn/)
 - [2020 Breakthrough Prize in Fundamental
   Physics](https://friendshao.github.io/docs/breakthrough_Certificate_2020.pdf) awarded to the EHTC (shared by 347 members)
-- World's Top 2% Scientists ([2020](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/2), [2021](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), [2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/5))
+- World's Top 2% Scientists [2020-2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/5)
 
 ### Research Interests
 
@@ -110,10 +110,10 @@ students](https://friendshao.github.io/docs/theses).
 <img src="email.png" width="30"> **Email:** lshao<img src="at.jpg"
 width="20">pku.edu.cn
  
-<img src="phone.png" width="30"> **Fax:** +86-(0)10-6275-7900
+<img src="phone.png" width="30"> **Fax:** +86-(0)10-6275-7900 (secretary)
 
 <img src="office.png" width="30"> **Address:** K217, KIAA at Peking University, Beijing 100871, China
 
 <img src="meet.png" width="32"> **Group Meeting:** Sundays 9:00-11:30 AM (1st meeting room)
 
-<img src="open.jpg" width="30"> **Office Hours:** Thursdays 14:00-17:00 PM (by appointment)
+<img src="open.jpg" width="30"> **Office Hours:** Thursdays 14:00-17:00PM and Sundays 13:00-14:30PM (by appointment)
