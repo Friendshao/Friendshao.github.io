@@ -1207,7 +1207,7 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#), X. Miao, **L. Shao**<font
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
 radio pulsars](TBA), in *Recent Progress on Gravity Tests*, in press
 
