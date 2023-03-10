@@ -21,6 +21,11 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Improved bounds on the bosonic dark
+matter with pulsars in the Milky Way](https://arxiv.org/abs/2303.05107),
+arXiv:2303.05107
+
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
