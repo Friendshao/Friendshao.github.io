@@ -130,6 +130,7 @@ tr:nth-child(odd) {
 
 #### 教学奖励
 
+- 2022年，“北京大学本科生科研训练” **优秀指导教师奖**
 - 2021年，“北京大学本科生科研训练” **优秀指导教师奖**
 - 2021年，北京大学“**教学优秀奖**” [[公告](https://portal.pku.edu.cn/portal2017/#/schoolNoticeDetail/393840)]
 - 2020年，北京大学“第二十届青年教师教学基本功比赛”理工类**一等奖（第一名）**，并获得“**优秀教案奖**”、“**最佳教学演示奖**”和“**最受学生欢迎奖**” [[北大新闻网](https://news.pku.edu.cn/xwzh/0f1e21b1407d4b8c8e96903a5adcddd4.htm)、[北大工会](https://gh.pku.edu.cn/jczz/jxsw/lxb/wlxygk/925665.htm)]
