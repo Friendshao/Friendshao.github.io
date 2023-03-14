@@ -60,13 +60,6 @@ arXiv:2203.12038
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 
-0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
-O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.G. Bailey<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
-[Search for anisotropic, birefringent spacetime-symmetry breaking in
-gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
-*Phys. Rev. D* (accepted), arXiv:2210.04481
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass black hole binaries in the second part of Advanced LIGO's and
 Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
@@ -124,6 +117,13 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
 model of eccentric binary black hole based on
 effective-one-body-numerical-relativity for spin-aligned binary black
 holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
+
+0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
+O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.G. Bailey<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J.D. Tasson, M. Bloom, **L. Shao**,
+[Search for anisotropic, birefringent spacetime-symmetry breaking in
+gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
+*Phys. Rev. D* 107 (2023) 064031
 
 0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
