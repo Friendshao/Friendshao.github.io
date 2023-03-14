@@ -53,6 +53,8 @@ tr:nth-child(odd) {
   <a href="https://doi.org/10.3847/1538-4357/aca527" style="color: #00bfff;">ApJ</a>, 942, 88 
 - Gao Y, **Shao L**, Desvignes G, Jones D I, Kramer M, Yim G, 2023,
   <a href="https://doi.org/10.1093/mnras/stac3546" style="color: #00bfff;">MNRAS</a>, 519, 1080
+- Haegel L, O'Neal-Ault K, Bailey Q G, Tasson J, Bloom M, **Shao L**, 2023, 
+  <a href="https://doi.org/10.1103/PhysRevD.107.064031" style="color: #00bfff;">Phys. Rev. D</a>, 107, 064031
 - Xu R, Liang D, **Shao L**, 2023, 
   <a href="https://doi.org/10.1103/PhysRevD.107.024011" style="color: #00bfff;">Phys. Rev. D</a>, 107, 024011
 - Liang D, Xu R, Mai Z-F, **Shao L**, 2023, 
