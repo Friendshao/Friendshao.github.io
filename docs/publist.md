@@ -74,33 +74,6 @@ merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted),
 arXiv:2111.03634
 
-0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, R. Balasov, I. Bartos,
-S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L. Blecha, S.
-Blondin, T. Bogdanović, S. Boissier, M. Bonetti, S. Bonoli, E. Bortolas, K.
-Breivik, P.R. Capelo, L. Caramete, F. Catorini, M. Charisi, S. Chaty, X. Chen,
-M. Chruślińska, A.J.K. Chua, R. Church, M. Colpi, D. D'Orazio, C. Danielski,
-M.B. Davies, P. Dayal, A. De Rosa, A. Derdzinski, K. Destounis, M. Dotti, I.
-Duţan, I. Dvorkin, G. Fabj, T. Foglizzo, S. Ford, J.-B. Fouvry, T. Fragkos, C.
-Fryer, M. Gaspari, D. Gerosa, L. Graziani, P.J. Groot, M. Habouzit, D. Haggard,
-Z. Haiman, W.-B. Han, A. Istrate, P.H. Johansson, F.M. Khan, T. Kimpson, K.
-Kokkotas, A. Kong, V. Korol, K. Kremer, T. Kupfer, A. Lamberts, S. Larson, M.
-Lau, D. Liu, N. Lloyd-Ronning, G. Lodato, A. Lupi, C.-P. Ma, T. Maccarone, I.
-Mandel, A. Mangiagli, M. Mapelli, S. Mathis, L. Mayer, S. McGee, B. McKernan,
-M.C. Miller, D.F. Mota, M. Mumpower, S.S. Nasim, G. Nelemans, S. Noble, F.
-Pacucci, F. Panessa, V. Paschalidis, H. Pfister, D. Porquet, J. Quenby, F.
-Röpke, J. Regan, S. Rosswog, A. Ruiter, M. Ruiz, J. Runnoe, R. Schneider, J.
-Schnittman, A. Secunda, A. Sesana, N. Seto, **L. Shao**, S. Shapiro, C.
-Sopuerta, N. Stone, A. Suvorov, N. Tamanini, T. Tamfal, T. Tauris, K. Temmink,
-J. Tomsick, S. Toonen, A. Torres-Orjuela, M. Toscani, A. Tsokaros, C.  Unal, V.
-Vázquez-Aceves, R. Valiante, M. van Putten, J. van Roestel, C.  Vignali, M.
-Volonteri, K. Wu, Z. Younsi, S. Yu, S. Zane, L. Zwick, F. Antonini, V. Baibhav,
-E. Barausse, A.B. Rivera, M. Branchesi, G. Branduardi-Raymont, K.  Burdge, S.
-Chakraborty, J. Cuadra, K. Dage, B. Davis, S.E. de Mink, R. Decarli, D. Doneva,
-S.  Escoffier, P. Gandhi, F. Haardt, C.O. Lousto, S. Nissanke, J.  Nordhaus, R.
-O'Shaughnessy, S.P. Zwart, A. Pound, F. Schussler, O. Sergijenko, A. Spallicci,
-D. Vernieri, A. Vigna-Gómez, [Astrophysics with the Laser Interferometer Space
-Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
@@ -117,6 +90,34 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
 model of eccentric binary black hole based on
 effective-one-body-numerical-relativity for spin-aligned binary black
 holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
+
+0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, Q. Baghi, R. Balasov,
+I. Bartos, S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L.
+Blecha, S.  Blondin, T. Bogdanović, S. Boissier, M. Bonetti, S. Bonoli, E.
+Bortolas, K.  Breivik, P.R. Capelo, L. Caramete, F. Catorini, M. Charisi, S.
+Chaty, X. Chen, M. Chruślińska, A.J.K. Chua, R. Church, M. Colpi, D. D'Orazio,
+C. Danielski, M.B. Davies, P. Dayal, A. De Rosa, A. Derdzinski, K. Destounis, M.
+Dotti, I.  Duţan, I. Dvorkin, G. Fabj, T. Foglizzo, S. Ford, J.-B. Fouvry, A.
+Franchini, T. Fragos, C.  Fryer, M. Gaspari, D. Gerosa, L. Graziani, P.J. Groot,
+M. Habouzit, D. Haggard, Z. Haiman, W.-B. Han, A. Istrate, P.H. Johansson, F.M.
+Khan, T. Kimpson, K.  Kokkotas, A. Kong, V. Korol, K. Kremer, T. Kupfer, A.
+Lamberts, S. Larson, M.  Lau, D. Liu, N. Lloyd-Ronning, G. Lodato, A. Lupi,
+C.-P. Ma, T. Maccarone, I.  Mandel, A. Mangiagli, M. Mapelli, S. Mathis, L.
+Mayer, S. McGee, B. McKernan, M.C. Miller, D.F. Mota, M. Mumpower, S.S. Nasim,
+G. Nelemans, S. Noble, F.  Pacucci, F. Panessa, V. Paschalidis, H. Pfister, D.
+Porquet, J. Quenby, A. Ricarte, F.K.  Röpke, J. Regan, S. Rosswog, A. Ruiter, M.
+Ruiz, J. Runnoe, R. Schneider, J.  Schnittman, A. Secunda, A. Sesana, N. Seto,
+**L. Shao**, S. Shapiro, C.  Sopuerta, N.C. Stone, A. Suvorov, N. Tamanini, T.
+Tamfal, T. Tauris, K. Temmink, J. Tomsick, S. Toonen, A. Torres-Orjuela, M.
+Toscani, A. Tsokaros, C.  Unal, V.  Vázquez-Aceves, R. Valiante, M. van Putten,
+J. van Roestel, C.  Vignali, M.  Volonteri, K. Wu, Z. Younsi, S. Yu, S. Zane, L.
+Zwick, F. Antonini, V. Baibhav, E. Barausse, A.B. Rivera, M. Branchesi, G.
+Branduardi-Raymont, K.  Burdge, S.  Chakraborty, J. Cuadra, K. Dage, B. Davis,
+S.E. de Mink, R. Decarli, D. Doneva, S.  Escoffier, P. Gandhi, F. Haardt, C.O.
+Lousto, S. Nissanke, J.  Nordhaus, R.  O'Shaughnessy, S.P. Zwart, A. Pound, F.
+Schussler, O. Sergijenko, A. Spallicci, D. Vernieri, A. Vigna-Gómez,
+[Astrophysics with the Laser Interferometer Space
+Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
 
 0. L. Haegel<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K.
 O'Neal-Ault<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.G. Bailey<font
