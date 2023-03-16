@@ -44,8 +44,8 @@ tr:nth-child(odd) {
 
 ### **Metrics**
 
-- [**All Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary): 40,000+ citations with $H=70$ 
-- [**Short-author-list Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true): 3,000+ citations with $H=29$
+- [**All Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary): $40000+$ citations with $H=70$ 
+- [**Short-author-list Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true): $3000+$ citations with $H=29$
 
 ### **Short-author-list Papers** <small><small>(incomplete)
 
