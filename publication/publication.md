@@ -49,6 +49,8 @@ tr:nth-child(odd) {
 
 ### **Short-author-list Papers** <small><small>(incomplete)
 
+- Xu R, Liang D, **Shao L**, 2023,
+  <a href="https://doi.org/10.3847/1538-4357/acbdfb" style="color: #00bfff;">ApJ</a>, 945, 148 
 - Zhu J-P, Wu S, Yang Y-P, Liu C, Zhang B, Song H-R, Gao H, Cao Z, Yu Y-W, Kang Y, **Shao L**, 2023, 
   <a href="https://doi.org/10.3847/1538-4357/aca527" style="color: #00bfff;">ApJ</a>, 942, 88 
 - Gao Y, **Shao L**, Desvignes G, Jones D I, Kramer M, Yim G, 2023,
