@@ -64,11 +64,6 @@ third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 subsolar-mass black hole binaries in the second part of Advanced LIGO's and
 Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
 
-0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
-in light of Event Horizon Telescope observations](https://arxiv.org/abs/2302.05671),
-*Astrophys. J.* (accepted), arXiv:2302.05671
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
 merging compact binaries inferred using gravitational waves through
 GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted),
@@ -90,6 +85,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
 model of eccentric binary black hole based on
 effective-one-body-numerical-relativity for spin-aligned binary black
 holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
+in light of Event Horizon Telescope observations](https://arxiv.org/abs/2302.05671),
+*Astrophys. J.* 945 (2023) 148
 
 0. P. Amaro-Seoane, J. Andrews, M. Arca Sedda, A. Askar, Q. Baghi, R. Balasov,
 I. Bartos, S.S. Bavera, J. Bellovary, C.P.L. Berry, E. Berti, S. Bianchi, L.
