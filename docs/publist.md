@@ -1224,7 +1224,8 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
-radio pulsars](TBA), in *Recent Progress on Gravity Tests*, in press
+radio pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
+Tests*, in press
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
 relativistic gravity with radio timing of neutron stars](TBA), in
