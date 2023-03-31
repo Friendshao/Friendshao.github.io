@@ -73,11 +73,6 @@ EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys. J.* (accepted)
 subsolar-mass black hole binaries in the second part of Advanced LIGO's and
 Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
-merging compact binaries inferred using gravitational waves through
-GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted),
-arXiv:2111.03634
-
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
@@ -94,6 +89,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
 model of eccentric binary black hole based on
 effective-one-body-numerical-relativity for spin-aligned binary black
 holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The population of
+merging compact binaries inferred using gravitational waves through
+GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* 13 (2023) 011048
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
