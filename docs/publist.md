@@ -52,10 +52,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
-data using independent component analysis](https://arxiv.org/abs/2206.05785),
-arXiv:2206.05785
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
 for gravitational waves associated with fast radio bursts detected by CHIME/FRB
 during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
@@ -83,6 +79,9 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
+data using independent component analysis](https://arxiv.org/abs/2206.05785), *Class. Quantum Grav.* 40 (2023) 085015
 
 0. X. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
