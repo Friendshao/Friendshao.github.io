@@ -59,6 +59,7 @@ students](https://friendshao.github.io/docs/theses).
 
 | &nbsp; &nbsp; 广义相对论与天体物理 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
 | &nbsp; &nbsp; 理论力学 (A) | Theoretical Mechanics (A) |
+| &nbsp; &nbsp; 电动力学 (A) | Electrodynamics (A)  |
 | &nbsp; &nbsp; 电动力学 (B) | Electrodynamics (B)  |
 | &nbsp; &nbsp; 普通物理 (I) | General Physics (I) <font color="gray"><small><small> *** including Mechanics & Electromagnetism</small></small></font> |
 | &nbsp; &nbsp; 普通物理 (II) | General Physics (II) <font color="gray"><small><small> *** including Thermal Physics, Optics, & Modern Physics</small></small></font> |
