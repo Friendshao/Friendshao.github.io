@@ -72,8 +72,8 @@ advanced undergraduates) with *Science & Engineering* background.
 | **Lecturer** | Lijing Shao (邵立晶) | 
 | | Office KIAA-217; lshao@pku.edu.cn; 010-62758461 | 
 | | 【答疑时间】每周日14:00-15:00PM（建议来前电话联系，以免空跑） | 
-| **Teaching Assistant** | 胡泽昕 |
-| <font color="red"><b>网盘链接</b></font> | [猛戳这里](http://pan.pku.edu.cn) （倘若打开有误，请尝试重新刷新） |
+| **Teaching Assistant** | 姬佩祥，2201110290@stu.pku.edu.cn |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/ACC50A67C6A3193CE28663B4F5D546D5) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
 
