@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 227)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 229)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y.-H. I. Yin<font color="#5c5c5c"><sup>(#)</sup></font>, B.-B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
+Shao**, Y.-H. Yang, B. Zhang, [GRB 211211A-like events and how gravitational
+waves may tell their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
@@ -60,6 +65,11 @@ arXiv:2203.12038
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
+
+0. M. Yuan, W. Zhu, M. Kramer, B. Peng, J. Lu, R. Xu, **L. Shao**, H.-G. Wang,
+L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D. Li, C.
+Zhang, D. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
+[High magnetosphere altitude emissions from two pulsars](TBA), *Astrophys. J.* (accepted), arXiv:TBA
 
 0. B.S. Prather<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Comparison of polarized radiative transfer codes used by the
