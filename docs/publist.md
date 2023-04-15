@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 229)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 230)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
+harmonics in gravitational-wave parameter estimation and cosmological
+implications for LISA](TBA), submitted
 
 0. Y.-H. I. Yin<font color="#5c5c5c"><sup>(#)</sup></font>, B.-B. Zhang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
@@ -291,18 +296,18 @@ Shao**, C.F. Sopuerta, T.P. Sotiriou, N. Stergioulas, N. Tamanini, F. Vernizzi,
 H.  Witek, K. Wu, K. Yagi, S. Yazadjiev, N. Yunes, M. Zilhao, N. Afshordi, M.-C.
 Angonin, V. Baibhav, E. Barausse, T. Barreiro, N. Bartolo, N. Bellomo, I.
 Ben-Dayan, E.A. Bergshoeff, S. Bernuzzi, D. Bertacca, S. Bhagwat, B. Bonga, L.M.
-Burko, G. Compere, G. Cusin, A.d. Silva, S. Das, C.d. Rham, K. Destounis, E.
+Burko, G. Compere, G. Cusin, A. da Silva, S. Das, C.de Rham, K. Destounis, E.
 Dimastrogiovanni, F. Duque, R. Easther, H. Farmer, M. Fasiello, S. Fisenko, K.
 Fransen, J. Frauendiener, J. Gair, L.A. Gergely, D. Gerosa, L. Gualtieri, W.-B.
 Han, A. Hees, T. Helfer, J. Hennig, A.C. Jenkins, E. Kajfasz, N. Kaloper, V.
-Karas, B.J.K. , S.A. Klioner, S.M. Koushiappas, M. Lagos, C.L. Poncin-Lafitte,
-F.S.N. Lobo, C. Markakis, P. Martin-Moruno, C. Martins, S. Matarrese, D.R.
-Mayerson, J.P. Mimoso, J. Noller, N.J. Nunes, R. Oliveri, G. Orlando, G. Pappas,
-I. Pikovski, L. Pilo, J. Podolsky, G. Pratten, T. Prokopec, H. Qi, S. Rastgoo,
-A. Ricciardone, R. Rollo, D. Rubiera-Garcia, O. Sergijenko, S. Shapiro, D.
-Shoemaker, A. Spallicci, O. Stashko, L.C. Stein, G. Tasinato, A.J. Tolley, E.C.
-Vagenas, S. Vandoren, D. Vernieri, R. Vicente, T. Wiseman, V.I. Zhdanov, M.
-Zumalacárregui, [New horizons for fundamental physics with
+Karas, B.J. Kavanagh, S.A. Klioner, S.M. Koushiappas, M. Lagos, C.L.
+Poncin-Lafitte, F.S.N. Lobo, C. Markakis, P. Martin-Moruno, C. Martins, S.
+Matarrese, D.R.  Mayerson, J.P. Mimoso, J. Noller, N.J. Nunes, R. Oliveri, G.
+Orlando, G. Pappas, I. Pikovski, L. Pilo, J. Podolsky, G. Pratten, T. Prokopec,
+H. Qi, S. Rastgoo, A. Ricciardone, R. Rollo, D. Rubiera-Garcia, O. Sergijenko,
+S. Shapiro, D.  Shoemaker, A. Spallicci, O. Stashko, L.C. Stein, G. Tasinato,
+A.J. Tolley, E.C.  Vagenas, S. Vandoren, D. Vernieri, R. Vicente, T. Wiseman,
+V.I. Zhdanov, M.  Zumalacárregui, [New horizons for fundamental physics with
 LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* 25 (2022) 4
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
