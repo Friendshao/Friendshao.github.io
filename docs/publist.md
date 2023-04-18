@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 232)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 233)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+gravitational-lensing signatures in the full third observing run of the
+LIGO-Virgo network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 
 0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [On the
