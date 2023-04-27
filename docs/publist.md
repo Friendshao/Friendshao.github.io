@@ -85,10 +85,15 @@ arXiv:2203.12038
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 
-0. M. Yuan, W. Zhu, M. Kramer, B. Peng, J. Lu, R. Xu, **L. Shao**, H.-G. Wang,
-L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D. Li, C.
-Zhang, D. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
-[High magnetosphere altitude emissions from two pulsars](TBA), *Astrophys. J.* (accepted), arXiv:TBA
+0. M. Yuan<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Peng<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Lu, R. Xu, **L. Shao**, H.-G.
+Wang, L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D.
+Li, C.  Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
+[High-altitude magnetospheric  emissions from two
+pulsars](https://doi.org/10.3847/1538-4357/accb9a), *Astrophys. J.* (accepted),
+arXiv:TBA
 
 0. B.S. Prather<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Comparison of polarized radiative transfer codes used by the

@@ -50,7 +50,7 @@ tr:nth-child(odd) {
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
 | 2028 | &#9975; Z. Wang <small>(王子铭)</small><br>&#9975; Y. Dong <small>(董益铭)</small> | | | |
 | 2027 | &#9975; Y. Kang <small>(康亚城)</small><br>&#9975; Z. Hu <small>(胡泽昕)</small><br>&#9975; P. Ji <small>(姬佩祥)</small> | | | |
-| 2025 | | | | &#9975; D. Liang <small>(梁迪聪)</small> |
+| 2026 | | | | &#9975; D. Liang <small>(梁迪聪)</small> |
 | 2024 | &#9975; C. Liu <small>(刘畅)</small><br>&#9975; H. Li <small>(李洪波)</small> | | &#9975; Y. Yang <small>(杨一秋)</small> | &#9975; Z. Lyu <small>(吕振伟)</small><br>&#9975; H. Wang <small>(王海天)</small><br>&#9975; Z. Mai <small>(麦展风)</small><br>&#9975; G. Yim <small>(嚴家榮)</small> |
 | 2023 | &#9975; Y. Gao <small>(高勇)</small> | &#9975; Y. Dong <small>(董益铭)</small><br>&#9975; Z. Wang <small>(王子铭)</small><br>&#9975; H. Gu <small>(顾华鹏)</small> |  &#9975; W. Wang <small>(王伟松)</small><br>	&#9975; W. Hu <small>(胡文瑞)</small><br>	&#9975; L. Zhou <small>(周立杭)</small> | R. Xu <small>(徐睿)</small> |
 | 2022 | S. Kazempour | Y. Kang <small>(康亚城)</small><br>Z. Hu <small>(胡泽昕)</small><br>P. Ji <small>(姬佩祥)</small> |  Z. Wang <small>(王子铭)</small><br>	Y. Dong <small>(董益铭)</small><br>Z. Zhang <small>(张喆戬)</small><br>H. Qi <small>(祁昊洋)</small> | |
