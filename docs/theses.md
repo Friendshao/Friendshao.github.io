@@ -36,6 +36,12 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Thesis**
 
+0. **王子铭**，[重叠引力波信号中参数估计偏倚的剖析](theses/WangZiming.pdf)（北京大学，2023年6月）
+  - <small>Anatomy of Parameter-estimation Biases in Overlapping Gravitational-wave Signals
+0. **董益铭**，[TBA](theses/DongYiming.pdf)（北京大学，2023年6月）
+  - <small>TBA
+0. **顾华鹏**，[TBA](theses/GuHuapeng.pdf)（北京大学，2023年6月）
+  - <small>TBA
 0. **胡泽昕**，[脉冲星-黑洞测时模型的数值实现与参数估计](theses/HuZexin.pdf)（北京大学，2022年6月）
   - <small>Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation
 0. **康亚城**，[双中子星并合事件的多信使预警探测](theses/KangYacheng.pdf)（北京大学，2022年6月）
