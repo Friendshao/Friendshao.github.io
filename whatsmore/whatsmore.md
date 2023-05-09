@@ -81,6 +81,8 @@ tr:nth-child(odd) {
 
 | **ROLE** | **CONFERENCE** |
 | Organizer | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html), July 2-4, 2023, Nanyang China |
+| Session Chair | [Annual Meeting of the Chinese Physical Society, Division of Gravitation and Relativistic Astrophysics](http://cqutp.org/conferences/gr23/), Apr 21-25, 2023, Chongqing China |
+| Organizer | [Mini Workshop on Compact Objects and Gravitational Waves](https://kiaa.pku.edu.cn/info/1026/8907.htm), April 19, 2023, Beijing China |
 | Organizer | [The Postdoc Workshop on Gravitational Waves at KIAA: Fall 2022](https://kiaa.pku.edu.cn/info/1026/8621.htm), October 29, 2022, Beijing China |
 | Session Chair | [FAST/Future Pulsar Symposium 11](https://psr.pku.edu.cn/fps/FPS11/FPS11.html), August 3-5, 2022, Xiangtan China |
 | Organizer, Chair | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022.html), August 1-3, 2022, Xiangtan China |
