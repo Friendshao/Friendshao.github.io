@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 233)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 234)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
+H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
+made of heavy elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
