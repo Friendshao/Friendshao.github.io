@@ -38,8 +38,8 @@ tr:nth-child(odd) {
 
 0. **王子铭**，[重叠引力波信号中参数估计偏倚的剖析](theses/WangZiming.pdf)（北京大学，2023年5月）
   - <small>Anatomy of Parameter-estimation Biases in Overlapping Gravitational-wave Signals
-0. **董益铭**，[TBA](theses/DongYiming.pdf)（北京大学，2023年6月）
-  - <small>TBA
+0. **董益铭**，[标准模型拓展下轴对称中子星的转动惯量](theses/DongYiming.pdf)（北京大学，2023年6月）
+  - <small>Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension
 0. **顾华鹏**，[利用 GWTC-3 和 ET 模拟限制黑洞电荷](theses/GuHuapeng.pdf)（北京大学，2023年5月）
   - <small>Constraints on Black Hole Charge from GWTC-3 and ET Simulation
 0. **胡泽昕**，[脉冲星-黑洞测时模型的数值实现与参数估计](theses/HuZexin.pdf)（北京大学，2022年6月）
