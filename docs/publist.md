@@ -85,14 +85,14 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
-for gravitational waves associated with fast radio bursts detected by CHIME/FRB
-during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
-arXiv:2203.12038
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
+for gravitational waves associated with fast radio bursts detected by CHIME/FRB
+during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
+*Astrophys. J.* (accepted), arXiv:2203.12038
 
 0. M. Yuan<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer<font
