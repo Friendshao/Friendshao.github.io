@@ -66,9 +66,11 @@ tr:nth-child(odd) {
 ### <img src="journal.jpeg" style="height:50px;"> &nbsp;<b>Serving for Academic Journals</b> <small><small>[[Read More](/docs/journal)]</small></small>
 
 | **ROLE** | **JOURNAL** | **TIME** |
-| Advisory Panel Member | [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) | 2020-2022 |
+| Advisory Panel Member | [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) | 2020-present |
 | Executive Board Member | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | 2019-2022 |
 | Editorial Board Member | [Universe](http://www.mdpi.com/journal/universe) | 2018-present |
+| Special Issue Editor | **Results in Physics**: [Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/about/call-for-papers#physics-of-gravitational-waves-developments-in-theory-and-detection) | 2023 |
+| | **Universe**: [Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC) | 2023 |
 | Outstanding Reviewer | [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | [2018](/docs/CQG2018.pdf), [2019](/docs/CQG2019.pdf) |
 | | [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://www.springer.com/journal/11433) | [2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA) |
 | | [Universe](http://www.mdpi.com/journal/universe) | [2018](/docs/Universe2018.pdf) |
