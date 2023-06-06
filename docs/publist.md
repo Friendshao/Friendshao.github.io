@@ -70,10 +70,6 @@ R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [The $g$-mode of neutron stars in pseudo-Newtonian
 gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
-third observing run of LIGO, Virgo, KAGRA and
-GEO](https://arxiv.org/abs/2302.03676), arXiv:2302.03676
-
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, [A freely precessing magnetar
@@ -84,6 +80,11 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
+third observing run of LIGO, Virgo, KAGRA and
+GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.* (accepted),
+arXiv:2302.03676
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
