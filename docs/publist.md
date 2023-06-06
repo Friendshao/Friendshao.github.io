@@ -87,7 +87,8 @@ run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
-third observing run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
+third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
+(accepted), arXiv:2111.03606
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
 for gravitational waves associated with fast radio bursts detected by CHIME/FRB
