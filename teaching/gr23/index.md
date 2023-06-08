@@ -64,7 +64,7 @@ advanced undergraduates) with *Science & Engineering* background.
 ## General Information
 
 | **When** | 周二10-11节（18:40-20:30PM） |
-| **Where** | |
+| **Where** | 二教505 |
 | **Prerequisite** | Mathematics, Theoretical Mechanics, Electrodynamics  |
 | **Textbook** | **俞允强，《广义相对论引论(第二版)》（1997）**
 | **Reference** | Bernard Schutz, *A First Course in General Relativity* (2009) |

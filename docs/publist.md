@@ -21,6 +21,40 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
+Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, D.J. Champion, N. Wex, E.
+Fonseca, C.M. Zhang, J.M.  Yao, M.Y. Xue, J.R. Niu, H.C. Hu, Y.J. Guo,
+[Variability, polarimetry, and timing properties of single pulses from PSR
+J2222$-$0137 using FAST](TBA), submitted
+
+0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Noutsos, G.
+Desvignes, R. Wharton, P. Torne, M. Kramer, R.P. Eatough, R. Karuppusamy, K.
+Liu, **L. Shao**, J. Wongphecauxson, [Rotation measure variations in Galactic
+Centre pulsars](TBA), submitted
+
+0. D. Ayzenberg, R. Brito, S. Britzen, A.E. Broderick, R. Carballo-Rubio, V.
+Cardoso<font color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Chael, Y. Chen, P.
+V. P. Cunha, A. Eichhorn, M. Eubanks, Y. Fang, A. Foschi, C. Fromm, R. Gold, S.
+Hadar, A. Held, J. Houston, M.D. Johnson, P. Natarajan, H. Olivares, D. Palumbo,
+S. Rajendran, R. Roy, Saurabh, **L. Shao**, A. Tamar, P. Tiede, F.H. Vincent, L.
+Visinelli, Z. Wang, M. Wielgus, X. Xue, K. Yakut, H. Yang, Z. Younsi<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Fundamental physics ppportunities
+with the next-generation Event Horizon Telescope](TBA), arXiv:TBA
+
+0. J. Bregman, R. Cen, Y. Chen, W. Cui<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+T. Fang, F. Guo, E. Hodges-Kluck, R.  Huang, L.C. Ho, L. Ji, 
+S. Ji<font color="#5c5c5c"><sup>($\ast$)</sup></font>, X.  Kang, X. Lai, H. Li,
+J. Li, M.  Li, X. Li, Y. Li, Z. Li, G. Liang, H. Liu, W.  Liu, F. Lu, J. Mao, G.
+Ponti, Z.  Qu, C. Shan, **L. Shao**, F. Shi, X. Shu, L.  Sun, M. Sun, H. Tong,
+J. Wang, J.  Wang, Q.D. Wang, S. Wang, T. Wang, W. Wang, Z.  Wang, 
+D. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+H. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+H. Xu, R. Xu, X. Xu, Y.  Xue, H.  Yang, 
+F. Yuan<font color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Zhang, Y.  Zhang, Z.
+Zhang, Y. Zhao, E. Zhou, P. Zhou, [Scientific Objectives of the Hot Universe
+Baryon Surveyor (HUBS) Mission](TBA), arXiv:TBA
+
 0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
 X. Lai, **L. Shao**, W. Wang, S. Xiong, R. Xu, S. Yi, H. Yue, Z. Zhang, [The
 precursor of GRB211211A: a tide-induced giant
