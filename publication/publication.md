@@ -49,6 +49,8 @@ tr:nth-child(odd) {
 
 ### **Short-author-list Papers** <small><small>(incomplete)
 
+- Yuan M, Zhu W, Kramer M, Peng B, Lu J, Xu R, **Shao L**, Wang H-G, *et al*, 2023,
+  <a href="https://doi.org/10.3847/1538-4357/accb9a" style="color: #00bfff;">ApJ</a>, 949, 115 
 - Xu R, Liang D, **Shao L**, 2023,
   <a href="https://doi.org/10.3847/1538-4357/acbdfb" style="color: #00bfff;">ApJ</a>, 945, 148 
 - Zhu J-P, Wu S, Yang Y-P, Liu C, Zhang B, Song H-R, Gao H, Cao Z, Yu Y-W, Kang Y, **Shao L**, 2023, 
@@ -151,7 +153,7 @@ tr:nth-child(odd) {
   <a href="https://doi.org/10.1103/PhysRevD.101.044049" style="color: #00bfff;">Phys. Rev. D</a>, 101, 044049
 - Xu R, Zhao J, **Shao L**, 2020,
   <a href="https://doi.org/10.1016/j.physletb.2020.135283" style="color: #00bfff;">Phys. Lett. B</a>, 803, 135283
-- Weltman A, Bull P, Camera S, Kelley K, Padmanabhan H, Pritchard J, Raccanelli A, Riemer-Sørensen S, **Shao L**, *et al.*, 2020,
+- Weltman A, Bull P, Camera S, Kelley K, Padmanabhan H, Pritchard J, Raccanelli A, Riemer-Sørensen S, **Shao L**, *et al*, 2020,
   <a href="https://doi.org/10.1017/pasa.2019.42" style="color: #00bfff;">PASA</a>, 37, e002
 - Xiao Z, **Shao L**, 2020,
   <a href="https://doi.org/10.1088/1361-6471/ab8c30" style="color: #00bfff;">J. Phys. G</a>, 47, 085002
@@ -181,13 +183,13 @@ tr:nth-child(odd) {
   <a href="https://doi.org/10.1103/PhysRevD.95.123010" style="color: #00bfff;">Phys. Rev. D</a>, 95, 123010
 - Sennett N, **Shao L**, Steinhoff J, 2017,
   <a href="https://doi.org/10.1103/PhysRevD.96.084019" style="color: #00bfff;">Phys. Rev. D</a>, 96, 084019
-- Bohé A, **Shao L**, Taracchini A, Buonanno A, *et al.*, 2017,
+- Bohé A, **Shao L**, Taracchini A, Buonanno A, *et al*, 2017,
   <a href="https://doi.org/10.1103/PhysRevD.95.044028" style="color: #00bfff;">Phys. Rev. D</a>, 95, 044028
 - **Shao L**, 2017,
   <a href="https://doi.org/10.1088/1361-6382/aa8124" style="color: #00bfff;">Class. Quantum Grav.</a>, 34, 175011
 - **Shao L**, 2016,
   <a href="https://doi.org/10.1103/PhysRevD.93.084023" style="color: #00bfff;">Phys. Rev. D</a>, 93, 084023
-- **Shao L**, Stairs I H, *et al.*, 2015,
+- **Shao L**, Stairs I H, *et al*, 2015,
   <a href="https://doi.org/10.22323/1.215.0042" style="color: #00bfff;">PoS</a>, AASKA14, 042
 - **Shao L**, 2014,
   <a href="https://doi.org/10.1103/PhysRevLett.112.111103" style="color: #00bfff;">Phys. Rev. Lett.</a>, 112, 111103

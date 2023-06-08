@@ -96,16 +96,6 @@ for gravitational waves associated with fast radio bursts detected by CHIME/FRB
 during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
 *Astrophys. J.* (accepted), arXiv:2203.12038
 
-0. M. Yuan<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W. Zhu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Peng<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Lu, R. Xu, **L. Shao**, H.-G.
-Wang, L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D.
-Li, C.  Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
-[High-altitude magnetospheric  emissions from two
-pulsars](https://doi.org/10.3847/1538-4357/accb9a), *Astrophys. J.* (accepted),
-arXiv:TBA
-
 0. B.S. Prather<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Comparison of polarized radiative transfer codes used by the
 EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys. J.* (accepted), arXiv:2303.12004
@@ -124,6 +114,15 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. M. Yuan<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Peng<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Lu, R. Xu, **L. Shao**, H.-G.
+Wang, L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D.
+Li, C.  Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
+[High-altitude magnetospheric  emissions from two
+pulsars](https://doi.org/10.3847/1538-4357/accb9a), *Astrophys. J.* 949 (2023) 115
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Noise subtraction from KAGRA O3GK
 data using independent component analysis](https://arxiv.org/abs/2206.05785), *Class. Quantum Grav.* 40 (2023) 085015
