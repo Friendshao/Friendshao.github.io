@@ -108,12 +108,12 @@ Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477), *Mon. N
 during the first joint observation with GEO 600
 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
-cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
+cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* 949 (2023) 76
 
 0. M. Yuan<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer<font
