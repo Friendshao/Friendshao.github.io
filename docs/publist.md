@@ -114,7 +114,7 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 
 0. B.S. Prather<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Comparison of polarized radiative transfer codes used by the
-EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys. J.* 945 (2023) 148
+EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys. J.* 950 (2023) 35
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
 cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* 949 (2023) 76
