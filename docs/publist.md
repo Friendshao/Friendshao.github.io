@@ -100,10 +100,6 @@ for gravitational waves associated with fast radio bursts detected by CHIME/FRB
 during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
 *Astrophys. J.* (accepted), arXiv:2203.12038
 
-0. B.S. Prather<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
-Collaboration), [Comparison of polarized radiative transfer codes used by the
-EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys. J.* (accepted), arXiv:2303.12004
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass black hole binaries in the second part of Advanced LIGO's and
 Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
@@ -115,6 +111,10 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. B.S. Prather<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
+Collaboration), [Comparison of polarized radiative transfer codes used by the
+EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys. J.* 945 (2023) 148
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on the
 cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* 949 (2023) 76
