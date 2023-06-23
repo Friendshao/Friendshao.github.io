@@ -51,7 +51,7 @@ tr:nth-child(odd) {
 | [Physics of the Dark Universe](https://www.journals.elsevier.com/physics-of-the-dark-universe/) | **Reviewer** |
 | [Research](https://spj.sciencemag.org/journals/research/) | **Reviewer** |
 | [Research in Astronomy and Astrophysics](http://iopscience.iop.org/journal/1674-4527) |  **Reviewer** |
-| [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | **Executive Board Member** (2019—2022)<br>**Reviewer** |
+| [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | **Special Editorial Board Member** (2023—2024) <br>**Executive Board Member** (2019—2022)<br>**Reviewer** |
 | [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://link.springer.com/journal/11433) | **Outstanding Reviewer** ([2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA), [2022](https://mp.weixin.qq.com/s/l0tT488ZYP1WjEwD5GlK9w)) | 
 | [Symmetry](http://www.mdpi.com/journal/symmetry) |  **Reviewer** |
 | [Universe](http://www.mdpi.com/journal/universe) | **Editor** (2018—present)<br>**Outstanding Reviewer** ([2018](Universe2018.pdf)) |

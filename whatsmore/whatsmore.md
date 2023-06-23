@@ -68,6 +68,7 @@ tr:nth-child(odd) {
 | **ROLE** | **JOURNAL** | **TIME** |
 | Advisory Panel Member | [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) | 2020-present |
 | Executive Board Member | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | 2019-2022 |
+| Special Editorial Board Member | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | 2023-2024 |
 | Editorial Board Member | [Universe](http://www.mdpi.com/journal/universe) | 2018-present |
 | Special Issue Editor | *Results in Physics*: [Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/about/call-for-papers#physics-of-gravitational-waves-developments-in-theory-and-detection) | 2023 |
 | | *Universe*: [Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC) | 2023 |
