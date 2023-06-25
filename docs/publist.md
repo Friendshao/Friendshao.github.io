@@ -38,11 +38,6 @@ made of heavy elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
 gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 
-0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [On the
-extended thermodynamics of bumblebee black
-holes](https://arxiv.org/abs/2304.08030), arXiv:2304.08030
-
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, J. Zhao, C.
 Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
@@ -84,6 +79,11 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Extended
+thermodynamics of the bumblebee black holes](https://arxiv.org/abs/2304.08030),
+*Phys. Rev. D* (accepted), arXiv:2304.08030
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
 third observing run of LIGO, Virgo, KAGRA and
