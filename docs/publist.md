@@ -80,11 +80,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Extended
-thermodynamics of the bumblebee black holes](https://arxiv.org/abs/2304.08030),
-*Phys. Rev. D* (accepted), arXiv:2304.08030
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
 third observing run of LIGO, Virgo, KAGRA and
 GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.* (accepted),
@@ -111,6 +106,11 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Extended
+thermodynamics of the bumblebee black holes](https://arxiv.org/abs/2304.08030),
+*Phys. Rev. D* 108 (2023) 024004
 
 0. B.S. Prather<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Comparison of polarized radiative transfer codes used by the
