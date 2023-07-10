@@ -24,7 +24,7 @@ layout: default
 0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Noutsos, G.
 Desvignes, R. Wharton, P. Torne, M. Kramer, R.P. Eatough, R. Karuppusamy, K.
 Liu, **L. Shao**, J. Wongphecauxson, [Rotation measure variations in Galactic
-Centre pulsars](TBA), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:TBA
+Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2307.03230
 
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
 **L. Shao**, R. Xu, [Radial and non-radial oscillations of inverted hybrid
