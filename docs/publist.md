@@ -21,11 +21,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Noutsos, G.
-Desvignes, R. Wharton, P. Torne, M. Kramer, R.P. Eatough, R. Karuppusamy, K.
-Liu, **L. Shao**, J. Wongphecauxson, [Rotation measure variations in Galactic
-Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2307.03230
-
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
 **L. Shao**, R. Xu, [Radial and non-radial oscillations of inverted hybrid
 stars](https://arxiv.org/abs/2306.08234), arXiv:2306.08234
@@ -58,11 +53,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
 Shao**, Y.-H. Yang, B. Zhang, [GRB 211211A-like events and how gravitational
 waves may tell their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
 
-0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
-relation between the shape eccentricity and the moment of inertia for rotating
-neutron stars](https://arxiv.org/abs/2303.14130), arXiv:2303.14130
-
 0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Improved bounds on the bosonic dark
 matter with pulsars in the Milky Way](https://arxiv.org/abs/2303.05107),
@@ -84,6 +74,16 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
+relation between the shape eccentricity and the moment of inertia for rotating
+neutron stars](https://arxiv.org/abs/2303.14130), *Astrophys. J.* (accepted), arXiv:2303.14130
+
+0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Noutsos, G.
+Desvignes, R. Wharton, P. Torne, M. Kramer, R.P. Eatough, R. Karuppusamy, K.
+Liu, **L. Shao**, J. Wongphecauxson, [Rotation measure variations in Galactic
+Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2307.03230
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
 third observing run of LIGO, Virgo, KAGRA and
