@@ -69,7 +69,7 @@ students](https://friendshao.github.io/docs/theses).
 
 ### Services
 
-- Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2022)
+- Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2023)
 - Executive Board Member (2019-2022) and Special Editorial Board Member (2023-2024) of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) 
 - [MDPI](https://www.mdpi.com/) Open Science Ambassador (2020-2022)
 - Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) (2018-now)
