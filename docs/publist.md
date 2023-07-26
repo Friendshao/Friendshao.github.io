@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 238)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 239)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Q.G. Bailey<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.S. Gard,
+N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
+electromagnetic, and gravitational waves with spacetime-symmetry
+breaking](https://arxiv.org/abs/2307.13374), arXiv:2307.13374
 
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
 **L. Shao**, R. Xu, [Radial and non-radial oscillations of inverted hybrid
