@@ -58,11 +58,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
 Shao**, Y.-H. Yang, B. Zhang, [GRB 211211A-like events and how gravitational
 waves may tell their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
 
-0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Improved bounds on the bosonic dark
-matter with pulsars in the Milky Way](https://arxiv.org/abs/2303.05107),
-arXiv:2303.05107
-
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
@@ -79,6 +74,11 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Improved bounds on the bosonic dark
+matter with pulsars in the Milky Way](https://arxiv.org/abs/2303.05107), *J.
+Cosmol. Astropart. Phys.* (accepted), arXiv:2303.05107
 
 0. J. Bregman, R. Cen, Y. Chen, W. Cui<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, T. Fang, F. Guo, E. Hodges-Kluck, R.
