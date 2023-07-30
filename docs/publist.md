@@ -103,11 +103,6 @@ Desvignes, R. Wharton, P. Torne, M. Kramer, R.P. Eatough, R. Karuppusamy, K.
 Liu, **L. Shao**, J. Wongphecauxson, [Rotation measure variations in Galactic
 Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2307.03230
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
-third observing run of LIGO, Virgo, KAGRA and
-GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.* (accepted),
-arXiv:2302.03676
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
@@ -129,6 +124,10 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
+third observing run of LIGO, Virgo, KAGRA and
+GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.* 267 (2023) 29
 
 0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Extended
