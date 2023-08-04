@@ -33,11 +33,11 @@ electromagnetic, and gravitational waves with spacetime-symmetry
 breaking](https://arxiv.org/abs/2307.13374), arXiv:2307.13374
 
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
-**L. Shao**, R. Xu, [Radial and non-radial oscillations of inverted hybrid
+**L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
 stars](https://arxiv.org/abs/2306.08234), arXiv:2306.08234
 
 0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
-X. Lai, **L. Shao**, W. Wang, S. Xiong, R. Xu, S. Yi, H. Yue, Z. Zhang, [The
+X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, H. Yue, Z. Zhang, [The
 precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 
@@ -93,7 +93,7 @@ Kang, X. Lai, H. Li, J. Li, M. Li, X. Li, Y.  Li, Z. Li, G. Liang, H. Liu, W.
 Liu, F. Lu, J. Mao, G. Ponti, Z. Qu, C. Shan, **L.  Shao**, F. Shi, X. Shu, L.
 Sun, M. Sun, H. Tong, J. Wang, J. Wang, Q.D. Wang, S.  Wang, T. Wang, W. Wang,
 Z. Wang, D. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Xu, R. Xu, X. Xu, Y. Xue, H.
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Xu, R.-X. Xu, X. Xu, Y. Xue, H.
 Yang, F. Yuan<font color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Zhang, Y.
 Zhang, Z. Zhang, Y. Zhao, E. Zhou, P. Zhou, [Scientific objectives of the Hot
 Universe Baryon Surveyor (HUBS) mission](https://arxiv.org/abs/2307.05672),
@@ -150,7 +150,7 @@ cosmic expansion history from GWTC-3](https://arxiv.org/abs/2111.03604), *Astrop
 0. M. Yuan<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Peng<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Lu, R. Xu, **L. Shao**, H.-G.
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Lu, R.-X. Xu, **L. Shao**, H.-G.
 Wang, L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D.
 Li, C.  Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
 [High-altitude magnetospheric  emissions from two
