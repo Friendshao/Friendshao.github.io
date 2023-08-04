@@ -84,6 +84,7 @@ tr:nth-child(odd) {
 ### <img src="conference.jpeg" style="height:45px;"> &nbsp; <b>Serving for Academic Conferences</b>
 
 | **ROLE** | **CONFERENCE** |
+| Session Chair | MPG-CAS Collaboration Meeting on Low-frequency Gravitational Waves, August 2-5, 2023, Kunming China |
 | Organizer, Session Chair | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html), July 2-4, 2023, Nanyang China |
 | Organizer | [以天之语 解物之道](https://psr.pku.edu.cn/tianyujiewu/index.html), June 26-27, 2023, 香山饭店, Beijing |
 | Session Chair | [Annual Meeting of the Chinese Physical Society, Division of Gravitation and Relativistic Astrophysics](http://cqutp.org/conferences/gr23/), Apr 21-25, 2023, Chongqing China |
