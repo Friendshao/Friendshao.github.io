@@ -104,11 +104,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
 relation between the shape eccentricity and the moment of inertia for rotating
 neutron stars](https://arxiv.org/abs/2303.14130), *Astrophys. J.* (accepted), arXiv:2303.14130
 
-0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Noutsos, G.
-Desvignes, R. Wharton, P. Torne, M. Kramer, R.P. Eatough, R. Karuppusamy, K.
-Liu, **L. Shao**, J. Wongphecauxson, [Rotation measure variations in Galactic
-Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2307.03230
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
@@ -130,6 +125,11 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Noutsos, G.
+Desvignes, R. Wharton, P. Torne, M. Kramer, R.P. Eatough, R. Karuppusamy, K.
+Liu, **L. Shao**, J. Wongphecauxson, [Rotation measure variations in Galactic
+Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon. Not. R. Astron. Soc.* 524 (2023) 2966
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open data from the
 third observing run of LIGO, Virgo, KAGRA and
