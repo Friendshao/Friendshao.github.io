@@ -8,6 +8,10 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Huang, X.-R., **Chen, L.-W.**, 2022, [Supernova neutrinos as a precise probe of nuclear neutron skin](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106l3034H/abstract), PhRvD, 106, 123034
+
+0. **Zhou, E.**, Kiuchi, K., Shibata, M.,  Tsokaros, A.,  Uryu, K., 2022, [Evolution of equal mass binary bare quark stars in full general relativity: Could a supramassive merger remnant experience prompt collapse?](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106j3030Z/abstract), PhRvD, 106, 103030
+
 0. **Lai, X.-Y.**, **Xia, C.-J.**, Xu, R.-X., 2023, [Bulk strong matter: the trinity](https://ui.adsabs.harvard.edu/abs/2023AdPhX...837433L/abstract), AdPhX, 8, 2137433
 
 0. **Li, A.**, 2022, [Can we distinguish quark stars from neutron stars with measurements of global properties?](https://ui.adsabs.harvard.edu/abs/2022EPJWC.26004001L/abstract), 	EPJ Web Conf., 260, 04001
@@ -120,8 +124,6 @@ layout: default
 
 0. Gao, Y., **Shao, L.**, 2021, [Precession of triaxially deformed neutron stars](https://ui.adsabs.harvard.edu/abs/2021AN....342..364G/abstract), AN, 342, 364
 
-0. **Lai, X. Y.**, **Xia, C. J.**, **Yu, Y. W.**, Xu, R. X., 2021, [Merging strangeon stars II: the ejecta and light curves](https://ui.adsabs.harvard.edu/abs/2020arXiv200906165L/abstract), RAA, 10, 250
-
 0. **Shao, L.**, [Pulsar tests of the graviton mass](https://ui.adsabs.harvard.edu/abs/2021AN....342..300S/abstract), AN, 342, 300
 
 0. Wang, L., Hu, J., **Xia, C.-J.**, Xu, J.-F., Peng, G.-X., Xu, R.-X., 2021, [Stable Up-Down Quark Matter Nuggets, Quark Star Crusts, and a New Family of White Dwarfs](https://ui.adsabs.harvard.edu/abs/2021Galax...9...70W/abstract), Galaxies, 9, 70
@@ -141,6 +143,16 @@ layout: default
 
 
 <big><big> **其他标注**
+
+0. Liang, D., Xu, R., Lu, X., **Shao, L.**, 2022, [Polarizations of gravitational waves in the bumblebee gravity model](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106l4019L/abstract), PhRvD, 106, 124019
+
+0. Li, C.-M., Zuo, S.-Y., Zhao, Y.-P., Mu, H.-J., **Huang, Y.-F.**, 2022, [Study of nonstrange quark stars within a modified NJL model](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106k6009L/abstract), PhRvD, 106, 116009
+
+0. Ren, J., Chen, K., Wang, Y., **Dai, Z.-G.**, 2022, [Interacting Kilonovae: Long-lasting Electromagnetic Counterparts to Binary Mergers in the Accretion Disks of Active Galactic Nuclei](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..44R/abstract), ApJL, 940, L44
+
+0. Wu, G.-L., **Yu, Y.-W.**, Li, S.-Z., 2022, [Magnetar Wind-Driven Shock Breakout Emission after Double Neutron Star Mergers: The Effect of the Anisotropy of the Merger Ejecta](https://ui.adsabs.harvard.edu/abs/2022Univ....8..633W/abstract), Univ, 8, 633
+
+0. Xiao, D., Wang, F., **Dai, Z.**, 2022, [Fast Radio Bursts](https://ui.adsabs.harvard.edu/abs/2022hxga.book...28X/abstract), in *Handbook of X-ray and Gamma-ray Astrophysics* (Springer Singapore 2022), p. 1
 
 0. Zhang, L., Luo, J.-J., **Huang, Y.-F.**, Gong, Y.-J., Wu, S., 2022, [Distribution of gamma-ray bursts on the T$_90$-HR plane and their classification revisited](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5770Z/abstract), MNRAS, 517, 5770
 
