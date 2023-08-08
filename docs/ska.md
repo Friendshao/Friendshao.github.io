@@ -8,6 +8,16 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Sun, X., Miao, Z., Sun, B., **Li, A.**, 2023, [Astrophysical Implications on Hyperon Couplings and Hyperon Star Properties with Relativistic Equations of States](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...55S/abstract), ApJ, 942, 55
+
+0. **Tong, H.**, [Discussions on the Nature of GLEAM-X J162759.5-523504.3](https://ui.adsabs.harvard.edu/abs/2023ApJ...943....3T/abstract), ApJ, 943, 3
+
+0. Zhu, Z., **Li, A.**, Liu, T., 2023, [A Bayesian Inference of a Relativistic Mean-field Model of Neutron Star Matter from Observations of NICER and GW170817/AT2017gfo](https://ui.adsabs.harvard.edu/abs/2023ApJ...943..163Z/abstract), ApJ, 943, 163
+
+0. Gao, Y., **Shao, L.**, Desvignes, G., Jones, D. I., Kramer, M., Yim, G., 2023, [Precession of magnetars: dynamical evolutions and modulations on polarized electromagnetic waves](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1080G/abstract), MNRAS, 519, 1080
+
+0. **Li, A.**, Yong, G.-C., Zhang, Y.-X., 2023, [Testing the phase transition parameters inside neutron stars with the production of protons and lambdas in relativistic heavy-ion collisions](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107d3005L/abstract), PhRvD, 107, 043005
+
 0. Huang, X.-R., **Chen, L.-W.**, 2022, [Supernova neutrinos as a precise probe of nuclear neutron skin](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106l3034H/abstract), PhRvD, 106, 123034
 
 0. **Zhou, E.**, Kiuchi, K., Shibata, M.,  Tsokaros, A.,  Uryu, K., 2022, [Evolution of equal mass binary bare quark stars in full general relativity: Could a supramassive merger remnant experience prompt collapse?](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106j3030Z/abstract), PhRvD, 106, 103030
@@ -143,6 +153,19 @@ layout: default
 
 
 <big><big> **其他标注**
+
+
+0. Zhao, Z. Y., Zhang, G. Q., Wang, F. Y., **Dai, Z. G.**, 2023, [Rotation Measure Variations and Reversals of Repeating FRBs in Massive Binary Systems](https://ui.adsabs.harvard.edu/abs/2023ApJ...942..102Z/abstract), ApJ, 942, 102
+
+0. Liu, Z.-N., Wang, W.-Y., Yang, Y.-P., **Dai, Z.-G.**, 2023, [The Statistical Polarization Properties of Coherent Curvature Radiation by Bunches: Application to Fast Radio Burst Repeaters](https://ui.adsabs.harvard.edu/abs/2023ApJ...943...47L/abstract), ApJ, 943, 47
+
+0. Xu, R., Liang, D., **Shao, L.**, 2023, [Static spherical vacuum solutions in the bumblebee gravity model](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107b4011X/abstract), PhRvD, 107, 024011
+
+0. Deng, C., **Huang, Y.-F.**, Xu, F., 2023, [Pseudo-redshifts of Gamma-Ray Bursts Derived from the L-T-E Correlation](https://ui.adsabs.harvard.edu/abs/2023ApJ...943..126D/abstract), ApJ, 943, 126
+
+0. Liang, D., Xu, R., Mai, Z.-F., **Shao, L.**, 2023, [Probing vector hair of black holes with extreme-mass-ratio inspirals](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107d4053L/abstract), PhRvD, 107, 044053
+
+0. Cheng, Q., **Zheng, X.-P.**, Fan, X.-L.**, Huang, X., 2023, [Gravitational Wave Radiation from Newborn Accreting Magnetars](https://ui.adsabs.harvard.edu/abs/2023RAA....23b5001C/abstract), RAA, 23, 025001
 
 0. Liang, D., Xu, R., Lu, X., **Shao, L.**, 2022, [Polarizations of gravitational waves in the bumblebee gravity model](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106l4019L/abstract), PhRvD, 106, 124019
 
