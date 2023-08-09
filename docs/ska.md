@@ -8,6 +8,10 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Luo, Y., Wu, X.-J., Zhang, S.-R., Wang, J.-M., Ho, L. C., **Yuan, Y.-F.**, 2023,  [White dwarf-white dwarf collisions in AGN discs via close encounters](https://doi.org/10.1093/mnras/stad2188), MNRAS,  524, 6015
+
+0. Zhang, S.-R., Luo, Y., Wu, X.-J., Wang, J.-M., Ho, L. C., **Yuan, Y.-F.**, 2023, [Electromagnetic signatures of white dwarf collisions in AGN discs](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..940Z/abstract), MNRAS, 524, 940
+
 0. **Lai, X. Y.**,  Wang, W. H., Yuan, J. P., Lu, R. P., Yue, H., Xu, R. X., 2023, [Pulsar glitch in a strangeon star model - III. The recovery](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.3967L/abstract), MNRAS, 523, 3967
 
 0. Zhu, J., Wang, C., **Xia, C.**, **Zhou, E.**, Ma, Y., 2023, [Probing phase transitions in neutron stars via the crust-core interfacial mode](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107h3023Z/abstract), PhRvD, 107, 083023
