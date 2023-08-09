@@ -8,6 +8,16 @@ layout: default
 
 <big><big> **第一标注**
 
+0. **Lai, X. Y.**,  Wang, W. H., Yuan, J. P., Lu, R. P., Yue, H., Xu, R. X., 2023, [Pulsar glitch in a strangeon star model - III. The recovery](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.3967L/abstract), MNRAS, 523, 3967
+
+0. Zhu, J., Wang, C., **Xia, C.**, **Zhou, E.**, Ma, Y., 2023, [Probing phase transitions in neutron stars via the crust-core interfacial mode](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107h3023Z/abstract), PhRvD, 107, 083023
+
+0. **Xia, C.-J.**, Maruyama, T., Yasutake, N., Tatsumi, T., Zhang, Y., 2023, [Elastic properties of nuclear pasta in a fully three-dimensional geometry](https://ui.adsabs.harvard.edu/abs/2023PhLB..83937769X/abstract), PhLB, 839, 137769
+
+0. Liu, J.-F., Liu, L.-D., **Yu, Y.-W.**, Zhu, J.-P., 2023, [A Population Study of the Radio Emission of Fast Blue Optical Transients](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...35L/abstract), ApJ, 946, 35
+
+0. **Tong, H.**, 2023, [A Note on the Anti-glitch of Magnetar SGR 1935+2154](https://ui.adsabs.harvard.edu/abs/2023RAA....23b5013T/abstract), RAA, 23, 025013
+
 0. Sun, X., Miao, Z., Sun, B., **Li, A.**, 2023, [Astrophysical Implications on Hyperon Couplings and Hyperon Star Properties with Relativistic Equations of States](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...55S/abstract), ApJ, 942, 55
 
 0. **Tong, H.**, [Discussions on the Nature of GLEAM-X J162759.5-523504.3](https://ui.adsabs.harvard.edu/abs/2023ApJ...943....3T/abstract), ApJ, 943, 3
@@ -154,6 +164,47 @@ layout: default
 
 <big><big> **其他标注**
 
+0. Liu, Z.-N., Yuan, Y.-P., Wang, W.-Y., Joseph Zhang, Z., Li, Q.-C., Chen, K., Ren, J., Zhang, B.-B., Li, C.-K., Zhang, S.-N., **Dai, Z.-G.**, 2023, [An X-Ray Burst Associated with FRB 200428 from a Magnetar-asteroid Impact](https://ui.adsabs.harvard.edu/abs/2023RAA....23h5015L/abstract), RAA, 23, 085015 
+
+0. Li, L., Zhong, S.-Q., **Dai, Z.-G.**, 2023, [Photospheric Velocity Evolution of SN 2020bvc: Signature of r-process Nucleosynthesis from a Collapsar](https://ui.adsabs.harvard.edu/abs/2023ApJ...952L..39L/abstract), ApJL, 952, L39
+
+0. Mai, Z.-F., Xu, R., Liang, D., **Shao, L.**, 2023, [Extended thermodynamics of the bumblebee black holes](https://ui.adsabs.harvard.edu/abs/2023PhRvD.108b4004M/abstract), PhRvD, 108, 024004
+
+0. Kurban, A., Zhou, X., Wang, N., **Huang, Y.-F.**, Wang, Y.-B., Nurmamat, N., 2023, [Dynamics of the clumps partially disrupted from a planet around a neutron star](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4265K/abstract), MNRAS, 522, 4265
+
+0. Lan, M.-X., Wu, X.-F., **Dai, Z.-G.**, 2023, [Afterglow Polarizations in a Stratified Medium with Effect of the Equal Arrival Time Surface](https://ui.adsabs.harvard.edu/abs/2023ApJ...952...31L/abstract), ApJ, 952, 31
+
+0. Rusul, A., **Zheng, X.-P.**, 2023, [From the External to the Internal Dynamics of the Neutron Star: The Exotic Braking Indices of PSR B0540-69](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...40R/abstract), ApJ, 951, 40
+
+0. Zhang, Z.-L., **Yu, Y.-W.**, Cao, X.-F., 2023, [Diverse origins for non-repeating fast radio bursts: Rotational radio transient sources and cosmological compact binary merger remnants](https://ui.adsabs.harvard.edu/abs/2023A%26A...675A..66Z/abstract), A&A, 675, A66
+
+0. Cao, Z., Aharonian, F., An, Q., Axikegu, A., Bai, L. X., Bai, Y. X., Bao, Y. W., Bastieri, D., Bi, X. J., Bi, Y. J., Cai, J. T., Cao, Q., Cao, W. Y., Cao, Z., Chang, J., Chang, J. F., Chen, E. S., Chen, L., Chen, L., Chen, L., Chen, M. J., Chen, M. L., Chen, Q. H., Chen, S. H., Chen, S. Z., Chen, T. L., Chen, Y., Cheng, H. L., Cheng, N., Cheng, Y. D., Cui, S. W., Cui, X. H., Cui, Y. D., Dai, B. Z., Dai, H. L., **Dai, Z. G.**, et al., 2023, [A tera-electron volt afterglow from a narrow jet in an extremely bright gamma-ray burst](https://ui.adsabs.harvard.edu/abs/2023Sci...380.1390L/abstract), Sci, 380, 1390
+
+0. Yang, Z., **Chen, L-W.**, 2023, [Bayesian inference of the specific shear and bulk viscosities of the quark-gluon plasma at crossover from ϕ and Ω observables](https://ui.adsabs.harvard.edu/abs/2023PhRvC.107f4910Y/abstract), PhRvC, 107, 064910
+
+0. Wang, F. Y., Wu, Q., **Dai, Z. G.**, 2023, [Repeating Fast Radio Bursts Reveal Memory from Minutes to an Hour](https://ui.adsabs.harvard.edu/abs/2023ApJ...949L..33W/abstract), ApJL, 949, L33
+
+0. Yuan, M., Zhu, W., Kramer, M., Peng, B., Lu, J., Xu, R., **Shao, L.**, Wang, H.-G., Meng, L., Niu, J., Zhao, R., Miao, C., Miao, X., Xue, M., Feng, Y., Wang, P., Li, D., Zhang, C., Champion, D. J., Fonseca, E., Hu, H., Yao, J., Freire, P. C. C., Guo, Y., 2023, [High-altitude Magnetospheric Emissions from Two Pulsars](https://ui.adsabs.harvard.edu/abs/2023ApJ...949..115Y/abstract), ApJ, 949, 115
+
+0. Hu, F.-Y., Cheng, Q., **Zheng, X.-P.**, Wang, J.-Q., Yan, Y.-L., Wang, J.-Y., Luo, T.-Y., 2023, [Probing the Internal Physics of Neutron Stars through the Observed Braking Indices and Magnetic Tilt Angles of Several Young Pulsars](https://ui.adsabs.harvard.edu/abs/2023RAA....23e5020H/abstract), RAA, 23, 055020
+
+0. Chen, K., Ren, J., **Dai, Z.-G.**, 2023, [The Role of Outflow Feedback on Accretion of Compact Objects in Accretion Disk of Active Galactic Nuclei](https://ui.adsabs.harvard.edu/abs/2023ApJ...948..136C/abstract), ApJ, 948, 136
+
+0. Xu, F., **Huang, Y.-F.**, Geng, J.-J., Wu, X.-F., Li, X.-J., Zheng, Z.-B., 2023, [An analytic derivation of the empirical correlations of gamma-ray bursts](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A..20X/abstract), A&A, 673, A20
+
+0. Yang, S., Pi, C., **Zheng, X.**, Weber, F., 2023, [Confronting Strange Stars with Compact-Star Observations and New Physics](https://ui.adsabs.harvard.edu/abs/2023Univ....9..202Y/abstract), Univ, 9, 202
+
+0. Lu, R., Yue, H., **Lai, X.**, Wang, W., Zhang, S., Xu, R., 2023, [Quakes of compact stars](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4289L/abstract), MNRAS, 520, 4289
+
+0. Zhong, S.-Q., Li, L., **Dai, Z.-G.**, 2023, [GRB 211211A: A Neutron Star-White Dwarf Merger?](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L..21Z/abstract), ApJL, 947, L21
+
+0. Ren, J., Wang, Y., Zhang, L.-L., **Dai, Z.-G.**, 2023, [The Possibility of Modeling the Very High Energy Afterglow of GRB 221009A in a Wind Environment](https://ui.adsabs.harvard.edu/abs/2023ApJ...947...53R/abstract), ApJ, 947, 53
+
+0. Wang, J.-S., Li, X., **Dai, Z.**, Wu, X., 2023, [An Intermediate-field Fast Radio Burst Model and the Quasi-periodic Oscillation](https://ui.adsabs.harvard.edu/abs/2023RAA....23c5010W/abstract), RAA, 23, 035010
+
+0. Haegel, L., O'Neal-Ault, K., Bailey, Q. G., Tasson, J. D., Bloom, M., **Shao, L.**, 2023, [Search for anisotropic, birefringent spacetime-symmetry breaking in gravitational wave propagation from GWTC-3](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107f4031H/abstract), PhRvD, 107, 064031
+
+0. Xu, R., Liang, D., **Shao, L.**, 2023, [Bumblebee Black Holes in Light of Event Horizon Telescope Observations](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..148X/abstract), ApJ, 945, 148
 
 0. Zhao, Z. Y., Zhang, G. Q., Wang, F. Y., **Dai, Z. G.**, 2023, [Rotation Measure Variations and Reversals of Repeating FRBs in Massive Binary Systems](https://ui.adsabs.harvard.edu/abs/2023ApJ...942..102Z/abstract), ApJ, 942, 102
 
