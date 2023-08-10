@@ -49,6 +49,8 @@ tr:nth-child(odd) {
 
 ### **Short-author-list Papers** <small><small>(incomplete)
 
+- Liang D, **Shao L**, 2023, 
+  <a href="https://doi.org/10.1088/1475-7516/2023/08/016" style="color: #00bfff;">JCAP</a>, 08, 016
 - Yuan M, Zhu W, Kramer M, Peng B, Lu J, Xu R, **Shao L**, Wang H-G, *et al*, 2023,
   <a href="https://doi.org/10.3847/1538-4357/accb9a" style="color: #00bfff;">ApJ</a>, 949, 115 
 - Xu R, Liang D, **Shao L**, 2023,
