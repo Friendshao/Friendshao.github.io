@@ -96,11 +96,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Improved bounds on the bosonic dark
-matter with pulsars in the Milky Way](https://arxiv.org/abs/2303.05107), *J.
-Cosmol. Astropart. Phys.* (accepted), arXiv:2303.05107
-
 0. J. Bregman, R. Cen, Y. Chen, W. Cui<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, T. Fang, F. Guo, E. Hodges-Kluck, R.
 Huang, L.C. Ho, L. Ji, S. Ji<font color="#5c5c5c"><sup>($\ast$)</sup></font>, X.
@@ -137,9 +132,15 @@ during the first joint observation with GEO 600
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
 
+0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Improved bounds on the bosonic dark
+matter with pulsars in the Milky Way](https://arxiv.org/abs/2303.05107), *J.
+Cosmol. Astropart. Phys.* 08 (2023) 016
+
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 subsolar-mass black hole binaries in the second part of Advanced LIGO's and
-Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* 524 (2023) 5984
+Advanced Virgo's third observing run](https://arxiv.org/abs/2212.01477), *Mon.
+Not. R. Astron. Soc.* 524 (2023) 5984
 
 0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Noutsos, G.
 Desvignes, R. Wharton, P. Torne, M. Kramer, R.P. Eatough, R. Karuppusamy, K.
