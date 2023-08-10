@@ -40,6 +40,8 @@ layout: default
 
 0. **Li, A.**, 2022, [Can we distinguish quark stars from neutron stars with measurements of global properties?](https://ui.adsabs.harvard.edu/abs/2022EPJWC.26004001L/abstract), 	EPJ Web Conf., 260, 04001
 
+0.  You, H.-S.,  **Xia, C.-J.**,  Zhu, X.-M.,   Cheng, P.-H.,   Xu, J.-F.,   Lu, Z.-Y.,   Peng, G.-X., Xu, R.-X., 2022, [Baryon spectra in the framework of an equivparticle model](https://doi.org/10.11804/NuclPhysRev.39.2022111), NuPhR, 39, 302
+
 0. Dong, Y., **Shao, L.**, Hu, Z., Miao, X., Wang, Z., 2022, [Prospects for Constraining the Yukawa Gravity with Pulsars around Sagittarius A*](https://ui.adsabs.harvard.edu/abs/2022arXiv221016130D/abstract), JCAP, 11, 051
 
 0. Li, H.-B., Gao, Y., **Shao, L.**, Xu, R.-X., Xu, R., 2022, [Oscillation modes and gravitational waves from strangeon stars](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.6172L/abstract), MNRAS, 516, 6172
@@ -77,6 +79,8 @@ layout: default
 0. Li, F., Cai, B.-J., Zhou, Y., Jiang, W.-Z., **Chen, L.-W.**, 2022, [Effects of Isoscalar- and Isovector-scalar Meson Mixing on Neutron Star Structure](https://ui.adsabs.harvard.edu/abs/2022ApJ...929..183L/abstract), ApJ, 929, 183
 
 0. Wu, X.-J., **Yuan, Y.-F.**, Kumar, R., Luo, Y., 2022, [Theoretical analysis on pulsar timing of a millisecond pulsar around a binary black hole](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..708W/abstract), MNRAS, 510, 708
+
+0. Miao, Z.-Q., **Xia, C.-J.**, **Lai, X.-Y.**, Maruyama, T., Xu, R.-X., **Zhou, E.-P.**, 2022, [A bag model of matter condensed by the strong interaction](https://ui.adsabs.harvard.edu/abs/2022IJMPE..3150037M/abstract), IJMPE, 31, 2250037
 
 0. **Tong, H.**, Liu, J., Wang, H. G., Yan, Z., 2022, [Three aspects of the radius-to-frequency mapping in fast radio bursts](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.5679T/abstract), MNRAS, 509, 5679
 
@@ -154,6 +158,8 @@ layout: default
 
 0. Li, S.-Z., **Yu, Y.-W.**, Gao, H., Zhang, B., 2021, [The Evolution of a Newborn Millisecond Magnetar with a Propeller-recycling Disk](https://ui.adsabs.harvard.edu/abs/2021ApJ...907...87L/abstract), ApJ, 907, 87
 
+0. 芮星宇, 缪志强, **夏铖君**, 2023, [多信使时代下中子星状态方程的贝叶斯模型选择](https://www.aest.org.cn/CN/10.7538/yzk.2022.youxian.0782), 原子能科学技术, 57, 784
+
 0. 李洪波, **邵立晶**, 徐仁新, 2021, [核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05), 天文学报, 39, 511
 
 0. **俞云伟** 2021, [中子星研究的过往今来](https://doi.org/10.7693/wl20210602), 物理, 50, 371
@@ -227,6 +233,8 @@ layout: default
 0. Li, C.-M., Zuo, S.-Y., Zhao, Y.-P., Mu, H.-J., **Huang, Y.-F.**, 2022, [Study of nonstrange quark stars within a modified NJL model](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106k6009L/abstract), PhRvD, 106, 116009
 
 0. Ren, J., Chen, K., Wang, Y., **Dai, Z.-G.**, 2022, [Interacting Kilonovae: Long-lasting Electromagnetic Counterparts to Binary Mergers in the Accretion Disks of Active Galactic Nuclei](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..44R/abstract), ApJL, 940, L44
+
+0. Xu, J.-F., **Xia, C.-J.**, Lu, Z.-Y., Peng, G.-X., Zhao, Y.-P., 2022, [Symmetry energy of strange quark matter and tidal deformability of strange quark stars](https://link.springer.com/article/10.1007/s41365-022-01130-x), NuST, 33, 143
 
 0. Wu, G.-L., **Yu, Y.-W.**, Li, S.-Z., 2022, [Magnetar Wind-Driven Shock Breakout Emission after Double Neutron Star Mergers: The Effect of the Anisotropy of the Merger Ejecta](https://ui.adsabs.harvard.edu/abs/2022Univ....8..633W/abstract), Univ, 8, 633
 
