@@ -96,19 +96,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. J. Bregman, R. Cen, Y. Chen, W. Cui<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, T. Fang, F. Guo, E. Hodges-Kluck, R.
-Huang, L.C. Ho, L. Ji, S. Ji<font color="#5c5c5c"><sup>($\ast$)</sup></font>, X.
-Kang, X. Lai, H. Li, J. Li, M. Li, X. Li, Y.  Li, Z. Li, G. Liang, H. Liu, W.
-Liu, F. Lu, J. Mao, G. Ponti, Z. Qu, C. Shan, **L.  Shao**, F. Shi, X. Shu, L.
-Sun, M. Sun, H. Tong, J. Wang, J. Wang, Q.D. Wang, S.  Wang, T. Wang, W. Wang,
-Z. Wang, D. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Xu, R.-X. Xu, X. Xu, Y. Xue, H.
-Yang, F. Yuan<font color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Zhang, Y.
-Zhang, Z. Zhang, Y. Zhao, E. Zhou, P. Zhou, [Scientific objectives of the Hot
-Universe Baryon Surveyor (HUBS) mission](https://arxiv.org/abs/2307.05672),
-*Sci. China Phys. Mech. Astron.* (accepted), arXiv:2307.05672
-
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
 relation between the shape eccentricity and the moment of inertia for rotating
@@ -131,6 +118,19 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. J. Bregman, R. Cen, Y. Chen, W. Cui<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, T. Fang, F. Guo, E. Hodges-Kluck, R.
+Huang, L.C. Ho, L. Ji, S. Ji<font color="#5c5c5c"><sup>($\ast$)</sup></font>, X.
+Kang, X. Lai, H. Li, J. Li, M. Li, X. Li, Y.  Li, Z. Li, G. Liang, H. Liu, W.
+Liu, F. Lu, J. Mao, G. Ponti, Z. Qu, C. Shan, **L.  Shao**, F. Shi, X. Shu, L.
+Sun, M. Sun, H. Tong, J. Wang, J. Wang, Q.D. Wang, S.  Wang, T. Wang, W. Wang,
+Z. Wang, D. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Xu, R.-X. Xu, X. Xu, Y. Xue, H.
+Yang, F. Yuan<font color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Zhang, Y.
+Zhang, Z. Zhang, Y. Zhao, E. Zhou, P. Zhou, [Scientific objectives of the Hot
+Universe Baryon Surveyor (HUBS) mission](https://arxiv.org/abs/2307.05672),
+*Sci. China Phys. Mech. Astron.* 66 (2023) 299513
 
 0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Improved bounds on the bosonic dark
