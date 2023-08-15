@@ -74,11 +74,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
 harmonics in gravitational-wave parameter estimation and cosmological
 implications for LISA](TBA), submitted
 
-0. Y.-H. I. Yin<font color="#5c5c5c"><sup>(#)</sup></font>, B.-B. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
-Shao**, Y.-H. Yang, B. Zhang, [GRB 211211A-like events and how gravitational
-waves may tell their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
-
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
@@ -95,6 +90,12 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. Y.-H. I. Yin<font color="#5c5c5c"><sup>(#)</sup></font>, B.-B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
+Shao**, Y.-H. Yang, B. Zhang, [GRB 211211A-like events and how gravitational
+waves may tell their origin](https://arxiv.org/abs/2304.06581), *Astrophys. J.
+Lett.* (accepted), arXiv:2304.06581
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
