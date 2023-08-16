@@ -21,26 +21,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
-Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, D.J. Champion, N. Wex, E.
-Fonseca, C.M. Zhang, J.M.  Yao, M.Y. Xue, J.R. Niu, H.C. Hu, Y.J. Guo,
-[Variability, polarimetry, and timing properties of single pulses from PSR
-J2222$-$0137 using FAST](TBA), submitted
-
-0. D. Ayzenberg, R. Brito, S. Britzen, A.E. Broderick, R. Carballo-Rubio, V.
-Cardoso<font color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Chael, Y. Chen, P.
-V. P. Cunha, A. Eichhorn, M. Eubanks, Y. Fang, A. Foschi, C. Fromm, R. Gold, S.
-Hadar, A. Held, J. Houston, M.D. Johnson, P. Natarajan, H. Olivares, D. Palumbo,
-S. Rajendran, R. Roy, Saurabh, **L. Shao**, A. Tamar, P. Tiede, F.H. Vincent, L.
-Visinelli, Z. Wang, M. Wielgus, X. Xue, K. Yakut, H. Yang, Z. Younsi<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Fundamental physics ppportunities
-with the next-generation Event Horizon Telescope](TBA), arXiv:TBA
-
-0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
-Xu, **L. Shao**, H. Yu, [Can a star be smaller than the black hole of the same
-mass?](https://arxiv.org/abs/TBA), arXiv:TBA
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
