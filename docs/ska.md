@@ -8,6 +8,8 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Zhu, Z., **Li, A.**, Hu, J., Shen, H., 2023, [Equation of state of nuclear matter and neutron stars: Quark mean-field model versus relativistic mean-field model](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.108.025809), PhRvC, 108, 025809
+
 0. Yuan, W.-L., Chao, J., **Li, A.**, 2023, [Diquark and chiral condensates in a self-consistent NJL-type model](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.043008), PhRvD, 108, 043008
 
 0. Luo, Y., Wu, X.-J., Zhang, S.-R., Wang, J.-M., Ho, L. C., **Yuan, Y.-F.**, 2023,  [White dwarf-white dwarf collisions in AGN discs via close encounters](https://doi.org/10.1093/mnras/stad2188), MNRAS,  524, 6015
