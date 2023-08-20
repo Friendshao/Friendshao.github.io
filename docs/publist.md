@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 244)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 245)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 32)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -21,12 +21,16 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
+Xu, **L. Shao**, H. Yu, [Can a star be smaller than the black hole of the same
+mass?](https://arxiv.org/abs/TBA), arXiv:TBA
+
 0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
 Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.
 Fonseca, J.M.  Yao, M.Y. Xue, J.R. Niu, H. Hu, C.M. Zhang,
 [Variability, polarimetry, and timing properties of single pulses from PSR
-J2222$-$0137 using FAST](TBA), submitted
+J2222$-$0137 using FAST](https://arxiv.org/abs/TBA), submitted
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
