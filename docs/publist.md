@@ -23,7 +23,7 @@ layout: default
 
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than the black hole of the same
-mass?](https://arxiv.org/abs/TBA), arXiv:TBA
+mass?](https://arxiv.org/abs/TBA), submitted
 
 0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
