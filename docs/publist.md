@@ -25,13 +25,6 @@ layout: default
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than the black hole of the same
 mass?](https://arxiv.org/abs/TBA), submitted
 
-0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
-Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.
-Fonseca, J.M.  Yao, M.Y. Xue, J.R. Niu, H. Hu, C.M. Zhang,
-[Variability, polarimetry, and timing properties of single pulses from PSR
-J2222$-$0137 using FAST](https://arxiv.org/abs/TBA), submitted
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
@@ -102,16 +95,19 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
+0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
+Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.
+Fonseca, J.M.  Yao, M.Y. Xue, J.R. Niu, H. Hu, C.M. Zhang,
+[Variability, polarimetry, and timing properties of single pulses from PSR
+J2222$-$0137 using FAST](https://arxiv.org/abs/TBA), *Mon.
+Not. R. Astron. Soc.* (accepted), arXiv:TBA
+
 0. Y.-H. I. Yin<font color="#5c5c5c"><sup>(#)</sup></font>, B.-B. Zhang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
 Shao**, Y.-H. Yang, B. Zhang, [GRB 211211A-like events and how gravitational
 waves may tell their origin](https://arxiv.org/abs/2304.06581), *Astrophys. J.
 Lett.* (accepted), arXiv:2304.06581
-
-0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
-relation between the shape eccentricity and the moment of inertia for rotating
-neutron stars](https://arxiv.org/abs/2303.14130), *Astrophys. J.* (accepted), arXiv:2303.14130
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
@@ -130,6 +126,11 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
+relation between the shape eccentricity and the moment of inertia for rotating
+neutron stars](https://arxiv.org/abs/2303.14130), *Astrophys. J.* 954 (2023) 16
 
 0. J. Bregman, R. Cen, Y. Chen, W. Cui<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, T. Fang, F. Guo, E. Hodges-Kluck, R.
