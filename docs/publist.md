@@ -78,12 +78,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
 harmonics in gravitational-wave parameter estimation and cosmological
 implications for LISA](TBA), submitted
 
-0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
-R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
-[The $g$-mode of neutron stars in pseudo-Newtonian
-gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
-
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, [A freely precessing magnetar
@@ -95,13 +89,19 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
+0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [$g$-mode of neutron
+stars in pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), *Phys.
+Rev. D* (accepted), arXiv:2302.03856
+
 0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
 Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.
-Fonseca, J.M.  Yao, M.Y. Xue, J.R. Niu, H. Hu, C.M. Zhang,
-[Variability, polarimetry, and timing properties of single pulses from PSR
-J2222$-$0137 using FAST](https://arxiv.org/abs/TBA), *Mon.
-Not. R. Astron. Soc.* (accepted), arXiv:TBA
+Fonseca, J.M.  Yao, M.Y. Xue, J.R. Niu, H. Hu, C.M. Zhang, [Variability,
+polarimetry, and timing properties of single pulses from PSR J2222$-$0137 using
+FAST](https://arxiv.org/abs/2308.10683), *Mon.  Not. R. Astron. Soc.*
+(accepted), arXiv:2308.10683
 
 0. Y.-H. I. Yin<font color="#5c5c5c"><sup>(#)</sup></font>, B.-B. Zhang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
