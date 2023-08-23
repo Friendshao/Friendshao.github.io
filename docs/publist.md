@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 245)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 33)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -1324,6 +1324,29 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Development of Gravity Field
+Calibrator for KAGRA](https://doi.org/10.22323/1.444.1550), *PoS* (ICRC2023)
+1550
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Calibration of the integrating
+sphere for O4 in KAGRA gravitational wave
+telescope](https://doi.org/10.22323/1.444.1553), *PoS* (ICRC2023) 1553
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Status of
+KAGRA](https://doi.org/10.22323/1.444.1555), *PoS* (ICRC2023) 1555
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Investigation of the environmental
+noise at KAGRA detector](https://doi.org/10.22323/1.444.1557), *PoS* (ICRC2023)
+1557
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Calibration of the gravitational
+wave telescope KAGRA](https://doi.org/10.22323/1.444.1549), *PoS* (ICRC2023)
+1549
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Detector characterization of KAGRA
+for the fourth observing run](https://doi.org/10.22323/1.444.1564), *PoS*
+(ICRC2023) 1564
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The first joint
 observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
