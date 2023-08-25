@@ -508,12 +508,14 @@ Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) and
 [First Sagittarius A$^\ast$ Event Horizon Telescope
 Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results),
 by the **Event Horizon Telescope** Collaboration
+<span class="__dimensions_badge_embed__" data-doi="10.3847/2041-8213/ab0ec7" data-style="small_rectangle"></span>
 
 <img src="LSC.png" alt="LSC" style="height:28px;">
 [GW170817:
    Observation of Gravitational Waves from a Binary Neutron Star
 Inspiral](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101),
 by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.119.161101" data-style="small_rectangle"></span>
 
 
 
