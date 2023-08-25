@@ -47,6 +47,18 @@ tr:nth-child(odd) {
 - [**All Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary): $40000+$ citations with $H=70+$ 
 - [**Short-author-list Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true): $3000+$ citations with $H=30$
 
+
+### **Selected Papers**
+
+0. A. Bohé<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.  Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Taracchini<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Buonanno, *et al.*, [Improved
+effective-one-body model of spinning, nonprecessing binary black holes for the
+era of gravitational-wave astrophysics with advanced
+detectors](https://arxiv.org/abs/1611.03703), *Phys. Rev. D* 95 (2017) 044028
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.95.044028" data-style="small_rectangle"></span>
+{: reversed="reversed"}
+
 ### **Short-author-list Papers** <small><small>(incomplete)
 
 - Liang D, **Shao L**, 2023, 
@@ -227,6 +239,9 @@ tr:nth-child(odd) {
   <a href="https://doi.org/10.1016/j.physletb.2008.11.033" style="color: #00bfff;">Phys. Lett. B</a>, 671, 30
 - Zhang Y, **Shao L**, Ma B-Q, 2009,
   <a href="https://doi.org/10.1016/j.nuclphysa.2009.07.006" style="color: #00bfff;">Nucl. Phys. A</a>, 828, 390
+
+
+
 
 <!-- ### **Selected First-author/Corresponding-author Papers**
 
@@ -433,3 +448,5 @@ by the **LIGO Scientific** Collaboration and **Virgo** Collaboration
 </script>
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
