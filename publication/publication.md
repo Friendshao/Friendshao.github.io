@@ -45,7 +45,7 @@ tr:nth-child(odd) {
 
 <p></p>
 
-### **Selected Papers**
+### **Selected Short-author-list Papers**
 
 0. **L. Shao**, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
@@ -123,7 +123,7 @@ with very high energy photon emissions](https://arxiv.org/abs/0911.2276),
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.astropartphys.2010.03.003" data-style="small_rectangle"></span>
 {: reversed="reversed"}
 
-### **Short-author-list Papers** <small><small>(incomplete)
+<!-- ### **Short-author-list Papers** <small><small>(incomplete)
 
 - Liang D, **Shao L**, 2023, 
   <a href="https://doi.org/10.1088/1475-7516/2023/08/016" style="color: #00bfff;">JCAP</a>, 08, 016
@@ -302,7 +302,7 @@ with very high energy photon emissions](https://arxiv.org/abs/0911.2276),
 - Zhang Y, **Shao L**, Ma B-Q, 2009,
   <a href="https://doi.org/10.1016/j.physletb.2008.11.033" style="color: #00bfff;">Phys. Lett. B</a>, 671, 30
 - Zhang Y, **Shao L**, Ma B-Q, 2009,
-  <a href="https://doi.org/10.1016/j.nuclphysa.2009.07.006" style="color: #00bfff;">Nucl. Phys. A</a>, 828, 390
+  <a href="https://doi.org/10.1016/j.nuclphysa.2009.07.006" style="color: #00bfff;">Nucl. Phys. A</a>, 828, 390 -->
 
 
 
