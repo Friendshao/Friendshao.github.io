@@ -1221,7 +1221,7 @@ M.A. Scheel, B. Szilágyi, [Improved effective-one-body model of spinning,
 nonprecessing binary black holes for the era of gravitational-wave
 astrophysics with advanced detectors](https://arxiv.org/abs/1611.03703), *Phys. Rev. D* 95 (2017) 044028
 
-1. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
 Wex<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of
 gravitational symmetries with radio
 pulsars](https://arxiv.org/abs/1604.03662), *Sci. China Phys. Mech. Astron.* 59 (2016) 699501

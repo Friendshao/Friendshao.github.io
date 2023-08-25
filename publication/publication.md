@@ -47,38 +47,80 @@ tr:nth-child(odd) {
 
 ### **Selected Papers**
 
-0. A. Weltman<font color="#5c5c5c"><sup>(#)</sup></font>, P. Bull, S.  Camera,
-K. Kelley, H. Padmanabhan, J. Pritchard, A. Raccanelli, S.  Riemer-Sørensen,
-**L. Shao**, *et al.*, [Fundamental physics with the Square Kilometre
-Array](https://arxiv.org/abs/1810.02680),
-*Publ. Astron. Soc. Aust.* 37 (2020) e002
+0. **L. Shao**, [Combined search for anisotropic birefringence in the
+gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
+*Phys. Rev. D* 101 (2020) 104019
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.101.104019" data-style="small_rectangle"></span>
+
+0. A. Weltman, P. Bull, S.  Camera, K. Kelley, H. Padmanabhan, J. Pritchard, A.
+Raccanelli, S.  Riemer-Sørensen, **L. Shao**, *et al.*, [Fundamental physics
+with the Square Kilometre Array](https://arxiv.org/abs/1810.02680), *Publ.
+Astron. Soc. Aust.* 37 (2020) e002
 <span class="__dimensions_badge_embed__" data-doi="10.1017/pasa.2019.42" data-style="small_rectangle"></span>
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
-Sennett, A. Buonanno, M. Kramer, N. Wex, [Constraining nonperturbative
-strong-field effects in scalar-tensor gravity by combining pulsar timing
-and laser-interferometer gravitational-wave
+0. X. Liu, Z. Cao, **L. Shao**, [Validating the effective-one-body
+numerical-relativity waveform models for spin-aligned binary black holes along
+eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D* 101 (2020)
+044049
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.101.044049" data-style="small_rectangle"></span>
+
+0. A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, **L. Shao**, W. Yan,
+[Constraints on millicharged dark matter and axionlike particles from timing of
+radio waves](https://arxiv.org/abs/1902.02695), *Phys.  Rev. D* 100 (2019)
+063515
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.100.063515" data-style="small_rectangle"></span>
+
+0. **L. Shao**, N.  Sennett, A. Buonanno, M. Kramer, N. Wex, [Constraining
+nonperturbative strong-field effects in scalar-tensor gravity by combining
+pulsar timing and laser-interferometer gravitational-wave
 detectors](https://arxiv.org/abs/1704.07561), *Phys. Rev. X* 7 (2017) 041025
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevX.7.041025" data-style="small_rectangle"></span>
 
-0. A. Bohé<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.  Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Taracchini<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Buonanno, *et al.*, [Improved
+0. A. Bohé, **L.  Shao**, A. Taracchini, A. Buonanno, *et al.*, [Improved
 effective-one-body model of spinning, nonprecessing binary black holes for the
 era of gravitational-wave astrophysics with advanced
 detectors](https://arxiv.org/abs/1611.03703), *Phys. Rev. D* 95 (2017) 044028
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.95.044028" data-style="small_rectangle"></span>
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Tests of
-local Lorentz invariance violation of gravity in the standard model
-extension with pulsars](https://arxiv.org/abs/1402.6452), *Phys. Rev. Lett.* 112 (2014) 111103
+0. **L. Shao**, N.  Wex, [Tests of gravitational symmetries with radio
+pulsars](https://arxiv.org/abs/1604.03662), *Sci. China Phys. Mech. Astron.* 59
+(2016) 699501
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11433-016-0087-6" data-style="small_rectangle"></span>
+
+0. **L. Shao**, I.H.  Stairs, *et al.*, [Testing gravity with pulsars in the SKA
+era](https://arxiv.org/abs/1501.00058), *PoS* (AASKA14) 042
+<span class="__dimensions_badge_embed__" data-doi="10.22323/1.215.0042" data-style="small_rectangle"></span>
+
+0. **L. Shao**, [New pulsar limit on local Lorentz invariance violation of
+gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
+*Phys. Rev. D* 90 (2014) 122009
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.90.122009" data-style="small_rectangle"></span>
+
+0. **L. Shao**, [Tests of local Lorentz invariance violation of gravity in the
+standard model extension with pulsars](https://arxiv.org/abs/1402.6452), *Phys.
+Rev. Lett.* 112 (2014) 111103
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.112.111103" data-style="small_rectangle"></span>
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.N.
-Caballero, M. Kramer, N. Wex, D.J. Champion, A. Jessner, [A new limit on
-local Lorentz invariance violation of gravity from solitary
-pulsars](https://arxiv.org/abs/1307.2552), *Class. Quantum Grav.* 30 (2013) 165019
+0. **L. Shao**, R.N.  Caballero, M. Kramer, N. Wex, D.J. Champion, A. Jessner,
+[A new limit on local Lorentz invariance violation of gravity from solitary
+pulsars](https://arxiv.org/abs/1307.2552), *Class. Quantum Grav.* 30 (2013)
+165019
 <span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/30/16/165019" data-style="small_rectangle"></span>
+
+0. **L. Shao**, N.  Wex, [New tests of local Lorentz invariance of gravity with
+small-eccentricity binary pulsars](https://arxiv.org/abs/1209.4503), *Class.
+Quantum Grav.* 29 (2012) 215018
+<span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/29/21/215018" data-style="small_rectangle"></span>
+
+0. **L. Shao**, B.-Q. Ma, [Lorentz violation effects on astrophysical
+propagation of very high energy photons](https://arxiv.org/abs/1007.2269), *Mod.
+Phys. Lett. A* 25 (2010) 3251
+<span class="__dimensions_badge_embed__" data-doi="10.1142/S0217732310034572" data-style="small_rectangle"></span>
+
+0. **L. Shao**, Z. Xiao, B.-Q.  Ma, [Lorentz violation from cosmological objects
+with very high energy photon emissions](https://arxiv.org/abs/0911.2276),
+*Astropart. Phys.* 33 (2010) 312
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.astropartphys.2010.03.003" data-style="small_rectangle"></span>
 {: reversed="reversed"}
 
 ### **Short-author-list Papers** <small><small>(incomplete)
