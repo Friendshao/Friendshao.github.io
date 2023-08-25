@@ -38,17 +38,28 @@ tr:nth-child(odd) {
 
 **For a nearly complete list, please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary)**
 
+- [**All Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary): $40000+$ citations with $H=70+$ 
+- [**Short-author-list Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true): $3000+$ citations with $H=30$
+
 ---
 
 <p></p>
 
-### **Metrics**
-
-- [**All Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1#with-citation-summary): $40000+$ citations with $H=70+$ 
-- [**Short-author-list Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALi.Jing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true): $3000+$ citations with $H=30$
-
-
 ### **Selected Papers**
+
+0. A. Weltman<font color="#5c5c5c"><sup>(#)</sup></font>, P. Bull, S.  Camera,
+K. Kelley, H. Padmanabhan, J. Pritchard, A. Raccanelli, S.  Riemer-Sørensen,
+**L. Shao**, *et al.*, [Fundamental physics with the Square Kilometre
+Array](https://arxiv.org/abs/1810.02680),
+*Publ. Astron. Soc. Aust.* 37 (2020) e002
+<span class="__dimensions_badge_embed__" data-doi="10.1017/pasa.2019.42" data-style="small_rectangle"></span>
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
+Sennett, A. Buonanno, M. Kramer, N. Wex, [Constraining nonperturbative
+strong-field effects in scalar-tensor gravity by combining pulsar timing
+and laser-interferometer gravitational-wave
+detectors](https://arxiv.org/abs/1704.07561), *Phys. Rev. X* 7 (2017) 041025
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevX.7.041025" data-style="small_rectangle"></span>
 
 0. A. Bohé<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.  Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, A. Taracchini<font
@@ -57,6 +68,17 @@ effective-one-body model of spinning, nonprecessing binary black holes for the
 era of gravitational-wave astrophysics with advanced
 detectors](https://arxiv.org/abs/1611.03703), *Phys. Rev. D* 95 (2017) 044028
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.95.044028" data-style="small_rectangle"></span>
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Tests of
+local Lorentz invariance violation of gravity in the standard model
+extension with pulsars](https://arxiv.org/abs/1402.6452), *Phys. Rev. Lett.* 112 (2014) 111103
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.112.111103" data-style="small_rectangle"></span>
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.N.
+Caballero, M. Kramer, N. Wex, D.J. Champion, A. Jessner, [A new limit on
+local Lorentz invariance violation of gravity from solitary
+pulsars](https://arxiv.org/abs/1307.2552), *Class. Quantum Grav.* 30 (2013) 165019
+<span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/30/16/165019" data-style="small_rectangle"></span>
 {: reversed="reversed"}
 
 ### **Short-author-list Papers** <small><small>(incomplete)
