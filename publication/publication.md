@@ -47,6 +47,12 @@ tr:nth-child(odd) {
 
 ### **Selected Short-author-list Papers**
 
+0. J. Zhao, P.C.C. Freire, M.  Kramer, **L. Shao**, N. Wex, [Closing a
+spontaneous-scalarization window with binary
+pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* 39 (2022)
+11LT01
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1361-6382/ac69a3" data-style="small_rectangle"></span>
+
 0. **L. Shao**, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
@@ -76,6 +82,11 @@ pulsar timing and laser-interferometer gravitational-wave
 detectors](https://arxiv.org/abs/1704.07561), *Phys. Rev. X* 7 (2017) 041025
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevX.7.041025" data-style="small_rectangle"></span>
 
+0. **L. Shao**, B.  Zhang, [Bayesian framework to constrain the photon mass with
+a catalog of fast radio bursts](https://arxiv.org/abs/1705.01278), *Phys. Rev.
+D* 95 (2017) 123010
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.95.123010" data-style="small_rectangle"></span>
+
 0. A. Bohé, **L.  Shao**, A. Taracchini, A. Buonanno, *et al.*, [Improved
 effective-one-body model of spinning, nonprecessing binary black holes for the
 era of gravitational-wave astrophysics with advanced
@@ -100,6 +111,11 @@ gravity in the standard-model extension](https://arxiv.org/abs/1412.2320),
 standard model extension with pulsars](https://arxiv.org/abs/1402.6452), *Phys.
 Rev. Lett.* 112 (2014) 111103
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.112.111103" data-style="small_rectangle"></span>
+
+0. **L. Shao**, N.  Wex, [New limits on the violation of local position
+invariance of gravity](https://arxiv.org/abs/1307.2637), *Class. Quantum Grav.*
+30 (2013) 165020
+<span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/30/16/165020" data-style="small_rectangle"></span>
 
 0. **L. Shao**, R.N.  Caballero, M. Kramer, N. Wex, D.J. Champion, A. Jessner,
 [A new limit on local Lorentz invariance violation of gravity from solitary
