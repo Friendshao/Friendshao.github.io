@@ -73,11 +73,6 @@ Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 
-0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
-harmonics in gravitational-wave parameter estimation and cosmological
-implications for LISA](TBA), submitted
-
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, [A freely precessing magnetar
@@ -88,6 +83,11 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
+harmonics in gravitational-wave parameter estimation and cosmological
+implications for LISA](TBA), *Phys. Rev. D* (accepted), arXiv:TBA
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
