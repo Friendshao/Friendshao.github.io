@@ -61,3 +61,32 @@ tr:nth-child(odd) {
 | Session Chair | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop)<br><small>November 9-13, 2020, Pohang Korea|
 | SOC & LOC<br>Session Chair | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/)<br><small>November 28-29, 2019, Beijing China |
 | SOC<br>Session Chair | [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559)<br><small>August 13-17, 2019, Kunming China |
+
+<br>
+
+---
+
+<br>
+
+### <img src="popular2.png" style="height:45px;"> &nbsp;  **Selected Outreach Videos** 
+
+<p></p>
+<br>
+
+#### <img src="outreach.png" style="height:32px;"> &nbsp; 2022年，达摩院青橙学者宣传片
+
+<iframe src="//player.bilibili.com/player.html?aid=347237775&bvid=BV1Rd4y1c71F&cid=878516437&page=1&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="60%" height="300" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+
+<br>
+
+#### <img src="outreach.png" style="height:32px;"> &nbsp; 2021年，诺贝尔物理学奖专家解读
+
+<iframe src="//player.bilibili.com/player.html?aid=718465423&bvid=BV1HQ4y1X7SM&cid=420240787&page=1&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="60%" height="300" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+
+<br>
+
+#### <img src="outreach.png" style="height:32px;"> &nbsp; 2020年，中科院格致论道讲坛
+
+<iframe src="//player.bilibili.com/player.html?aid=246058521&bvid=BV1yv411x7UM&cid=279329483&page=1&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="60%" height="300" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+
+<br>
