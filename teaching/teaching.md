@@ -56,8 +56,6 @@ tr:nth-child(odd) {
 
 | [CED-2023F](ced23) | **Electrodynamics (A)**<br>**电动力学（A）** | 周一7-8节 & 周三3-4节；地点：三教301<br><small>**习题课**: 周一10-11节(双)；地点：二教525 & 理教204 |
 | [GRA-2023F](gr23) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节；地点：二教505 |
-| [TM-2022F](thmech22) | **Theoretical Mechanics (A)**<br>**理论力学（A）** |  周一1-2节 & 周四3-4节；理教313<br><small>**习题课**: 周三10-11节(双)；三教406 & 二教106 |
-| [CED-2022F](ced22) | **Electrodynamics (B)**<br>**电动力学（B）** |  周一7-8节(单) & 周三3-4节；理教109<br><small>**习题课**: 周一10-11节(双)；三教308 |
 
 <br>
 <p></p>

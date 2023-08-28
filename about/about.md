@@ -39,6 +39,18 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Astrophysical studies of dark matter
 - Bayesian data analysis and statistics
 
+### Teaching
+
+| &nbsp; &nbsp; 广义相对论与天体物理 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
+| &nbsp; &nbsp; 理论力学 (A) | Theoretical Mechanics (A) |
+| &nbsp; &nbsp; 电动力学 (A) | Electrodynamics (A)  |
+| &nbsp; &nbsp; 电动力学 (B) | Electrodynamics (B)  |
+| &nbsp; &nbsp; 普通物理 (I) | General Physics (I) <font color="gray"><small><small> *** including Mechanics & Electromagnetism</small></small></font> |
+| &nbsp; &nbsp; 普通物理 (II) | General Physics (II) <font color="gray"><small><small> *** including Thermal Physics, Optics, & Modern Physics</small></small></font> |
+| &nbsp; &nbsp; 天体粒子物理 | Astroparticle Physics <font color="gray"><small><small> *** co-Lecturer</small></small></font> |
+
+<p></p>
+
 ### Want to join our research?
 
 Please read the following articles carefully, for
@@ -52,55 +64,7 @@ students](https://friendshao.github.io/docs/theses).
 
  <img src="group.png" width="50"> &nbsp;&nbsp; **For more, please check at [<big>our Group Page</big>](https://kiaagravity.github.io)**  <img src="team.png" width="50">
 
----
-
 <p></p>
-
-### Teaching
-
-| &nbsp; &nbsp; 广义相对论与天体物理 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
-| &nbsp; &nbsp; 理论力学 (A) | Theoretical Mechanics (A) |
-| &nbsp; &nbsp; 电动力学 (A) | Electrodynamics (A)  |
-| &nbsp; &nbsp; 电动力学 (B) | Electrodynamics (B)  |
-| &nbsp; &nbsp; 普通物理 (I) | General Physics (I) <font color="gray"><small><small> *** including Mechanics & Electromagnetism</small></small></font> |
-| &nbsp; &nbsp; 普通物理 (II) | General Physics (II) <font color="gray"><small><small> *** including Thermal Physics, Optics, & Modern Physics</small></small></font> |
-| &nbsp; &nbsp; 天体粒子物理 | Astroparticle Physics <font color="gray"><small><small> *** co-Lecturer</small></small></font> |
-
-<p></p>
-
-### Services
-
-- Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) (2020-2023)
-- Executive Board Member (2019-2022) and Special Editorial Board Member (2023-2024) of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) 
-- [MDPI](https://www.mdpi.com/) Open Science Ambassador (2020-2022)
-- Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) (2018-now)
-- Outstanding Reviewer for Classical and Quantum Gravity ([2018](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/), [2019](https://publishingsupport.iopscience.iop.org/questions/classical-quantum-gravity-2019-reviewer-awards/)), Universe ([2018](https://www.mdpi.com/journal/universe/awards/591/download)), and SCIENCE CHINA: Physics, Mechanics & Astronomy ([2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA), [2022](https://mp.weixin.qq.com/s/l0tT488ZYP1WjEwD5GlK9w))
-
-### Memberships
-
-- 2014-present, SKA Pulsar and Gravitational Wave Science Working Groups
-- 2018-present, Event Horizon Telescope Collaboration
-- 2018-present, KAGRA Scientific Collaboration
-- 2018-present, LISA Consortium
-- 2018-present, IAU Individual Member
-- 2018-present, Gravitation and Relativistic Astrophysics, Chinese Physical Society
-- 2020-present, Chinese Astronomical Society
-- 2020-present, Beijing Astronomical Society
-- 2020-present, Cosmic Explorer Consortium
-- 2021-present, Einstein Telescope Observational Science Board
-- 2021-present, Chinese Institute of Electronics
-- 2022-present, Chinese Physical Society
-- 2017-2021, BlackHoleCam Project
-- 2015-2017, LIGO Scientific Collaboration
-
-<!-- 
-### Research Funds
-
-- 2020.12—2025.11，科技部SKA专项“脉冲星理论研究支撑”，1350万，主持
-- 2021.01—2025.12，马克斯·普朗克学会“Max Planck Partner Group”，10万欧元，组长
-- 2020.01—2023.12，NSFC面上基金“关于致密双星并合的引力波波形的研究”，60万，主持
-- 2020.01—2024.12，NSFC重大基金之课题四“黑洞烛光的宇宙学应用”，275万，参与
-- 2018.01—2020.12，中国科协青年人才托举工程，45万，入选 -->
 
 ---
 
