@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outreach
-permalink: /Outreach/
+permalink: /outreach/
 ---
 
 <style>
