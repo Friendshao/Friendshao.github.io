@@ -33,15 +33,6 @@ tr:nth-child(odd) {
 | 2016.06-2021.05<br><font color="gray"><small><small> * 已结题</small></small></font> | 参与 | **中国科学院先导B专项** <br> <small> 基于FAST的脉冲星测时和引力波探测预研究 </small> | XDB23010200 |
 | 2011.01-2013.12<br><font color="gray"><small><small> * 已结题</small></small></font> | 参与 | **国家自然科学青年科学基金项目** <br> <small> 横动量依赖的夸克分布函数及其在高能散射过程中的唯像学 </small> | 11005018 |
 
-<!-- 
-| 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society<small>（100,000 EUR）</small> </small> | NULL |
-| 2021.01-2023.12 | **入选** | **国家海外高层次人才青年项目**<small><small>（1,000,000 RMB）</small></small> | NULL | 
-| 2020.12-2025.11 | **主持** | **SKA 专项** <br> <small> 脉冲星理论研究支撑<small>（13,500,000 RMB）</small> </small> | 2020SKA0120300 |
-| 2020.01-2024.12 | 参与 | **国家自然科学重大基金项目** <br> <small> 黑洞烛光的宇宙学应用<small>（687,500 RMB）</small> </small> | 11991053 |
-| 2020.01-2023.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究<small>（600,000 RMB）</small>  </small> | 11975027 |
-| 2018.01-2020.12 | **入选** | **第四届中国科协青年人才托举工程**<small><small>（450,000 RMB）</small></small> | 2018QNRC001 |
--->
-
 <br>
 <p></p>
 
@@ -63,75 +54,6 @@ tr:nth-child(odd) {
 
 <br>
 <p></p>
-
-<!-- ### <img src="journal.jpeg" style="height:50px;"> &nbsp;<b>Serving for Academic Journals</b> <small><small>[[Read More](/docs/journal)]</small></small>
-
-| **ROLE** | **JOURNAL** | **TIME** |
-| Advisory Panel Member | [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) | 2020-present |
-| Executive Board Member | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | 2019-2022 |
-| Special Editorial Board Member | [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) | 2023-2024 |
-| Editorial Board Member | [Universe](http://www.mdpi.com/journal/universe) | 2018-present |
-| Special Issue Editor | *Results in Physics*: [Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/about/call-for-papers#physics-of-gravitational-waves-developments-in-theory-and-detection) | 2023 |
-| | *Universe*: [Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC) | 2023 |
-| Outstanding Reviewer | [Classical and Quantum Gravity](http://iopscience.iop.org/journal/0264-9381) | [2018](/docs/CQG2018.pdf), [2019](/docs/CQG2019.pdf) |
-| | [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://www.springer.com/journal/11433) | [2020](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA), [2022](https://mp.weixin.qq.com/s/l0tT488ZYP1WjEwD5GlK9w) |
-| | [Universe](http://www.mdpi.com/journal/universe) | [2018](/docs/Universe2018.pdf) |
-| Reviewer | [More than 30 journals](/docs/journal), *incl.* Nature Astronomy, PRL, etc. | |
-
-<br>
-<p></p> -->
-
-### <img src="conference.jpeg" style="height:45px;"> &nbsp; <b>Serving for Academic Conferences</b>
-
-| **ROLE** | **CONFERENCE** |
-| Session Chair | MPG-CAS Collaboration Meeting on Low-frequency Gravitational Waves<br><small>August 2-5, 2023, Kunming China |
-| Organizer<br>Session Chair | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html)<br><small>July 2-4, 2023, Nanyang China |
-| Organizer<br>Session Chair | [以天之语 解物之道](https://psr.pku.edu.cn/tianyujiewu/index.html)<br><small>June 26-27, 2023, 香山饭店, Beijing |
-| Session Chair | [Annual Meeting of Gravitation and Relativistic Astrophysics](http://cqutp.org/conferences/gr23/)<br><small>April 21-25, 2023, Chongqing China |
-| Organizer | [Mini Workshop on Compact Objects and Gravitational Waves](https://kiaa.pku.edu.cn/info/1026/8907.htm)<br><small>April 19, 2023, Beijing China |
-| Organizer | [The Postdoc Workshop on Gravitational Waves at KIAA: Fall 2022](https://kiaa.pku.edu.cn/info/1026/8621.htm)<br><small>October 29, 2022, Beijing China |
-| Session Chair | [FAST/Future Pulsar Symposium 11](https://psr.pku.edu.cn/fps/FPS11/FPS11.html)<br><small>August 3-5, 2022, Xiangtan China |
-| Organizer <small>(Chair)</small> | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022/ska2022.html)<br><small>August 1-3, 2022, Xiangtan China |
-| Session Chair | [Ninth Meeting on CPT and Lorentz Symmetry](https://lorentz.sitehost.iu.edu/cpt22/)<br><small>May 17-26, 2022, Bloomington USA |
-| Organizer<br>Session Chair | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html)<br><small>May 3-7, 2021, Leiden Netherlands |
-| Session Chair | [Annual Meeting of Gravitation and Relativistic Astrophysics](http://gra2020.csp.escience.cn/)<br><small>April 23-28, 2021, Shenyang China |
-| Session Chair | [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021)<br><small>February 22-28, 2021, Online|
-| Session Chair | [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519)<br><small>December 4-14, 2020, Online|
-| Session Chair | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop)<br><small>November 9-13, 2020, Pohang Korea|
-| SOC & LOC<br>Session Chair | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/)<br><small>November 28-29, 2019, Beijing China |
-| SOC<br>Session Chair | [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559)<br><small>August 13-17, 2019, Kunming China |
-
-
-<!-- 
-| [Dialogue at the Dream Field: Supranuclear Matter](http://www.phy.pku.edu.cn/~FPS/ddf/) | SOC | Aug 17-21, 2020 | Guiyang China | -->
-
-<!--
-
-| 2024 | Hongbo Li <small>(李洪波)</small> | | |
-| 2023 | Yong Gao <small>(高勇)</small><br>Chang Liu <small>(刘畅)</small> | | |
-
-### Useful Links
-
-0. [General Purposes: mostly on programming](/docs/website-general)
-0. [Specific Purposes: again mostly on programming](/docs/website-specific)
-0. [Pulsars and Gravitational Waves](/docs/website-psr-gw)
-
-### References for Research Topics
-
-I keep updating [an incomplete list of references](/docs/references) for easy
-use by my group members. Please don't tell me if your favorite papers or books
-are not included, because,
-- this list is never supposed to be complete and,
-- I am still reading your papers/books!
-
-### Events
-
-- Google calendar embeded
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FShanghai&amp;src=cnZhNzZnMDdqYzA5YzVraTBmYzdibTN0M2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;showTitle=0&amp;showPrint=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
--->
-
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({

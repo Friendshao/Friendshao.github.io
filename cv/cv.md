@@ -36,7 +36,7 @@ tr:nth-child(odd) {
 <p></p>
 
 
-### Memberships
+### **Memberships**
 
 | **TIME** | **MEMBERSHIP** |
 | 2014-present | SKA Pulsar and Gravitational Wave Science Working Groups |
@@ -53,21 +53,3 @@ tr:nth-child(odd) {
 | 2022-present | Chinese Physical Society |
 | 2017-2021 | BlackHoleCam Project |
 | 2015-2017 | LIGO Scientific Collaboration |
-
-<p></p>
-
-### Services
-
-| **TIME** | **ROLE** |
-| 2020-2023 |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
-| 2023-2024 | Special Editorial Board Member  of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
-| 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
-| 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
-| 2019-2022 | Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
-| 2023 | Special Issue Editor for *Results in Physics*<br><small>[Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/about/call-for-papers#physics-of-gravitational-waves-developments-in-theory-and-detection)</small> |
-| 2023 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
-| 2022 | Outstanding Reviewer for [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://mp.weixin.qq.com/s/l0tT488ZYP1WjEwD5GlK9w) |
-| 2020 | Outstanding Reviewer for [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA) |
-| 2019 | Outstanding Reviewer for [Classical and Quantum Gravity](https://publishingsupport.iopscience.iop.org/questions/classical-quantum-gravity-2019-reviewer-awards/) |
-| 2018 | Outstanding Reviewer for [Classical and Quantum Gravity](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/) | 
-| 2018 | Outstanding Reviewer for [Universe](https://www.mdpi.com/journal/universe/awards/591/download) |

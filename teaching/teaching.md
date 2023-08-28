@@ -71,14 +71,6 @@ tr:nth-child(odd) {
 | 00432198 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2024S**](tm24) (?? ppl.)<br>[**2022F**](thmech22) (101 ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
 | 00432296 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22) (8 ppl.) | 
 
-<!-----------------------------
-
-| 00431651 | **Seminar for Equilibrium Statistical Physics**<br>**平衡态统计物理讨论班** | | 
-| 00431650 | **Equilibrium Statistical Physics** | | |
-| 00432130 | **Thermodynamics and Statistical Physics (A)** | | |
-
------------------------------------>
-
 <br>
 <p></p>
 
@@ -105,10 +97,7 @@ tr:nth-child(odd) {
 | PKU'10S | **Probability Theory and Statistics**<br>**概率统计** | **TA** <small><small> * Lectured by Prof. Zhenxi Dong |
 | PKU'09F | **Linear Algebra**<br>**线性代数** | **TA** <small><small> * Lectured by Prof. Maoying Tian <br> ** <b> Excellent Teaching Assistant</b> Award |
 
-<!-- | PKU'23S | [**Astroparticle Physics**](app23)<br>**天体粒子物理** | **co-Lecturer** <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu | -->
-
 <br>
-
 <p></p>
 
 ### **Frontier Lectures**
