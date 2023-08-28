@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 245)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 246)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -83,6 +83,10 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: Data transfer
+and management](https://arxiv.org/abs/TBA), *Prog. Theor. Exp.  Phys.*
+(accepted), arXiv:TBA
 
 0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
