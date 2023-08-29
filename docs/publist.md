@@ -91,7 +91,8 @@ and management](https://arxiv.org/abs/TBA), *Prog. Theor. Exp.  Phys.*
 0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
 harmonics in gravitational-wave parameter estimation and cosmological
-implications for LISA](TBA), *Phys. Rev. D* (accepted), arXiv:TBA
+implications for LISA](http://arxiv.org/abs/2308.13690), *Phys. Rev. D*
+(accepted), arXiv:2308.13690
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
