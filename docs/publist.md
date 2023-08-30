@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 246)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 247)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -83,6 +83,17 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. P. Torne<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Liu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P.  Eatough, J. Wongphechauxsorn,
+J.M. Cordes, G.  Desvignes, M. De Laurentis, M.  Kramer, S.M. Ransom, S.
+Chatterjee, R. Wharton, R. Karuppusamy, L. Blackburn, M.  Janssen, C.-k. Chan,
+G.B. Crew, L.D. Matthews, C. Goddi, H. Rottmann, J. Wagner, S. Sanchez, I. Ruiz,
+F. Abbate, G.C. Bower, J.J. Salamanca, A.I. Gomez-Ruiz, A.  Herrera-Aguilar, W.
+Jiang, R.-S. Lu, U.-L.  Pen, A.W. Raymond, **L.  Shao**, Z.  Shen, *et al.*
+(EHT Collaboration), [A search for pulsars around Sgr A$^\ast$ in the first
+Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
+*Astrophys. J.* (accepted), arXiv:2308.15381
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: Data transfer
 and management](https://arxiv.org/abs/TBA), *Prog. Theor. Exp.  Phys.*
