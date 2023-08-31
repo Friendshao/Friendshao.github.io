@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 247)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 248)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
+[A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
+the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666),
+arXiv:2308.13666
 
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than the black hole of the same
