@@ -124,12 +124,6 @@ polarimetry, and timing properties of single pulses from PSR J2222$-$0137 using
 FAST](https://arxiv.org/abs/2308.10683), *Mon.  Not. R. Astron. Soc.*
 (accepted), arXiv:2308.10683
 
-0. Y.-H. I. Yin<font color="#5c5c5c"><sup>(#)</sup></font>, B.-B. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
-Shao**, Y.-H. Yang, B. Zhang, [GRB 211211A-like events and how gravitational
-waves may tell their origin](https://arxiv.org/abs/2304.06581), *Astrophys. J.
-Lett.* (accepted), arXiv:2304.06581
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
@@ -147,6 +141,12 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Y.-H. I. Yin<font color="#5c5c5c"><sup>(#)</sup></font>, B.-B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, J. Yang, Y. Kang, **L.
+Shao**, Y.-H. Yang, B. Zhang, [GRB 211211A-like events and how gravitational
+waves may tell their origins](https://arxiv.org/abs/2304.06581), *Astrophys. J.
+Lett.* 954 (2023) L17
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Steinhoff, [A tight universal
