@@ -101,7 +101,7 @@ Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 *Astrophys. J.* (accepted), arXiv:2308.15381
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: Data transfer
-and management](https://arxiv.org/abs/TBA), *Prog. Theor. Exp.  Phys.*
+and management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.*
 (accepted), arXiv:TBA
 
 0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
