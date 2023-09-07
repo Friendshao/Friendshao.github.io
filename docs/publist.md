@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 249)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 250)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
+Axisymmetric Neutron Stars in the Standard-Model
+Extension](https://arxiv.org/abs/2309.02871), arXiv:2309.02871
 
 0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
 [A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
