@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 250)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 40)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -1477,6 +1477,24 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Mészáros, M. Mewes, D.F.
 Phillips, M. Schreck, **L. Shao**, J. Tasson, R. Walsworth, [Probes of Lorentz
 and CPT symmetry with particles and radiation of astrophysical
 origin](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF0-208.pdf),
+Letter of Interest for Snowmass2021
+
+0. K. Jani<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Loeb, K.
+Holley-Bockelmann, M.  Arca Sedda, N.  Bartolo, N.  Bellomo, D. Bertacca, S.
+Blondin, F. Beutle, O. Birnholtz , B. Bonga , M.  Branchesi, L. Caramete, P.R.
+Capelo, D. Chernoff, C. Carbone, J.A.R.  Cembranos, K. Clough, G. Compere, G.
+Congedo, A. Derdzinski, D. Doneva, X. Fang, D. Felea, P.G. Ferreira, R. Fisher,
+N. Frusciante, M.S.S. Gill, C.  Gordon, J. Harms, L.  Heisenberg, D. Holz, P.
+Jetzer, A. Kong, S.M.  Koushiappas, R.N. Lang, J. Lange, M. Liguori, L.
+Lombriser, S. Matarrese, C. Markakis, S. McGee, E. Megias, C.  Miller, D.F.
+Mota, D. Neilsen, S.  Nesseris, G. Orlando, A. Palmese, G. Pappas, V.
+Paschalidis, J. Quenb, A.J. Ruiter, S. Renaux-Petel, M. Ruiz, M. Sahlen, M.
+Sakellariadou, B.S. Sathyaprakash, O. Sergijenko, S. Shandera, **L. Shao**, D.
+Shoemaker, N. Stergioulas, A. Suvorov, O. Umeh, E.C. Vagenas, Y.-D. Tsai, A.
+Taylor, J. Annis, S. Yazadjiev, P.  Stefanescu, S. Das, O. Tintareanu-Mircea, M.
+Zumalacarregui, L. Vida, N.P.M. Kuin, [A deci-Hz Gravitational-Wave Lunar
+Observatory for
+Cosmology](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF6_CF5_Karan_Jani-239.pdf),
 Letter of Interest for Snowmass2021
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
