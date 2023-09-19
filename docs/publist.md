@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 250)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 251)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 43)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,12 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, Z. Hu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C.-J. Xia, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
+magnetar giant flares in the strangeon star
+model](https://arxiv.org/abs/2309.09847), arXiv:2309.09847
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
