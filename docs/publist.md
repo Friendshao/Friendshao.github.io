@@ -1647,7 +1647,7 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 
 0. 康亚城<font color="#5c5c5c"><sup>(#)</sup></font>, 刘畅, 朱锦平, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428),
-《中国科学：物理学 力学 天文学》, accepted
+《中国科学：物理学 力学 天文学》 53 (2023) 100014
 
 0. 梁迪聪, **邵立晶** [摘译], [Rainer Weiss: 引力波探测的50年](http://www.wuli.ac.cn/cn/article/id/5d047897-319b-4a29-96e7-9d0c74dfb340), 《物理》 51 (2022) 853
 
