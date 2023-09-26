@@ -120,12 +120,6 @@ Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 and management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.*
 (accepted), arXiv:TBA
 
-0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
-harmonics in gravitational-wave parameter estimation and cosmological
-implications for LISA](http://arxiv.org/abs/2308.13690), *Phys. Rev. D*
-(accepted), arXiv:2308.13690
-
 0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
 Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.
@@ -151,6 +145,12 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
+harmonics in gravitational-wave parameter estimation and cosmological
+implications for LISA](http://arxiv.org/abs/2308.13690), *Phys. Rev. D* 108
+(2023) 064046
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, 
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
