@@ -63,7 +63,7 @@ tr:nth-child(odd) {
 ### **Summary Table**
 
 | **ID** | **COURSE** | **RECORD** |
-| 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2023F**](gr23) (92 ppl.)<br>[**2021F**](gr21) (20 ppl.)<br>[**2020F**](gr20) (35 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
+| 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2023F**](gr23) (94 ppl.)<br>[**2021F**](gr21) (20 ppl.)<br>[**2020F**](gr20) (35 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
 | 00431132 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2024S**](phy24) (?? ppl.)<br>[**2022S**](phy22) (94 ppl.)<br>[**2021S**](phy21) (158 ppl.) |  
 | 00431133 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20) (75 ppl.) | 
 | 00432140 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Electrodynamics (A)**<br>**电动力学（A）**<br><small><small> * exercise class ID: 00432160 | [**2023F**](ced23) (100 ppl.) | 
