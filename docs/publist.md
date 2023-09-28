@@ -100,11 +100,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
-deci-Hertz gravitational waves over the
-Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
-Phys. Mech. Astron.* (accepted)
-
 0. P. Torne<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Liu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P.  Eatough, J. Wongphechauxsorn,
 J.M. Cordes, G.  Desvignes, M. De Laurentis, M.  Kramer, S.M. Ransom, S.
@@ -145,6 +140,11 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
+deci-Hertz gravitational waves over the
+Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
+Phys. Mech. Astron.* 66 (2023) 119531
 
 0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
