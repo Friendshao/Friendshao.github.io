@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 251)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 252)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 43)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,13 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J.-P. Zhu, Y.
+Gao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, Y.-H. I.  Yin, B.-B. Zhang,
+[Prospects for detecting neutron star–white dwarf mergers with decihertz
+gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
+arXiv:2309.16991
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C.-J. Xia, R.-X. Xu<font
