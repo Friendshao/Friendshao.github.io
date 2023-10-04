@@ -9,8 +9,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 253)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 43)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 252)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 44)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -153,11 +153,6 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 for gravitational waves associated with fast radio bursts detected by CHIME/FRB
 during the LIGO-Virgo observing run O3a](https://arxiv.org/abs/2203.12038),
 *Astrophys. J.* 955 (2023) 155
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
-deci-Hertz gravitational waves over the
-Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
-Phys. Mech. Astron.* 66 (2023) 119531
 
 0. Y. Gong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao, J. Zhao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Including higher
@@ -1375,6 +1370,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
 
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
+deci-Hertz gravitational waves over the
+Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
+Phys. Mech. Astron.* 66 (2023) 119531
+
 0. H. Abe, *et al.* (KAGRA Collaboration), [Development of Gravity Field
 Calibrator for KAGRA](https://doi.org/10.22323/1.444.1550), *PoS* (ICRC2023)
 1550
@@ -1411,10 +1411,12 @@ Tests*, in press
 relativistic gravity with radio timing of neutron stars](TBA), in
 *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in press
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars as a
-laboratory for strong-field gravity tests](https://arxiv.org/abs/2206.15187), 
-in *Modified and Quantum Gravity: From theory to Experimental Searches on All Scales*,
-arXiv:2206.15187
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars
+as a laboratory for strong-field gravity
+tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
+theory to Experimental Searches on All Scales* (Springer Cham, 2023), p. 385
+[*Lect. Notes Phys.* 1017 (2023) 385]
+
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
 with radio pulsars in perturbative and nonperturbative
