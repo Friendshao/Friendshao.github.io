@@ -45,11 +45,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
 Axisymmetric Neutron Stars in the Standard-Model
 Extension](https://arxiv.org/abs/2309.02871), arXiv:2309.02871
 
-0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
-[A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
-the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666),
-arXiv:2308.13666
-
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than the black hole of the same
 mass?](https://arxiv.org/abs/TBA), submitted
@@ -112,6 +107,11 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
+[A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
+the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted),
+arXiv:2308.13666
 
 0. P. Torne<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Liu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P.  Eatough, J. Wongphechauxsorn,
