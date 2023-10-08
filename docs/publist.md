@@ -80,8 +80,8 @@ breaking](https://arxiv.org/abs/2307.13374), arXiv:2307.13374
 stars](https://arxiv.org/abs/2306.08234), arXiv:2306.08234
 
 0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
-X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, H. Yue, Z. Zhang, [The
-precursor of GRB211211A: a tide-induced giant
+X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
+Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 
 0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
