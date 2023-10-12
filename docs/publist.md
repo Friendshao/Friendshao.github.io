@@ -128,14 +128,6 @@ Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 and management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.*
 (accepted), arXiv:TBA
 
-0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
-Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.
-Fonseca, J.M.  Yao, M.Y. Xue, J.R. Niu, H. Hu, C.M. Zhang, [Variability,
-polarimetry, and timing properties of single pulses from PSR J2222$-$0137 using
-FAST](https://arxiv.org/abs/2308.10683), *Mon.  Not. R. Astron. Soc.*
-(accepted), arXiv:2308.10683
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
@@ -148,6 +140,14 @@ during the first joint observation with GEO 600
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
+Shao**, M. Yuan, L.Q.  Meng, Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.
+Fonseca, J.M.  Yao, M.Y. Xue, J.R. Niu, H. Hu, C.M. Zhang, [Variability,
+polarimetry, and timing properties of single pulses from PSR J2222$-$0137 using
+FAST](https://arxiv.org/abs/2308.10683), *Mon.  Not. R. Astron. Soc.* 526 (2023)
+2156
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA / CHIME-FRB Collaboration), [Search
 for gravitational waves associated with fast radio bursts detected by CHIME/FRB
