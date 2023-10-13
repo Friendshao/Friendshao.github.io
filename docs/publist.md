@@ -124,22 +124,23 @@ Jiang, R.-S. Lu, U.-L.  Pen, A.W. Raymond, **L.  Shao**, Z.  Shen, *et al.*
 Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 *Astrophys. J.* (accepted), arXiv:2308.15381
 
-0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: Data transfer
-and management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.*
-(accepted), arXiv:TBA
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
 (accepted), arXiv:2111.03606
 
-0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
-during the first joint observation with GEO 600
-(O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* (accepted), arXiv:2203.07011
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
+during the first joint observation with GEO 600
+(O3GK)](https://arxiv.org/abs/2203.07011), *Prog. Theor. Exp. Phys.* 2023 (2023)
+10A101
+
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Overview of KAGRA: Data transfer
+and management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.
+Phys.* 2023 (2023) 10A102
 
 0. X.L. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W.W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, P.C.C. Freire, **L.
