@@ -1379,35 +1379,6 @@ deci-Hertz gravitational waves over the
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
 Phys. Mech. Astron.* 66 (2023) 119531
 
-<!-- 
-0. H. Abe, *et al.* (KAGRA Collaboration), [Development of Gravity Field
-Calibrator for KAGRA](https://doi.org/10.22323/1.444.1550), *PoS* (ICRC2023)
-1550
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Calibration of the integrating
-sphere for O4 in KAGRA gravitational wave
-telescope](https://doi.org/10.22323/1.444.1553), *PoS* (ICRC2023) 1553
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Status of
-KAGRA](https://doi.org/10.22323/1.444.1555), *PoS* (ICRC2023) 1555
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Investigation of the environmental
-noise at KAGRA detector](https://doi.org/10.22323/1.444.1557), *PoS* (ICRC2023)
-1557
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Calibration of the gravitational
-wave telescope KAGRA](https://doi.org/10.22323/1.444.1549), *PoS* (ICRC2023)
-1549
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Detector characterization of KAGRA
-for the fourth observing run](https://doi.org/10.22323/1.444.1564), *PoS*
-(ICRC2023) 1564
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The first joint
-observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
-(ICRC2023) 1579 
--->
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
 radio pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
@@ -1654,6 +1625,35 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 {: reversed="reversed"}
 
 <p></p>
+
+<!-- 
+0. H. Abe, *et al.* (KAGRA Collaboration), [Development of Gravity Field
+Calibrator for KAGRA](https://doi.org/10.22323/1.444.1550), *PoS* (ICRC2023)
+1550
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Calibration of the integrating
+sphere for O4 in KAGRA gravitational wave
+telescope](https://doi.org/10.22323/1.444.1553), *PoS* (ICRC2023) 1553
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Status of
+KAGRA](https://doi.org/10.22323/1.444.1555), *PoS* (ICRC2023) 1555
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Investigation of the environmental
+noise at KAGRA detector](https://doi.org/10.22323/1.444.1557), *PoS* (ICRC2023)
+1557
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Calibration of the gravitational
+wave telescope KAGRA](https://doi.org/10.22323/1.444.1549), *PoS* (ICRC2023)
+1549
+
+0. H. Abe, *et al.* (KAGRA Collaboration), [Detector characterization of KAGRA
+for the fourth observing run](https://doi.org/10.22323/1.444.1564), *PoS*
+(ICRC2023) 1564
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The first joint
+observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
+(ICRC2023) 1579 
+-->
 
 ---
 
