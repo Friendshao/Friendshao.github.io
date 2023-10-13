@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 252)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 45)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -1379,6 +1379,7 @@ deci-Hertz gravitational waves over the
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
 Phys. Mech. Astron.* 66 (2023) 119531
 
+<!-- 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Development of Gravity Field
 Calibrator for KAGRA](https://doi.org/10.22323/1.444.1550), *PoS* (ICRC2023)
 1550
@@ -1404,7 +1405,8 @@ for the fourth observing run](https://doi.org/10.22323/1.444.1564), *PoS*
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The first joint
 observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
-(ICRC2023) 1579
+(ICRC2023) 1579 
+-->
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
