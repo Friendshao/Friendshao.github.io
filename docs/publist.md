@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 252)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 44)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 45)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -1369,6 +1369,9 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
+
+0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
+Workshop Summary](https://arxiv.org/abs/2310.08183), arXiv:2310.08183
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
 deci-Hertz gravitational waves over the
