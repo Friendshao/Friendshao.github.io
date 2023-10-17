@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 252)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 253)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,12 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. H.-P. Gu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraints on charged black holes
+from merger-ringdown signals in GWTC-3 and prospects for the Einstein
+Telescope](https://arxiv.org/abs/2310.10447), arXiv:2310.10447
 
 0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
