@@ -40,12 +40,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, Y.-H. I.  Yin, B.-B. Zhang,
 gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
 arXiv:2309.16991
 
-0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, Z. Hu, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C.-J. Xia, R.-X. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
-magnetar giant flares in the strangeon star
-model](https://arxiv.org/abs/2309.09847), arXiv:2309.09847
-
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
 Axisymmetric Neutron Stars in the Standard-Model
@@ -113,6 +107,12 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, Z. Hu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C.-J. Xia, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
+magnetar giant flares in the strangeon star
+model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* (accepted), arXiv:2309.09847
 
 0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
 [A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
