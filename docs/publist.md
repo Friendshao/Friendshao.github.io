@@ -70,11 +70,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Continuous gravitational waves from
 trapped magnetar ejecta and the connection to glitches and
 antiglitches](https://arxiv.org/abs/2308.01588), arXiv:2308.01588
 
-0. Q.G. Bailey<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.S. Gard,
-N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
-electromagnetic, and gravitational waves with spacetime-symmetry
-breaking](https://arxiv.org/abs/2307.13374), arXiv:2307.13374
-
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
 **L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
 stars](https://arxiv.org/abs/2306.08234), arXiv:2306.08234
@@ -107,6 +102,11 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. Q.G. Bailey<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.S. Gard,
+N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
+electromagnetic, and gravitational waves with spacetime-symmetry
+breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C.-J. Xia, R.-X. Xu<font
