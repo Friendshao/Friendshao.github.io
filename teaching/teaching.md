@@ -54,7 +54,7 @@ tr:nth-child(odd) {
 <!-- | [TM-2024S](tm24) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | XXX<br><small>**习题课**: XXX |
 | [PHY-2024S](phy24) | **General Physics (I)**<br>**普通物理（I）** | YYY<br><small>**习题课**: YYY | -->
 
-| [TM-2024S](tm24) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 时间待定；地点待定<br><small>**习题课**: 时间待定；地点待定 |
+| [TM-2024S](tm24) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 时间地点待定<br><small>**习题课**: 待定 |
 | [CED-2023F](ced23) | **Electrodynamics (A)**<br>**电动力学（A）** | 周一7-8节 & 周三3-4节；地点：三教301<br><small>**习题课**: 周一10-11节(双)；地点：二教525 & 理教204 |
 | [GRA-2023F](gr23) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节；地点：二教505 |
 
