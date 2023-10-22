@@ -87,9 +87,9 @@ tr:nth-child(odd) {
 
 <big><big> **Undergraduate Student Research Study**
 
-0. **周立杭**，（北京大学，2023年11月）
-0. **胡杰瑞**，（北京大学，2023年11月）
-0. **王伟松**，（北京大学，2023年11月）
+0. **周立杭**，Superradiant instabilities of massive bosons（北京大学，2023年11月）
+0. **胡杰瑞**，Studying gravitational-wave polarizations（北京大学，2023年11月）
+0. **王伟松**，Spin dynamics of black hole - pulsar systems（北京大学，2023年11月）
 0. **张喆戬**，Testing Equivalence Principle with Pulsar Timing（北京大学，2022年10月）
 0. **董益铭**，Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$（北京大学，2022年10月）
 0. **祁昊洋**，Constraining Ultralight Dark Matters with Pulsar Timing（北京大学，2022年10月）
