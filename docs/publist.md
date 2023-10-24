@@ -40,11 +40,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, Y.-H. I.  Yin, B.-B. Zhang,
 gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
 arXiv:2309.16991
 
-0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
-Axisymmetric Neutron Stars in the Standard-Model
-Extension](https://arxiv.org/abs/2309.02871), arXiv:2309.02871
-
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than the black hole of the same
 mass?](https://arxiv.org/abs/TBA), submitted
@@ -102,6 +97,12 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
+Axisymmetric Neutron Stars in the Standard-Model
+Extension](https://arxiv.org/abs/2309.02871), *Phys. Rev. D* (accepted),
+arXiv:2309.02871
 
 0. Q.G. Bailey<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.S. Gard,
 N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
