@@ -53,12 +53,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, F. Zhang, [Prospects for probing
 small-scale dark matter models with pulsars around Sagittarius A$^\ast$](TBA),
 submitted
 
-0. L. Zhou<font color="#5c5c5c"><sup>(#)</sup></font>, R. Brito, Z.-F. Mai<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Superradiant instabilities of
-massive bosons around exotic compact objects](https://arxiv.org/abs/2308.03091),
-arXiv:2308.03091
-
 0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Kang,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Continuous gravitational waves from
@@ -68,11 +62,6 @@ antiglitches](https://arxiv.org/abs/2308.01588), arXiv:2308.01588
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
 **L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
 stars](https://arxiv.org/abs/2306.08234), arXiv:2306.08234
-
-0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
-X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
-Zhang, [The precursor of GRB211211A: a tide-induced giant
-quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 
 0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
 H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
@@ -97,6 +86,17 @@ submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
+X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
+Zhang, [The precursor of GRB211211A: a tide-induced giant
+quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted),
+arXiv:2305.10682
+
+0. L. Zhou<font color="#5c5c5c"><sup>(#)</sup></font>, R. Brito, Z.-F. Mai<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Superradiant instabilities of
+massive bosons around exotic compact objects](https://arxiv.org/abs/2308.03091), *Phys. Rev. D* (accepted), arXiv:2308.03091
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for

@@ -49,7 +49,7 @@ tr:nth-child(odd) {
 
 ## 课程信息
 
-- This is a class designed for Freshman students from <b>School of ???</b> at Peking University. The contents include
+- This is a class designed for Freshman students from <b>College of Engineering</b> at Peking University. The contents include
   - **Mechanics** (力学)
   - **Electromagnetism** (电磁学)
 
