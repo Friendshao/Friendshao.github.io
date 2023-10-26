@@ -78,7 +78,7 @@ tr:nth-child(odd) {
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
 | PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & ?? |
-| PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: ?? |
+| PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & ?? |
 | PKU'23F | [**Electrodynamics (A)**](ced23)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Zexin Hu & Hanlin Song |
 | PKU'23F | [**General Relativity & Astrophysics**](gr23)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Peixiang Ji |
 | PKU'22F | [**Electrodynamics (B)**](ced22)<br>**电动力学（B）** | **Lecturer** <small><small> * TA: Yong Gao |
