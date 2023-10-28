@@ -1379,22 +1379,7 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
 
-0. R. Schoedel, S. Longmore, J. Henshaw, A. Ginsburg, J. Bally, A. Feldmeier, M.
-Hosek, F.N. Lara, A. Ciurlo, M. Chevance, J.M.D. Kruijssen, R. Klessen, G.
-Ponti, P. Amaro-Seoane, K. Anastasopoulou, J. Anderson, M. Arias, A.T. Barnes,
-C. Battersby, G. Bono, L.B. Ferres, A. Bryant, M.C. Gonzáalez, S. Cassisi, L.
-Chaves-Velasquez, F. Conte, R.C. Ramos, A. Cotera, S. Crowe, E. di Teodoro, T.
-Do, F. Eisenhauer, R. Fedriani, J.K.S. Friske, D. Gadotti, C. Gallart, T.G.
-Calvente, E.G. Cano, M.G. Marín, A. Gardini, A.K. Gautam, A. Ghez, S. Gillessen,
-A. Gualandris, R. Gutermuth, D. Haggard, M. Hankins, Y. Hu, J. Kauffmann, R.
-Lau, A. Lazarian, M. Libralato, A. Lu, X. Lu, J.R. Lu, N. Luetzgendorf, J.
-Magorrian, S. Mandel, S. Markoff, Á.M. Arranz, A. Mastrobuono-Battisti, E.
-Mills, M. Morris, F. Najarro, G. Nandakumar, D. Nataf, N. Neumayer, S.
-Nishiyama, D.M. Paré, M. Petkova, T.G.S. Pillai, M.R.C. Román, N. Sabha, J.S.
-Bermúdez, Á. Sánchez-Monge, M. Schultheis, **L. Shao**, J. Simpson, J.C. Tan, B.
-Thorsbro, P. Torne, E. Valenti, R. van der Marel, S. Verberne, S. von
-Fellenberg, D. Walker, G. Witzel, S. Xu, F. Yusef-Zadeh, M. Zajaček, M. Zoccali,
-[The JWST Galactic Center Survey - A White
+0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
 
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
