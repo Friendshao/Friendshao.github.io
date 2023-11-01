@@ -51,8 +51,9 @@ tr:nth-child(odd) {
 
 ### **Recent Courses**
 
-| [TM-2024S](tm24) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 时间地点待定<br><small>**习题课**: 待定 |
-| [PHY-2024S](phy24) | **General Physics (I)**<br>**普通物理（I）** | 时间地点待定<br><small>**习题课**: 待定 |
+| [GRA-2024F](gr24) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 待定 |
+| [TM-2024S](tm24) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 待定<br><small>**习题课**: 待定 |
+| [PHY-2024S](phy24) | **General Physics (I)**<br>**普通物理（I）** | 待定<br><small>**习题课**: 待定 |
 | [FPA-2023](https://pkutalent.learnworlds.com/course/astronomy) | **Fundamental Physics in Astronomy**<br>**天文学中的基础物理** | 亚洲青少年交流计划<br><small>Asian Youth Exchange Program |
 | [CED-2023F](ced23) | **Electrodynamics (A)**<br>**电动力学（A）** | 周一7-8节 & 周三3-4节；地点：三教301<br><small>**习题课**: 周一10-11节(双)；地点：二教525 & 理教204 |
 | [GRA-2023F](gr23) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节；地点：二教505 |
@@ -63,7 +64,7 @@ tr:nth-child(odd) {
 ### **Summary Table**
 
 | **ID** | **COURSE** | **RECORD** |
-| 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2023F**](gr23) (93 ppl.)<br>[**2021F**](gr21) (18 ppl.)<br>[**2020F**](gr20) (34 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
+| 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2024F**](gr24) (?? ppl.)<br>[**2023F**](gr23) (93 ppl.)<br>[**2021F**](gr21) (18 ppl.)<br>[**2020F**](gr20) (34 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
 | 00431132 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (I)** <font color="gray"><small><small> * incl. Mechanics & Electromagnetism</small></small></font><br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2024S**](phy24) (?? ppl.)<br>[**2022S**](phy22) (95 ppl.)<br>[**2021S**](phy21) (159 ppl.) |  
 | 00431133 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (II)** <font color="gray"><small><small> * incl. Thermal Physics, Optics, & Modern Physics</small></small></font><br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20) (75 ppl.) | 
 | 00432140 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Electrodynamics (A)**<br>**电动力学（A）**<br><small><small> * exercise class ID: 00432160 | [**2023F**](ced23) (100 ppl.) | 
@@ -79,6 +80,7 @@ tr:nth-child(odd) {
 ### **Teaching History**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
+| PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
 | PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & Zexin Hu |
 | PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & ?? |
 | AYEP'23 | [**Fundamental Physics in Astronomy**](https://pkutalent.learnworlds.com/course/astronomy)<br>**天文学中的基础物理** | **Lecturer** <small><small> * Asian Youth Exchange Program |
