@@ -28,6 +28,7 @@ tr:nth-child(odd) {
 | 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | NULL |
 | 2020.12-2025.11 | **主持** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | 2020SKA0120300 |
 | 2020.01-2024.12 | 参与 | **国家自然科学重大基金项目** <br> <small> 黑洞烛光的宇宙学应用 </small> | 11991053 |
+| 2021.01-2023.12 | **入选** | **国家海外高层次人才青年项目** | NULL |
 | 2020.01-2023.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究</small> | 11975027 |
 | 2018.01-2020.12<br><font color="gray"><small><small> * 已结题</small></small></font> | **入选** | **第四届中国科协青年人才托举工程** | 2018QNRC001 |
 | 2016.06-2021.05<br><font color="gray"><small><small> * 已结题</small></small></font> | 参与 | **中国科学院先导B专项** <br> <small> 基于FAST的脉冲星测时和引力波探测预研究 </small> | XDB23010200 |
