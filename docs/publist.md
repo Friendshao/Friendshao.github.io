@@ -110,12 +110,6 @@ N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
 electromagnetic, and gravitational waves with spacetime-symmetry
 breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
 
-0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, Z. Hu, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C.-J. Xia, R.-X. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
-magnetar giant flares in the strangeon star
-model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* (accepted), arXiv:2309.09847
-
 0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
 [A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
 the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted),
@@ -140,6 +134,13 @@ third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, Z. Hu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C.-J. Xia, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
+magnetar giant flares in the strangeon star
+model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
+(2024) 855
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
