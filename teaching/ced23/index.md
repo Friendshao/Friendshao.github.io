@@ -89,7 +89,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | 3. 静磁场 | HW3  (ddl: Nov 6) |
 | *答疑* | 10月29日·13:30-15:00PM，科维理所K217 | 
 | <font color="green"><b>期中考试</b></font>（闭卷，笔试） | 11月1日·10:10-12:00PM，二教102 |
-| 4. 电磁波的传播 | HW4  (ddl: ) |
+| 4. 电磁波的传播 | HW4  (ddl: Nov 20) |
 | 5. 电磁波的激发 | HW5  (ddl: ) |
 | 6. 狭义相对论 | HW6  (ddl: )  |
 | 7. 带电粒子和电磁场的相互作用 | HW7  (ddl: ) |
