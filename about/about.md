@@ -45,10 +45,10 @@ University](http://www.pku.edu.cn/), Beijing China.
 | &nbsp; &nbsp; 理论力学 (A) | Theoretical Mechanics (A) |
 | &nbsp; &nbsp; 电动力学 (A) | Electrodynamics (A)  |
 | &nbsp; &nbsp; 电动力学 (B) | Electrodynamics (B)  |
-| &nbsp; &nbsp; 普通物理 (I) | General Physics (I) <font color="gray"><small><small> *** including Mechanics & Electromagnetism</small></small></font> |
-| &nbsp; &nbsp; 普通物理 (II) | General Physics (II) <font color="gray"><small><small> *** including Thermal Physics, Optics, & Modern Physics</small></small></font> |
-| &nbsp; &nbsp; 百年物理 | Centenary Physics  |
-| &nbsp; &nbsp; 天体粒子物理 | Astroparticle Physics <font color="gray"><small><small> *** co-Lecturer</small></small></font> |
+| &nbsp; &nbsp; 普通物理 (I) | General Physics (I)  |
+| &nbsp; &nbsp; 普通物理 (II) | General Physics (II) |
+| &nbsp; &nbsp; 百年物理 | Centenary Physics <small>(建设中...)</small> |
+| &nbsp; &nbsp; 天体粒子物理 | Astroparticle Physics |
 
 <p></p>
 
