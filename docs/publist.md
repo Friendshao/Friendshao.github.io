@@ -1402,9 +1402,10 @@ relativistic gravity with radio timing of neutron stars](TBA), in
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars
 as a laboratory for strong-field gravity
-tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
-theory to Experimental Searches on All Scales* (Springer Cham, 2023), p. 385
-[*Lect. Notes Phys.* 1017 (2023) 385]
+tests](https://arxiv.org/abs/2206.15187), *Lect. Notes Phys.* 1017 (2023) 385,
+in *Modified and Quantum Gravity: From theory to Experimental Searches on All
+Scales* (Springer Cham, 2023), p. 385
+
 
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
