@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 253)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 254)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -141,6 +141,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
 magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope
+Results. IX. Detection of Near-horizon Circular
+Polarization](https://iopscience.iop.org/article/10.3847/2041-8213/acff70),
+*Astrophys. J. Lett.* 957 (2023) L20
 
 0. H. Abe, *et al.* (KAGRA Collaboration), [Performance of the KAGRA detector
 during the first joint observation with GEO 600
