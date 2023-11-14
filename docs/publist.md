@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 254)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 255)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -72,9 +72,9 @@ signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
-K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, [A freely precessing magnetar
-following an X-ray outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1),
-submitted
+K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
+magnetar following an X-ray
+outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), submitted
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
@@ -136,6 +136,12 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
 magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. R. Freek<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, M.D. Johnson, *et
+al.* (EHT Collaboration), [Polarimetric Geometric Modeling for mm-VLBI
+Observations of Black
+Holes](https://iopscience.iop.org/article/10.3847/2041-8213/acff6f), *Astrophys.
+J. Lett.* 957 (2023) L21
 
 0. L. Zhou<font color="#5c5c5c"><sup>(#)</sup></font>, R. Brito, Z.-F. Mai<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
