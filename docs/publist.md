@@ -94,11 +94,6 @@ Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted),
 arXiv:2305.10682
 
-0. L. Zhou<font color="#5c5c5c"><sup>(#)</sup></font>, R. Brito, Z.-F. Mai<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Superradiant instabilities of
-massive bosons around exotic compact objects](https://arxiv.org/abs/2308.03091), *Phys. Rev. D* (accepted), arXiv:2308.03091
-
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
 Axisymmetric Neutron Stars in the Standard-Model
@@ -141,6 +136,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
 magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. L. Zhou<font color="#5c5c5c"><sup>(#)</sup></font>, R. Brito, Z.-F. Mai<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Superradiant instabilities of
+massive bosons around exotic compact objects](https://arxiv.org/abs/2308.03091), *Phys. Rev. D* 108 (2023) 103025
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope
 Results. IX. Detection of Near-horizon Circular
