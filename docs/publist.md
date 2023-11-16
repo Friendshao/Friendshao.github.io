@@ -94,12 +94,6 @@ Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted),
 arXiv:2305.10682
 
-0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
-Axisymmetric Neutron Stars in the Standard-Model
-Extension](https://arxiv.org/abs/2309.02871), *Phys. Rev. D* (accepted),
-arXiv:2309.02871
-
 0. Q.G. Bailey<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.S. Gard,
 N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
 electromagnetic, and gravitational waves with spacetime-symmetry
@@ -136,6 +130,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
 magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
+Axisymmetric Neutron Stars in the Standard-Model
+Extension](https://arxiv.org/abs/2309.02871), *Phys. Rev. D* 108 (2023) 104039
 
 0. R. Freek<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, M.D. Johnson, *et
 al.* (EHT Collaboration), [Polarimetric Geometric Modeling for mm-VLBI
