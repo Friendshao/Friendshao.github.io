@@ -81,13 +81,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Kang,
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Continuous gravitational waves from
-trapped magnetar ejecta and the connection to glitches and
-antiglitches](https://arxiv.org/abs/2308.01588), *Mon.  Not. R. Astron. Soc.*
-(accepted), arXiv:2308.01588
-
 0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
 X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
 Zhang, [The precursor of GRB211211A: a tide-induced giant
@@ -123,6 +116,12 @@ third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Kang,
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Continuous gravitational waves from
+trapped magnetar ejecta and the connection to glitches and
+antiglitches](https://arxiv.org/abs/2308.01588), *Mon.  Not. R. Astron. Soc.* 527 (2024) 2379
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, C.-J. Xia, R.-X. Xu<font
