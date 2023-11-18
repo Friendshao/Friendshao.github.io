@@ -44,7 +44,7 @@ layout: default
 
 0. Sun, X., Miao, Z., Sun, B., **Li, A.**, 2023, [Astrophysical Implications on Hyperon Couplings and Hyperon Star Properties with Relativistic Equations of States](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...55S/abstract), ApJ, 942, 55
 
-0. **Tong, H.**, [Discussions on the Nature of GLEAM-X J162759.5-523504.3](https://ui.adsabs.harvard.edu/abs/2023ApJ...943....3T/abstract), ApJ, 943, 3
+0. **Tong, H.**, 2023, [Discussions on the Nature of GLEAM-X J162759.5-523504.3](https://ui.adsabs.harvard.edu/abs/2023ApJ...943....3T/abstract), ApJ, 943, 3
 
 0. Zhu, Z., **Li, A.**, Liu, T., 2023, [A Bayesian Inference of a Relativistic Mean-field Model of Neutron Star Matter from Observations of NICER and GW170817/AT2017gfo](https://ui.adsabs.harvard.edu/abs/2023ApJ...943..163Z/abstract), ApJ, 943, 163
 
@@ -52,11 +52,11 @@ layout: default
 
 0. **Li, A.**, Yong, G.-C., Zhang, Y.-X., 2023, [Testing the phase transition parameters inside neutron stars with the production of protons and lambdas in relativistic heavy-ion collisions](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107d3005L/abstract), PhRvD, 107, 043005
 
+0. **Lai, X.-Y.**, **Xia, C.-J.**, Xu, R.-X., 2023, [Bulk strong matter: the trinity](https://ui.adsabs.harvard.edu/abs/2023AdPhX...837433L/abstract), AdPhX, 8, 2137433
+
 0. Huang, X.-R., **Chen, L.-W.**, 2022, [Supernova neutrinos as a precise probe of nuclear neutron skin](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106l3034H/abstract), PhRvD, 106, 123034
 
 0. **Zhou, E.**, Kiuchi, K., Shibata, M.,  Tsokaros, A.,  Uryu, K., 2022, [Evolution of equal mass binary bare quark stars in full general relativity: Could a supramassive merger remnant experience prompt collapse?](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106j3030Z/abstract), PhRvD, 106, 103030
-
-0. **Lai, X.-Y.**, **Xia, C.-J.**, Xu, R.-X., 2023, [Bulk strong matter: the trinity](https://ui.adsabs.harvard.edu/abs/2023AdPhX...837433L/abstract), AdPhX, 8, 2137433
 
 0. **Li, A.**, 2022, [Can we distinguish quark stars from neutron stars with measurements of global properties?](https://ui.adsabs.harvard.edu/abs/2022EPJWC.26004001L/abstract), 	EPJ Web Conf., 260, 04001
 
