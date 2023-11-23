@@ -54,6 +54,8 @@ layout: default
 
 0. **Lai, X.-Y.**, **Xia, C.-J.**, Xu, R.-X., 2023, [Bulk strong matter: the trinity](https://ui.adsabs.harvard.edu/abs/2023AdPhX...837433L/abstract), AdPhX, 8, 2137433
 
+0. **Chen, L. W.**, Dong, X., Fukushima, K., Galatyuk, T., Herrmann, N., Hong, B., Kisiel, A., Leifels, Y., Li, B. A., Rapp, R., Sako, H., Stroth, J., Wang, F. Q., Xiao, Z. G., Xu, N., Xu, R. X., Zhang, Y. F., Zhu, X. L., 2022, [Nuclear Matter at High Density and Equation of State](https://link.springer.com/chapter/10.1007/978-981-19-4441-3_4), In: Luo, X., Wang, Q., Xu, N., Zhuang, P. (eds), Properties of QCD Matter at High Baryon Density, Springer, Singapore
+
 0. Huang, X.-R., **Chen, L.-W.**, 2022, [Supernova neutrinos as a precise probe of nuclear neutron skin](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106l3034H/abstract), PhRvD, 106, 123034
 
 0. **Zhou, E.**, Kiuchi, K., Shibata, M.,  Tsokaros, A.,  Uryu, K., 2022, [Evolution of equal mass binary bare quark stars in full general relativity: Could a supramassive merger remnant experience prompt collapse?](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106j3030Z/abstract), PhRvD, 106, 103030
