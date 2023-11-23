@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 256)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 257)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -86,6 +86,12 @@ outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Effect of noise
+estimation in time-domain ringdown analysis: A case study with
+GW150914](http://arxiv.org/abs/2311.13300), *Phys. Rev. D* (accepted),
+arXiv:2311.13300
 
 0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
 X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
