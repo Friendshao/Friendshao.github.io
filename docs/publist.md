@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 257)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 258)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,12 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Impact of overlapping signals on
+parameterized post-Newtonian coefficients in tests of
+gravity](http://arxiv.org/abs/2311.16184), arXiv:2311.16184
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
@@ -63,10 +69,6 @@ submitted
 **L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
 stars](https://arxiv.org/abs/2306.08234), arXiv:2306.08234
 
-0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
-H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
-made of heavy elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
@@ -86,6 +88,11 @@ outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
+H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
+made of heavy elements](https://arxiv.org/abs/2305.05847), *Front. Astron. Space
+Sci.* (accepted), arXiv:2305.05847
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Effect of noise

@@ -286,7 +286,7 @@ layout: default
 
 0. Liang, D., Xu, R., Mai, Z.-F., **Shao, L.**, 2023, [Probing vector hair of black holes with extreme-mass-ratio inspirals](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107d4053L/abstract), PhRvD, 107, 044053
 
-0. Cheng, Q., **Zheng, X.-P.**, Fan, X.-L.**, Huang, X., 2023, [Gravitational Wave Radiation from Newborn Accreting Magnetars](https://ui.adsabs.harvard.edu/abs/2023RAA....23b5001C/abstract), RAA, 23, 025001
+0. Cheng, Q., **Zheng, X.-P.**, Fan, X.-L., Huang, X., 2023, [Gravitational Wave Radiation from Newborn Accreting Magnetars](https://ui.adsabs.harvard.edu/abs/2023RAA....23b5001C/abstract), RAA, 23, 025001
 
 0. Liang, D., Xu, R., Lu, X., **Shao, L.**, 2022, [Polarizations of gravitational waves in the bumblebee gravity model](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106l4019L/abstract), PhRvD, 106, 124019
 
