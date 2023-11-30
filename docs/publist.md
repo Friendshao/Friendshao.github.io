@@ -116,17 +116,6 @@ breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:23
 the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted),
 arXiv:2308.13666
 
-0. P. Torne<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Liu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P.  Eatough, J. Wongphechauxsorn,
-J.M. Cordes, G.  Desvignes, M. De Laurentis, M.  Kramer, S.M. Ransom, S.
-Chatterjee, R. Wharton, R. Karuppusamy, L. Blackburn, M.  Janssen, C.-k. Chan,
-G.B. Crew, L.D. Matthews, C. Goddi, H. Rottmann, J. Wagner, S. Sanchez, I. Ruiz,
-F. Abbate, G.C. Bower, J.J. Salamanca, A.I. Gomez-Ruiz, A.  Herrera-Aguilar, W.
-Jiang, R.-S. Lu, U.-L.  Pen, A.W. Raymond, **L.  Shao**, Z.  Shen, *et al.*
-(EHT Collaboration), [A search for pulsars around Sgr A$^\ast$ in the first
-Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
-*Astrophys. J.* (accepted), arXiv:2308.15381
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
 third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
@@ -148,6 +137,17 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
 magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. P. Torne<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Liu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P.  Eatough, J. Wongphechauxsorn,
+J.M. Cordes, G.  Desvignes, M. De Laurentis, M.  Kramer, S.M. Ransom, S.
+Chatterjee, R. Wharton, R. Karuppusamy, L. Blackburn, M.  Janssen, C.-k. Chan,
+G.B. Crew, L.D. Matthews, C. Goddi, H. Rottmann, J. Wagner, S. Sanchez, I. Ruiz,
+F. Abbate, G.C. Bower, J.J. Salamanca, A.I. Gomez-Ruiz, A.  Herrera-Aguilar, W.
+Jiang, R.-S. Lu, U.-L.  Pen, A.W. Raymond, **L.  Shao**, Z.  Shen, *et al.*
+(EHT Collaboration), [A search for pulsars around Sgr A$^\ast$ in the first
+Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
+*Astrophys. J.* 959 (2023) 14
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, R. Xu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Moment of Inertia for
