@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 258)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 259)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,16 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
+Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
+Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
+Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
+Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
+Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, **L. Shao**, A.
+Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
+Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
+Next-Generation Event Horizon Telescope](http://arxiv.org/abs/TBA), arXiv:TBA
 
 0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
@@ -69,10 +79,6 @@ submitted
 **L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
 stars](https://arxiv.org/abs/2306.08234), arXiv:2306.08234
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-gravitational-lensing signatures in the full third observing run of the
-LIGO-Virgo network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
-
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, J. Zhao, C.
 Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
@@ -88,6 +94,11 @@ outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+gravitational-lensing signatures in the full third observing run of the
+LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
+(accepted), arXiv:2304.08393
 
 0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
 H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
