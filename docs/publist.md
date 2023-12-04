@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 259)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 14)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 15)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
 ---
@@ -70,11 +70,6 @@ mass?](https://arxiv.org/abs/TBA), submitted
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, F. Zhang, [Prospects for probing
-small-scale dark matter models with pulsars around Sagittarius A$^\ast$](TBA),
-submitted
-
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
 **L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
 stars](https://arxiv.org/abs/2306.08234), arXiv:2306.08234
@@ -99,6 +94,11 @@ run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 (accepted), arXiv:2304.08393
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, F. Zhang, [Prospects for probing
+small-scale dark matter models with pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
 
 0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
 H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
@@ -1713,6 +1713,12 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
+
+0. 路瑞鹏<font color="#5c5c5c"><sup>(#)</sup></font>, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光,
+**邵立晶**, 王平, 汪卫华, 王维扬, 夏铖君, 胥恒, 徐仁新<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, 徐世庆, 岳汉<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, 赵里, 郑小平, 周恩平, 邹远川,
+[从地震到星震](TBA), submitted
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 徐睿<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
