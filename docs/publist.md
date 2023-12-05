@@ -29,7 +29,8 @@ Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
 Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, **L. Shao**, A.
 Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
-Next-Generation Event Horizon Telescope](http://arxiv.org/abs/TBA), arXiv:TBA
+Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
+arXiv:2312.02130
 
 0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
@@ -63,8 +64,8 @@ gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
 arXiv:2309.16991
 
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
-Xu, **L. Shao**, H. Yu, [Can a star be smaller than the black hole of the same
-mass?](https://arxiv.org/abs/TBA), submitted
+Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
+mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
