@@ -129,11 +129,6 @@ breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:23
 the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted),
 arXiv:2308.13666
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
-binary coalescences observed by LIGO and Virgo during the second part of the
-third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X*
-(accepted), arXiv:2111.03606
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
@@ -150,6 +145,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
 magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
+binary coalescences observed by LIGO and Virgo during the second part of the
+third observing run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* 13 (2023)
+041039
 
 0. P. Torne<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Liu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P.  Eatough, J. Wongphechauxsorn,
