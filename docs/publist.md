@@ -98,7 +98,8 @@ LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, F. Zhang, [Prospects for probing
 small-scale dark matter models with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
+A$^\ast$](https://arxiv.org/abs/2312.01889), *Phys. Rev. D* (accepted),
+arXiv:2312.01889
 
 0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
 H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
