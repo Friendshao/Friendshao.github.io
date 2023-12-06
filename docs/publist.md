@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 259)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 260)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 15)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, D. Liang, Z.-F. Mai, [Probing
+the vector charge of Sagittarius A* with pulsar
+timing](http://arxiv.org/abs/2312.02486), arXiv:2312.02486
 
 0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
 Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
