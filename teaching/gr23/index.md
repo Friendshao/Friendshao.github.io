@@ -87,7 +87,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | 4. Einstein 场方程 |  |
 | 5. 真空球对称解 | HW3 (ddl: Nov 21) |
 | 6. 弱场近似与实验检验 | HW4 (ddl: Dec 12) |
-| 7. 中子星与黑洞 | HW5 (ddl: ) |
+| 7. 中子星与黑洞 | HW5 (ddl: Dec 26) |
 | 8. 引力波简介 |  | 
 | 9. 宇宙学简介* | |
 | *期末答疑* | |
