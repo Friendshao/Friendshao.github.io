@@ -91,7 +91,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | 8. 引力波简介 |  | 
 | 9. 宇宙学简介* | |
 | *期末答疑* | |
-| **期末考试（开卷）** | |
+| **期末考试（开卷）** | 2024年1月9日·晚 |
 
 <p></p>
 
