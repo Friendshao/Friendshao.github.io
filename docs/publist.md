@@ -112,12 +112,6 @@ H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
 made of heavy elements](https://arxiv.org/abs/2305.05847), *Front. Astron. Space
 Sci.* (accepted), arXiv:2305.05847
 
-0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Effect of noise
-estimation in time-domain ringdown analysis: A case study with
-GW150914](http://arxiv.org/abs/2311.13300), *Phys. Rev. D* (accepted),
-arXiv:2311.13300
-
 0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
 X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
 Zhang, [The precursor of GRB211211A: a tide-induced giant
@@ -150,6 +144,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
 magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Effect of noise
+estimation in time-domain ringdown analysis: A case study with
+GW150914](http://arxiv.org/abs/2311.13300), *Phys. Rev. D* 108 (2023) 123018
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
 binary coalescences observed by LIGO and Virgo during the second part of the
