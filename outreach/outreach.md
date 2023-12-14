@@ -26,15 +26,15 @@ tr:nth-child(odd) {
 ### <img src="../whatsmore/journal.jpeg" style="height:50px;"> &nbsp;<b>Serving for Academic Journals</b> 
 
 | **TIME** | **ROLE** |
-| 2020-2023 |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
+| 2020-now |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
 | 2023-2024 | Special Editorial Board Member  of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
-| 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
-| 2019-2022 | Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2023 | Special Issue Editor for *Classical and Quantum Gravity*<br><small>[Focus on Pulsar Timing Arrays](https://iopscience.iop.org/collections/cqg-230802-310)</small> |
 | 2023 | Special Issue Editor for *Results in Physics*<br><small>[Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/about/call-for-papers#physics-of-gravitational-waves-developments-in-theory-and-detection)</small> |
 | 2023 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
 | | &#9830; **Past Role** &#9830; |
+| 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
+| 2019-2022 | Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2023 | IOP Trusted Reviewer for [IOP Publishing](https://accreditations.ioppublishing.org/ae33d146-240a-4f3a-94d3-0c5c72e3b873#gs.5181xs) |
 | 2022 | Outstanding Reviewer for [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://mp.weixin.qq.com/s/l0tT488ZYP1WjEwD5GlK9w) |
 | 2020 | Outstanding Reviewer for [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA) |
