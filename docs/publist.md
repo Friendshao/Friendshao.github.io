@@ -101,12 +101,6 @@ gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 (accepted), arXiv:2304.08393
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, F. Zhang, [Prospects for probing
-small-scale dark matter models with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2312.01889), *Phys. Rev. D* (accepted),
-arXiv:2312.01889
-
 0. C.-J. Xia<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y.-F. Huang,
 H.-B. Li, **L. Shao**, R.-X. Xu, [Ultra low-mass and small-radius white dwarfs
 made of heavy elements](https://arxiv.org/abs/2305.05847), *Front. Astron. Space
@@ -144,6 +138,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Quasi-periodic oscillations during
 magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, F. Zhang, [Prospects for probing
+small-scale dark matter models with pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/2312.01889), *Phys. Rev. D* 108 (2023) 123034
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Effect of noise
