@@ -73,7 +73,7 @@ tr:nth-child(odd) {
 | **习题课** | 周一10-11节；理教207 |
 | **助教** | 姬佩祥，2201110290@stu.pku.edu.cn |
 | | 胡泽昕，huzexin@pku.edu.cn |
-| | 赵鑫淼，zhaoxinmiao@pku.edu.cn |
+| | |
 | <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn:443/link/D86FCF0A773EDD5C29FDA0597FFCD2C2) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
