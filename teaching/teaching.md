@@ -84,8 +84,8 @@ tr:nth-child(odd) {
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
 | PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
-| PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & Zexin Hu |
-| PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & ?? |
+| PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & Fangcheng Wang |
+| PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & Zexin Hu & Xinmiao Zhao |
 | AYEP'23 | [**Fundamental Physics in Astronomy**](https://pkutalent.learnworlds.com/course/astronomy)<br>**天文学中的基础物理** | **Lecturer** <small><small> * Asian Youth Exchange Program |
 | PKU'23F | [**Electrodynamics (A)**](ced23)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Zexin Hu & Hanlin Song |
 | PKU'23F | [**General Relativity & Astrophysics**](gr23)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Peixiang Ji |
@@ -123,14 +123,16 @@ tr:nth-child(odd) {
 
 #### 教学奖励
 
+- 2023年，北京大学物理学院**钟盛标物理奖-教学奖**
 - 2023年，北京大学**优秀教学团队奖** [[公告](https://portal.pku.edu.cn/portal2017/#/schoolNoticeDetail/424853)]
   - <small>**电动力学教学团队：**朱守华、刘克新、刘川、彭良友、宋慧超、刘雄军、邵立晶、刘佳
-- 2023年，“北京大学本科毕业论文” **优秀指导教师奖**
-- 2022年，“北京大学本科生科研训练” **优秀指导教师奖**
-- 2021年，“北京大学本科生科研训练” **优秀指导教师奖**
-- 2021年，北京大学“**教学优秀奖**” [[公告](https://portal.pku.edu.cn/portal2017/#/schoolNoticeDetail/393840)]
-- 2020年，北京大学“第二十届青年教师教学基本功比赛”理工类**一等奖（第一名）** [[北大新闻网](https://news.pku.edu.cn/xwzh/0f1e21b1407d4b8c8e96903a5adcddd4.htm)]
-  - <small>并获得“**优秀教案奖**”、“**最佳教学演示奖**”和“**最受学生欢迎奖**” 
+- 2023年，北京大学本科毕业论文**优秀指导教师奖**
+- 2022年，北京大学本科生科研训练**优秀指导教师奖**
+- 2021年，北京大学物理学院**育人奉献奖**
+- 2021年，北京大学本科生科研训练**优秀指导教师奖**
+- 2021年，北京大学**教学优秀奖** [[公告](https://portal.pku.edu.cn/portal2017/#/schoolNoticeDetail/393840)]
+- 2020年，北京大学第二十届青年教师教学基本功比赛理工类**一等奖（第一名）** [[北大新闻网](https://news.pku.edu.cn/xwzh/0f1e21b1407d4b8c8e96903a5adcddd4.htm)]
+  - <small>并获得**优秀教案奖**、**最佳教学演示奖**和**最受学生欢迎奖**
 
 ####  相关报道
 
