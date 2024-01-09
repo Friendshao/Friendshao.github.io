@@ -81,7 +81,7 @@ layout: default
 - [hyperspace](http://hyperspace.uni-frankfurt.de/),
   [benty-fields](https://benty-fields.com/daily_arXiv),
   [GRA](http://gra.itp.ac.cn/12),
-  [LSC](https://www.lsc-group.phys.uwm.edu/ppcomm/Papers.html)
+  [LSC](https://pnp.ligo.org/ppcomm/Papers.html)
 - [NSFC](https://grants.nsfc.gov.cn/),
   [MOST](https://www.most.gov.cn/index.html),
   [Deutsche Bank](https://meine.deutsche-bank.de/trxm/db/)
