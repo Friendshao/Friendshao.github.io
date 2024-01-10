@@ -113,11 +113,6 @@ Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted),
 arXiv:2305.10682
 
-0. Q.G. Bailey<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.S. Gard,
-N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
-electromagnetic, and gravitational waves with spacetime-symmetry
-breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
-
 0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
 [A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
 the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted),
@@ -126,6 +121,11 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Q.G. Bailey<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.S. Gard,
+N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
+electromagnetic, and gravitational waves with spacetime-symmetry
+breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* 461 (2024) 169582
 
 0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Kang,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
