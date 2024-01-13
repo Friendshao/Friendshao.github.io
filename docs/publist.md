@@ -9,8 +9,8 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 261)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 262)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 15)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
@@ -91,6 +91,9 @@ outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
+Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* (accepted), arXiv:2310.08183
 
 0. H.-P. Gu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -1432,9 +1435,6 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
-
-0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
-Workshop Summary](https://arxiv.org/abs/2310.08183), arXiv:2310.08183
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
 deci-Hertz gravitational waves over the
