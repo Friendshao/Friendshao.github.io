@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 262)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 263)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 15)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,12 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Dynamic instability analysis for
+bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757),
+arXiv:2401.07757
 
 0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, Z. Wang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Compact Binary
