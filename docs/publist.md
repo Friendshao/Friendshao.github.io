@@ -82,11 +82,6 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, J. Zhao, C.
-Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
-parameter-estimation biases in overlapping gravitational-wave
-signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
-
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
@@ -97,6 +92,12 @@ outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), submitted
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, J. Zhao, C.
+Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
+parameter-estimation biases in overlapping gravitational-wave
+signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* (accepted),
+arXiv:2304.06734
 
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* (accepted), arXiv:2310.08183
