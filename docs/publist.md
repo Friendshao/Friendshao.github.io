@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 263)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 264)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 15)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -131,6 +131,10 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
+supermassive black hole of M 87. I. Observations, calibration, imaging, and
+analysis](https://doi.org/10.1051/0004-6361/202347932), *Astron. & Astrophys.* 681 (2024) A79
 
 0. Q.G. Bailey<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.S. Gard,
 N.A. Nilsson, R. Xu, **L. Shao**, [Classical radiation fields for scalar,
