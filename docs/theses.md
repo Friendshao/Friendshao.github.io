@@ -105,8 +105,8 @@ tr:nth-child(odd) {
 
 <big><big> **Postdoctoral Report**
 
-0. **梁迪聪**，[TBA](theses/LiangDicong.pdf)（北京大学，2024年2月）
-  - <small> TBA
+0. **梁迪聪**，[修改引力理论中的引力波](theses/LiangDicong.pdf)（北京大学，2024年1月）
+  - <small> Gravtitational Waves in Modified Gravity Theories
 0. **徐睿**，[替代引力理论中的致密天体](theses/XuRui2.pdf)（北京大学，2023年3月）
   - <small> Compact Objects in Alternative Theories of Gravity
 0. **徐睿**，[中子星在引力替代理论中的结构](theses/XuRui.pdf)（北京大学，2021年4月）
