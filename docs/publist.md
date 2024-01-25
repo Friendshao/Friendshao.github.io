@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 265)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 15)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
 
 ---
@@ -1741,6 +1741,9 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
+
+0. 梁迪聪<font color="#5c5c5c"><sup>(#)</sup></font>, **邵立晶**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [脉冲星计时阵列与纳赫兹引力波探测](TBA), submitted
 
 0. 路瑞鹏<font color="#5c5c5c"><sup>(#)</sup></font>, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光,
 **邵立晶**, 王平, 汪卫华, 王维扬, 夏铖君, 胥恒, 徐仁新<font
