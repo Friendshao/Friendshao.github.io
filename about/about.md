@@ -8,7 +8,7 @@ permalink: /about/
 
 <img style="float: right;" src="shao2.png" width="180" hspace="10"> 
 
-Currently I am an **Associate Professor with Tenure** (研究员/长聘副教授) in the [Kavli
+I am an **Associate Professor with Tenure** (研究员/长聘副教授/博导) in the [Kavli
 Institute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
 University](http://www.pku.edu.cn/), Beijing China. 
 &nbsp; <img src="tree.png" alt="PKU" style="height:25px;"> [**Academic Tree**](https://academictree.org/astronomy/peopleinfo.php?pid=913811)
@@ -20,7 +20,6 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 ### Selected Professional Recognitions
 
-- Doctoral Supervisor (博士生导师)
 - Boya Youth Scholar (博雅青年学者) at [Peking University](http://www.pku.edu.cn/)
 - Alibaba [DAMO Academy Young Fellow](https://damo.alibaba.com/damo-academy-young-fellow) (达摩院青橙学者)
 - Head of a [Max Planck Partner Group](http://kiaa.pku.edu.cn/info/1129/7050.htm)  between [KIAA](http://kiaa.pku.edu.cn/) and [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en)
