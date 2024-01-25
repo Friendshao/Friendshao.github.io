@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 264)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 265)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 15)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -86,6 +86,12 @@ Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Comparison between
+time-domain and frequency-domain Bayesian inferences to inspiral-merger-ringdown
+gravitational-wave signals](http://arxiv.org/abs/TBA), *Phys. Rev. D*
+(accepted), arXiv:TBA
 
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
