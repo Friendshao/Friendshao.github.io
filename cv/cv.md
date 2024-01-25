@@ -25,7 +25,7 @@ tr:nth-child(odd) {
 ## <b>Curriculum Vitae</b>
 
 | **TIME** | **POSITION** | **AFFILIATION** | **CITY** |
-| 2024.1-now | **Associate Professor with Tenure** | [KIAA, Peking University](http://kiaa.pku.edu.cn/) | Beijing |
+| 2024.2-now | **Associate Professor with Tenure** | [KIAA, Peking University](http://kiaa.pku.edu.cn/) | Beijing |
 | 2018.9-2024.1 | **Assistant Professor** | [KIAA, Peking University](http://kiaa.pku.edu.cn/) | Beijing |
 | 2017.9-2018.8 | **Scientific Staff** | [MPI für Radioastronomie](http://www.mpifr-bonn.mpg.de/2169/en) | Bonn |
 | 2015.9-2017.8 | **Junior Scientist** | [Albert Einstein Institute](http://www.aei.mpg.de/) | Potsdam | 
