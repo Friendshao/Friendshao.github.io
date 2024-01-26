@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 265)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 266)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
 - [**Miscellaneous**](#misc) <small> (in total 10)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, M. Wang, F. Zhang, **L.
+Shao**, [Towards a Consistent Calculation of the Lunar Response to Gravitational
+Waves](http://arxiv.org/abs/TBA), arXiv:TBA
 
 0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
