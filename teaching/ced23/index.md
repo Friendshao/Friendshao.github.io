@@ -98,11 +98,11 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 
 <p></p>
 
-<!-- ## 学生对课程的总体评价
+## 学生对课程的总体评价
 
 <div style="display: flex; justify-content: center;">
-<img src="ced22_score.png" width="880">
-</div> -->
+<img src="ced23_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({

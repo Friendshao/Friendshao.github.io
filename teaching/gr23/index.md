@@ -96,11 +96,11 @@ advanced undergraduates) with *Science & Engineering* background.
 <p></p>
 
 
-<!-- ## 学生对课程的总体评价
+## 学生对课程的总体评价
 
 <div style="display: flex; justify-content: center;">
-<img src="gr21_score.png" width="880">
-</div> -->
+<img src="gr23_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
