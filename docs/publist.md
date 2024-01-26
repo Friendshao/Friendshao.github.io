@@ -90,8 +90,7 @@ run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Comparison between
 time-domain and frequency-domain Bayesian inferences to inspiral-merger-ringdown
-gravitational-wave signals](http://arxiv.org/abs/TBA), *Phys. Rev. D*
-(accepted), arXiv:TBA
+gravitational-wave signals](http://arxiv.org/abs/2401.13997), *Phys. Rev. D* (accepted), arXiv:2401.13997
 
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
