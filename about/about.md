@@ -8,7 +8,7 @@ permalink: /about/
 
 <img style="float: right;" src="shao2.png" width="180" hspace="10"> 
 
-I am an **Associate Professor with Tenure** (研究员/长聘副教授/博导) in the [Kavli
+I am an **Associate Professor with Tenure** (研究员/长聘副教授/博士生导师) in the [Kavli
 Institute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at [Peking
 University](http://www.pku.edu.cn/), Beijing China. 
 &nbsp; <img src="tree.png" alt="PKU" style="height:25px;"> [**Academic Tree**](https://academictree.org/astronomy/peopleinfo.php?pid=913811)
