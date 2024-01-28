@@ -32,7 +32,7 @@ tr:nth-child(odd) {
 | 2023 | Special Issue Editor for *Classical and Quantum Gravity*<br><small>[Focus on Pulsar Timing Arrays](https://iopscience.iop.org/collections/cqg-230802-310)</small> |
 | 2023 | Special Issue Editor for *Results in Physics*<br><small>[Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/about/call-for-papers#physics-of-gravitational-waves-developments-in-theory-and-detection)</small> |
 | 2023 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
-| | &#9830; **Past Role** &#9830; |
+| | &#9830; **Past Role and Awards** &#9830; |
 | 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
 | 2019-2022 | Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2023 | IOP Trusted Reviewer for [IOP Publishing](https://accreditations.ioppublishing.org/ae33d146-240a-4f3a-94d3-0c5c72e3b873#gs.5181xs) |
