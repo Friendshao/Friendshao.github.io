@@ -112,12 +112,6 @@ arXiv:2304.06734
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* (accepted), arXiv:2310.08183
 
-0. H.-P. Gu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraints on charged black holes
-from merger-ringdown signals in GWTC-3 and prospects for the Einstein
-Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* (accepted), arXiv:2310.10447
-
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
 **L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
 stars](https://arxiv.org/abs/2306.08234), *Phys. Rev. D* (accepted), arXiv:2306.08234
@@ -141,6 +135,12 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H.-P. Gu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraints on charged black holes
+from merger-ringdown signals in GWTC-3 and prospects for the Einstein
+Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* 109 (2024) 024058
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
 supermassive black hole of M 87. I. Observations, calibration, imaging, and
