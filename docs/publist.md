@@ -83,7 +83,7 @@ Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
-run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+run](https://arxiv.org/abs/2210.10931), *Astrophys. J.* (accepted), arXiv:2210.10931
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J.-P. Zhu, Y.
 Gao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Zhang<font
