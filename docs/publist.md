@@ -72,13 +72,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing nontensorial gravitational
 waves with a next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J.-P. Zhu, Y.
-Gao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, Y.-H. I.  Yin, B.-B. Zhang,
-[Prospects for detecting neutron star–white dwarf mergers with decihertz
-gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
-arXiv:2309.16991
-
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
@@ -91,6 +84,13 @@ Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J.-P. Zhu, Y.
+Gao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, Y.-H. I.  Yin, B.-B. Zhang,
+[Prospects for detecting neutron star–white dwarf mergers with decihertz
+gravitational-wave observatories](https://arxiv.org/abs/2309.16991), *Mon. Not. R. Astron. Soc.* (accepted),
+arXiv:2309.16991
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Comparison between
