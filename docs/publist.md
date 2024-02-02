@@ -12,7 +12,7 @@ layout: default
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 267)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
-- [**Miscellaneous**](#misc) <small> (in total 10)</small>
+- [**Miscellaneous**](#misc) <small> (in total 11)</small>
 
 ---
 
@@ -1824,6 +1824,8 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: M87* EHT image (Event Horizon Tel. Coll.+, 2024)](https://ui.adsabs.harvard.edu/abs/2024yCat..36810079E/abstract), VizieR On-line Data Catalog: J/A+A/681/A79
 
 0. Y. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Brown, **L.
 Shao**, W. Zhao, [Tests of gravitational-wave birefringence with the open
