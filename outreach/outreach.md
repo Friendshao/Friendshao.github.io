@@ -48,6 +48,9 @@ tr:nth-child(odd) {
 ### <img src="../whatsmore/conference.jpeg" style="height:45px;"> &nbsp; <b>Serving for Academic Conferences</b>
 
 | **ROLE** | **CONFERENCE** |
+| Organizer | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
+| Organizer | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
+| Organizer | [Dialog at the Dream Field: Supranuclear Matter](https://psr.pku.edu.cn/conference/fps/ddf/index.html)<br><small>May 10-15, 2024, Guiyang China  |
 | Session Chair | MPG-CAS Collaboration Meeting on Low-frequency Gravitational Waves<br><small>August 2-5, 2023, Kunming China |
 | Organizer<br>Session Chair | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html)<br><small>July 2-4, 2023, Nanyang China |
 | Organizer<br>Session Chair | [以天之语 解物之道](https://psr.pku.edu.cn/tianyujiewu/index.html)<br><small>June 26-27, 2023, 香山饭店, Beijing |
