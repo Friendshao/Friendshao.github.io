@@ -103,12 +103,6 @@ K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
 magnetar following an X-ray
 outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), *Nat. Astron.* (accepted)
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, J. Zhao, C.
-Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
-parameter-estimation biases in overlapping gravitational-wave
-signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* (accepted),
-arXiv:2304.06734
-
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* (accepted), arXiv:2310.08183
 
@@ -135,6 +129,11 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, J. Zhao, C.
+Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
+parameter-estimation biases in overlapping gravitational-wave
+signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* 41 (2024) 055011
 
 0. G.F. Paraschos<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT Collaboration), [Ordered magnetic fields around the 3C 84 central black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682 (2024) L3
 
