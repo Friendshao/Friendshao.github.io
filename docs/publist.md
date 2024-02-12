@@ -115,12 +115,6 @@ gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 (accepted), arXiv:2304.08393
 
-0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
-X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
-Zhang, [The precursor of GRB211211A: a tide-induced giant
-quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted),
-arXiv:2305.10682
-
 0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
 [A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
 the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted),
@@ -129,6 +123,11 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
+X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
+Zhang, [The precursor of GRB211211A: a tide-induced giant
+quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* 24 (2024) 025019
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, J. Zhao, C.
 Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
