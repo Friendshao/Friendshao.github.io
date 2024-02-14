@@ -85,13 +85,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), *Astrophys. J.* (accepted), arXiv:2210.10931
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J.-P. Zhu, Y.
-Gao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, Y.-H. I.  Yin, B.-B. Zhang,
-[Prospects for detecting neutron star–white dwarf mergers with decihertz
-gravitational-wave observatories](https://arxiv.org/abs/2309.16991), *Mon. Not. R. Astron. Soc.* (accepted),
-arXiv:2309.16991
-
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Comparison between
 time-domain and frequency-domain Bayesian inferences to inspiral-merger-ringdown
@@ -123,6 +116,13 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J.-P. Zhu, Y.
+Gao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Sun, Y.-H. I.  Yin, B.-B. Zhang,
+[Prospects for detecting neutron star–white dwarf mergers with decihertz
+gravitational-wave observatories](https://arxiv.org/abs/2309.16991), *Mon. Not.
+R. Astron. Soc.* 528 (2024) 5309
 
 0. E. Zhou<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, Y. Zhou,
 X. Lai, **L. Shao**, W. Wang, S. Xiong, R.-X. Xu, S. Yi, G. Yim, H. Yue, Z.
