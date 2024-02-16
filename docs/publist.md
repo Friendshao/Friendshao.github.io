@@ -85,11 +85,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), *Astrophys. J.* (accepted), arXiv:2210.10931
 
-0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Comparison between
-time-domain and frequency-domain Bayesian inferences to inspiral-merger-ringdown
-gravitational-wave signals](http://arxiv.org/abs/2401.13997), *Phys. Rev. D* (accepted), arXiv:2401.13997
-
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
@@ -116,6 +111,12 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Comparison between
+time-domain and frequency-domain Bayesian inferences to inspiral-merger-ringdown
+gravitational-wave signals](http://arxiv.org/abs/2401.13997), *Phys. Rev. D* 109
+(2024) 043027
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, J.-P. Zhu, Y.
 Gao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B. Zhang<font
