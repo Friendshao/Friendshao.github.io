@@ -74,7 +74,7 @@ tr:nth-child(odd) {
 | **助教** | **姬佩祥**，2201110290@stu.pku.edu.cn |
 | | **胡泽昕**，huzexin@pku.edu.cn |
 | | **TBA**|
-| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn:443/link/D86FCF0A773EDD5C29FDA0597FFCD2C2) （倘若打开有误，请尝试重新刷新） |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AA1EEF94DDC44F47B092C276BE115785B1) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
 

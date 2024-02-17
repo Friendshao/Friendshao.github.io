@@ -61,7 +61,7 @@ $$\delta S = 0$$
 | | **习题课**：周三10-11节(双)；理教317 |
 | **双号班助教** | 王方成，2201110226@stu.pku.edu.cn |
 | | **习题课**：周三10-11节(双)；理教213 |
-| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/#/link/E2C321B314B8E4327ED990D1B534E113) （倘若打开有误，请尝试重新刷新） |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AAC60BB7BBE30B4E869C46DC8A11411AE3) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
 
