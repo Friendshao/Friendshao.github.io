@@ -67,7 +67,7 @@ tr:nth-child(odd) {
 | | 陈秉乾 & 王稼军，《大学物理通用教程·电磁学（第二版）》（2012） |
 | **参考书** | 陆果，《基础物理学教程·上卷（第二版）》（2006） |
 | | D. Halliday *et al.*，《Fundamentals of Physics (7th Edition)》（2005）|
-| **教师** | **邵立晶**；Office：KIAA-217；Email：lshao@pku.edu.cn | 
+| **教师** | **邵立晶**；Office：KIAA 217；Email：lshao@pku.edu.cn | 
 | | 【答疑时间】每周日13:30-14:30PM（*建议来前联系，以免空跑*） | 
 | **习题课** | 周一10-11节；理教207 |
 | **助教** | **姬佩祥**，2201110290@stu.pku.edu.cn |
