@@ -1754,7 +1754,7 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [脉冲星计时阵列与纳赫兹�
 **邵立晶**, 王平, 汪卫华, 王维扬, 夏铖君, 胥恒, 徐仁新<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, 徐世庆, 岳汉<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, 赵里, 郑小平, 周恩平, 邹远川,
-[从地震到星震](TBA), submitted
+[从地震到星震](https://doi.org/10.1360/SSPMA-2023-0424), 《中国科学：物理学 力学 天文学》 (已接收)
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 徐睿<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
