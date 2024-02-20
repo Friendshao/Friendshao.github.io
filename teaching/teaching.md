@@ -85,7 +85,7 @@ tr:nth-child(odd) {
 | **SEMESTER** | **COURSE** | **ROLE** | 
 | PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
 | PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & Fangcheng Wang |
-| PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & Zexin Hu & ?? |
+| PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & Zexin Hu & Jierui Hu |
 | AYEP'23 | [**Fundamental Physics in Astronomy**](https://pkutalent.learnworlds.com/course/astronomy)<br>**天文学中的基础物理** | **Lecturer** <small><small> * Asian Youth Exchange Program |
 | PKU'23F | [**Electrodynamics (A)**](ced23)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Zexin Hu & Hanlin Song |
 | PKU'23F | [**General Relativity & Astrophysics**](gr23)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Peixiang Ji |

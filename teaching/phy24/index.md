@@ -72,7 +72,7 @@ tr:nth-child(odd) {
 | **习题课** | 周一10-11节；理教207 |
 | **助教** | **姬佩祥**，2201110290@stu.pku.edu.cn |
 | | **胡泽昕**，huzexin@pku.edu.cn |
-| | **TBA**|
+| | **胡杰瑞**，hujierui@stu.pku.edu.cn |
 | <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AA1EEF94DDC44F47B092C276BE115785B1) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
@@ -115,7 +115,7 @@ tr:nth-child(odd) {
 - **胡泽昕**，huzexin@pku.edu.cn
   - **习题课**：<small>第1周、第4周、第7周、第10周、第14周</small>
   - **作业**：<small>HW2（单）、HW3（双）、HW5（双）、HW6（单）、HW8（单）、HW9（双）</small>
-- **TBA**
+- **胡杰瑞**，hujierui@stu.pku.edu.cn
   - **习题课**：<small>第3周、第6周、第9周、第13周、第16周</small>
   - **作业**：<small>HW1（双）、HW2（双）、HW4（双）、HW6（双）、HW7（双）、HW8（双）、HW10（双）</small>
 
