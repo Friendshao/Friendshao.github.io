@@ -54,12 +54,6 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
-0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Impact of overlapping signals on
-parameterized post-Newtonian coefficients in tests of
-gravity](http://arxiv.org/abs/2311.16184), arXiv:2311.16184
-
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [New limits on the local Lorentz
@@ -79,6 +73,12 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Impact of overlapping signals on
+parameterized post-Newtonian coefficients in tests of
+gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* (accepted), arXiv:2311.16184
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
