@@ -53,9 +53,6 @@ tr:nth-child(odd) {
 
 | [TM-2024S](tm24) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 周二5-6节 & 周四7-8节；二教107<br><small>**习题课**: 周三10-11节(双)；理教317 & 理教213 |
 | [PHY-2024S](phy24) | **General Physics (I)**<br>**普通物理（I）** | 周一1-2节 & 周三3-4节；地点：二教203<br><small>**习题课**: 周一10-11节；理教207 |
-| [FPA-2023](https://pkutalent.learnworlds.com/course/astronomy) | **Fundamental Physics in Astronomy**<br>**天文学中的基础物理** | 亚洲青少年交流计划<br><small>Asian Youth Exchange Program |
-| [CED-2023F](ced23) | **Electrodynamics (A)**<br>**电动力学（A）** | 周一7-8节 & 周三3-4节；地点：三教301<br><small>**习题课**: 周一10-11节(双)；地点：二教525 & 理教204 |
-| [GRA-2023F](gr23) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节；地点：二教505 |
 
 <!-- | [GRA-2024F](gr24) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 待定 | -->
 <!-- | [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 待定 | -->
