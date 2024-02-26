@@ -1753,7 +1753,7 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
 
 0. 梁迪聪<font color="#5c5c5c"><sup>(#)</sup></font>, **邵立晶**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [脉冲星计时阵列与纳赫兹引力波探测](TBA), submitted
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [脉冲星计时阵列与纳赫兹引力波探测](TBA), 《科学通报》 (已接收)
 
 0. 路瑞鹏<font color="#5c5c5c"><sup>(#)</sup></font>, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光,
 **邵立晶**, 王平, 汪卫华, 王维扬, 夏铖君, 胥恒, 徐仁新<font
