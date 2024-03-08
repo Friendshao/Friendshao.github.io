@@ -76,7 +76,7 @@ students](https://friendshao.github.io/docs/theses).
 <img src="email.png" width="30"> **Email:** lshao<img src="at.jpg"
 width="20">pku.edu.cn
  
-<img src="phone.png" width="30"> **Fax:** +86-(0)10-6275-7900 (secretary)
+<img src="phone.png" width="30"> **Tel:** +86-(0)10-6275-6692; **Fax:** +86-(0)10-6275-7900 (secretary)
 
 <img src="office.png" width="30"> **Address:** K217, KIAA at Peking University, Beijing 100871, China
 
