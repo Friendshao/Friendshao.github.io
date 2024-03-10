@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 271)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 272)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
 - [**Miscellaneous**](#misc) <small> (in total 11)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Ultralight vector
+dark matter search using data from the KAGRA O3GK
+run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**, R.-X. Xu, [Seismology constraints on the equation of state of compact
