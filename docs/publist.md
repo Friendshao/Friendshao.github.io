@@ -45,11 +45,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Accelerated Expansion of the
 Present Universe Drived by a Scalar Field: dynamical system analysis](TBA),
 *Commun. Theor. Phys.* (submitted), arXiv:TBA
 
-0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, M. Wang, F. Zhang, **L.
-Shao**, [Towards a Consistent Calculation of the Lunar Response to Gravitational
-Waves](http://arxiv.org/abs/TBA), arXiv:TBA
-
 0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Dynamic instability analysis for
@@ -62,11 +57,6 @@ Foreground Subtraction for Detecting the Stochastic Gravitational-wave
 Background in Ground-based Detectors](https://arxiv.org/abs/2401.00984),
 arXiv:2401.00984
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, D. Liang, Z.-F. Mai, [Probing
-the vector charge of Sagittarius A* with pulsar
-timing](http://arxiv.org/abs/2312.02486), arXiv:2312.02486
-
 0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
 Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
 Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
@@ -77,12 +67,6 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
-
-0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
-color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [New limits on the local Lorentz
-invariance violation of gravity in the Standard-Model Extension with
-pulsars](http://arxiv.org/abs/2311.11038), arXiv:2311.11038
 
 0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -97,6 +81,22 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
+color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [New limits on the local Lorentz
+invariance violation of gravity in the Standard-Model Extension with
+pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* (accepted), arXiv:2311.11038
+
+0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, M. Wang, **L.
+Shao**, [Towards a Consistent Calculation of the Lunar Response to Gravitational
+Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* (accepted), arXiv:2403.08681
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, D. Liang, Z.-F. Mai, [Probing
+the vector charge of Sagittarius A* with pulsar
+timing](http://arxiv.org/abs/2312.02486), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2312.02486
 
 0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
