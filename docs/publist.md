@@ -118,10 +118,6 @@ outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), *Nat. Astron.* (accept
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* (accepted), arXiv:2310.08183
 
-0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
-**L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
-stars](https://arxiv.org/abs/2306.08234), *Phys. Rev. D* (accepted), arXiv:2306.08234
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
@@ -135,6 +131,10 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo, H.-B. Li,
+**L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
+stars](https://arxiv.org/abs/2306.08234), *Phys. Rev. D* 109 (2024) 063020
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Comparison between
