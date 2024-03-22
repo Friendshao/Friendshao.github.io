@@ -72,12 +72,6 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
-0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing nontensorial gravitational
-waves with a next-generation ground-based detector
-network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
-
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
@@ -85,6 +79,13 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing nontensorial gravitational
+waves with a next-generation ground-based detector
+network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* (accepted),
+arXiv:2310.01249
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
