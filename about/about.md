@@ -58,9 +58,10 @@ Please read the following articles carefully, for
 **(b)** [PhD Student](https://kiaagravity.github.io/assets/phd) <font color="gray"><small>(博士生)</small></font>, 
 **(c)** [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate) <font color="gray"><small>(本科生科研)</small></font>, and 
 **(d)** [Bachelor Dissertation](https://kiaagravity.github.io/assets/bachelor) <font color="gray"><small>(本科生毕设)</small></font>.  
-You can get more information about research topics from [current
-members](https://kiaagravity.github.io/member/) and [past
-students](https://friendshao.github.io/docs/theses).
+You can get more information from [current
+members](https://kiaagravity.github.io/member/), [past
+students](https://friendshao.github.io/docs/theses), and [this Q&A
+sheet](https://kiaagravity.github.io/assets/QA).
 
  <img src="group.png" width="50"> &nbsp;&nbsp; **For more, please check at [<big>our Group Page</big>](https://kiaagravity.github.io)**  <img src="team.png" width="50">
 
