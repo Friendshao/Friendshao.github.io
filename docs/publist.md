@@ -29,10 +29,6 @@ analysis using the $F$-statistic](https://arxiv.org/abs/TBA), submitted
 dark matter search using data from the KAGRA O3GK
 run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
 
-0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**, R.-X. Xu, [Seismology constraints on the equation of state of compact
-stars](http://arxiv.org/abs/TBA), submitted
-
 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, W. Zhu, M. Kramer, X.
 Miao, G. Desvignes, **L. Shao**, H. Hu, P.C.C.  Freire, Y. Zhang, M. Xue, Z.
 Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang,
@@ -79,6 +75,9 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**, R.-X. Xu, [Asteroseismology of compact stars](http://arxiv.org/abs/TBA), *Universe* (accepted), arXiv:TBA
 
 0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
