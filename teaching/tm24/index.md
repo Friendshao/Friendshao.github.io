@@ -72,7 +72,7 @@ $$\delta S = 0$$
 | 1. 矢量力学 | |
 | 2. 拉格朗日方程 | HW1 (ddl: Mar 5)<br>HW2 (ddl: Mar 19) |
 | 3. 有心运动  | HW3 (ddl: Mar 28) |
-| 4. 小振动  | HW4 (ddl: Apr 4) |
+| 4. 小振动  | HW4 (ddl: Apr 9) |
 | <font color="blue"><b>期中答疑</b></font> | 科维理所K217；4月7日·13:30-14:30 |  
 | <font color="red"><b>期中考试（闭卷，笔试）</b></font> | 4月11日·15:10-17:00，地点待定 |
 | 5. 刚体运动学 |  HW5 (ddl: Apr 18) |

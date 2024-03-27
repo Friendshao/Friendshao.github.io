@@ -74,7 +74,8 @@ Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 Miao, G. Desvignes, **L. Shao**, H. Hu, P.C.C.  Freire, Y. Zhang, M. Xue, Z.
 Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang,
 [The Relativistic Spin Precession in the Compact Double Neutron Star System PSR
-J1946+2052](http://arxiv.org/abs/TBA), *Astrophys. J.* (accepted), arXiv:TBA
+J1946+2052](http://arxiv.org/abs/2403.17828), *Astrophys. J.* (accepted),
+arXiv:2403.17828
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**, R.-X. Xu, [Asteroseismology of compact stars](http://arxiv.org/abs/TBA), *Universe* (accepted), arXiv:TBA
