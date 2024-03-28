@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 273)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 275)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
 - [**Miscellaneous**](#misc) <small> (in total 11)</small>
@@ -78,7 +78,9 @@ J1946+2052](http://arxiv.org/abs/2403.17828), *Astrophys. J.* (accepted),
 arXiv:2403.17828
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**, R.-X. Xu, [Asteroseismology of compact stars](http://arxiv.org/abs/TBA), *Universe* (accepted), arXiv:TBA
+Shao**, R.-X. Xu, [Asteroseismology of compact
+stars](https://doi.org/10.3390/universe10040157), *Universe* (accepted),
+arXiv:TBA
 
 0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -137,6 +139,16 @@ arXiv:2308.13666
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
 
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
+Telescope Results. VIII. Physical Interpretation of the Polarized
+Ring](https://iopscience.iop.org/article/10.3847/2041-8213/ad2df1), *Astrophys.
+J. Lett.* 964 (2024) L26
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
+Telescope Results. VII. Polarization of the
+Ring](https://iopscience.iop.org/article/10.3847/2041-8213/ad2df0), *Astrophys.
+J. Lett.* 964 (2024) L25
+
 0. C. Zhang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Luo<font
 color="#5c5c5c"><sup>(#)</sup></font>, H.-B. Li,
 **L. Shao**, R.-X. Xu, [Radial and non-radial oscillations of inverted hybrid
@@ -165,7 +177,10 @@ Liu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* 41 (2024) 055011
 
-0. G.F. Paraschos<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT Collaboration), [Ordered magnetic fields around the 3C 84 central black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682 (2024) L3
+0. G.F. Paraschos<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
+Collaboration), [Ordered magnetic fields around the 3C 84 central black
+hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682
+(2024) L3
 
 0. H.-P. Gu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
