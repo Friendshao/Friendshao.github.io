@@ -77,11 +77,6 @@ Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang,
 J1946+2052](http://arxiv.org/abs/2403.17828), *Astrophys. J.* (accepted),
 arXiv:2403.17828
 
-0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
-Shao**, R.-X. Xu, [Asteroseismology of compact
-stars](https://doi.org/10.3390/universe10040157), *Universe* (accepted),
-arXiv:TBA
-
 0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing nontensorial gravitational
@@ -138,6 +133,10 @@ arXiv:2308.13666
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
+Shao**, R.-X. Xu, [Asteroseismology of compact
+stars](https://doi.org/10.3390/universe10040157), *Universe* 10 (2024) 157
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
 Telescope Results. VIII. Physical Interpretation of the Polarized
