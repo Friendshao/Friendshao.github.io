@@ -90,21 +90,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [New limits on the local Lorentz
 invariance violation of gravity in the Standard-Model Extension with
 pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* (accepted), arXiv:2311.11038
 
-0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, M. Wang, **L.
-Shao**, [Towards a Consistent Calculation of the Lunar Response to Gravitational
-Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* (accepted), arXiv:2403.08681
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, D. Liang, Z.-F. Mai, [Probing
 the vector charge of Sagittarius A* with pulsar
 timing](http://arxiv.org/abs/2312.02486), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2312.02486
-
-0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Impact of overlapping signals on
-parameterized post-Newtonian coefficients in tests of
-gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* (accepted), arXiv:2311.16184
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
@@ -128,6 +117,17 @@ LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Impact of overlapping signals on
+parameterized post-Newtonian coefficients in tests of
+gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* 964 (2024) 194
+
+0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, M. Wang, **L.
+Shao**, [Towards a Consistent Calculation of the Lunar Response to Gravitational
+Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
 0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
 [A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
