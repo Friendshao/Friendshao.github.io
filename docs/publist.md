@@ -125,14 +125,13 @@ gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 (accepted), arXiv:2304.08393
 
-0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
-[A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
-the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted),
-arXiv:2308.13666
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. C. Fletcher, *et al.* (Fermi GBM Team / LIGO / Virgo / KAGRA Collaboration),
+[A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-Wave Candidates from
+the Third Gravitational-wave Observing Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* 964 (2024) 149
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
 Shao**, R.-X. Xu, [Asteroseismology of compact
