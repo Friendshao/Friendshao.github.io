@@ -117,10 +117,10 @@ tr:nth-child(odd) {
 
 <big><big> **Undergraduate Student Research Study**
 
-0. **刘宇堃**，北京市自然科学基金本科生启研计划，TBA（PKU'24·秋）
-0. **章弘毅**，校长基金，TBA（PKU'24·秋）
-0. **李柏霖**，䇹政基金，TBA（PKU'24·秋）
-0. **杨一秋**，校长基金，TBA（PKU'24·秋）
+0. **刘宇堃**，北京市自然科学基金本科生启研计划，Dark-matter-admixed Neutron Stars（PKU'24·秋）
+0. **章弘毅**，校长基金，Characteristic Signals in Gravitational Waves（PKU'24·秋）
+0. **李柏霖**，䇹政基金，Testing Gravity with Pulsar Timing Arrays（PKU'24·秋）
+0. **杨一秋**，校长基金，Spectral Instability of Black Hole Quasinormal Modes（PKU'24·秋）
 0. **周立杭**，䇹政基金，Superradiant instabilities of massive bosons（PKU'23·秋）
 0. **胡杰瑞**，国家创新训练项目，Studying gravitational-wave polarizations（PKU'23·秋）
 0. **王伟松**，校长基金，Spin dynamics of black hole - pulsar systems（PKU'23·秋）
