@@ -34,7 +34,7 @@ tr:nth-child(odd) {
 | | &#9830; **Past Role and Awards** &#9830; |
 | 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
 | 2019-2022 | Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
-| 2023-2024 | Special Issue Editor for *Results in Physics*<br><small>[Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/about/call-for-papers#physics-of-gravitational-waves-developments-in-theory-and-detection)</small> |
+| 2023-2024 | Special Issue Editor for *Results in Physics*<br><small>[Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/special-issue/107TZ5KRN12)</small> |
 | 2023 | IOP Trusted Reviewer for [IOP Publishing](https://accreditations.ioppublishing.org/ae33d146-240a-4f3a-94d3-0c5c72e3b873#gs.5181xs) |
 | 2022 | Outstanding Reviewer for [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://mp.weixin.qq.com/s/l0tT488ZYP1WjEwD5GlK9w) |
 | 2020 | Outstanding Reviewer for [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA) |
