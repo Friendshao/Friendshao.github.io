@@ -29,7 +29,7 @@ tr:nth-child(odd) {
 | 2020-now |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
 | 2023-2024 | Special Editorial Board Member  of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
-| 2023 | Special Issue Editor for *Classical and Quantum Gravity*<br><small>[Focus on Pulsar Timing Arrays](https://iopscience.iop.org/collections/cqg-230802-310)</small> |
+| 2023-2024 | Special Issue Editor for *Classical and Quantum Gravity*<br><small>[Focus on Pulsar Timing Arrays](https://iopscience.iop.org/collections/cqg-230802-310)</small> |
 | 2023-2024 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
 | | &#9830; **Past Role and Awards** &#9830; |
 | 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
