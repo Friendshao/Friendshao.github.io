@@ -48,7 +48,7 @@ tr:nth-child(odd) {
 ### <img src="../whatsmore/conference.jpeg" style="height:45px;"> &nbsp; <b>Serving for Academic Conferences</b>
 
 | **ROLE** | **CONFERENCE** |
-| SOC | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
+| <font color="blue"><b>SOC</b></font> | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
 | Organizer | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
 | Organizer | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
 | Organizer | [Dialog at the Dream Field: Supranuclear Matter](https://psr.pku.edu.cn/conference/fps/ddf/index.html)<br><small>May 10-15, 2024, Guiyang China  |
@@ -61,9 +61,9 @@ tr:nth-child(odd) {
 | Organizer | [Mini Workshop on Compact Objects and Gravitational Waves](https://kiaa.pku.edu.cn/info/1026/8907.htm)<br><small>April 19, 2023, Beijing China |
 | Organizer | [The Postdoc Workshop on Gravitational Waves at KIAA: Fall 2022](https://kiaa.pku.edu.cn/info/1026/8621.htm)<br><small>October 29, 2022, Beijing China |
 | Session Chair | [FAST/Future Pulsar Symposium 11](https://psr.pku.edu.cn/fps/FPS11/FPS11.html)<br><small>August 3-5, 2022, Xiangtan China |
-| Organizer <small><font color="red">(Chair)</font></small> | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022/ska2022.html)<br><small>August 1-3, 2022, Xiangtan China |
+| <font color="blue"><b>Organizer <small>(Chair)</small></b></font> | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022/ska2022.html)<br><small>August 1-3, 2022, Xiangtan China |
 | Session Chair | [Ninth Meeting on CPT and Lorentz Symmetry](https://lorentz.sitehost.iu.edu/cpt22/)<br><small>May 17-26, 2022, Bloomington USA |
-| Organizer<br>Session Chair | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html)<br><small>May 3-7, 2021, Leiden Netherlands |
+| <font color="blue"><b>Organizer</b></font><br>Session Chair | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html)<br><small>May 3-7, 2021, Leiden Netherlands |
 | Session Chair | [Annual Meeting of Gravitation and Relativistic Astrophysics](http://gra2020.csp.escience.cn/)<br><small>April 23-28, 2021, Shenyang China |
 | Session Chair | [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021)<br><small>February 22-28, 2021, Online|
 | Session Chair | [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519)<br><small>December 4-14, 2020, Online|
