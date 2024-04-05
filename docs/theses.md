@@ -117,22 +117,23 @@ tr:nth-child(odd) {
 
 <big><big> **Undergraduate Student Research Study**
 
-0. **刘宇堃**，TBA（北京大学，2024年·秋）
-0. **章弘毅**，TBA（北京大学，2024年·秋）
-0. **李柏霖**，TBA（北京大学，2024年·秋）
-0. **杨一秋**，TBA（北京大学，2024年·秋）
-0. **周立杭**，Superradiant instabilities of massive bosons（北京大学，2023年·秋）
-0. **胡杰瑞**，Studying gravitational-wave polarizations（北京大学，2023年·秋）
-0. **王伟松**，Spin dynamics of black hole - pulsar systems（北京大学，2023年·秋）
-0. **张喆戬**，Testing Equivalence Principle with Pulsar Timing（北京大学，2022年·秋）
-0. **董益铭**，Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$（北京大学，2022年·秋）
-0. **祁昊洋**，Constraining Ultralight Dark Matters with Pulsar Timing（北京大学，2022年·秋）
-0. **王子铭**，Testing Spacetime Symmetries with Gravitational Waves（北京大学，2022年·秋）
-0. **康亚城**，Exoplanets with Space-based Gravitational-wave Detectors（北京大学，2021年·秋）
-0. **胡泽昕**，Neutron Star Structures in Scalar-tensor Gravity（北京大学，2021年·秋）
-0. **王惠美**，Bounding the Photon Mass with Fast Radio Bursts（北京大学，2020年·秋）
-0. **王弋尘**，Constraining Dark-matter Particles with Neutron Stars（北京大学，2020年·秋）
-0. **安子訸**，Fisher Matrix in Gravitational-wave Data Analysis（北京大学，2020年·秋）
+0. **刘宇堃**，北京市自然科学基金本科生启研计划，TBA（PKU'24·秋）
+0. **章弘毅**，校长基金，TBA（PKU'24·秋）
+0. **李柏霖**，䇹政基金，TBA（PKU'24·秋）
+0. **杨一秋**，校长基金，TBA（PKU'24·秋）
+0. **周立杭**，䇹政基金，Superradiant instabilities of massive bosons（PKU'23·秋）
+0. **胡杰瑞**，国家创新训练项目，Studying gravitational-wave polarizations（PKU'23·秋）
+0. **王伟松**，校长基金，Spin dynamics of black hole - pulsar systems（PKU'23·秋）
+0. **张喆戬**，校长基金，Testing Equivalence Principle with Pulsar Timing（PKU'22·秋）
+0. **董益铭**，国家创新训练项目，Testing Yukawa Gravity with Pulsars around Sgr A$^\ast$（PKU'22·秋）
+0. **祁昊洋**，校长基金，Constraining Ultralight Dark Matters with Pulsar Timing（PKU'22·秋）
+0. **王子铭**，䇹政基金，Testing Spacetime Symmetries with Gravitational Waves（PKU'22·秋）
+0. **康亚城**，䇹政基金，Exoplanets with Space-based Gravitational-wave Detectors（PKU'21·秋）
+0. **陈宇畅**，校长基金，Studying Ultralight Dark Matters with Pulsars（PKU'21·秋）
+0. **胡泽昕**，校长基金，Neutron Star Structures in Scalar-tensor Gravity（PKU'21·秋）
+0. **王惠美**，校长基金，Bounding the Photon Mass with Fast Radio Bursts（PKU'20·秋）
+0. **王弋尘**，校长基金，Constraining Dark-matter Particles with Neutron Stars（PKU'20·秋）
+0. **安子訸**，校长基金，Fisher Matrix in Gravitational-wave Data Analysis（PKU'20·秋）
 {: reversed="reversed"}
 
 
