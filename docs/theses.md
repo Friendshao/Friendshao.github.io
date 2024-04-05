@@ -105,7 +105,7 @@ tr:nth-child(odd) {
 
 0. **麦展风**，[TBA](theses/MaiZhanfeng.pdf)（北京大学，2024年·夏）
   - <small> TBA
-0. **梁迪聪**，[修改引力理论中的引力波](theses/LiangDicong.pdf)（北京大学，2024年·冬）
+0. **梁迪聪**，[修改引力理论中的引力波](theses/LiangDicong.pdf)（北京大学，2023年·冬）
   - <small> Gravtitational Waves in Modified Gravity Theories
 0. **徐睿**，[替代引力理论中的致密天体](theses/XuRui2.pdf)（北京大学，2023年·春）
   - <small> Compact Objects in Alternative Theories of Gravity
