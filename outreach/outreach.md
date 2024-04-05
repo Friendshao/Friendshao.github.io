@@ -48,10 +48,12 @@ tr:nth-child(odd) {
 ### <img src="../whatsmore/conference.jpeg" style="height:45px;"> &nbsp; <b>Serving for Academic Conferences</b>
 
 | **ROLE** | **CONFERENCE** |
+| SOC | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
 | Organizer | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
 | Organizer | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
 | Organizer | [Dialog at the Dream Field: Supranuclear Matter](https://psr.pku.edu.cn/conference/fps/ddf/index.html)<br><small>May 10-15, 2024, Guiyang China  |
-| Session Chair | 第一届音频波段引力波天文学前沿学术研讨会<br><small>March 29-April 1, Zhuhai China |
+| Session Chair | 京海引力波论坛第一次会议<br><small>April 4, 2024, 中国科学院力学所(怀柔园区), Beijing China |
+| Session Chair | 第一届音频波段引力波天文学前沿学术研讨会<br><small>March 29-April 1, 2024, Zhuhai China |
 | Session Chair | MPG-CAS Collaboration Meeting on Low-frequency Gravitational Waves<br><small>August 2-5, 2023, Kunming China |
 | Organizer<br>Session Chair | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html)<br><small>July 2-4, 2023, Nanyang China |
 | Organizer<br>Session Chair | [以天之语 解物之道](https://psr.pku.edu.cn/tianyujiewu/index.html)<br><small>June 26-27, 2023, 香山饭店, Beijing |
@@ -59,14 +61,14 @@ tr:nth-child(odd) {
 | Organizer | [Mini Workshop on Compact Objects and Gravitational Waves](https://kiaa.pku.edu.cn/info/1026/8907.htm)<br><small>April 19, 2023, Beijing China |
 | Organizer | [The Postdoc Workshop on Gravitational Waves at KIAA: Fall 2022](https://kiaa.pku.edu.cn/info/1026/8621.htm)<br><small>October 29, 2022, Beijing China |
 | Session Chair | [FAST/Future Pulsar Symposium 11](https://psr.pku.edu.cn/fps/FPS11/FPS11.html)<br><small>August 3-5, 2022, Xiangtan China |
-| Organizer <small>(Chair)</small> | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022/ska2022.html)<br><small>August 1-3, 2022, Xiangtan China |
+| Organizer <small><font color="red">(Chair)</font></small> | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022/ska2022.html)<br><small>August 1-3, 2022, Xiangtan China |
 | Session Chair | [Ninth Meeting on CPT and Lorentz Symmetry](https://lorentz.sitehost.iu.edu/cpt22/)<br><small>May 17-26, 2022, Bloomington USA |
 | Organizer<br>Session Chair | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html)<br><small>May 3-7, 2021, Leiden Netherlands |
 | Session Chair | [Annual Meeting of Gravitation and Relativistic Astrophysics](http://gra2020.csp.escience.cn/)<br><small>April 23-28, 2021, Shenyang China |
 | Session Chair | [The 1st Electronic Conference on Universe](https://sciforum.net/conference/ECU2021)<br><small>February 22-28, 2021, Online|
 | Session Chair | [Event Horizon Telescope 2020 Virtual Collaboration Meeting](https://eventhorizontelescope.teamwork.com/#/notebooks/202519)<br><small>December 4-14, 2020, Online|
 | Session Chair | [AAPPS-DACG Workshop on Astrophysics, Cosmology and Gravitation](http://www.apctp.org/plan.php/AAPPS-dacg-Workshop)<br><small>November 9-13, 2020, Pohang Korea|
-| SOC & LOC<br>Session Chair | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/)<br><small>November 28-29, 2019, Beijing China |
+| SOC<br>Session Chair | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/)<br><small>November 28-29, 2019, Beijing China |
 | SOC<br>Session Chair | [Gravitational Wave Astrophysics Conference 2019](http://3rd-gw-astro.csp.escience.cn/dct/page/65559)<br><small>August 13-17, 2019, Kunming China |
 
 <br>
