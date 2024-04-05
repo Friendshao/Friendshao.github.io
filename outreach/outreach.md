@@ -49,14 +49,14 @@ tr:nth-child(odd) {
 
 | **ROLE** | **CONFERENCE** |
 | <font color="blue"><b>SOC</b></font> | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
-| Organizer | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
-| Organizer | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
+| <font color="blue"><b>Organizer</b></font> | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
+| <font color="blue"><b>Organizer</b></font> | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
 | Organizer | [Dialog at the Dream Field: Supranuclear Matter](https://psr.pku.edu.cn/conference/fps/ddf/index.html)<br><small>May 10-15, 2024, Guiyang China  |
 | Session Chair | 京海引力波论坛第一次会议<br><small>April 4, 2024, 中国科学院力学所(怀柔园区), Beijing China |
 | Session Chair | 第一届音频波段引力波天文学前沿学术研讨会<br><small>March 29-April 1, 2024, Zhuhai China |
 | Session Chair | MPG-CAS Collaboration Meeting on Low-frequency Gravitational Waves<br><small>August 2-5, 2023, Kunming China |
-| Organizer<br>Session Chair | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html)<br><small>July 2-4, 2023, Nanyang China |
-| Organizer<br>Session Chair | [以天之语 解物之道](https://psr.pku.edu.cn/tianyujiewu/index.html)<br><small>June 26-27, 2023, 香山饭店, Beijing |
+| <font color="blue"><b>Organizer</b></font><br>Session Chair | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html)<br><small>July 2-4, 2023, Nanyang China |
+| <font color="blue"><b>Organizer</b></font><br>Session Chair | [以天之语 解物之道](https://psr.pku.edu.cn/tianyujiewu/index.html)<br><small>June 26-27, 2023, 香山饭店, Beijing |
 | Session Chair | [Annual Meeting of Gravitation and Relativistic Astrophysics](http://cqutp.org/conferences/gr23/)<br><small>April 21-25, 2023, Chongqing China |
 | Organizer | [Mini Workshop on Compact Objects and Gravitational Waves](https://kiaa.pku.edu.cn/info/1026/8907.htm)<br><small>April 19, 2023, Beijing China |
 | Organizer | [The Postdoc Workshop on Gravitational Waves at KIAA: Fall 2022](https://kiaa.pku.edu.cn/info/1026/8621.htm)<br><small>October 29, 2022, Beijing China |
