@@ -12,7 +12,7 @@ layout: default
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 275)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
-- [**Miscellaneous**](#misc) <small> (in total 11)</small>
+- [**Miscellaneous**](#misc) <small> (in total 12)</small>
 
 ---
 
@@ -1867,6 +1867,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
+
+0. 康亚城, **邵立晶** [翻译],
+[GW230529：一次中子星和未知致密天体的并合事件](https://www.ligo.org/science/Publication-GW230529/translations/science-summary-chinese-simplified.pdf),
+LIGO / Virgo / KAGRA Science Summaries
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: M87* EHT image (Event Horizon Tel. Coll.+, 2024)](https://ui.adsabs.harvard.edu/abs/2024yCat..36810079E/abstract), VizieR On-line Data Catalog: J/A+A/681/A79
 
