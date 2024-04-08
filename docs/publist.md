@@ -43,12 +43,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Accelerated Expansion of the
 Present Universe Drived by a Scalar Field: dynamical system analysis](TBA),
 *Commun. Theor. Phys.* (submitted), arXiv:TBA
 
-0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Dynamic instability analysis for
-bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757),
-arXiv:2401.07757
-
 0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, Z. Wang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Compact Binary
 Foreground Subtraction for Detecting the Stochastic Gravitational-wave
@@ -73,6 +67,12 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Dynamic instability analysis for
+bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757), *Phys.
+Rev. D* (accepted), arXiv:2401.07757
 
 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, W. Zhu, M. Kramer, X.
 Miao, G. Desvignes, **L. Shao**, H. Hu, P.C.C.  Freire, Y. Zhang, M. Xue, Z.
