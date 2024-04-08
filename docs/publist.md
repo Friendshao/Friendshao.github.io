@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 275)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 276)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Observation of
+Gravitational Waves from the Coalescence of a 2.5-4.5 $M_\odot$ Compact Object
+and a Neutron Star](https://arxiv.org/abs/2404.04248), arXiv:2404.04248
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
 Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Ringdown
@@ -100,12 +104,6 @@ gravitational-wave transients associated with magnetar bursts in Advanced LIGO
 and Advanced Virgo data from the third observing
 run](https://arxiv.org/abs/2210.10931), *Astrophys. J.* (accepted), arXiv:2210.10931
 
-0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
-Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
-K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
-magnetar following an X-ray
-outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), *Nat. Astron.* (accepted)
-
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* (accepted), arXiv:2310.08183
 
@@ -117,6 +115,12 @@ LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
+Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
+K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
+magnetar following an X-ray
+outburst](https://www.nature.com/articles/s41550-024-02226-7), *Nat. Astron.* XXX (2024) YYY
 
 0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
