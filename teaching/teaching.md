@@ -82,9 +82,9 @@ tr:nth-child(odd) {
 ### **Teaching History**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
-| PKU'25S | [**Theoretical Mechanics (A)**](tm25)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: ?? |
-| PKU'24F | [**Electrodynamics (A)**](ced24)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: ?? |
-| PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
+| PKU'25S | [**Theoretical Mechanics (A)**](tm25)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & ?? |
+| PKU'24F | [**Electrodynamics (A)**](ced24)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Yiming Dong & ?? |
+| PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Hanlin Song |
 | PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & Fangcheng Wang |
 | PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & Zexin Hu & Jierui Hu |
 | AYEP'23 | [**Fundamental Physics in Astronomy**](https://pkutalent.learnworlds.com/course/astronomy)<br>**天文学中的基础物理** | **Lecturer** <small><small> * Asian Youth Exchange Program |

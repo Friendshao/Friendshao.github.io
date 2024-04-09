@@ -74,8 +74,10 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | | 林璇英、张之翔，《电动力学题解(第三版)》（2018） |
 | **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn | 
 | |【答疑时间】每周日13:30-14:30PM（建议来前联系，以免空跑） |
-| **助教与习题课** | 【单号班】 |
-| | 【双号班】 |
+| **单号助教** | 董益铭，ydong@pku.edu.cn |
+| | |
+| **双号助教** | |
+| | |
 | <font color="red"><b>网盘链接</b></font> | [猛戳这里](TBA) （倘若打开有误，请尝试刷新） |
 
 <p></p>

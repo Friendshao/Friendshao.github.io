@@ -57,7 +57,7 @@ $$\delta S = 0$$
 | | L.D. Landau, E.M. Lifshitz, *Mechanics* (3rd ed), 1987 |
 | **教师** | 邵立晶；Office KIAA 217；lshao@pku.edu.cn | 
 | |【答疑时间】每周日13:30-14:30PM（建议来前联系，以免空跑） |
-| **单号班助教** |  |
+| **单号班助教** |  王子铭，zwang@pku.edu.cn |
 | | **习题课**： |
 | **双号班助教** |  |
 | | **习题课**： |
