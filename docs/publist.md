@@ -81,19 +81,6 @@ Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang,
 J1946+2052](http://arxiv.org/abs/2403.17828), *Astrophys. J.* (accepted),
 arXiv:2403.17828
 
-0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing nontensorial gravitational
-waves with a next-generation ground-based detector
-network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* (accepted),
-arXiv:2310.01249
-
-0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
-color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [New limits on the local Lorentz
-invariance violation of gravity in the Standard-Model Extension with
-pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* (accepted), arXiv:2311.11038
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, D. Liang, Z.-F. Mai, [Probing
 the vector charge of Sagittarius A* with pulsar
@@ -121,6 +108,18 @@ Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
 magnetar following an X-ray
 outburst](https://www.nature.com/articles/s41550-024-02226-7), *Nat. Astron.* XXX (2024) YYY
+
+0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing nontensorial gravitational
+waves with a next-generation ground-based detector
+network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* 109 (2024) 084023
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
+color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [New limits on the local Lorentz
+invariance violation of gravity in the Standard-Model Extension with
+pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* 109 (2024) 084024
 
 0. Y. Dang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
