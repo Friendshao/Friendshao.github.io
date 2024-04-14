@@ -103,8 +103,8 @@ tr:nth-child(odd) {
 
 <big><big> **Postdoctoral Report**
 
-0. **麦展风**，[TBA](theses/MaiZhanfeng.pdf)（北京大学，2024年·夏）
-  - <small> TBA
+0. **麦展风**，[大黄蜂黑洞的稳定性分析](theses/MaiZhanfeng.pdf)（北京大学，2024年·夏）
+  - <small> Stability Analysis for Bumblebee Black Holes
 0. **梁迪聪**，[修改引力理论中的引力波](theses/LiangDicong.pdf)（北京大学，2023年·冬）
   - <small> Gravtitational Waves in Modified Gravity Theories
 0. **徐睿**，[替代引力理论中的致密天体](theses/XuRui2.pdf)（北京大学，2023年·春）
