@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 276)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 277)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -20,6 +20,12 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.-C. Hu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Tong, **L. Shao**, Y. Qin,
+[Formation of GW230529 from Isolated Binary Evolution and Its Electromagnetic
+Counterparts](https://arxiv.org/abs/2404.10596), arXiv:2404.10596
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Observation of
 Gravitational Waves from the Coalescence of a 2.5-4.5 $M_\odot$ Compact Object
