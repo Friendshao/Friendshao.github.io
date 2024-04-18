@@ -44,8 +44,8 @@ tr:nth-child(odd) {
   - <small>TBA
 0. **潘奕晨**，[人工智能技术在脉冲星、快速射电暴搜寻中的应用测试](theses/PanYichen.pdf)（北京大学，2024年·夏）
   - <small>TBA
-0. **罗荐元**，[中子星吸积费米子暗物质](theses/LuoJianyuan.pdf)（武汉大学，2024年·夏）
-  - <small>TBA
+0. **罗荐元**，[利用中子星限制费米子暗物质](theses/LuoJianyuan.pdf)（武汉大学，2024年·夏）
+  - <small>Constraining Fermionic Dark Matter with Neutron Stars
 0. **李沛航**，[智能制造在射电天文中的应用](theses/LiPeihang.pdf)（北京大学，2024年·夏）
   - <small>TBA
 0. **徐一鸣**，[机器学习在引力波数据处理中的应用](theses/XuYiming.pdf)（北京大学，2024年·夏）
