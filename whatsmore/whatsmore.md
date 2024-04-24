@@ -58,7 +58,7 @@ tr:nth-child(odd) {
 | 2020 | | Y. Tao <small>(陶昱)</small><br>H. Xia <small>(夏鹤明) | H. Wang <small>(王惠美)<sup>$\ast$</sup></small><br>Y. Wang <small>(王弋尘)</small><br>Z. An <small>(安子訸)<sup>$\ast$</sup></small> | |
 | 2019 | | Z. Sun <small>(孙忠鹏)</small><br>W. Li <small>(李汶隆)</small> | | |
 | 2015 | L. Shao <small>(邵立晶)</small> | | | |
-| 2005 | | L. Shao <small>(邵立晶)</small> |  | |
+| 2010 | | L. Shao <small>(邵立晶)</small> |  | |
 
 <br>
 <p></p>
