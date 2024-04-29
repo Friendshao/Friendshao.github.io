@@ -28,7 +28,7 @@ tr:nth-child(odd) {
 | **TIME** | **ROLE** |
 | 2020-now |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
 | 2023-2024 | Special Editorial Board Member  of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
-| 2024-2026 | Joint Youth Editorial Board Member of [Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X), [Chinese Physics B](https://cpb.iphy.ac.cn/),<br>[《物理学报》](https://wulixb.iphy.ac.cn/index.htm), and [《物理》](http://www.wuli.ac.cn/) |
+| 2024-2026 | Joint Youth Editorial Board Member<br>[Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X), [Chinese Physics B](https://cpb.iphy.ac.cn/), [《物理学报》](https://wulixb.iphy.ac.cn/index.htm), and [《物理》](http://www.wuli.ac.cn/) |
 | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
 | 2023-2024 | Special Issue Editor for *Classical and Quantum Gravity*<br><small>[Focus on Pulsar Timing Arrays](https://iopscience.iop.org/collections/cqg-230802-310)</small> |
 | 2023-2024 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
