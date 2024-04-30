@@ -80,13 +80,6 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
-0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, W. Zhu, M. Kramer, X.
-Miao, G. Desvignes, **L. Shao**, H. Hu, P.C.C.  Freire, Y. Zhang, M. Xue, Z.
-Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang,
-[The Relativistic Spin Precession in the Compact Double Neutron Star System PSR
-J1946+2052](http://arxiv.org/abs/2403.17828), *Astrophys. J.* (accepted),
-arXiv:2403.17828
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, D. Liang, Z.-F. Mai, [Probing
 the vector charge of Sagittarius A* with pulsar
@@ -114,6 +107,12 @@ Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
 magnetar following an X-ray
 outburst](https://www.nature.com/articles/s41550-024-02226-7), *Nat. Astron.* XXX (2024) YYY
+
+0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, W. Zhu, M. Kramer, X.
+Miao, G. Desvignes, **L. Shao**, H. Hu, P.C.C.  Freire, Y. Zhang, M. Xue, Z.
+Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang,
+[The Relativistic Spin Precession in the Compact Double Neutron Star System PSR
+J1946+2052](http://arxiv.org/abs/2403.17828), *Astrophys. J.* 966 (2024) 46
 
 0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
