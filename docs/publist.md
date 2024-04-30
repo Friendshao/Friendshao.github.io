@@ -80,12 +80,6 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
-0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Dynamic instability analysis for
-bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757), *Phys.
-Rev. D* (accepted), arXiv:2401.07757
-
 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, W. Zhu, M. Kramer, X.
 Miao, G. Desvignes, **L. Shao**, H. Hu, P.C.C.  Freire, Y. Zhang, M. Xue, Z.
 Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang,
@@ -120,6 +114,12 @@ Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
 magnetar following an X-ray
 outburst](https://www.nature.com/articles/s41550-024-02226-7), *Nat. Astron.* XXX (2024) YYY
+
+0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Dynamic instability analysis for
+bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757), *Phys.
+Rev. D* 109 (2024) 084076
 
 0. J. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
