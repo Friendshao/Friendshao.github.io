@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 278)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 279)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -20,6 +20,12 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. C. Smarra<font color="#5c5c5c"><sup>(#)</sup></font>, A. Kuntz, E. Barausse,
+B. Goncharov, D.L. Nacir, D. Blas, **L.  Shao**, J. Antoniadis, D.J. Champion,
+I. Cognard, L. Guillemot, H. Hu, M. Keith, M. Kramer, K. Liu, D. Perrodin, S.A.
+Sanidas, G. Theureau, [Constraints on conformal ultralight dark matter couplings
+from the European Pulsar Timing Array](https://arxiv.org/abs/TBA), arXiv:TBA
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chen, C.
 Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Unveiling
@@ -108,10 +114,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, R. Xu, D. Liang, Z.-F. Mai, [Probing
 the vector charge of Sagittarius A* with pulsar
 timing](http://arxiv.org/abs/2312.02486), *J. Cosmol. Astropart. Phys.* 04 (2024) 087
 
-0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, W. Zhu, M. Kramer, X.
-Miao, G. Desvignes, **L. Shao**, H. Hu, P.C.C.  Freire, Y. Zhang, M. Xue, Z.
-Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang,
-[The Relativistic Spin Precession in the Compact Double Neutron Star System PSR
+0. L. Meng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, X.  Miao, G. Desvignes,
+**L. Shao**, H. Hu, P.C.C.  Freire, Y. Zhang, M. Xue, Z.  Fang, D.J. Champion,
+M. Yuan, C. Miao, J. Niu, Q.  Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic
+Spin Precession in the Compact Double Neutron Star System PSR
 J1946+2052](http://arxiv.org/abs/2403.17828), *Astrophys. J.* 966 (2024) 46
 
 0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font

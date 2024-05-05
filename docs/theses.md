@@ -55,7 +55,7 @@ tr:nth-child(odd) {
 0. **李竹海**，[Bumblebee 理论下的中子星结构](theses/LiZhuhai.pdf)（北京师范大学，2024年·夏）
   - <small>Neutron Star Structures in the Bumblebee Theory
 0. **李子敬**，[量子引力唯象学在天体物理中的可能观测现象](theses/LiZijing.pdf)（北京大学，2024年·夏）
-  - <small>TBA
+  - <small>Possible Observational  Phenomenology from Quantum Gravity in Astrophysics
 0. **高焜**，[暗物质与脉冲双星系统](theses/GaoKun.pdf)（北京大学，2024年·夏）
   - <small>TBA
 0. **胡杰瑞**，[脉冲星测时阵列检验引力](theses/HuJierui.pdf)（北京大学，2024年·夏）
