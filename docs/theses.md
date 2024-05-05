@@ -48,12 +48,12 @@ tr:nth-child(odd) {
   - <small>Constraining Fermionic Dark Matter with Neutron Stars
 0. **李沛航**，[智能制造在射电天文中的应用](theses/LiPeihang.pdf)（北京大学，2024年·夏）
   - <small>TBA
-0. **徐一鸣**，[机器学习在引力波数据处理中的应用](theses/XuYiming.pdf)（北京大学，2024年·夏）
-  - <small>TBA
+0. **徐一鸣**，[基于机器学习的引力波噪声分类](theses/XuYiming.pdf)（北京大学，2024年·夏）
+  - <small>Classification of Gravitational Wave Detector Glitches with Machine Learning
 0. **赵乘辉**，[致密星震荡](theses/ZhaoChenghui.pdf)（南京大学，2024年·夏）
   - <small>TBA
 0. **李竹海**，[Bumblebee 理论下的中子星结构](theses/LiZhuhai.pdf)（北京师范大学，2024年·夏）
-  - <small>TBA
+  - <small>Neutron Star Structures in the Bumblebee Theory
 0. **李子敬**，[量子引力唯象学在天体物理中的可能观测现象](theses/LiZijing.pdf)（北京大学，2024年·夏）
   - <small>TBA
 0. **高焜**，[暗物质与脉冲双星系统](theses/GaoKun.pdf)（北京大学，2024年·夏）
