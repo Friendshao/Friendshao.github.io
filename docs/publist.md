@@ -25,7 +25,8 @@ layout: default
 B. Goncharov, D.L. Nacir, D. Blas, **L.  Shao**, J. Antoniadis, D.J. Champion,
 I. Cognard, L. Guillemot, H. Hu, M. Keith, M. Kramer, K. Liu, D. Perrodin, S.A.
 Sanidas, G. Theureau, [Constraints on conformal ultralight dark matter couplings
-from the European Pulsar Timing Array](https://arxiv.org/abs/TBA), arXiv:TBA
+from the European Pulsar Timing Array](https://arxiv.org/abs/2405.01633),
+arXiv:2405.01633
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chen, C.
 Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Unveiling
