@@ -68,12 +68,6 @@ era of gravitational-wave astrophysics with advanced
 detectors](https://arxiv.org/abs/1611.03703), *Phys. Rev. D* 95 (2017) 044028
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.95.044028" data-style="small_rectangle"></span>
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.  Wex<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of gravitational symmetries
-with radio pulsars](https://arxiv.org/abs/1604.03662), *Sci. China Phys. Mech.
-Astron.* 59 (2016) 699501
-<span class="__dimensions_badge_embed__" data-doi="10.1007/s11433-016-0087-6" data-style="small_rectangle"></span>
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [New pulsar
 limit on local Lorentz invariance violation of gravity in the standard-model
 extension](https://arxiv.org/abs/1412.2320), *Phys. Rev. D* 90 (2014) 122009
@@ -98,6 +92,12 @@ invariance of gravity with small-eccentricity binary
 pulsars](https://arxiv.org/abs/1209.4503), *Class. Quantum Grav.* 29 (2012)
 215018
 <span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/29/21/215018" data-style="small_rectangle"></span>
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Xiao, B.-Q.
+Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Lorentz violation from
+cosmological objects with very high energy photon
+emissions](https://arxiv.org/abs/0911.2276), *Astropart. Phys.* 33 (2010) 312
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.astropartphys.2010.03.003" data-style="small_rectangle"></span> 
 {: reversed="reversed"}
 
 <!-- 
@@ -139,6 +139,12 @@ photon mass with a catalog of fast radio
 bursts](https://arxiv.org/abs/1705.01278), *Phys. Rev. D* 95 (2017) 123010
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.95.123010" data-style="small_rectangle"></span>
 
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.  Wex<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of gravitational symmetries
+with radio pulsars](https://arxiv.org/abs/1604.03662), *Sci. China Phys. Mech.
+Astron.* 59 (2016) 699501
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11433-016-0087-6" data-style="small_rectangle"></span>
+
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
 the strong equivalence principle with the triple pulsar PSR
 J0337+1715](https://arxiv.org/abs/1602.05725), *Phys. Rev. D* 93 (2016) 084023
@@ -154,12 +160,6 @@ Quantum Grav.* 30 (2013) 165020
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [The significant digit law in
 statistical physics](https://arxiv.org/abs/1005.0660), *Physica A* 389 (2010) 3109
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2010.04.021" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Xiao, B.-Q.
-Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Lorentz violation from
-cosmological objects with very high energy photon
-emissions](https://arxiv.org/abs/0911.2276), *Astropart. Phys.* 33 (2010) 312
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.astropartphys.2010.03.003" data-style="small_rectangle"></span> 
 
 -->
 
