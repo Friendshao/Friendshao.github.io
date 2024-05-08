@@ -87,9 +87,6 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
-0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
-Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* (accepted), arXiv:2310.08183
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
@@ -104,6 +101,10 @@ Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
 K. Liu, A.G. Lyne, **L. Shao**, B. Stappers, J. Pétri, [A freely precessing
 magnetar following an X-ray
 outburst](https://www.nature.com/articles/s41550-024-02226-7), *Nat. Astron.* XXX (2024) YYY
+
+0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
+Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
+024701
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-wave transients associated with magnetar bursts in Advanced LIGO
