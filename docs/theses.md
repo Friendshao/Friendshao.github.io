@@ -50,8 +50,8 @@ tr:nth-child(odd) {
   - <small>TBA
 0. **徐一鸣**，[基于机器学习的引力波噪声分类](theses/XuYiming.pdf)（北京大学，2024年·夏）
   - <small>Classification of Gravitational Wave Detector Glitches with Machine Learning
-0. **赵乘辉**，[致密星的震荡模式和物态研究](theses/ZhaoChenghui.pdf)（南京大学，2024年·夏）
-  - <small>Compact Star Seismology and Equation of State
+0. **赵乘辉**，[白矮星的震荡模式和物态研究](theses/ZhaoChenghui.pdf)（南京大学，2024年·夏）
+  - <small>White Dwarf Seismology and Equation of State
 0. **李竹海**，[Bumblebee 理论下的中子星结构](theses/LiZhuhai.pdf)（北京师范大学，2024年·夏）
   - <small>Neutron Star Structures in the Bumblebee Theory
 0. **李子敬**，[量子引力唯象学在天体物理中的可能观测现象](theses/LiZijing.pdf)（北京大学，2024年·夏）
