@@ -103,6 +103,9 @@ tr:nth-child(odd) {
 
 <big><big> **Postdoctoral Report**
 
+0. **吕振伟**，[博后出站报告](theses/LyuZhenwei.pdf)（北京大学，2024年·秋）
+0. **王海天**，[博后出站报告](theses/WangHaitian.pdf)（北京大学，2024年·秋）
+0. **Garvin Yim**，[博后出站报告](theses/YimGarvin.pdf)（北京大学，2024年·秋）
 0. **麦展风**，[大黄蜂黑洞的稳定性分析](theses/MaiZhanfeng.pdf)（北京大学，2024年·夏）
   - <small> Stability Analysis for Bumblebee Black Holes
 0. **梁迪聪**，[修改引力理论中的引力波](theses/LiangDicong.pdf)（北京大学，2023年·冬）
@@ -117,6 +120,10 @@ tr:nth-child(odd) {
 
 <big><big> **Undergraduate Student Research Study**
 
+0. **杨奕博**，Probing Dark Matter with Neutron Stars（PKU'25·秋）
+0. **楚开尧**，Compact Star Astrophysics with Gravitational Waves（PKU'25·秋）
+0. **张逸伦**，Orbital Dynamics in Kerr Spacetime（PKU'25·秋）
+0. **刘文帅**，Gravitational-wave Data Analysis and Machine Learning（PKU'25·秋）
 0. **刘宇堃**，北京市自然科学基金本科生启研计划，Dark-matter-admixed Neutron Stars（PKU'24·秋）
 0. **章弘毅**，校长基金，Characteristic Signals in Gravitational Waves（PKU'24·秋）
 0. **李柏霖**，䇹政基金，Testing Gravity with Pulsar Timing Arrays（PKU'24·秋）
