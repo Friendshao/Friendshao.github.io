@@ -23,7 +23,7 @@ tr:nth-child(odd) {
 <big><big> **Doctoral Thesis**
 
 0. **李洪波**，[致密星的星震学](theses/LiHongbo.pdf)（北京大学，2024年·夏）
-  - <small> The Asteroseismology of Compact Star
+  - <small> The Asteroseismology of Compact Stars
 0. **刘畅**，[空间引力波探测器的科学目标](theses/LiuChang.pdf)（北京大学，2024年·夏）
   - <small> Science Cases with Space-based Gravitational-wave Detectors
 0. **高勇**，[多信使天文学时代下中子星结构和进动的研究](theses/GaoYong.pdf)（北京大学，2023年·夏）
@@ -40,8 +40,8 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Thesis**
 
-0. **郭雨欣**，[机器学习在引力波数据处理中的应用](theses/GuoYuxin.pdf)（北京航空航天大学，2024年·夏）
-  - <small>TBA
+0. **郭雨欣**，[基于数值相对论波形的黑洞并合参数估计方法](theses/GuoYuxin.pdf)（北京航空航天大学，2024年·夏）
+  - <small>Estimating Black Hole Merger Parameters Based on Numerical Relativity Waveforms
 0. **潘奕晨**，[人工智能技术在脉冲星、快速射电暴搜寻中的应用测试](theses/PanYichen.pdf)（北京大学，2024年·夏）
   - <small>TBA
 0. **罗荐元**，[利用中子星限制费米子暗物质](theses/LuoJianyuan.pdf)（武汉大学，2024年·夏）
@@ -56,8 +56,8 @@ tr:nth-child(odd) {
   - <small>Neutron Star Structures in the Bumblebee Theory
 0. **李子敬**，[量子引力唯象学在天体物理中的可能观测现象](theses/LiZijing.pdf)（北京大学，2024年·夏）
   - <small>Possible Observational  Phenomenology from Quantum Gravity in Astrophysics
-0. **高焜**，[暗物质与脉冲双星系统](theses/GaoKun.pdf)（北京大学，2024年·夏）
-  - <small>TBA
+0. **高焜**，[矢量超轻暗物质在脉冲双星测时中的信号](theses/GaoKun.pdf)（北京大学，2024年·夏）
+  - <small>Timing Signals of Vector Ultra-Light Dark Matter in Binary Pulsar Systems
 0. **胡杰瑞**，[脉冲星测时阵列检验引力](theses/HuJierui.pdf)（北京大学，2024年·夏）
   - <small>TBA
 0. **杜嵘**，[多信使天文学](theses/DuRong.pdf)（北京大学，2024年·夏）
