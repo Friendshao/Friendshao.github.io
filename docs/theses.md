@@ -47,7 +47,7 @@ tr:nth-child(odd) {
 0. **罗荐元**，[利用中子星限制费米子暗物质](theses/LuoJianyuan.pdf)（武汉大学，2024年·夏）
   - <small>Constraining Fermionic Dark Matter with Neutron Stars
 0. **李沛航**，[智能制造在射电天文中的应用](theses/LiPeihang.pdf)（北京大学，2024年·夏）
-  - <small>TBA
+  - <small>Smart Manufacturing in Radio Astronomy
 0. **徐一鸣**，[基于机器学习的引力波噪声分类](theses/XuYiming.pdf)（北京大学，2024年·夏）
   - <small>Classification of Gravitational Wave Detector Glitches with Machine Learning
 0. **赵乘辉**，[白矮星的震荡模式和物态研究](theses/ZhaoChenghui.pdf)（南京大学，2024年·夏）
