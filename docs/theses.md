@@ -62,8 +62,8 @@ tr:nth-child(odd) {
   - <small>TBA
 0. **杜嵘**，[多信使天文学](theses/DuRong.pdf)（北京大学，2024年·夏）
   - <small>TBA
-0. **周立杭**，[Kerr 时空的强引力透镜效应](theses/ZhouLihang.pdf)（北京大学，2024年·夏）
-  - <small>TBA
+0. **周立杭**，[克尔黑洞强引力透镜的向前光线追踪方法](theses/ZhouLihang.pdf)（北京大学，2024年·夏）
+  - <small>Forward Ray Tracing Method for Kerr Black Hole Strong Lensing
 0. **王子铭**，[重叠引力波信号中参数估计偏倚的剖析](theses/WangZiming.pdf)（北京大学，2023年·夏）
   - <small>Anatomy of Parameter-estimation Biases in Overlapping Gravitational-wave Signals
 0. **董益铭**，[标准模型拓展下轴对称中子星的转动惯量](theses/DongYiming.pdf)（北京大学，2023年·夏）
