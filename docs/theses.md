@@ -58,8 +58,8 @@ tr:nth-child(odd) {
   - <small>Possible Observational  Phenomenology from Quantum Gravity in Astrophysics
 0. **高焜**，[矢量超轻暗物质在脉冲双星测时中的信号](theses/GaoKun.pdf)（北京大学，2024年·夏）
   - <small>Timing Signals of Vector Ultra-Light Dark Matter in Binary Pulsar Systems
-0. **胡杰瑞**，[脉冲星测时阵列检验引力](theses/HuJierui.pdf)（北京大学，2024年·夏）
-  - <small>TBA
+0. **胡杰瑞**，[用脉冲星测时阵列检验洛伦兹对称性](theses/HuJierui.pdf)（北京大学，2024年·夏）
+  - <small>Testing Lorentz Symmetry with Pulsar Timing Arrays
 0. **杜嵘**，[引力波汽笛测量宇宙学参数的系统误差分析](theses/DuRong.pdf)（北京大学，2024年·夏）
   - <small>Analyzing the Systematic Bias of Measuring Cosmological Parameters with Gravitational-Wave Sirens
 0. **周立杭**，[克尔黑洞强引力透镜的向前光线追踪方法](theses/ZhouLihang.pdf)（北京大学，2024年·夏）
