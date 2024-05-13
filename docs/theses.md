@@ -60,8 +60,8 @@ tr:nth-child(odd) {
   - <small>Timing Signals of Vector Ultra-Light Dark Matter in Binary Pulsar Systems
 0. **胡杰瑞**，[脉冲星测时阵列检验引力](theses/HuJierui.pdf)（北京大学，2024年·夏）
   - <small>TBA
-0. **杜嵘**，[多信使天文学](theses/DuRong.pdf)（北京大学，2024年·夏）
-  - <small>TBA
+0. **杜嵘**，[引力波汽笛测量宇宙学参数的系统误差分析](theses/DuRong.pdf)（北京大学，2024年·夏）
+  - <small>Analyzing the Systematic Bias of Measuring Cosmological Parameters with Gravitational-Wave Sirens
 0. **周立杭**，[克尔黑洞强引力透镜的向前光线追踪方法](theses/ZhouLihang.pdf)（北京大学，2024年·夏）
   - <small>Forward Ray Tracing Method for Kerr Black Hole Strong Lensing
 0. **王子铭**，[重叠引力波信号中参数估计偏倚的剖析](theses/WangZiming.pdf)（北京大学，2023年·夏）
