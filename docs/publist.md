@@ -62,12 +62,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Accelerated Expansion of the
 Present Universe Drived by a Scalar Field: dynamical system analysis](TBA),
 *Commun. Theor. Phys.* (submitted), arXiv:TBA
 
-0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, Z. Wang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Compact Binary
-Foreground Subtraction for Detecting the Stochastic Gravitational-wave
-Background in Ground-based Detectors](https://arxiv.org/abs/2401.00984),
-arXiv:2401.00984
-
 0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
 Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
 Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
@@ -86,6 +80,13 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, Z. Wang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [The Impact of Spin in
+Compact Binary Foreground Subtraction for Estimating the Residual Stochastic
+Gravitational-wave Background in Ground-based
+Detectors](https://arxiv.org/abs/2401.00984), *Phys. Rev. D*, (accepted),
+arXiv:2401.00984
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
