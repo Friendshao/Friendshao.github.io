@@ -42,8 +42,8 @@ tr:nth-child(odd) {
 
 0. **郭雨欣**，[基于数值相对论波形的黑洞并合参数估计方法](theses/GuoYuxin.pdf)（北京航空航天大学，2024年·夏）
   - <small>Estimating Black Hole Merger Parameters Based on Numerical Relativity Waveforms
-0. **潘奕晨**，[人工智能技术在脉冲星、快速射电暴搜寻中的应用测试](theses/PanYichen.pdf)（北京大学，2024年·夏）
-  - <small>TBA
+0. **潘奕晨**，[人工智能技术在脉冲星和快速射电暴搜寻中的应用](theses/PanYichen.pdf)（北京大学，2024年·夏）
+  - <small>Application of Artificial Intelligence Technology in the Search for Pulsar and FRB Signals
 0. **罗荐元**，[利用中子星限制费米子暗物质](theses/LuoJianyuan.pdf)（武汉大学，2024年·夏）
   - <small>Constraining Fermionic Dark Matter with Neutron Stars
 0. **李沛航**，[智能制造在射电天文中的应用](theses/LiPeihang.pdf)（北京大学，2024年·夏）
