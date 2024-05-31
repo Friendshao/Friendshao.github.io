@@ -32,10 +32,12 @@ tr:nth-child(odd) {
 | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
 | 2023-2024 | Special Issue Editor for *Classical and Quantum Gravity*<br><small>[Focus on Pulsar Timing Arrays](https://iopscience.iop.org/collections/cqg-230802-310)</small> |
 | 2023-2024 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
+| 2024-2025 | Special Issue Editor for *Symmetry*<br><small>[Symmetries in Compact Stars and Advances in Gravitational Waves](https://www.mdpi.com/journal/symmetry/special_issues/55L9VJ681U)</small> |
 | | &#9830; **Past Role and Awards** &#9830; |
-| 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
 | 2019-2022 | Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
+| 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
 | 2023-2024 | Special Issue Editor for *Results in Physics*<br><small>[Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/special-issue/107TZ5KRN12)</small> |
+| 2021 | Special Issue Editor for *Universe*<br><small>[Selected Papers from the 1st International Electronic Conference on Universe](https://www.mdpi.com/journal/universe/special_issues/ecu2021)</small> |
 | 2023 | IOP Trusted Reviewer for [IOP Publishing](https://accreditations.ioppublishing.org/ae33d146-240a-4f3a-94d3-0c5c72e3b873#gs.5181xs) |
 | 2022 | Outstanding Reviewer for [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://mp.weixin.qq.com/s/l0tT488ZYP1WjEwD5GlK9w) |
 | 2020 | Outstanding Reviewer for [SCIENCE CHINA: Physics, Mechanics & Astronomy](https://mp.weixin.qq.com/s/u_07f_JjryUV_19NtKQECA) |
