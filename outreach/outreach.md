@@ -33,7 +33,7 @@ tr:nth-child(odd) {
 | 2023-2024 | Special Issue Editor for *Classical and Quantum Gravity*<br><small>[Focus on Pulsar Timing Arrays](https://iopscience.iop.org/collections/cqg-230802-310)</small> |
 | 2023-2024 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
 | 2024-2025 | Special Issue Editor for *Symmetry*<br><small>[Symmetries in Compact Stars and Advances in Gravitational Waves](https://www.mdpi.com/journal/symmetry/special_issues/55L9VJ681U)</small> |
-| | &#9830; **Past Role and Awards** &#9830; |
+| | **PAST ROLE** |
 | 2019-2022 | Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
 | 2023-2024 | Special Issue Editor for *Results in Physics*<br><small>[Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/special-issue/107TZ5KRN12)</small> |
@@ -53,7 +53,8 @@ tr:nth-child(odd) {
 | **ROLE** | **CONFERENCE** |
 | <font color="blue"><b>SOC</b></font> | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
 | <font color="blue"><b>Organizer</b></font> | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
-| <font color="blue"><b>Organizer</b></font> | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
+| Session Chair | [International Symposium on Cosmology and Particle Astrophysics CosPA 2024](https://indico.itp.ac.cn/event/198/)<br><small>June 14-18, 2024, Ningbo China |
+| <font color="blue"><b>Organizer</b></font><br>Session Chair | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
 | Organizer | [Dialog at the Dream Field: Supranuclear Matter](https://psr.pku.edu.cn/conference/fps/ddf/index.html)<br><small>May 10-15, 2024, Guiyang China  |
 | Session Chair | [2nd International	Mini-Workshop on Gravitational	Waves	in	the	Early	Universe](https://indico.itp.ac.cn/event/217/)<br><small>April 8-11, 2024, Beijing China |
 | Session Chair | 京海引力波论坛第一次会议<br><small>April 4, 2024, 中国科学院力学所(怀柔园区), Beijing China |
