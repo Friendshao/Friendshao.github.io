@@ -25,7 +25,7 @@ tr:nth-child(odd) {
 ### <img src="funds.png" style="height:40px;"> &nbsp; <b>Projects & Funds</b>
 
 | **时间** | **职责** | **课题** | **基金号** | 
-| 2024.03-2026.12 | **主持** | **北京大学新工科交叉青年专项** <br> <small> 用机器学习优化空间引力波的搜寻与参数估计</small> | NULL |
+| 2024.03-2024.12 | **主持** | **北京大学新工科交叉青年专项** <br> <small> 用机器学习优化空间引力波的搜寻与参数估计</small> | NULL |
 | 2024.01-2026.12 | **主持** | **北京市自然科学基金面上项目** <br> <small> 用中低频引力波探测致密天体的物理性质</small> | 1242018 |
 | 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | NULL |
 | 2020.12-2025.11 | **主持** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | 2020SKA0120300 |
