@@ -83,4 +83,4 @@ width="20">pku.edu.cn
 
 <img src="meet.png" width="32"> **Group Meeting:** Sundays 9:00-11:30 AM (1st meeting room)
 
-<img src="open.jpg" width="30"> **Office Hours:** Thursdays 14:00-17:00PM and Sundays 13:00-14:30PM (by appointment)
+<img src="open.jpg" width="30"> **Office Hours:** Thursdays 14:00-17:00PM and Sundays 13:30-14:30PM (by appointment)
