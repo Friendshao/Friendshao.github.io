@@ -94,13 +94,6 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
-0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, Z. Wang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [The Impact of Spin in
-Compact Binary Foreground Subtraction for Estimating the Residual Stochastic
-Gravitational-wave Background in Ground-based
-Detectors](https://arxiv.org/abs/2401.00984), *Phys. Rev. D*, (accepted),
-arXiv:2401.00984
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
 LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
@@ -109,6 +102,12 @@ LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, Z. Wang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Impact of spin in
+compact binary foreground subtraction for estimating the residual stochastic
+gravitational-wave background in ground-based
+detectors](https://arxiv.org/abs/2401.00984), *Phys. Rev. D* 109 (2024) 123014
 
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.
 Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R. Karuppusamy, L. Levin,
