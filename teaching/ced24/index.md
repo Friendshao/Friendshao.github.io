@@ -77,7 +77,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | **单号助教** | 董益铭，ydong@pku.edu.cn |
 | **双号助教** |  顾华鹏，1900011613@pku.edu.cn |
 | **习题课** | 周一10-11节（双）；三教101 |
-| <font color="red"><b>网盘链接</b></font> | [猛戳这里](TBA) （倘若打开有误，请尝试刷新） |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AAC563E3C75CD14F60A5998E3DD76F194B) （倘若打开有误，请尝试刷新） |
 
 <p></p>
 

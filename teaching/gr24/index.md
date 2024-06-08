@@ -73,7 +73,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | **Lecturer** | Lijing Shao (邵立晶)；Office KIAA-217；lshao@pku.edu.cn | 
 | | 【答疑时间】每周日14:00-15:00PM（建议来前联系，以免空跑） | 
 | **Teaching Assistant** |  宋翰林，hanlin@stu.pku.edu.cn |
-| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/12A30CE7AF1458C983B6E65ADF37E380) （倘若打开有误，请尝试重新刷新） |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AA4E88E13CA6374604A996BE973B44F732) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
 
