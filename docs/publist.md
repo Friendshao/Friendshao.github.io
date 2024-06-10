@@ -70,11 +70,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
 Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
-0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Accelerated Expansion of the
-Present Universe Drived by a Scalar Field: dynamical system analysis](TBA),
-*Commun. Theor. Phys.* (submitted), arXiv:TBA
-
 0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
 Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
 Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
@@ -93,6 +88,12 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalar Dark Energy Models and
+Scalar-Tensor Gravity: Theoretical Explanations for the Accelerated Expansion of
+Present Universe](http://arxiv.org/abs/2406.04954),
+*Commun. Theor. Phys.* (submitted), arXiv:2406.04954
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
