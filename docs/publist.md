@@ -1831,10 +1831,6 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes, **邵立晶**,
 [一颗自由进动的磁星](TBA), 《科学通报》 (已接收)
 
-0. 梁迪聪<font color="#5c5c5c"><sup>(#)</sup></font>, **邵立晶**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>,
-[脉冲星计时阵列与纳赫兹引力波探测](https://doi.org/10.1360/TB-2024-0104), 《科学通报》 (已接收)
-
 0. 路瑞鹏<font color="#5c5c5c"><sup>(#)</sup></font>, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光,
 **邵立晶**, 王平, 汪卫华, 王维扬, 夏铖君, 胥恒, 徐仁新<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, 徐世庆, 岳汉<font
@@ -1844,6 +1840,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, 赵里, 郑小平, 周恩平, 邹远
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 徐睿<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
+
+0. 梁迪聪<font color="#5c5c5c"><sup>(#)</sup></font>, **邵立晶**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[脉冲星计时阵列与纳赫兹引力波探测](https://doi.org/10.1360/TB-2024-0104), 《科学通报》 69 (2024) 2330
 
 0. 康亚城<font color="#5c5c5c"><sup>(#)</sup></font>, 刘畅, 朱锦平, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428),
