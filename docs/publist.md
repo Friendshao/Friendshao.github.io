@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 282)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 16)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
 
 ---
@@ -1827,6 +1827,9 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
+
+0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes, **邵立晶**,
+[一颗自由进动的磁星](TBA), 《科学通报》 (已接收)
 
 0. 梁迪聪<font color="#5c5c5c"><sup>(#)</sup></font>, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>,
