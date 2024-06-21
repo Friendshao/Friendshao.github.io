@@ -30,11 +30,19 @@ tr:nth-child(odd) {
 
 ### <u>Fall 2025, Peking University</u>
 
+<br>
+
 <div style="display: flex; justify-content: center;">
-<img src="Lagrange_Maxwell.png" width="700">
+<img src="Lagrange_Maxwell.png" width="500">
 </div>
 
+<br>
 
+<center>
+<b>"Follow me", the wise man said, but he walked behind.</b>
+
+—— Leonard Cohen
+</center>
 
 <br>
 
