@@ -30,7 +30,7 @@ tr:nth-child(odd) {
 
 ### <u>Fall 2025, Peking University</u>
 
-<br>
+<p></p>
 
 <div style="display: flex; justify-content: center;">
 <img src="Lagrange_Maxwell.png" width="500">
