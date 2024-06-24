@@ -93,7 +93,7 @@ Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalar Dark Energy Models and
 Scalar-Tensor Gravity: Theoretical Explanations for the Accelerated Expansion of
 Present Universe](http://arxiv.org/abs/2406.04954),
-*Commun. Theor. Phys.* (submitted), arXiv:2406.04954
+*Commun. Theor. Phys.* (accepted), arXiv:2406.04954
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
