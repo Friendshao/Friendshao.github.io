@@ -34,13 +34,6 @@ future lunar seismometers](https://arxiv.org/abs/2405.12640), arXiv:2405.12640
 GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752),
 arXiv:2405.10752
 
-0. C. Smarra<font color="#5c5c5c"><sup>(#)</sup></font>, A. Kuntz, E. Barausse,
-B. Goncharov, D.L. Nacir, D. Blas, **L.  Shao**, J. Antoniadis, D.J. Champion,
-I. Cognard, L. Guillemot, H. Hu, M. Keith, M. Kramer, K. Liu, D. Perrodin, S.A.
-Sanidas, G. Theureau, [Constraints on conformal ultralight dark matter couplings
-from the European Pulsar Timing Array](https://arxiv.org/abs/2405.01633),
-arXiv:2405.01633
-
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chen, C.
 Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Unveiling
 the existence of nontensorial gravitational-wave polarizations from individual
@@ -52,10 +45,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, B. Zhang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Tong, **L. Shao**, Y. Qin,
 [Formation of GW230529 from Isolated Binary Evolution and Its Electromagnetic
 Counterparts](https://arxiv.org/abs/2404.10596), arXiv:2404.10596
-
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Observation of
-Gravitational Waves from the Coalescence of a 2.5-4.5 $M_\odot$ Compact Object
-and a Neutron Star](https://arxiv.org/abs/2404.04248), arXiv:2404.04248
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
 Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Ringdown
@@ -88,6 +77,17 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. C. Smarra<font color="#5c5c5c"><sup>(#)</sup></font>, A. Kuntz, E. Barausse,
+B. Goncharov, D.L. Nacir, D. Blas, **L.  Shao**, J. Antoniadis, D.J. Champion,
+I. Cognard, L. Guillemot, H. Hu, M. Keith, M. Kramer, K. Liu, D. Perrodin, S.A.
+Sanidas, G. Theureau, [Constraints on conformal ultralight dark matter couplings
+from the European Pulsar Timing Array](https://arxiv.org/abs/2405.01633), *Phys. Rev. D* (accepted),
+arXiv:2405.01633
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Observation of
+Gravitational Waves from the Coalescence of a 2.5-4.5 $M_\odot$ Compact Object
+and a Neutron Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* (accepted), arXiv:2404.04248
 
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalar Dark Energy Models and
