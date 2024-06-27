@@ -30,11 +30,11 @@ tr:nth-child(odd) {
 | 2023-2024 | Special Editorial Board Member  of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2024-2026 | Joint Youth Editorial Board Member<br>[Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X), [Chinese Physics B](https://cpb.iphy.ac.cn/), [《物理学报》](https://wulixb.iphy.ac.cn/index.htm), [《物理》](http://www.wuli.ac.cn/) |
 | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
-| 2023-2024 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
 | 2024-2025 | Special Issue Editor for *Symmetry*<br><small>[Symmetries in Compact Stars and Advances in Gravitational Waves](https://www.mdpi.com/journal/symmetry/special_issues/55L9VJ681U)</small> |
 | | **PAST ROLE** |
 | 2019-2022 | Executive Board Member of [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
+| 2023-2024 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
 | 2023-2024 | Special Issue Editor for *Classical and Quantum Gravity*<br><small>[Focus on Pulsar Timing Arrays](https://iopscience.iop.org/collections/cqg-230802-310)</small> |
 | 2023-2024 | Special Issue Editor for *Results in Physics*<br><small>[Physics of Gravitational Waves: Developments in Theory and Detection](https://www.sciencedirect.com/journal/results-in-physics/special-issue/107TZ5KRN12)</small> |
 | 2021 | Special Issue Editor for *Universe*<br><small>[Selected Papers from the 1st International Electronic Conference on Universe](https://www.mdpi.com/journal/universe/special_issues/ecu2021)</small> |
