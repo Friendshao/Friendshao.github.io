@@ -74,6 +74,10 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
+0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, R.-X.
+Xu, [High priority targets for transient gravitational waves from glitching
+pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2406.00283
+
 0. C. Smarra<font color="#5c5c5c"><sup>(#)</sup></font>, A. Kuntz, E. Barausse,
 B. Goncharov, D.L. Nacir, D. Blas, **L.  Shao**, J. Antoniadis, D.J. Champion,
 I. Cognard, L. Guillemot, H. Hu, M. Keith, M. Kramer, K. Liu, D. Perrodin, S.A.
