@@ -21,10 +21,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, R.-X.
-Xu, [High priority targets for transient gravitational waves from glitching
-pulsars](https://arxiv.org/abs/2406.00283), arXiv:2406.00283
-
 0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, **L. Shao**, M.
 Wang, [Constraining the stochastic gravitational wave background using the
