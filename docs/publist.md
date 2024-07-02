@@ -26,10 +26,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, **L. Shao**, M.
 Wang, [Constraining the stochastic gravitational wave background using the
 future lunar seismometers](https://arxiv.org/abs/2405.12640), arXiv:2405.12640
 
-0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission from
-GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752),
-arXiv:2405.10752
-
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chen, C.
 Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Unveiling
 the existence of nontensorial gravitational-wave polarizations from individual
@@ -73,6 +69,9 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission
+from GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted), arXiv:2405.10752
 
 0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, R.-X.
 Xu, [High priority targets for transient gravitational waves from glitching
