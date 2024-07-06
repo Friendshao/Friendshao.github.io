@@ -39,8 +39,9 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Tong, **L. Shao**, Y. Qin,
 Counterparts](https://arxiv.org/abs/2404.10596), arXiv:2404.10596
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
-Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Ringdown
-analysis using the $F$-statistic](https://arxiv.org/abs/TBA), submitted
+Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[Gravitational wave ringdown analysis using the
+$F$-statistic](https://arxiv.org/abs/TBA), submitted
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Ultralight vector
 dark matter search using data from the KAGRA O3GK
