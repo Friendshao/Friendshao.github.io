@@ -38,10 +38,6 @@ Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [Gravitational wave ringdown analysis using the
 $F$-statistic](https://arxiv.org/abs/TBA), submitted
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Ultralight vector
-dark matter search using data from the KAGRA O3GK
-run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
-
 0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
 Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
@@ -65,6 +61,11 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Ultralight vector
+dark matter search using data from the KAGRA O3GK
+run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D* (accepted),
+arXiv:2403.03004
 
 0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, **L. Shao**, M.
