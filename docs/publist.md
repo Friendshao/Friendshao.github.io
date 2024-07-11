@@ -1538,14 +1538,6 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
 
-0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
-Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
-deci-Hertz gravitational waves over the
-Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
-Phys. Mech. Astron.* 66 (2023) 119531
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
 relativistic gravity with radio timing of neutron stars](TBA), in
 *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in press
@@ -1554,6 +1546,14 @@ relativistic gravity with radio timing of neutron stars](TBA), in
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
 radio pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
 Tests* (Springer Series in Astrophysics and Cosmology, Singapore 2024), p. 61
+
+0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
+Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
+deci-Hertz gravitational waves over the
+Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
+Phys. Mech. Astron.* 66 (2023) 119531
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars
 as a laboratory for strong-field gravity
