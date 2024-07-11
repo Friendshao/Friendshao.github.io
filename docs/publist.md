@@ -1546,22 +1546,20 @@ deci-Hertz gravitational waves over the
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
 Phys. Mech. Astron.* 66 (2023) 119531
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
-radio pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
-Tests*, in press
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
 relativistic gravity with radio timing of neutron stars](TBA), in
 *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in press
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
+radio pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
+Tests* (Springer Series in Astrophysics and Cosmology, Singapore 2024), p. 61
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars
 as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), *Lect. Notes Phys.* 1017 (2023) 385,
 in *Modified and Quantum Gravity: From theory to Experimental Searches on All
 Scales* (Springer Cham, 2023), p. 385
-
-
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
 with radio pulsars in perturbative and nonperturbative
