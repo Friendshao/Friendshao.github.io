@@ -121,11 +121,11 @@ tr:nth-child(odd) {
 
 <p></p>
 
-<!-- ## 学生对课程的总体评价
+## 学生对课程的总体评价
 
 <div style="display: flex; justify-content: center;">
-<img src="phy22_score.png" width="880">
-</div> -->
+<img src="phy24_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({

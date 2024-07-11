@@ -84,15 +84,13 @@ $$\delta S = 0$$
 | <font color="blue"><b>期末答疑</b></font> | 科维理所K217；6月20日·9:00-10:00 |
 | <font color="red"><b>期末考试（闭卷，笔试）</b></font> | 2024年6月20日·14:00-16:00；二教109 | 
 
-<!-- <p></p>
-
 <p></p>
 
-<!-- ## 学生对课程的总体评价
+## 学生对课程的总体评价
 
 <div style="display: flex; justify-content: center;">
-<img src="tm22_score.png" width="880">
-</div> -->
+<img src="tm24_score.png" width="880">
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
