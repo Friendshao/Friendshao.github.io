@@ -60,7 +60,7 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
-Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308.03822
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Ultralight vector
 dark matter search using data from the KAGRA O3GK
