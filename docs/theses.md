@@ -105,8 +105,8 @@ tr:nth-child(odd) {
 
 0. **吕振伟**，[博后出站报告](theses/LyuZhenwei.pdf)（北京大学，2024年·秋）
   - <small> Postdoctoral Report
-0. **王海天**，[博后出站报告](theses/WangHaitian.pdf)（北京大学，2024年·夏）
-  - <small> Postdoctoral Report
+0. **王海天**，[铃宕信号的引力波数据分析](theses/WangHaitian.pdf)（北京大学，2024年·夏）
+  - <small> Gravitational Wave Data Analysis on the Ringdown Signal
 0. **Garvin Yim**，[博后出站报告](theses/YimGarvin.pdf)（北京大学，2024年·夏）
   - <small> Postdoctoral Report
 0. **麦展风**，[大黄蜂黑洞的稳定性分析](theses/MaiZhanfeng.pdf)（北京大学，2024年·夏）
