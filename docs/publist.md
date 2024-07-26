@@ -77,9 +77,6 @@ Wang, [Constraining the stochastic gravitational wave background using the
 future lunar seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D*
 (accepted), arXiv:2405.12640
 
-0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission
-from GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted), arXiv:2405.10752
-
 0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, R.-X.
 Xu, [High priority targets for transient gravitational waves from glitching
 pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2406.00283
@@ -109,6 +106,9 @@ LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission
+from GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* 970 (2024) L20
 
 0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, Z. Wang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Impact of spin in
