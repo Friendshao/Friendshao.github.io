@@ -31,12 +31,6 @@ the existence of nontensorial gravitational-wave polarizations from individual
 supermassive black hole binaries with pulsar timing
 arrays](https://arxiv.org/abs/2404.16680), arXiv:2404.16680
 
-0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.-C. Hu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, B. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Tong, **L. Shao**, Y. Qin,
-[Formation of GW230529 from Isolated Binary Evolution and Its Electromagnetic
-Counterparts](https://arxiv.org/abs/2404.10596), arXiv:2404.10596
-
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
 Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [Gravitational wave ringdown analysis using the
@@ -61,6 +55,12 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.-C. Hu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, B. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Tong, **L. Shao**, Y. Qin,
+[Formation of GW230529 from Isolated Binary Evolution and Its Electromagnetic
+Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted), arXiv:2404.10596
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
