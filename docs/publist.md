@@ -88,10 +88,6 @@ Sanidas, G. Theureau, [Constraints on conformal ultralight dark matter couplings
 from the European Pulsar Timing Array](https://arxiv.org/abs/2405.01633), *Phys. Rev. D* (accepted),
 arXiv:2405.01633
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Observation of
-Gravitational Waves from the Coalescence of a 2.5-4.5 $M_\odot$ Compact Object
-and a Neutron Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* (accepted), arXiv:2404.04248
-
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalar Dark Energy Models and
 Scalar-Tensor Gravity: Theoretical Explanations for the Accelerated Expansion of
@@ -106,6 +102,10 @@ LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Observation of
+Gravitational Waves from the Coalescence of a 2.5-4.5 $M_\odot$ Compact Object
+and a Neutron Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* 970 (2024) L34
 
 0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission
 from GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* 970 (2024) L20
