@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 283)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 284)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -21,8 +21,12 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
+0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, Z.-F. Mai,  R.-Q. Yang,
+**L. Shao**, E. Berti, [Spectral instability of black holes: relating the
+frequency domain to the time domain](http://arxiv.org/abs/TBA), arXiv:TBA
+
 0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
-   GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
+GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
 observing run](https://arxiv.org/abs/2407.12867), arXiv:2407.12867
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chen, C.
