@@ -81,12 +81,6 @@ dark matter search using data from the KAGRA O3GK
 run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D* (accepted),
 arXiv:2403.03004
 
-0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, **L. Shao**, M.
-Wang, [Constraining the stochastic gravitational wave background using the
-future lunar seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D*
-(accepted), arXiv:2405.12640
-
 0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, R.-X.
 Xu, [High priority targets for transient gravitational waves from glitching
 pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2406.00283
@@ -107,6 +101,11 @@ Present Universe](http://arxiv.org/abs/2406.04954),
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, **L. Shao**, M.
+Wang, [Constraining the stochastic gravitational wave background using the
+future lunar seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D* 110 (2024) 043009
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational-lensing signatures in the full third observing run of the
