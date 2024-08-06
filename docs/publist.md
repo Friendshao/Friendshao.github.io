@@ -104,14 +104,13 @@ Scalar-Tensor Gravity: Theoretical Explanations for the Accelerated Expansion of
 Present Universe](http://arxiv.org/abs/2406.04954),
 *Commun. Theor. Phys.* (accepted), arXiv:2406.04954
 
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-gravitational-lensing signatures in the full third observing run of the
-LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.*
-(accepted), arXiv:2304.08393
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+gravitational-lensing signatures in the full third observing run of the
+LIGO-Virgo network](https://arxiv.org/abs/2304.08393), *Astrophys. J.* 970 (2024) 191
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Observation of
 Gravitational Waves from the Coalescence of a 2.5-4.5 $M_\odot$ Compact Object
