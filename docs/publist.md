@@ -32,9 +32,9 @@ Center Supermassive Black Hole with Two
 Pulsars](http://arxiv.org/abs/2408.00245), arXiv:2408.00245
 
 0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, Z.-F. Mai,  R.-Q. Yang,
-**L. Shao**, E. Berti, [Spectral instability of black holes: relating the
-frequency domain to the time domain](http://arxiv.org/abs/2407.20131),
-arXiv:2407.20131
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E. Berti, [Spectral
+instability of black holes: relating the frequency domain to the time
+domain](http://arxiv.org/abs/2407.20131), arXiv:2407.20131
 
 0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
 GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
