@@ -46,11 +46,6 @@ the existence of nontensorial gravitational-wave polarizations from individual
 supermassive black hole binaries with pulsar timing
 arrays](https://arxiv.org/abs/2404.16680), arXiv:2404.16680
 
-0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
-Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
-[Gravitational wave ringdown analysis using the
-$F$-statistic](https://arxiv.org/abs/TBA), submitted
-
 0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
 Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
@@ -70,6 +65,12 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
+   Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[Gravitational wave ringdown analysis using the ${\cal
+F}$-statistic](https://arxiv.org/abs/TBA), *Astrophys. J.* (accepted),
+arXiv:TBA
 
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.-C. Hu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, B. Zhang<font
