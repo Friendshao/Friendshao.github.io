@@ -74,7 +74,6 @@ tr:nth-child(odd) {
 | 00432198 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2025S**](tm25) (?? ppl.)<br>[**2024S**](tm24) (100 ppl.)<br>[**2022F**](thmech22) (101 ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
 | 00432296 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22) (8 ppl.) | 
 | AYEP'23 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 亚洲青少年交流计划·Asian Youth Exchange Program &nbsp;</font></small></span><br>**Fundamental Physics in Astronomy**<br>**天文学中的基础物理** | [**2023**](https://pkutalent.learnworlds.com/course/astronomy) |
-| <small>课程建设中...</small> | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Centenary Physics**<br>**百年物理** | |
 
 <br>
 <p></p>

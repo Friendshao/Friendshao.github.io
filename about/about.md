@@ -48,7 +48,6 @@ University](http://www.pku.edu.cn/), Beijing China.
 | &nbsp; &nbsp; 理论物理基础 (I) | 4学分 | Fundamentals of Theoretical Physics (I)  |
 | &nbsp; &nbsp; 普通物理 (I) | 4学分 | General Physics (I)  |
 | &nbsp; &nbsp; 普通物理 (II) | 4学分 | General Physics (II) |
-| &nbsp; &nbsp; 百年物理 | 2学分 | Centenary Physics <small>(建设中...)</small> |
 | &nbsp; &nbsp; 天体粒子物理 | 2学分 | Astroparticle Physics |
 
 <p></p>
