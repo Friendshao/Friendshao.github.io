@@ -92,7 +92,6 @@ tr:nth-child(odd) {
 | 00432141 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 3学分·51学时 &nbsp;</font></small></span><br>**Electrodynamics (B)**<br>**电动力学（B）**<br><small><small> * exercise class ID: 00432160 | [**2022F**](ced22) (30 ppl.) | 
 | 00432198 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2025S**](tm25) (?? ppl.)<br>[**2024S**](tm24) (100 ppl.)<br>[**2022F**](thmech22) (101 ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
 | 00432296 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22) (8 ppl.) | 
-| AYEP'23 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 亚洲青少年交流计划·Asian Youth Exchange Program &nbsp;</font></small></span><br>**Fundamental Physics in Astronomy**<br>**天文学中的基础物理** | [**2023**](https://pkutalent.learnworlds.com/course/astronomy) |
 
 <br>
 <p></p>
@@ -139,6 +138,7 @@ tr:nth-child(odd) {
 | 00431547 | **Frontier of Astrophysics**<br>**天体物理前沿** | 2024F (2 hr)<br>2023F (2 hr)<br>2021F (1 hr)<br>2019F (2 hr)<br>2019S (2 hr) | 
 | 00920012<br><font color="gray"><small><small> * Tsinghua University</small></small></font> | **Seminars on Frontiers of Astrophysics**<br>**天体物理前沿讲座** | 2021F (2 hr)<br>2020F (2 hr) |
 | 01035390 | **Boya Science Lectures**<br>**博雅理学讲堂** | 2022F (2 hr) | 
+| <small>亚洲青少年交流计划<br><small>Asian Youth Exchange Program</small></small> | **Fundamental Physics in Astronomy**<br>**天文学中的基础物理** | [**2023**](https://pkutalent.learnworlds.com/course/astronomy) |
 
 <br>
 <p></p>
