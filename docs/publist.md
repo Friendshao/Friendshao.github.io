@@ -94,15 +94,15 @@ Sanidas, G. Theureau, [Constraints on conformal ultralight dark matter couplings
 from the European Pulsar Timing Array](https://arxiv.org/abs/2405.01633), *Phys. Rev. D* (accepted),
 arXiv:2405.01633
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
+relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
+(accepted), arXiv:2112.06861
+
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalar Dark Energy Models and
 Scalar-Tensor Gravity: Theoretical Explanations for the Accelerated Expansion of
 Present Universe](http://arxiv.org/abs/2406.04954),
-*Commun. Theor. Phys.* (accepted), arXiv:2406.04954
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
-relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
-(accepted), arXiv:2112.06861
+*Commun. Theor. Phys.* 76 (2024) 107401
 
 0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, R.-X.
 Xu, [High priority targets for transient gravitational waves from glitching
