@@ -82,11 +82,6 @@ Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted), arX
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308.03822
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Ultralight vector
-dark matter search using data from the KAGRA O3GK
-run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D* (accepted),
-arXiv:2403.03004
-
 0. C. Smarra<font color="#5c5c5c"><sup>(#)</sup></font>, A. Kuntz, E. Barausse,
 B. Goncharov, D.L. Nacir, D. Blas, **L.  Shao**, J. Antoniadis, D.J. Champion,
 I. Cognard, L. Guillemot, H. Hu, M. Keith, M. Kramer, K. Liu, D. Perrodin, S.A.
@@ -97,6 +92,10 @@ arXiv:2405.01633
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Ultralight vector
+dark matter search using data from the KAGRA O3GK
+run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D* 110 (2024) 042001
 
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalar Dark Energy Models and
