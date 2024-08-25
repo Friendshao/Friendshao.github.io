@@ -33,7 +33,8 @@ layout: default
   [Dropbox](https://www.dropbox.com/home),
   [github](https://github.com/),
   [bitbucket](https://bitbucket.org/),
-  [Overleaf](https://www.overleaf.com/project)
+  [Overleaf](https://www.overleaf.com/project),
+  [ShareLatex](https://sharelatex.cstcloud.cn/login)
 - [Sage](http://www.sagemath.org/index.html)
   ([cell](https://sagecell.sagemath.org/),
   [CoCalc](https://cocalc.com/),
