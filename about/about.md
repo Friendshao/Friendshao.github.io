@@ -14,6 +14,8 @@ University](http://www.pku.edu.cn/), Beijing China.
 &nbsp; <img src="tree.png" alt="PKU" style="height:25px;"> [**Academic Tree**](https://academictree.org/astronomy/peopleinfo.php?pid=913811)
 &nbsp; <img src="../publication/pku.png" alt="PKU" style="height:25px;"> [**北大学者中文主页**](http://scholar.pku.edu.cn/lshao)
 
+&nbsp; &nbsp; &nbsp; &nbsp;<big><b><font color="blue">找我做本科毕设的，请<a href="https://kiaagravity.github.io/assets/bachelor">猛戳这里</a>，谢谢！</font></b></big>（24年秋/冬）
+
 ---
 
 <p></p>
