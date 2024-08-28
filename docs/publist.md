@@ -82,16 +82,16 @@ Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted), arX
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308.03822
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
+relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
+(accepted), arXiv:2112.06861
+
 0. C. Smarra<font color="#5c5c5c"><sup>(#)</sup></font>, A. Kuntz, E. Barausse,
 B. Goncharov, D.L. Nacir, D. Blas, **L.  Shao**, J. Antoniadis, D.J. Champion,
 I. Cognard, L. Guillemot, H. Hu, M. Keith, M. Kramer, K. Liu, D. Perrodin, S.A.
 Sanidas, G. Theureau, [Constraints on conformal ultralight dark matter couplings
-from the European Pulsar Timing Array](https://arxiv.org/abs/2405.01633), *Phys. Rev. D* (accepted),
-arXiv:2405.01633
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
-relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
-(accepted), arXiv:2112.06861
+from the European Pulsar Timing Array](https://arxiv.org/abs/2405.01633), *Phys.
+Rev. D* 110 (2024) 043033
 
 0. A.W. Raymond, *et al.* (EHT Collaboration), [First Very Long Baseline
 Interferometry Detections at 870 $\mu$m](https://doi.org/10.3847/1538-3881/ad5bdb), *Astron. J.* 168 (2024) 130
