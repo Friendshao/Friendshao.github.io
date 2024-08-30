@@ -103,7 +103,7 @@ tr:nth-child(odd) {
 
 <big><big> **Postdoctoral Report**
 
-0. **吕振伟**，[引力波数据中物理信息的提取](theses/LyuZhenwei.pdf)（北京大学，2024年·秋）
+0. **吕振伟**，[引力波数据中物理信息的提取](theses/LyuZhenwei.pdf)（北京大学，2024年·夏）
   - <small> Unveiling Physical Insights from Gravitational Waves
 0. **王海天**，[铃宕信号的引力波数据分析](theses/WangHaitian.pdf)（北京大学，2024年·夏）
   - <small> Gravitational Wave Data Analysis on the Ringdown Signal
