@@ -67,6 +67,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | **教科书** | **俞允强，《电动力学简明教程》（1999）** |
 | **参考书** | 刘川，《电动力学》（2023） | 
 | | J. D. Jackson, *Classical Electrodynamics* (3rd ed), 1999 |
+| | 王振林，《现代电动力学》（2022）|
 | | 蔡圣善、朱耘、徐建军，《电动力学(第二版)》（2002）|
 | | 郭硕鸿 [著]，黄逎本、李志兵、林琼桂 [修订]，《电动力学(第三版)》（2008） | 
 | | D. J. Griffiths, *Introduction to Electrodynamics* (4th ed), 2017 |
@@ -89,7 +90,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | 2. 静电场 | HW2  (ddl: ) |
 | 3. 静磁场 | HW3  (ddl: ) |
 | *答疑* | 科维理所K217 | 
-| <font color="green"><b>期中考试</b></font>（闭卷，笔试） | 2024年10月23日，随堂，地点待定 |
+| <font color="green"><b>期中考试</b></font>（闭卷，笔试） | 2024年10月23日·10:10-12:00AM<br>地点：待定 |
 | 4. 电磁波的传播 | HW4  (ddl: ) |
 | 5. 电磁波的激发 | HW5  (ddl: ) |
 | 6. 狭义相对论 | HW6  (ddl: )  |
