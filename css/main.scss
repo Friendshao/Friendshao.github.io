@@ -3,6 +3,36 @@
 ---
 @charset "utf-8";
 
+// https://sebhastian.com/html-hover-text/
+.hovertext {
+  position: relative;
+  // border-bottom: 3px dashed gainsboro;
+  // color: blue;
+}
+
+.hovertext:before {
+  content: attr(data-hover);
+  visibility: hidden;
+  opacity: 0;
+  width: 112px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 5px;
+  transition: opacity 1s ease-in-out;
+
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 110%;
+}
+
+.hovertext:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+
 /* Three columns side by side */
 .column {
   float: left;
