@@ -75,7 +75,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | **教师** | 邵立晶；Office KIAA-217；lshao@pku.edu.cn | 
 | |【答疑时间】每周日13:30-14:30PM（建议来前联系，以免空跑） |
 | **单号助教** | 董益铭，ydong@pku.edu.cn |
-| **双号助教** |  顾华鹏，1900011613@pku.edu.cn |
+| **双号助教** |  顾华鹏，guhuapeng@pku.edu.cn |
 | **习题课** | 周一10-11节（双）；三教101 |
 | <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AAC563E3C75CD14F60A5998E3DD76F194B) （倘若打开有误，请尝试刷新） |
 
@@ -89,7 +89,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | 2. 静电场 | HW2  (ddl: ) |
 | 3. 静磁场 | HW3  (ddl: ) |
 | *答疑* | 科维理所K217 | 
-| <font color="green"><b>期中考试</b></font>（闭卷，笔试） |  |
+| <font color="green"><b>期中考试</b></font>（闭卷，笔试） | 2024年10月23日，随堂，地点待定 |
 | 4. 电磁波的传播 | HW4  (ddl: ) |
 | 5. 电磁波的激发 | HW5  (ddl: ) |
 | 6. 狭义相对论 | HW6  (ddl: )  |
