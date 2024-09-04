@@ -69,7 +69,8 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
 Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [Gravitational wave ringdown analysis using the
-$F$-statistic](https://arxiv.org/abs/TBA), *Astrophys. J.* (accepted), arXiv:TBA
+$F$-statistic](https://arxiv.org/abs/2409.00970), *Astrophys. J.* (accepted),
+arXiv:2409.00970
 
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.-C. Hu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, B. Zhang<font
