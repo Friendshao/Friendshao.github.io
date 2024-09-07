@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 287)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 288)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Li, L. Yang,  R. Xu, Z.
+Hu, L. Shao<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
+the bumblebee theory of gravity](http://arxiv.org/abs/TBA), arXiv:TBA
 
 0. Y. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-B. Li, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, [Effects from
@@ -1849,7 +1853,7 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
 
 0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes, **邵立晶**,
-[一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 (已接收)
+[一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 69 (2024) 3675
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 徐睿<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>,
