@@ -23,7 +23,7 @@ layout: default
 
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Li, L. Yang,  R. Xu, Z.
 Hu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
-the bumblebee theory of gravity](http://arxiv.org/abs/TBA), arXiv:TBA
+the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXiv:2409.04805
 
 0. Y. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-B. Li, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, [Effects from
