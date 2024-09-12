@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 289)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 290)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, D. Liang, J.
+Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Vetting
+quark-star models with gravitational waves in the hierarchical Bayesian
+framework](https://arxiv.org/abs/TBA), arXiv:TBA
 
 0. H. Di<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, Z. Yi,
 S.-B. Kong, [A novel standard candle: collapsing axion
