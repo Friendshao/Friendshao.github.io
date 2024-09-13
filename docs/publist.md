@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 290)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 291)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -78,6 +78,12 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
+Collaboration), [Broadband Multi-wavelength Properties of M87 during the 2018
+EHT Campaign including a Very High Energy Flaring
+Episode](https://arxiv.org/abs/2404.17623), Astron. & Astrophys. (accepted),
+arXiv:2404.17623
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
 Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
