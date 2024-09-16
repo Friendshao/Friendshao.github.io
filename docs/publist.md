@@ -44,11 +44,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
 Center Supermassive Black Hole with Two
 Pulsars](http://arxiv.org/abs/2408.00245), arXiv:2408.00245
 
-0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, Z.-F. Mai,  R.-Q. Yang,
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E. Berti, [Spectral
-instability of black holes: relating the frequency domain to the time
-domain](http://arxiv.org/abs/2407.20131), arXiv:2407.20131
-
 0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
 GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
 observing run](https://arxiv.org/abs/2407.12867), arXiv:2407.12867
@@ -78,6 +73,11 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, Z.-F. Mai,  R.-Q. Yang,
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E. Berti, [Spectral
+instability of black holes: relating the frequency domain to the time
+domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* (accepted), arXiv:2407.20131
 
 0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
 Collaboration), [Broadband Multi-wavelength Properties of M87 during the 2018
