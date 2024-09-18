@@ -24,7 +24,7 @@ layout: default
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, D. Liang, J.
 Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Vetting
 quark-star models with gravitational waves in the hierarchical Bayesian
-framework](https://arxiv.org/abs/TBA), arXiv:TBA
+framework](https://arxiv.org/abs/2409.11103), arXiv:2409.11103
 
 0. H. Di<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, Z. Yi,
 S.-B. Kong, [A novel standard candle: collapsing axion
