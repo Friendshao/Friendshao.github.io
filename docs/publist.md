@@ -34,11 +34,6 @@ stars](https://arxiv.org/abs/2409.05120), arXiv:2409.05120
 Hu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
 the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXiv:2409.04805
 
-0. Y. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-B. Li, Y. Gao, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, [Effects from
-Dark Matter Halos on X-ray Pulsar Pulse
-Profiles](http://arxiv.org/abs/2408.04425), arXiv:2408.04425
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
 Center Supermassive Black Hole with Two
@@ -73,6 +68,12 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Y. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-B. Li, Y. Gao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, [Effects from
+Dark Matter Halos on X-ray Pulsar Pulse
+Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* (accepted),
+arXiv:2408.04425
 
 0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, Z.-F. Mai,  R.-Q. Yang,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E. Berti, [Spectral
