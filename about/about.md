@@ -28,7 +28,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Elected to the Young Elite Scientists Sponsorship Program (青年人才托举工程) by the [CAST](http://www.cast.org.cn/)
 - [2020 Breakthrough Prize in Fundamental
   Physics](https://friendshao.github.io/docs/breakthrough_Certificate_2020.pdf) awarded to the EHTC (shared by 347 members)
-- World's Top 2% Scientists [2020-2023](top2.png) ([data](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6))
+- World's Top 2% Scientists [2020-2024](top2.png) ([data](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7))
 
 ### Research Interests
 
