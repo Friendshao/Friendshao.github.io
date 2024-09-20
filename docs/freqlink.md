@@ -34,7 +34,8 @@ layout: default
   [github](https://github.com/),
   [bitbucket](https://bitbucket.org/),
   [Overleaf](https://www.overleaf.com/project),
-  [ShareLatex](https://sharelatex.cstcloud.cn/login)
+  [Latex-CST](https://sharelatex.cstcloud.cn/login),
+  [Latex-IHEP](https://latex.ihep.ac.cn/)
 - [Sage](http://www.sagemath.org/index.html)
   ([cell](https://sagecell.sagemath.org/),
   [CoCalc](https://cocalc.com/),
