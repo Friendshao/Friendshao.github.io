@@ -83,7 +83,7 @@ tr:nth-child(odd) {
 ### **Summary Table**
 
 | **ID** | **COURSE** | **RECORD** |
-| 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2024F**](gr24) (94 ppl.)<br>[**2023F**](gr23) (75 ppl.)<br>[**2021F**](gr21) (18 ppl.)<br>[**2020F**](gr20) (34 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
+| 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2024F**](gr24) (96 ppl.)<br>[**2023F**](gr23) (75 ppl.)<br>[**2021F**](gr21) (18 ppl.)<br>[**2020F**](gr20) (34 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
 | 00415692 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Relativity**<br>**广义相对论** | [**202X**](TBA) (?? ppl.)  | 
 | 00431132 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (I)**<br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2024S**](phy24) (173 ppl.)<br>[**2022S**](phy22) (95 ppl.)<br>[**2021S**](phy21) (159 ppl.) |  
 | 00431133 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (II)**<br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20) (75 ppl.) | 

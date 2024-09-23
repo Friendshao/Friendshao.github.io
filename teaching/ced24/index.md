@@ -86,7 +86,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 
 | **内容** | **备注** |
 | 0. 课程介绍 & 数学基础 | HW0 (ddl: Sept 23) |
-| 1. 经典电动力学基础 | HW1  (ddl: ) |
+| 1. 经典电动力学基础 | HW1  (ddl: Sept 30) |
 | 2. 静电场 | HW2  (ddl: ) |
 | 3. 静磁场 | HW3  (ddl: ) |
 | *答疑* | 科维理所K217；2024年10月22日·21:00-22:00PM | 
