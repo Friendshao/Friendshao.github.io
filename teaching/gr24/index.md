@@ -82,7 +82,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | **Content** | **Note** |
 | 0. 课程介绍 | |
 | 1. 牛顿、麦克斯韦、爱因斯坦 | |
-| 2. 狭义相对论 | HW1 (ddl: ) |
+| 2. 狭义相对论 | HW1 (ddl: Oct. 15) |
 | 3. 黎曼几何简介 | HW2 (ddl: ) |
 | 4. Einstein 场方程 |  |
 | 5. 真空球对称解 | HW3 (ddl: ) |
