@@ -42,17 +42,20 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 ### Teaching
 
-| &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">广义相对论</span> &nbsp; &nbsp; &nbsp; | 4学分 &nbsp; &nbsp; &nbsp; | General Relativity |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（秋） 2023年（秋） 2021年（秋） 2020年（秋） 2019年（秋）">广义相对论与天体物理</span> &nbsp; &nbsp; &nbsp; | 2学分 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2025年（春） 2024年（春） 2022年（秋） 2021年（秋） 2019年（秋）">理论力学（A）</span> | 4学分 | Theoretical Mechanics (A) |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（秋） 2023年（秋）">电动力学（A）</span> | 4学分 | Electrodynamics (A)  |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2022年（秋）">电动力学（B）</span> | 3学分 | Electrodynamics (B)  |
-| &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">理论物理基础 (I)</span> | 4学分 | Fundamentals of Theoretical Physics (I)  |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（春） 2022年（春） 2021年（春）">普通物理 (I)</span> | 4学分 | General Physics (I)  |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2020年（秋）">普通物理 (II)</span> | 4学分 | General Physics (II) |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2022年（春）">天体粒子物理</span> | 2学分 | Astroparticle Physics |
+
+<!-- 
+| &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">广义相对论</span> &nbsp; &nbsp; &nbsp; | 4学分 &nbsp; &nbsp; &nbsp; | General Relativity |
+| &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">理论物理基础 (I)</span> | 4学分 | Fundamentals of Theoretical Physics (I)  |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">狭义相对论</span>  <font color="gray"><small><small> *** 建设中</small></small></font> | 2学分 | Special Relativity |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">百年物理</span>  <font color="gray"><small><small> *** 建设中</small></small></font> | 2学分 | Centenary Physics |
+-->
 
 <p></p>
 
