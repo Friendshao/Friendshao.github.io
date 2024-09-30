@@ -51,6 +51,8 @@ University](http://www.pku.edu.cn/), Beijing China.
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（春） 2022年（春） 2021年（春）">普通物理 (I)</span> | 4学分 | General Physics (I)  |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2020年（秋）">普通物理 (II)</span> | 4学分 | General Physics (II) |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="2022年（春）">天体粒子物理</span> | 2学分 | Astroparticle Physics |
+| &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">狭义相对论</span>  <font color="gray"><small><small> *** 建设中</small></small></font> | 2学分 | Special Relativity |
+| &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">百年物理</span>  <font color="gray"><small><small> *** 建设中</small></small></font> | 2学分 | Centenary Physics |
 
 <p></p>
 
