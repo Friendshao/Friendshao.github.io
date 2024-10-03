@@ -38,7 +38,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Black-hole spacetime & black-hole astrophysics
 - Precision tests of fundamental physics
 - Astrophysical studies of dark matter
-- Bayesian data analysis, statistics, and machine learning
+- Machine learning, data analysis & statistics
 - *Projects*: LIGO/Virgo/KAGRA, EHT, SKA, eXTP
 
 ### Teaching
