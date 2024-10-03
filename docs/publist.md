@@ -99,13 +99,13 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Tong, **L. Shao**, Y. Qin,
 [Formation of GW230529 from Isolated Binary Evolution and Its Electromagnetic
 Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted), arXiv:2404.10596
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-eccentric black hole coalescences during the third Observing Run of LIGO and
-Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308.03822
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+eccentric black hole coalescences during the third Observing Run of LIGO and
+Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* 973 (2024) 132
 
 0. C. Smarra<font color="#5c5c5c"><sup>(#)</sup></font>, A. Kuntz, E. Barausse,
 B. Goncharov, D.L. Nacir, D. Blas, **L.  Shao**, J. Antoniadis, D.J. Champion,
