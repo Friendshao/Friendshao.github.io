@@ -39,7 +39,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Precision tests of fundamental physics
 - Astrophysical studies of dark matter
 - Machine learning, data analysis & statistics
-- *Projects*: LIGO/Virgo/KAGRA, EHT, SKA, eXTP
+- <b><i>Projects</i></b>: LIGO/Virgo/KAGRA, EHT, SKA, eXTP
 
 ### Teaching
 
