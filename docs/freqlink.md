@@ -33,9 +33,9 @@ layout: default
   [Dropbox](https://www.dropbox.com/home),
   [github](https://github.com/),
   [bitbucket](https://bitbucket.org/),
-  [Overleaf](https://www.overleaf.com/project),
-  [Latex-CST](https://sharelatex.cstcloud.cn/login),
-  [Latex-IHEP](https://latex.ihep.ac.cn/)
+  [Overleaf](https://www.overleaf.com/project) ([CST](https://sharelatex.cstcloud.cn/login), 
+  [IHEP](https://latex.ihep.ac.cn/), 
+  [MPG](https://sharelatex.gwdg.de))
 - [Sage](http://www.sagemath.org/index.html)
   ([cell](https://sagecell.sagemath.org/),
   [CoCalc](https://cocalc.com/),
