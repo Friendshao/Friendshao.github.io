@@ -98,7 +98,7 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 0. Y. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-B. Li, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, [Effects from
 Dark Matter Halos on X-ray Pulsar Pulse
-Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* TBA (2024) TBA
+Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* 110 (2024) 083018
 
 0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, Z.-F. Mai,  R.-Q. Yang,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E. Berti, [Spectral
