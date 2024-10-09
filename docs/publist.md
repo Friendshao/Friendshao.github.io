@@ -103,7 +103,7 @@ Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* 110 (2024) 083018
 0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, Z.-F. Mai,  R.-Q. Yang,
 **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time
-domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* TBA (2024) TBA
+domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* 110 (2024) 084018
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
