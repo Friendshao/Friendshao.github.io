@@ -100,8 +100,11 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, [Effects from
 Dark Matter Halos on X-ray Pulsar Pulse
 Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* 110 (2024) 083018
 
-0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, Z.-F. Mai,  R.-Q. Yang,
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E. Berti, [Spectral
+0. Y. Yang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.-F. Mai<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>,  R.-Q. Yang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>,
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, E. Berti<font
+*color="#5c5c5c"><sup>($\ast$)</sup></font>, [Spectral
 instability of black holes: relating the frequency domain to the time
 domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* 110 (2024) 084018
 
