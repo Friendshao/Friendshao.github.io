@@ -44,24 +44,8 @@ tr:nth-child(odd) {
 
 ## <b>Teaching Activities</b>
 
-<table style="border-collapse: collapse; border: none;">
-     <tr>
-
-       <td style="background-color:white; border: none">
-         &#9654; <a href="http://friendshao.github.io/teaching/#recent"><b>Recent Courses</b></a><br>
-         &#9654; <a href="http://friendshao.github.io/teaching/#history"><b>Teaching History</b></a><br>
-         &#9654; <a href="http://friendshao.github.io/teaching/#misc"><b>Miscellaneous</b></a>
-       </td>
- 
-       <td style="background-color:white; border: none">            
-         &#9654; <a href="http://friendshao.github.io/teaching/#summary"><b>Summary Table</b></a><br>
-         &#9654; <a href="http://friendshao.github.io/teaching/#frontier"><b>Frontier Lectures</b></a>
-       </td>
-
-     </tr>
-</table>
-
-<p></p>
+> Education is to discover oneself and to fulfill purposes of life. <br>
+> 教育的目的在于人的自我实现。
 
 <a name="recent"></a>
 
@@ -75,6 +59,26 @@ tr:nth-child(odd) {
 <!-- | [GRA-2027F](gr27) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 待定 | -->
 
 <br>
+
+---
+
+<p></p>
+
+<table style="border-collapse: collapse; border: none;">
+     <tr>
+
+       <td style="background-color:white; border: none">
+         &#9654; <a href="http://friendshao.github.io/teaching/#summary"><b>Summary Table</b></a><br>
+         &#9654; <a href="http://friendshao.github.io/teaching/#frontier"><b>Frontier Lectures</b></a>
+       </td>
+ 
+       <td style="background-color:white; border: none">            
+         &#9654; <a href="http://friendshao.github.io/teaching/#history"><b>Teaching History</b></a><br>
+         &#9654; <a href="http://friendshao.github.io/teaching/#misc"><b>Miscellaneous</b></a>
+       </td>
+
+     </tr>
+</table>
 
 <p></p>
 
@@ -150,9 +154,6 @@ tr:nth-child(odd) {
 <a name="misc"></a>
 
 ### **Miscellaneous**
-
-> Education is to discover oneself and to fulfill purposes of life. <br>
-> 教育的目的在于人的自我实现。
 
 #### 教学奖励
 

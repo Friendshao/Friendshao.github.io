@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 292)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 293)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
+Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
+waveforms from triaxially-deformed precessing neutron stars in tight
+binaries](https://arxiv.org/abs/TBA), arXiv:TBA
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
