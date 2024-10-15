@@ -24,7 +24,7 @@ layout: default
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
 waveforms from triaxially-deformed precessing neutron stars in tight
-binaries](https://arxiv.org/abs/TBA), arXiv:TBA
+binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
