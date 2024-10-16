@@ -71,13 +71,6 @@ arXiv:2312.02130
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 
-0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chen, C.
-Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Unveiling
-the existence of nontensorial gravitational-wave polarizations from individual
-supermassive black hole binaries with pulsar timing
-arrays](https://arxiv.org/abs/2404.16680), *Phys. Rev. D* (accepted),
-arXiv:2404.16680
-
 0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
 Collaboration), [Broadband Multi-wavelength Properties of M87 during the 2018
 EHT Campaign including a Very High Energy Flaring
@@ -99,6 +92,12 @@ Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted), arX
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chen<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, C.  Zhang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Unveiling the existence of
+nontensorial gravitational-wave polarizations from individual supermassive black
+hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680), *Phys. Rev. D* 110 (2024) 084040
 
 0. Y. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, H.-B. Li, Y. Gao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, [Effects from
