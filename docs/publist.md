@@ -83,15 +83,15 @@ Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 $F$-statistic](https://arxiv.org/abs/2409.00970), *Astrophys. J.* (accepted),
 arXiv:2409.00970
 
+0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
+relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
+(accepted), arXiv:2112.06861
+
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.-C. Hu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, B. Zhang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Tong, **L. Shao**, Y. Qin,
 [Formation of GW230529 from Isolated Binary Evolution and Its Electromagnetic
-Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted), arXiv:2404.10596
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
-relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
-(accepted), arXiv:2112.06861
+Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* 974 (2024) 211
 
 0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chen<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, C.  Zhang, **L. Shao**<font
