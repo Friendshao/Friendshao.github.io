@@ -85,15 +85,14 @@ EHT Campaign including a Very High Energy Flaring
 Episode](https://arxiv.org/abs/2404.17623), Astron. & Astrophys. (accepted),
 arXiv:2404.17623
 
-0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
-Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
-[Gravitational wave ringdown analysis using the
-$F$-statistic](https://arxiv.org/abs/2409.00970), *Astrophys. J.* (accepted),
-arXiv:2409.00970
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
+Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[Gravitational wave ringdown analysis using the
+$F$-statistic](https://arxiv.org/abs/2409.00970), *Astrophys. J.* 974 (2024) 230
 
 0. J.-P. Zhu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.-C. Hu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Y. Kang, B. Zhang<font
