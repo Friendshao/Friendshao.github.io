@@ -29,10 +29,6 @@ arXiv:2410.16565
 Shao**, [Excavating the evidence of the first ringdown overtone in GW150914
 using the $F$-statistic method](TBA), arXiv:TBA
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [A search using
-GEO600 for gravitational waves coincident with fast radio bursts from SGR
-1935+2154](https://arxiv.org/abs/2410.09151), arXiv:2410.09151
-
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
 waveforms from triaxially-deformed precessing neutron stars in tight
@@ -82,6 +78,11 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Vetting
 quark-star models with gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2409.11103), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2409.11103
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [A search using
+GEO600 for gravitational waves coincident with fast radio bursts from SGR
+1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* (accepted),
+arXiv:2410.09151
 
 0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
 Collaboration), [Broadband Multi-wavelength Properties of M87 during the 2018
