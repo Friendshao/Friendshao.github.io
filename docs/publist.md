@@ -37,10 +37,6 @@ binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
-0. H. Di<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, Z. Yi,
-S.-B. Kong, [A novel standard candle: collapsing axion
-stars](https://arxiv.org/abs/2409.05120), arXiv:2409.05120
-
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Li, L. Yang,  R. Xu, Z.
 Hu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
 the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXiv:2409.04805
@@ -73,6 +69,11 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. H. Di<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, Z. Yi,
+S.-B. Kong, [Novel standard candle: collapsing axion
+stars](https://arxiv.org/abs/2409.05120), *Phys. Rev. D* (accepted),
+arXiv:2409.05120
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, D. Liang, J.
 Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Vetting
