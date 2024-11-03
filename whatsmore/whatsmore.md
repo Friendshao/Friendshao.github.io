@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ### <img src="report.png" style="height:40px;"> &nbsp; <b>Theses & Reports</b> <small><small>[[Read More](/docs/theses)]</small></small> 
 
-> 十年育树，百年育人。
+> 十年树木，百年树人。
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
 | 2029 | &#9975; Z. Zhang <small>(张泽)</small><br>&#9975; Z. Li <small>(李竹海)</small><br>&#9975; J. Yu <small>(于江川)</small><br>&#9975; C. Zhao <small>(赵乘辉)</small> | | | |
