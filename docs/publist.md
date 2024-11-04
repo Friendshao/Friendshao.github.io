@@ -25,9 +25,9 @@ layout: default
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565),
 arXiv:2410.16565
 
-0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, **L.
-Shao**, [Excavating the evidence of the first ringdown overtone in GW150914
-using the $F$-statistic method](TBA), arXiv:TBA
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Dong, Z.
+Wang, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
+the $F$-statistic method](TBA), arXiv:TBA
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
