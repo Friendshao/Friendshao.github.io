@@ -8,6 +8,18 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Miao, Z.,**Zhou, E.**, **Li, A.**, 2024, [Resolving Phase Transition Properties of Dense Matter through Tidal-excited g-mode from Inspiralling Neutron Stars](https://ui.adsabs.harvard.edu/abs/2024ApJ...964...31M/abstract), ApJ, 964, 31
+
+0. Zhong, S.-Q., Li, L., Xiao, D., Sun, H., Zhang, B.-B., **Dai, Z.-G.**, 2024, [The Very Early Soft X-Ray Plateau of GRB 230307A: Signature of an Evolving Radiative Efficiency in Magnetar Wind Dissipation?](https://ui.adsabs.harvard.edu/abs/2024ApJ...963L..26Z/abstract), ApJL, 963, L26
+
+0. Li, L., Zhong, S.-Q., Xiao, D., **Dai, Z.-G.**, Huang, S.-F., Sheng, Z.-F.**, 2024, [Magnetar as the Central Engine of AT2018cow: Optical, Soft X-Ray, and Hard X-Ray Emission](https://ui.adsabs.harvard.edu/abs/2024ApJ...963L..13L/abstract), ApJL, 963, L13
+
+0. Pang, S.-L., **Dai, Z.-G.**, 2024, [Reverse shock emission in an off-axis top-hat jet model for gamma-ray bursts](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.2066P/abstract), MNRAS, 528, 2066
+
+0. Ren, J., Wang, Y., **Dai, Z.-G.**, 2024, [Jet Structure and Burst Environment of GRB 221009A](https://ui.adsabs.harvard.edu/abs/2024ApJ...962..115R/abstract), ApJ, 962, 115
+
+0. Chen, K., **Dai, Z.-G.**, 2024, [Electromagnetic Counterparts Powered by Kicked Remnants of Black Hole Binary Mergers in AGN Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...961..206C/abstract), ApJ, 961, 206
+
 0. Li, H.-B., Kang, Y., Hu, Z., **Shao, L.**, **Xia, C.-J.**, Xu, R.-X., 2024, [Quasi-periodic oscillations during magnetar giant flares in the strangeon star model](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..855L/abstract), MNRAS, 527, 855
 
 0. **Tong, H.**, 2023, [Comparison between Analytical and Numerical Results for Twisted Magnetosphere of Magnetars](https://ui.adsabs.harvard.edu/abs/2023RNAAS...7..281T/abstract), RNAAS, 7, 281
@@ -206,6 +218,31 @@ layout: default
 
 <big><big> **其他标注**
 
+0. Wang, Z., Liang, D., Zhao, J., Liu, C., **Shao, L.**, 2024, [Anatomy of parameter-estimation biases in overlapping gravitational-wave signals](https://ui.adsabs.harvard.edu/abs/2024CQGra..41e5011W/abstract), CQGra, 41, 055011
+
+0. Wang, X. I., **Yu, Y.-W.**, Ren, J., Yang, J., Zou, Z.-C., Zhu, J.-P., 2024, [What Powered the Kilonova-like Emission after GRB 230307A in the Framework of a Neutron Star–White Dwarf Merger?](https://ui.adsabs.harvard.edu/abs/2024ApJ...964L...9W/abstract), ApJL, 964, L9
+
+0. **Zhou, E.**, Gao, Y., Zhou, Y., **Lai, X.**, **Shao, L.**, Wang, W., Xiong, S., Xu, R., Yi, S., Yim, G., Yue, H., Zhang, Z., 2024, [The Precursor of GRB211211A: A Tide-induced Giant Quake?](https://ui.adsabs.harvard.edu/abs/2024RAA....24b5019Z/abstract), RAA, 24, 025019
+
+0. Wang, H.-T., **Shao, L.**, 2024, [Comparison between time-domain and frequency-domain Bayesian inferences to inspiral-merger-ringdown gravitational-wave signals](https://ui.adsabs.harvard.edu/abs/2024PhRvD.109d3027W/abstract), PhRvD, 109, 043027
+
+0. Zuo, B.-J., Zhang, Z., Shi, C., **Huang, Y.-F.**, 2024, [Strongly interacting matter in a sphere in a nonzero magnetic field](https://ui.adsabs.harvard.edu/abs/2024PhRvD.109c4016Z/abstract), PhRvD, 109, 034016
+
+0. You, H.-S., Chen, H.-M., Xu, J.-F., **Xia, C.-J.**, Xu, R.-X., Peng, G.-X., 2024, [Strangelets at finite temperature: Nucleon emission rates, interface, and shell effects](https://ui.adsabs.harvard.edu/abs/2024PhRvD.109c4003Y/abstract), PhRvD, 109, 034003
+
+0. Qiu, M., Cai, B.-J., **Chen, L.-W., Yuan, C.-X., Zhang, Z., 2024, [Bayesian model averaging for nuclear symmetry energy from effective proton-neutron chemical potential difference of neutron-rich nuclei](https://ui.adsabs.harvard.edu/abs/2024PhLB..84938435Q/abstract), PhLB, 849, 138435
+
+0. Nurmamat, N., **Huang, Y.-F.**, Geng, J.-J., Kurban, A., Li, B., 2024, [Repeating fast radio bursts produced by a strange star interacting with its planet in an eccentric orbit](https://ui.adsabs.harvard.edu/abs/2024EPJC...84..210N/abstract), EPJC, 84, 210
+
+0. Li, X.-J., Zhang, Z.-B., **Huang, Y.-F.**, Xu, F., 2024, [Multiwavelength Analysis of the Supernova-associated Low-luminosity GRB 171205A](https://ui.adsabs.harvard.edu/abs/2024ApJ...962..117L/abstract), ApJ, 962, 117
+
+0. Li, S.-Z., **Yu, Y.-W.**, Gao, H., Lan, L., 2024, [Double Neutron Star Mergers: Are Late-time Radio Signals Overestimated?](https://ui.adsabs.harvard.edu/abs/2024ApJ...961..201L/abstract), ApJ, 961, 201
+
+0. Bailey, Q. G., Gard, A. S., Nilsson, N. A., Xu, R., **Shao, L.**, 2024, [Classical radiation fields for scalar, electromagnetic, and gravitational waves with spacetime-symmetry breaking](https://ui.adsabs.harvard.edu/abs/2024AnPhy.46169582B/abstract), AnPhy, 461, 169582
+
+0. Wang, D., 2024, [Tidal disruption event associated with the quasi-periodic eruptions from GSN 069: Possible disruption of a common envelope](https://ui.adsabs.harvard.edu/abs/2024A%26A...682L..14W/abstract), A&A, 682, L14
+
+0. Gu, H.-P., Wang, H.-T., **Shao, L.**, 2024, [Constraints on charged black holes from merger-ringdown signals in GWTC-3 and prospects for the Einstein Telescope](https://ui.adsabs.harvard.edu/abs/2024PhRvD.109b4058G/abstract), PhRvD, 109, 024058
 
 0. Yim, G., Gao, Y., Kang, Y., **Shao, L.**, Xu, R., 2024, [Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches](https://arxiv.org/abs/2308.01588), MNRAS, 527, 2379
 
