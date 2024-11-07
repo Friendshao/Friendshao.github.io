@@ -14,6 +14,8 @@ layout: default
 
 0. Yan, Y.-L., Cheng, Q., **Zheng, X.-P.**, Ouyang, X.-X., 2024, [On the initial spin periods of magnetars born in weak supernova explosions and their gravitational wave radiation](https://ui.adsabs.harvard.edu/abs/2024EPJC...84.1043Y/abstract), EPJC, 84, 1043
 
+0. Hu, Z., Miao, X., **Shao, L.**, 2024, [Tests of Classical Gravity with Radio Pulsars](https://ui.adsabs.harvard.edu/abs/2024rpgt.book...61H/abstract), in *Recent Progress on Gravity Tests* (Springer Series in Astrophysics and Cosmology, Singapore 2024), p. 61
+
 0. You, H.-S., Sun, H., Li, H.-B., **Xia, C.-J.**, Xu, R.-X., 2024, [Compact dwarfs made of light-quark nuggets](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110e4041Y/abstract), PhRvD, 110, 054041
 
 0. Chen, K., **Dai, Z.-G.**, 2024, [Super-Eddington Magnetized Neutron Star Accretion Flows: A Self-similar Analysis](https://ui.adsabs.harvard.edu/abs/2024ApJ...970..129C/abstract), ApJ, 970, 129
