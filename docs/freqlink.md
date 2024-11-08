@@ -58,7 +58,7 @@ layout: default
    [pan](http://pan.pku.edu.cn/),
    [PHY](http://www.phy.pku.edu.cn/), 
    [SD](https://treehole.pku.edu.cn/web/),
-   [ZC](http://meetplan.phy.pku.edu.cn), 
+   [ZC](https://bodaqmf.pku.edu.cn/phymeetplan), 
    [Port](https://portal.pku.edu.cn/))
 - [KIAA](http://kiaa.pku.edu.cn/),
   [Room](http://room.kiaa.club),
