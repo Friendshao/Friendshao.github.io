@@ -142,8 +142,8 @@ tr:nth-child(odd) {
 | **ID** | **COURSE** | **RECORD** |
 | 00415662 | **Advanced Lecture on Theoretical Physics**<br>**理论物理前沿讲座** | 2023S (2 hr) | 
 | 00430151 | **Lectures on The Frontiers of Modern Physics (Ⅰ)**<br>**现代物理前沿讲座（I）** | 2024F (2 hr)<br>2023F (2 hr)<br>2021F (2 hr)<br>2020F (2 hr)<br>2018F (2 hr) | 
-| 00432224 | **Lectures on The Frontiers of Modern Physics (ⅠI)**<br>**现代物理前沿讲座（II）** | 2024S (2 hr)<br>2023S (2 hr) | 
 | 00431547 | **Frontier of Astrophysics**<br>**天体物理前沿** | 2024F (2 hr)<br>2023F (2 hr)<br>2021F (1 hr)<br>2019F (2 hr)<br>2019S (2 hr) | 
+| 00432224 | **Lectures on The Frontiers of Modern Physics (ⅠI)**<br>**现代物理前沿讲座（II）** | 2024S (2 hr)<br>2023S (2 hr) | 
 | 00920012<br><font color="gray"><small><small> * Tsinghua University</small></small></font> | **Seminars on Frontiers of Astrophysics**<br>**天体物理前沿讲座** | 2021F (2 hr)<br>2020F (2 hr) |
 | 01035390 | **Boya Science Lectures**<br>**博雅理学讲堂** | 2022F (2 hr) | 
 | <small>亚洲青少年交流计划<br><small>Asian Youth Exchange Program</small></small> | **Fundamental Physics in Astronomy**<br>**天文学中的基础物理** | [**2023**](https://pkutalent.learnworlds.com/course/astronomy) |
