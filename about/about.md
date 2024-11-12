@@ -47,11 +47,11 @@ University](http://www.pku.edu.cn/), Beijing China.
 | &nbsp; &nbsp; <small>00432198</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2025年（春） 2024年（春） 2022年（秋） 2021年（秋） 2019年（秋）">理论力学（A）</span> | 4学分 | Theoretical Mechanics (A) |
 | &nbsp; &nbsp; <small>00432140</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（秋） 2023年（秋）">电动力学（A）</span> | 4学分 | Electrodynamics (A)  |
 | &nbsp; &nbsp; <small>00432141</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2022年（秋）">电动力学（B）</span> | 3学分 | Electrodynamics (B)  |
-| &nbsp; &nbsp; <small>00431132</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（春） 2022年（春） 2021年（春）">普通物理 (I)</span> | 4学分 | General Physics (I)  |
-| &nbsp; &nbsp; <small>00431133</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2020年（秋）">普通物理 (II)</span> | 4学分 | General Physics (II) |
+| &nbsp; &nbsp; <small>00431132</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（春） 2022年（春） 2021年（春）">普通物理（I）</span> | 4学分 | General Physics (I)  |
+| &nbsp; &nbsp; <small>00431133</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2020年（秋）">普通物理（II）</span> | 4学分 | General Physics (II) |
 | &nbsp; &nbsp; <small>00432296</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2022年（春）">天体粒子物理</span> | 2学分 | Astroparticle Physics |
 | &nbsp; &nbsp; <small>00432211</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">理论力学</span> | 3学分 | Theoretical Mechanics |
-| &nbsp; &nbsp; <small>00432001</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">理论物理基础 (I)</span> | 4学分 | Fundamentals of Theoretical Physics (I)  |
+| &nbsp; &nbsp; <small>00432001</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">理论物理基础（I）</span> | 4学分 | Fundamentals of Theoretical Physics (I)  |
 
 <!-- 
 | &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">广义相对论</span> &nbsp; &nbsp; &nbsp; | 4学分 &nbsp; &nbsp; &nbsp; | General Relativity |
