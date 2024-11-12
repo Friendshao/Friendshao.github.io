@@ -85,7 +85,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | 2. 狭义相对论 | HW1 (ddl: Oct. 15) |
 | 3. 黎曼几何简介 | HW2 (ddl: Nov. 5) |
 | 4. Einstein 场方程 |  |
-| 5. 真空球对称解 | HW3 (ddl: 26) |
+| 5. 真空球对称解 | HW3 (ddl: Nov. 26) |
 | 6. 弱场近似与实验检验 | HW4 (ddl: ) |
 | 7. 中子星与黑洞 | HW5 (ddl: ) |
 | 8. 引力波简介 |  | 

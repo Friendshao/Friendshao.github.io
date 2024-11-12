@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 296)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 297)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -20,6 +20,15 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, 
+Z. Pan<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+H. Zhang<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+S. Cao<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+P.C.C. Freire<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P. Eatough,
+**L. Shao**, L. Qian, D. Yin, B. Li, Y. Dai, Y. Wu, Y. Li, L. Zhang, Y. Pan, L.
+Wang, K. Liu, T. Liu, X. Zhang, M. Li, Z. Feng, B. Peng, [FAST Globular Cluster
+Pulsar Survey I.  Observations and Discoveries](TBA), arXiv:TBA
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565),
