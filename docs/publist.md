@@ -46,11 +46,6 @@ binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
-Center Supermassive Black Hole with Two
-Pulsars](http://arxiv.org/abs/2408.00245), arXiv:2408.00245
-
 0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
 GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
 observing run](https://arxiv.org/abs/2407.12867), arXiv:2407.12867
@@ -74,6 +69,11 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
+Center Supermassive Black Hole with Two
+Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted), arXiv:2408.00245
 
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Li, L. Yang,  R. Xu, Z.
 Hu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
