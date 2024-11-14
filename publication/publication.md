@@ -37,6 +37,11 @@ tr:nth-child(odd) {
 
 ### **Selected Short-author-list Papers**
 
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
+Center Supermassive Black Hole with Two
+Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted), arXiv:2408.00245
+
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
 solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209),
@@ -68,11 +73,6 @@ era of gravitational-wave astrophysics with advanced
 detectors](https://arxiv.org/abs/1611.03703), *Phys. Rev. D* 95 (2017) 044028
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.95.044028" data-style="small_rectangle"></span>
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [New pulsar
-limit on local Lorentz invariance violation of gravity in the standard-model
-extension](https://arxiv.org/abs/1412.2320), *Phys. Rev. D* 90 (2014) 122009
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.90.122009" data-style="small_rectangle"></span>
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Tests of
 local Lorentz invariance violation of gravity in the standard model extension
 with pulsars](https://arxiv.org/abs/1402.6452), *Phys. Rev. Lett.* 112 (2014)
@@ -101,6 +101,11 @@ emissions](https://arxiv.org/abs/0911.2276), *Astropart. Phys.* 33 (2010) 312
 {: reversed="reversed"}
 
 <!-- 
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [New pulsar
+limit on local Lorentz invariance violation of gravity in the standard-model
+extension](https://arxiv.org/abs/1412.2320), *Phys. Rev. D* 90 (2014) 122009
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.90.122009" data-style="small_rectangle"></span>
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
