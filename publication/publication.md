@@ -38,9 +38,10 @@ tr:nth-child(odd) {
 ### **Selected Short-author-list Papers**
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
-Center Supermassive Black Hole with Two
-Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted), arXiv:2408.00245
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the spin of the Galactic
+center supermassive black hole with two
+pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted),
+arXiv:2408.00245
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
