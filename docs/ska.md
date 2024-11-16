@@ -8,6 +8,8 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Yan, Y.-L., Cheng, Q., Zheng, X.-P., 2024, [Investigating the neutron star physics through observations of several young pulsars in the dipole-field re-emergence scenario](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6729513Y/abstract), SCPMA, 67, 129513
+
 0. Yang, Y., Mai, Z.-F., Yang, R.-Q., **Shao, L.**, Berti, E., 2024, [Spectral instability of black holes: Relating the frequency domain to the time domain](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110h4018Y/abstract), PhRvD, 110, 084018
 
 0. Liu, P., Yuan, J.-P., Ge, M.-Y., Ye, W.-T., Zhou, S.-Q., Dang, S.-J., Zhou, Z.-R., Gügercinoğlu, E., Wang, W.-H., Wang, P., **Li, A.**, Li, D., Wang, N., 2024, [Pulse profile variability associated with the glitch of PSR J1048-5832](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.4274L/abstract), MNRAS, 533, 4274
