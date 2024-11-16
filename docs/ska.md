@@ -44,7 +44,7 @@ layout: default
 
 0. Zhong, S.-Q., Li, L., Xiao, D., Sun, H., Zhang, B.-B., **Dai, Z.-G.**, 2024, [The Very Early Soft X-Ray Plateau of GRB 230307A: Signature of an Evolving Radiative Efficiency in Magnetar Wind Dissipation?](https://ui.adsabs.harvard.edu/abs/2024ApJ...963L..26Z/abstract), ApJL, 963, L26
 
-0. Li, L., Zhong, S.-Q., Xiao, D., **Dai, Z.-G.**, Huang, S.-F., Sheng, Z.-F.**, 2024, [Magnetar as the Central Engine of AT2018cow: Optical, Soft X-Ray, and Hard X-Ray Emission](https://ui.adsabs.harvard.edu/abs/2024ApJ...963L..13L/abstract), ApJL, 963, L13
+0. Li, L., Zhong, S.-Q., Xiao, D., **Dai, Z.-G.**, Huang, S.-F., Sheng, Z.-F., 2024, [Magnetar as the Central Engine of AT2018cow: Optical, Soft X-Ray, and Hard X-Ray Emission](https://ui.adsabs.harvard.edu/abs/2024ApJ...963L..13L/abstract), ApJL, 963, L13
 
 0. Pang, S.-L., **Dai, Z.-G.**, 2024, [Reverse shock emission in an off-axis top-hat jet model for gamma-ray bursts](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.2066P/abstract), MNRAS, 528, 2066
 
