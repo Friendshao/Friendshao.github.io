@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 297)</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 298)</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -20,6 +20,11 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
+C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
+accreting neutron stars: effect of the nuclear pasta
+phase](https://arxiv.org/abs/2411.11075), arXiv:2411.11075
 
 0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, 
 Z. Pan<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
