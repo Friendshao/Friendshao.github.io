@@ -39,9 +39,9 @@ Pulsar Survey I.  Observations and Discoveries](TBA), arXiv:TBA
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565),
 arXiv:2410.16565
 
-0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Dong, Z.
-Wang, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
-the $F$-statistic method](TBA), arXiv:TBA
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.  Wang, Y.
+Dong, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
+the $F$-statistic method](http://www.arxiv.org/abs/2411.13333), arXiv:2411.13333
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
