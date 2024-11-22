@@ -43,7 +43,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 ### Teaching
 
-| &nbsp; &nbsp; <small>00407794</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（秋） 2023年（秋） 2021年（秋） 2020年（秋） 2019年（秋）">广义相对论与天体物理</span> &nbsp; &nbsp; &nbsp; | 2学分 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
+| &nbsp; &nbsp; <small>00407794</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2027年（秋） 2026年（秋） 2024年（秋） 2023年（秋） 2021年（秋） 2020年（秋） 2019年（秋）">广义相对论与天体物理</span> &nbsp; &nbsp; &nbsp; | 2学分 &nbsp; &nbsp; &nbsp; | General Relativity & Astrophysics |
 | &nbsp; &nbsp; <small>00432198</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2025年（春） 2024年（春） 2022年（秋） 2021年（秋） 2019年（秋）">理论力学（A）</span> | 4学分 | Theoretical Mechanics (A) |
 | &nbsp; &nbsp; <small>00432140</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（秋） 2023年（秋）">电动力学（A）</span> | 4学分 | Electrodynamics (A)  |
 | &nbsp; &nbsp; <small>00432141</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2022年（秋）">电动力学（B）</span> | 3学分 | Electrodynamics (B)  |

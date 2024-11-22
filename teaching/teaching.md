@@ -87,7 +87,7 @@ tr:nth-child(odd) {
 ### **Summary Table**
 
 | **ID** | **COURSE** | **RECORD** |
-| 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2024F**](gr24) (75 ppl.)<br>[**2023F**](gr23) (75 ppl.)<br>[**2021F**](gr21) (18 ppl.)<br>[**2020F**](gr20) (34 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
+| 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2027F**](gr27) (?? ppl.)<br>[**2026F**](gr26) (?? ppl.)<br>[**2024F**](gr24) (75 ppl.)<br>[**2023F**](gr23) (75 ppl.)<br>[**2021F**](gr21) (18 ppl.)<br>[**2020F**](gr20) (34 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
 | 00431132 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (I)**<br>**普通物理（I）**<br><small><small> * exercise class ID: 00431680 | [**2024S**](phy24) (173 ppl.)<br>[**2022S**](phy22) (95 ppl.)<br>[**2021S**](phy21) (159 ppl.) |  
 | 00431133 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (II)**<br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20) (75 ppl.) | 
 | 00432140 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Electrodynamics (A)**<br>**电动力学（A）**<br><small><small> * exercise class ID: 00432160 | [**2024F**](ced24) (88 ppl.)<br>[**2023F**](ced23) (92 ppl.) | 
@@ -108,6 +108,8 @@ tr:nth-child(odd) {
 ### **Teaching History**
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
+| PKU'27F | [**General Relativity & Astrophysics**](gr27)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
+| PKU'26F | [**General Relativity & Astrophysics**](gr26)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
 | PKU'25S | [**Theoretical Mechanics (A)**](tm25)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & Peixiang Ji |
 | PKU'24F | [**Electrodynamics (A)**](ced24)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Yiming Dong & Huapeng Gu |
 | PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Hanlin Song |
