@@ -21,9 +21,6 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
-1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* (accepted)
-
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
 accreting neutron stars: effect of the nuclear pasta
@@ -77,6 +74,9 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
+1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* (accepted)
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
