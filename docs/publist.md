@@ -22,8 +22,7 @@ layout: default
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
 0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
-1052](https://doi.org/10.1051/0004-6361/202450898 ), Astron. & Astrophys.
-(accepted)
+1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* (accepted)
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
@@ -101,7 +100,7 @@ arXiv:2410.09151
 0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
 Collaboration), [Broadband Multi-wavelength Properties of M87 during the 2018
 EHT Campaign including a Very High Energy Flaring
-Episode](https://arxiv.org/abs/2404.17623), Astron. & Astrophys. (accepted),
+Episode](https://arxiv.org/abs/2404.17623), *Astron. & Astrophys.* (accepted),
 arXiv:2404.17623
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
