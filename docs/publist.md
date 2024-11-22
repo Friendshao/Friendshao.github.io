@@ -84,11 +84,6 @@ Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted), arXiv:
 Hu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
 the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys. Rev. D* (accepted), arXiv:2409.04805
 
-0. H. Di<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, Z. Yi,
-S.-B. Kong, [Novel standard candle: collapsing axion
-stars](https://arxiv.org/abs/2409.05120), *Phys. Rev. D* (accepted),
-arXiv:2409.05120
-
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, D. Liang, J.
 Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Vetting
 quark-star models with gravitational waves in the hierarchical Bayesian
@@ -108,6 +103,10 @@ arXiv:2404.17623
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. H. Di<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, Z. Yi,
+S.-B. Kong, [Novel standard candle: collapsing axion
+stars](https://arxiv.org/abs/2409.05120), *Phys. Rev. D* 110 (2024) 103031
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Yim, X.
 Chen, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
