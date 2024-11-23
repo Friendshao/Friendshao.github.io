@@ -83,15 +83,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
 Center Supermassive Black Hole with Two
 Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted), arXiv:2408.00245
 
-0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Li, L. Yang,  R. Xu, Z.
-Hu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
-the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys. Rev. D* (accepted), arXiv:2409.04805
-
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, D. Liang, J.
-Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Vetting
-quark-star models with gravitational waves in the hierarchical Bayesian
-framework](https://arxiv.org/abs/2409.11103), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2409.11103
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [A search using
 GEO600 for gravitational waves coincident with fast radio bursts from SGR
 1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* (accepted),
@@ -106,6 +97,15 @@ arXiv:2404.17623
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, D. Liang, J.
+Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Vetting
+quark-star models with gravitational waves in the hierarchical Bayesian
+framework](https://arxiv.org/abs/2409.11103), *J. Cosmol. Astropart. Phys.* 11 (2024) 038
+
+0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Li, L. Yang,  R. Xu, Z.
+Hu, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Neutron stars in
+the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys. Rev. D* 110 (2024) 104057
 
 0. H. Di<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, Z. Yi,
 S.-B. Kong, [Novel standard candle: collapsing axion
