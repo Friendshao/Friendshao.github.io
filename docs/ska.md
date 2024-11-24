@@ -8,6 +8,8 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Zhou, Y., Zhang, C., Zhao, J., Kiuchi, K., Fujibayashi, S., **Zhou, E.**, 2024, [Constraints of the maximum mass of quark stars based on postmerger evolutions](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110j3012Z/abstract), PhRvD, 110, 103012
+
 0. Yan, Y.-L., Cheng, Q., **Zheng, X.-P.**, 2024, [Investigating the neutron star physics through observations of several young pulsars in the dipole-field re-emergence scenario](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6729513Y/abstract), SCPMA, 67, 129513
 
 0. Yang, Y., Mai, Z.-F., Yang, R.-Q., **Shao, L.**, Berti, E., 2024, [Spectral instability of black holes: Relating the frequency domain to the time domain](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110h4018Y/abstract), PhRvD, 110, 084018
@@ -249,6 +251,8 @@ layout: default
 
 
 <big><big> **其他标注**
+
+0. Zhang, H.-H., Zhu, J.-P., **Yu, Y.-W.**, 2024, [Propagation of Gamma-Ray Burst Relativistic Jets in Active Galactic Nucleus Disks and Its Implication for Gamma-Ray Burst Detection](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...63Z/abstract), ApJ, 976, 63 
 
 0. Zhang, S. B., Wang, J. S., Yang, X., Li, Y., Geng, J. J., Tang, Z. F., Chang, C. M., Luo, J. T., Wang, X. C., Wu, X. F., **Dai, Z. G.**, Zhang, B., 2024, [A bright burst from FRB 20200120E in a globular cluster of the nearby galaxy M81](https://ui.adsabs.harvard.edu/abs/2024NatCo..15.7454Z/abstract), NatCo, 15, 7454
 
