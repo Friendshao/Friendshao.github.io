@@ -344,7 +344,7 @@ layout: default
 
 0. You, H.-S., Chen, H.-M., Xu, J.-F., **Xia, C.-J.**, Xu, R.-X., Peng, G.-X., 2024, [Strangelets at finite temperature: Nucleon emission rates, interface, and shell effects](https://ui.adsabs.harvard.edu/abs/2024PhRvD.109c4003Y/abstract), PhRvD, 109, 034003
 
-0. Qiu, M., Cai, B.-J., **Chen, L.-W., Yuan, C.-X., Zhang, Z., 2024, [Bayesian model averaging for nuclear symmetry energy from effective proton-neutron chemical potential difference of neutron-rich nuclei](https://ui.adsabs.harvard.edu/abs/2024PhLB..84938435Q/abstract), PhLB, 849, 138435
+0. Qiu, M., Cai, B.-J., **Chen, L.-W.**, Yuan, C.-X., Zhang, Z., 2024, [Bayesian model averaging for nuclear symmetry energy from effective proton-neutron chemical potential difference of neutron-rich nuclei](https://ui.adsabs.harvard.edu/abs/2024PhLB..84938435Q/abstract), PhLB, 849, 138435
 
 0. Nurmamat, N., **Huang, Y.-F.**, Geng, J.-J., Kurban, A., Li, B., 2024, [Repeating fast radio bursts produced by a strange star interacting with its planet in an eccentric orbit](https://ui.adsabs.harvard.edu/abs/2024EPJC...84..210N/abstract), EPJC, 84, 210
 
