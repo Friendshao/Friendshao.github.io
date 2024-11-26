@@ -49,7 +49,6 @@ tr:nth-child(odd) {
 | 2020-present | Beijing Astronomical Society |
 | 2021-present | Chinese Institute of Electronics |
 | 2022-present | Chinese Physical Society |
-| 2024-present | Vice Principal of Science, Ditang Middle School, Yuyao China |
 | 2017-2021 | BlackHoleCam Project |
 | 2015-2017 | LIGO Scientific Collaboration |
 
