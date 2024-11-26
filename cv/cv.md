@@ -43,7 +43,7 @@ tr:nth-child(odd) {
 | 2014-present | SKA Pulsar and Gravitational Wave Science Working Groups |
 | 2018-present | Event Horizon Telescope Collaboration |
 | 2018-present | KAGRA Scientific Collaboration |
-| 2018-present | IAU Individual Member |
+| 2018-present | International Astronomical Union, Individual Member |
 | 2018-present | Gravitation and Relativistic Astrophysics, Chinese Physical Society |
 | 2020-present | Chinese Astronomical Society |
 | 2020-present | Beijing Astronomical Society |
