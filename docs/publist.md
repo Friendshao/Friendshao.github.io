@@ -51,10 +51,6 @@ binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
-0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
-GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
-observing run](https://arxiv.org/abs/2407.12867), arXiv:2407.12867
-
 0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
 Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
@@ -74,6 +70,11 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
+GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
+observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted),
+arXiv:2407.12867
 
 0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
 1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* (accepted)
