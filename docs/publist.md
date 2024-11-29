@@ -10,7 +10,7 @@ layout: default
 <p></p>
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 299)</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 38)</small>
+- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
 
@@ -20,6 +20,10 @@ layout: default
 
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
+
+0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi, [Seeking the nearest
+neutron stars using a new local electron density
+map](https://arxiv.org/abs/TBA), arXiv:TBA
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
@@ -47,9 +51,6 @@ the $F$-statistic method](http://www.arxiv.org/abs/2411.13333), arXiv:2411.13333
 Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
 waveforms from triaxially-deformed precessing neutron stars in tight
 binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
-
-0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
-the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
 0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
@@ -1617,6 +1618,9 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
+the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
 relativistic gravity with radio timing of neutron stars](TBA), in
