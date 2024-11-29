@@ -51,12 +51,13 @@ tr:nth-child(odd) {
 
 ### **Recent Courses**
 
-| [GRA-2027F](gr27) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
-| [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
-| [SR-2026S](sr26) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节，地点待定 |
 | [TM-2025S](tm25) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 周二5-6节 & 周四7-8节；地点待定<br><small>**习题课**: 周三10-11节(双)；地点待定 |
 | [CED-2024F](ced24) | **Electrodynamics (A)**<br>**电动力学（A）** | 周一7-8节 & 周三3-4节；三教201<br><small>**习题课**: 周一10-11节(双)；三教101 |
 | [GRA-2024F](gr24) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节；理教311 |
+
+<!-- | [GRA-2027F](gr27) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
+| [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
+| [SR-2026S](sr26) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节，地点待定 | -->
 
 <br>
 
@@ -107,10 +108,11 @@ tr:nth-child(odd) {
 
 ### **Teaching History**
 
-| **SEMESTER** | **COURSE** | **ROLE** | 
-| PKU'27F | [**General Relativity & Astrophysics**](gr27)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
+<!-- | PKU'27F | [**General Relativity & Astrophysics**](gr27)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
 | PKU'26F | [**General Relativity & Astrophysics**](gr26)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
-| PKU'26S | [**Special Relativity & Spacetime**](sr26)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: ?? |
+| PKU'26S | [**Special Relativity & Spacetime**](sr26)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: ?? | -->
+
+| **SEMESTER** | **COURSE** | **ROLE** | 
 | PKU'25S | [**Theoretical Mechanics (A)**](tm25)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & Peixiang Ji |
 | PKU'24F | [**Electrodynamics (A)**](ced24)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Yiming Dong & Huapeng Gu |
 | PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Hanlin Song |
