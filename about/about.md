@@ -20,7 +20,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 <p></p>
 
-### Selected Professional Recognitions
+### Professional Recognitions
 
 - Boya Youth Scholar (博雅青年学者) at [Peking University](http://www.pku.edu.cn/)
 - Alibaba [DAMO Academy Young Fellow](https://damo.alibaba.com/damo-academy-young-fellow) (达摩院青橙学者)
@@ -40,6 +40,15 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Astrophysical studies of dark matter
 - Machine learning, data analysis & statistics
 - <b><i>Projects</i></b>: LIGO/Virgo/KAGRA, EHT, SKA, eXTP, *etc.*
+
+### Services and Duties
+
+- Advisory Panel Member of *Classical and Quantum Gravity* (2020.5-)
+- Editorial Board Member of *Chinese Physics C* (2024.12-2028.11)
+- 四刊联合青年编委 for *Chinese Physics Letters*, *Chinese Physics B*, *物理学报*, *物理* (2024.5-2026.5)
+- Guest Editor for *Science Bulletin* and *科学通报* (2023.1-2024.12)
+- Executive Member of Editorial Board for *Science Bulletin* (2019.1-2022.12)
+- 国家重点研发计划项目“*引力波探测*”重点专项专家组成员
 
 ### Teaching
 
