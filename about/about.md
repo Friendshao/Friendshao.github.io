@@ -47,9 +47,12 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Editorial Board Member of *Chinese Physics C* (2024.12-2028.11)
 - Joint Youth Editor for *Chinese Physics Letters*, *Chinese Physics B*, *物理学报*, *物理* (2024.5-2026.5)
 - KSC member for PKU-KIAA group of KAGRA Collaboration (2018.12-)
-- 国家重点研发计划项目“引力波探测”重点专项专家组成员 (2024.12-)
 - Joint Guest Editor for *Science Bulletin* and *科学通报* (2023.1-2024.12)
 - Executive Member of Editorial Board for *Science Bulletin* (2019.1-2022.12)
+- Head of a Max Planck Partner Group  between PKU-KIAA and MPIfR (2021.1-2025.12)
+- 国家重点研发计划项目“引力波探测”重点专项专家组成员 (2024.12-)
+- 科技部“SKA专项”项目负责人 (2020.12-2025.11)
+- 浙江省余姚市低塘初级中学“科学副校长” (2024.2-)
 
 ### Teaching
 
