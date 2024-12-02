@@ -21,9 +21,10 @@ layout: default
 <a name="papers"></a>
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
-0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi, [Seeking the nearest
-neutron stars using a new local electron density
-map](https://arxiv.org/abs/2411.18647), arXiv:2411.18647
+0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
+using a new local electron density map](https://arxiv.org/abs/2411.18647),
+arXiv:2411.18647
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
