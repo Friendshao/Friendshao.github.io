@@ -22,7 +22,7 @@ layout: default
 <big><big>**Academic Papers**</big></big> **published in refereed journals**
 
 <a name="regular"></a>
-<big>**&#9654; Regular Papers**</big>
+<big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
 
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
@@ -883,7 +883,7 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 {: reversed="reversed"}
 
 <a name="collaboration"></a>
-<big>**&#9654; Collaboration Papers**</big>
+<big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565),
