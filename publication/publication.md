@@ -40,8 +40,8 @@ tr:nth-child(odd) {
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the spin of the Galactic
 center supermassive black hole with two
-pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted),
-arXiv:2408.00245
+pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* 133 (2024) 231402
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.133.231402" data-style="small_rectangle"></span>
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
