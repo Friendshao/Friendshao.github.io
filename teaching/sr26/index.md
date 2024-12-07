@@ -27,6 +27,7 @@ tr:nth-child(odd) {
 </h2> -->
 
 # <b>Special Relativity & Spacetime</b>
+## <b>狭义相对论与时空观</b>
 
 ### <u>Spring 2026, Peking University</u>
 
@@ -61,8 +62,8 @@ physics clearly stated.  In this class, students are supposed to learn,
 
 Though the class targets undergraduates who, while *not* majoring in Physics,
 have basic *Science & Engineering* background, it is in general eligible for
-students from other fields with curiosity of the *Nature* and a sense of the
-grand *Beauty* as well. 
+students from other fields with curiosity of the *Nature*, a sense of the
+grand *Beauty*, as well as a bit of stubbornness/persistence. 
 
 <p></p>
 
@@ -93,13 +94,13 @@ grand *Beauty* as well.
 | 2. 狭义相对论的基本原理 | |
 | 3. 狭义相对论的时空观 | HW1 (ddl: ) |
 | 4. 相对论性的力学 |  |
-| <font color="blue"><b>课程论文</b></font> | 从**第9周始**到**第16周末**交即可<br><small>正文3000字以内，每超100字扣1分</small> |
+| <font color="blue"><b>课程论文</b></font> | 从**第9周始**到**第16周末**交即可<br><small>**要求**：中文 / 正文3000字以内 / 每超100字扣1分</small> |
 | 5. 电磁场理论 | HW2 (ddl: ) |
 | 6. 狭义相对论的实验验证 |  |
 | 7. 超出狭义相对论的理论与实验探索 | HW3 (ddl: ) |
 | 8. 广义相对论简介 |  | 
 | *期末答疑* | |
-| <font color="blue"><b>期末考试</b></font> | |
+| <font color="blue"><b>期末考试（开卷）</b></font> | |
 
 <p></p>
 
