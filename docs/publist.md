@@ -902,15 +902,14 @@ GEO600 for gravitational waves coincident with fast radio bursts from SGR
 1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* (accepted),
 arXiv:2410.09151
 
-0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
-Collaboration), [Broadband Multi-wavelength Properties of M87 during the 2018
-EHT Campaign including a Very High Energy Flaring
-Episode](https://arxiv.org/abs/2404.17623), *Astron. & Astrophys.* (accepted),
-arXiv:2404.17623
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
+Collaboration), [Broadband Multi-wavelength Properties of M87 during the 2018
+EHT Campaign including a Very High Energy Flaring
+Episode](https://arxiv.org/abs/2404.17623), *Astron. & Astrophys.* 692 (2024) A140
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
