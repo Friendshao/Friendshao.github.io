@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 299 = 152/[regular](#regular) + 147/[collaboration](#collaboration))</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 299 = 152/[regular](#regular) + 148/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -884,6 +884,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
+Very-Long-Baseline Atom Interferometry: Summary of the Second Workshop](TBA),
+arXiv:TBA
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565),
