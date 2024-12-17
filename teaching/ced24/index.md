@@ -96,7 +96,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | 6. 狭义相对论 | HW6  (ddl: Dec 18)  |
 | 7. 带电粒子和电磁场的相互作用 | HW7  (ddl: Jan 4) |
 | *答疑* | 科维理所K217；2025年1月4日·10:00-11:30AM | 
-| <font color="blue"><b>期末考试</b></font>（闭卷，笔试） | 2025年1月5日·8:30-10:30，地点待定|
+| <font color="blue"><b>期末考试</b></font>（闭卷，笔试） | 2025年1月5日·8:30-10:30，理教103 |
 
 <p></p>
 
