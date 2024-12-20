@@ -886,8 +886,8 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
 0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
-Very-Long-Baseline Atom Interferometry: Summary of the Second Workshop](TBA),
-arXiv:TBA
+Very-Long-Baseline Atom Interferometry: Summary of the Second
+Workshop](https://arxiv.org/abs/2412.14960), arXiv:2412.14960
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565),
