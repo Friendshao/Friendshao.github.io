@@ -898,9 +898,6 @@ GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
 observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted),
 arXiv:2407.12867
 
-0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
-1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* (accepted)
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [A search using
 GEO600 for gravitational waves coincident with fast radio bursts from SGR
 1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* (accepted),
@@ -909,6 +906,10 @@ arXiv:2410.09151
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
+1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* 692
+(2024) A205
 
 0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
 Collaboration), [Broadband Multi-wavelength Properties of M87 during the 2018
