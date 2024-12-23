@@ -90,7 +90,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | 7. 中子星与黑洞 | HW5 (ddl: Jan. 6) |
 | 8. 引力波简介 |  | 
 | 9. 宇宙学简介* | |
-| *期末答疑* | |
+| *期末答疑* | 2025年1月7日·14:00-15:00PM；科维理所K217 |
 | **期末考试（开卷）** | 2025年1月7日·18:30-20:30PM；二教109 |
 
 <p></p>
