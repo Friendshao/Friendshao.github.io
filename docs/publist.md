@@ -134,7 +134,7 @@ Present Universe](http://arxiv.org/abs/2406.04954),
 *Commun. Theor. Phys.* 76 (2024) 107401
 
 0. G. Yim<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**, R.-X.
-Xu, [High priority targets for transient gravitational waves from glitching
+Xu, [High-priority targets for transient gravitational waves from glitching
 pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R. Astron. Soc.* 532 (2024) 3893
 
 0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
@@ -193,7 +193,7 @@ gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* 964 (2024) 194
 
 0. H. Yan<font color="#5c5c5c"><sup>(#)</sup></font>, X. Chen<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhang, F. Zhang, M. Wang, **L.
-Shao**, [Towards a Consistent Calculation of the Lunar Response to Gravitational
+Shao**, [Toward a Consistent Calculation of the Lunar Response to Gravitational
 Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Y. Gao, **L.
