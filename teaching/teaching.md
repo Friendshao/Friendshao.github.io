@@ -52,8 +52,6 @@ tr:nth-child(odd) {
 ### **Recent Courses**
 
 | [TM-2025S](tm25) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 周二5-6节 & 周四7-8节；理教410<br><small>**习题课**: 周三10-11节(双)；理教201 |
-| [CED-2024F](ced24) | **Electrodynamics (A)**<br>**电动力学（A）** | 周一7-8节 & 周三3-4节；三教201<br><small>**习题课**: 周一10-11节(双)；三教101 |
-| [GRA-2024F](gr24) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节；理教311 |
 
 <!-- | [GRA-2027F](gr27) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
 | [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
