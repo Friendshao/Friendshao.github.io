@@ -1635,8 +1635,10 @@ run with a hidden Markov model](https://arxiv.org/abs/1704.03719), *Phys. Rev. D
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
-relativistic gravity with radio timing of neutron stars](TBA), in
-*Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in press
+relativistic gravity with radio timing of neutron
+stars](https://doi.org/10.1142/9789819800643_0019), in
+*Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
+Scientific Publishing, 2025), p. 375
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
