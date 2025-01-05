@@ -51,12 +51,12 @@ tr:nth-child(odd) {
 
 ### **Recent Courses**
 
+| [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
 | [SR-2026S](sr26) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节，地点待定 | 
 | [TM-2025S](tm25) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 周二5-6节 & 周四7-8节；理教410<br><small>**习题课**: 周三10-11节(双)；理教201 |
 
 <!-- 
 | [GRA-2027F](gr27) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
-| [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
 -->
 
 <br>
