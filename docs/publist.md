@@ -47,11 +47,6 @@ Pulsar Survey I.  Observations and Discoveries](TBA), arXiv:TBA
 Dong, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
 the $F$-statistic method](http://www.arxiv.org/abs/2411.13333), arXiv:2411.13333
 
-0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
-Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
-waveforms from triaxially-deformed precessing neutron stars in tight
-binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
-
 0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
 Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
@@ -71,6 +66,11 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
+Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
+waveforms from triaxially-deformed precessing neutron stars in tight
+binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* (accepted), arXiv:2410.09540
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
