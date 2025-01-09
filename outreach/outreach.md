@@ -125,8 +125,8 @@ tr:nth-child(odd) {
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><a href="https://www.bilibili.com/video/BV1j34y1F7Lf" target="_blank"><b>《宇宙来电》</b></a></h5>
-        <p class="teamtitle"><small>央视科教频道 CCTV10 纪录片（2023）</small></p>
+        <h5><a href="https://www.bilibili.com/video/BV1j34y1F7Lf" target="_blank"><b>科教片《宇宙来电》</b></a></h5>
+        <p class="teamtitle"><small>央视 CCTV10 纪录片（2023）</small></p>
         </center>
       </div>
     </div>
