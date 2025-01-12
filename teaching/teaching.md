@@ -47,6 +47,8 @@ tr:nth-child(odd) {
 > Education is to discover oneself and to fulfill purposes of life. <br>
 > 教育的目的在于人的自我实现。
 
+<img src="../whatsmore/schedule.png">
+
 <a name="recent"></a>
 
 ### **Recent Courses**
