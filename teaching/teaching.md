@@ -97,6 +97,7 @@ tr:nth-child(odd) {
 | 00432140 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Electrodynamics (A)**<br>**电动力学（A）**<br><small><small> * exercise class ID: 00432160 | [**2024F**](ced24) (88 ppl.)<br>[**2023F**](ced23) (92 ppl.) | 
 | 00432141 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 3学分·51学时 &nbsp;</font></small></span><br>**Electrodynamics (B)**<br>**电动力学（B）**<br><small><small> * exercise class ID: 00432160 | [**2022F**](ced22) (30 ppl.) | 
 | 00432198 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2025S**](tm25a) (?? ppl.)<br>[**2024S**](tm24) (100 ppl.)<br>[**2022F**](thmech22) (101 ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
+| 00432211 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 3学分·51学时 &nbsp;</font></small></span><br>**Theoretical Mechanics**<br>**理论力学**<br><small><small> * exercise class ID: 00432205 | [**2025F**](tm25) (?? ppl.) | 
 | 00432296 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22) (8 ppl.) | 
 | **累计** | **独立<small><font color="gray">（协同）</font></small>授课17<small><font color="gray">（1）</font></small>门次** |  **1348人次** |
 
