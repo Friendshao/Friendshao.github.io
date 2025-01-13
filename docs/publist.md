@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 302 = 153/[regular](#regular) + 149/[collaboration](#collaboration))</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 303 = 153/[regular](#regular) + 150/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -889,6 +889,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. J. Röder, *et al.* (EHT Collaboration), [A multi-frequency study of
+sub-parsec jets with the Event Horizon
+Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* (accepted),
+arXiv:2501.05518
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational waves from known pulsars in the first part of the
