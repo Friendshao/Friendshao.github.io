@@ -55,9 +55,10 @@ tr:nth-child(odd) {
 
 | [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
 | [SR-2026S](sr26) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节，地点待定 | 
-| [TM-2025S](tm25) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 周二5-6节 & 周四7-8节；理教410<br><small>**习题课**: 周三10-11节(双)；理教201 |
+| [TM-2025S](tm25a) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 周二5-6节 & 周四7-8节；理教410<br><small>**习题课**: 周三10-11节(双)；理教201 |
 
 <!-- 
+| [TM-2025F](tm25) | **Theoretical Mechanics**<br>**理论力学** | 周二5-6节 & 周四7-8节；理教410<br><small>**习题课**: 周三10-11节(双)；理教201 |
 | [GRA-2027F](gr27) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周二10-11节，地点待定 |
 -->
 
@@ -95,7 +96,7 @@ tr:nth-child(odd) {
 | 00431133 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (II)**<br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2020F**](phy20) (75 ppl.) | 
 | 00432140 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Electrodynamics (A)**<br>**电动力学（A）**<br><small><small> * exercise class ID: 00432160 | [**2024F**](ced24) (88 ppl.)<br>[**2023F**](ced23) (92 ppl.) | 
 | 00432141 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 3学分·51学时 &nbsp;</font></small></span><br>**Electrodynamics (B)**<br>**电动力学（B）**<br><small><small> * exercise class ID: 00432160 | [**2022F**](ced22) (30 ppl.) | 
-| 00432198 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2025S**](tm25) (?? ppl.)<br>[**2024S**](tm24) (100 ppl.)<br>[**2022F**](thmech22) (101 ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
+| 00432198 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Theoretical Mechanics (A)**<br>**理论力学（A）**<br><small><small> * exercise class ID: 00432205 | [**2025S**](tm25a) (?? ppl.)<br>[**2024S**](tm24) (100 ppl.)<br>[**2022F**](thmech22) (101 ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
 | 00432296 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22) (8 ppl.) | 
 | **累计** | **独立<small><font color="gray">（协同）</font></small>授课17<small><font color="gray">（1）</font></small>门次** |  **1348人次** |
 
@@ -116,7 +117,7 @@ tr:nth-child(odd) {
 | PKU'26S | [**Special Relativity & Spacetime**](sr26)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: ?? | -->
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
-| PKU'25S | [**Theoretical Mechanics (A)**](tm25)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & Peixiang Ji |
+| PKU'25S | [**Theoretical Mechanics (A)**](tm25a)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & Peixiang Ji |
 | PKU'24F | [**Electrodynamics (A)**](ced24)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Yiming Dong & Huapeng Gu |
 | PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Hanlin Song |
 | PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & Fangcheng Wang |
