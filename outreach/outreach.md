@@ -55,15 +55,15 @@ tr:nth-child(odd) {
 | **ROLE** | **CONFERENCE** |
 | <b>SOC</b> | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
 | <b>Organizer <small>(Chair)</small></b> | [SKA Pulsar Science Symposium 2025](https://psr.pku.edu.cn/conference/ska/ska2025/ska2025.html)<br><small>July 2-4, 2025, Qingdao China |
-| Organizer | [The Era When Pulsars Meet FRBs](https://psr.pku.edu.cn/conference/psrfrb/index.html)<br><small>May 11-16, 2025, Guizhou China  |
+| Co-organizer | [The Era When Pulsars Meet FRBs](https://psr.pku.edu.cn/conference/psrfrb/index.html)<br><small>May 11-16, 2025, Guizhou China  |
 | <b>Organizer <small>(Chair)</small></b> | [The Ninth SKA Summer School](https://mp.weixin.qq.com/s/HiOYhzXwiRSHeepZZWS2BA)<br><small>August 11-18, 2024, Xi'an China |
 | <b>Organizer</b><br>Session Chair | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
 | <b>Organizer</b><br>Session Chair | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
-| Organizer | [Dialog at the Dream Field: Supranuclear Matter](https://psr.pku.edu.cn/conference/fps/ddf/index.html)<br><small>May 10-15, 2024, Guiyang China  |
+| Co-organizer | [Dialog at the Dream Field: Supranuclear Matter](https://psr.pku.edu.cn/conference/fps/ddf/index.html)<br><small>May 10-15, 2024, Guiyang China  |
 | <b>Organizer</b><br>Session Chair | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html)<br><small>July 2-4, 2023, Nanyang China |
-| <b>Organizer</b><br>Session Chair | [以天之语 解物之道](https://psr.pku.edu.cn/tianyujiewu/index.html)<br><small>June 26-27, 2023, 香山饭店, Beijing |
-| Organizer | [Mini Workshop on Compact Objects and Gravitational Waves](https://kiaa.pku.edu.cn/info/1026/8907.htm)<br><small>April 19, 2023, Beijing China |
-| Organizer | [The Postdoc Workshop on Gravitational Waves at KIAA: Fall 2022](https://kiaa.pku.edu.cn/info/1026/8621.htm)<br><small>October 29, 2022, Beijing China |
+| Co-organizer<br>Session Chair | [以天之语 解物之道](https://psr.pku.edu.cn/tianyujiewu/index.html)<br><small>June 26-27, 2023, 香山饭店, Beijing |
+| Co-organizer | [Mini Workshop on Compact Objects and Gravitational Waves](https://kiaa.pku.edu.cn/info/1026/8907.htm)<br><small>April 19, 2023, Beijing China |
+| Co-organizer | [The Postdoc Workshop on Gravitational Waves at KIAA: Fall 2022](https://kiaa.pku.edu.cn/info/1026/8621.htm)<br><small>October 29, 2022, Beijing China |
 | <b>Organizer <small>(Chair)</small></b> | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022/ska2022.html)<br><small>August 1-3, 2022, Xiangtan China |
 | <b>Organizer</b><br>Session Chair | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html)<br><small>May 3-7, 2021, Leiden Netherlands |
 | SOC<br>Session Chair | [The Future of Gravitational Wave Astrophysics](http://kiaa.pku.edu.cn/astroforum19/)<br><small>November 28-29, 2019, Beijing China |
