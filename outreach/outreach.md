@@ -55,6 +55,7 @@ tr:nth-child(odd) {
 | **ROLE** | **CONFERENCE** |
 | <b>SOC</b> | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
 | <b>Organizer <small>(Chair)</small></b> | [SKA Pulsar Science Symposium 2025](https://psr.pku.edu.cn/conference/ska/ska2025/ska2025.html)<br><small>July 2-4, 2025, Qingdao China |
+| Organizer | [The Era When Pulsars Meet FRBs](https://psr.pku.edu.cn/conference/psrfrb/index.html)<br><small>May 11-16, 2025, Guizhou China  |
 | <b>Organizer <small>(Chair)</small></b> | [The Ninth SKA Summer School](https://mp.weixin.qq.com/s/HiOYhzXwiRSHeepZZWS2BA)<br><small>August 11-18, 2024, Xi'an China |
 | <b>Organizer</b><br>Session Chair | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
 | <b>Organizer</b><br>Session Chair | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
