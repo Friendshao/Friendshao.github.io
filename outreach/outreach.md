@@ -54,13 +54,13 @@ tr:nth-child(odd) {
 
 | **ROLE** | **CONFERENCE** |
 | SOC | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
-| Organizer <b><small>(Chair)</small></b> | [SKA Pulsar Science Symposium 2025](https://psr.pku.edu.cn/conference/ska/ska2025/ska2025.html)<br><small>July 2-4, 2025, Qingdao China |
-| Organizer <b><small>(Chair)</small></b> | [The Ninth SKA Summer School](https://mp.weixin.qq.com/s/HiOYhzXwiRSHeepZZWS2BA)<br><small>August 11-18, 2024, Xi'an China |
+| <span style="background-color:black"><small><font color="gold">&nbsp; Chair &nbsp;</font></small></span><br>Organizer | [SKA Pulsar Science Symposium 2025](https://psr.pku.edu.cn/conference/ska/ska2025/ska2025.html)<br><small>July 2-4, 2025, Qingdao China |
+| <span style="background-color:black"><small><font color="gold">&nbsp; Chair &nbsp;</font></small></span><br>Organizer | [The Ninth SKA Summer School](https://mp.weixin.qq.com/s/HiOYhzXwiRSHeepZZWS2BA)<br><small>August 11-18, 2024, Xi'an China |
 | Organizer | [SKA Pulsar Science Symposium 2024](https://psr.pku.edu.cn/conference/ska/ska2024/ska2024.html)<br><small>July 12-14, 2024, Kunming China |
 | Organizer | [2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2024)](https://indico-tdli.sjtu.edu.cn/event/2116/)<br><small>May 31 to June 2, 2024, Nanjing China |
 | Organizer | [SKA Pulsar Science Symposium 2023](https://psr.pku.edu.cn/ska/ska2023/ska2023.html)<br><small>July 2-4, 2023, Nanyang China |
-| Organizer <b><small>(Chair)</small></b> | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022/ska2022.html)<br><small>August 1-3, 2022, Xiangtan China |
-| Organizer</b> | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html)<br><small>May 3-7, 2021, Leiden Netherlands |
+| <span style="background-color:black"><small><font color="gold">&nbsp; Chair &nbsp;</font></small></span><br>Organizer | [SKA Pulsar Science Symposium 2022](https://psr.pku.edu.cn/ska/ska2022/ska2022.html)<br><small>August 1-3, 2022, Xiangtan China |
+| Organizer | [Workshop on Gravitational Wave Astrophysics for Early Career Scientists](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html)<br><small>May 3-7, 2021, Leiden Netherlands |
 
 <br>
 
