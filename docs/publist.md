@@ -34,11 +34,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
 using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
 
-0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
-C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
-accreting neutron stars: effect of the nuclear pasta
-phase](https://arxiv.org/abs/2411.11075), arXiv:2411.11075
-
 0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, 
 Z. Pan<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 H. Zhang<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
@@ -71,6 +66,11 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
+C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
+accreting neutron stars: effect of the nuclear pasta
+phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* (accepted), arXiv:2411.11075
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
