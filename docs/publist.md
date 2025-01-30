@@ -75,7 +75,7 @@ phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* (accepted), arXiv:2411
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
 waveforms from triaxially-deformed precessing neutron stars in tight
-binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* (accepted), arXiv:2410.09540
+binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (2025) 023053
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the Spin of the Galactic
