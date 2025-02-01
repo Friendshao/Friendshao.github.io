@@ -891,7 +891,7 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
-supermassive black hole of M 87. I. Model comparisons and theoretical
+supermassive black hole of M 87. II. Model comparisons and theoretical
 interpretations](https://doi.org/10.1051/0004-6361/202451296), *Astron. &
 Astrophys.* 693 (2025) A265
 
