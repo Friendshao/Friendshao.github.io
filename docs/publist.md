@@ -986,7 +986,7 @@ hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682
 (2024) L3
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
-supermassive black hole of M 87. I. Observations, calibration, imaging, and
+supermassive black hole of M87. I. Observations, calibration, imaging, and
 analysis](https://doi.org/10.1051/0004-6361/202347932), *Astron. & Astrophys.* 681 (2024) A79
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-3: Compact
