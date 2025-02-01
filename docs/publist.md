@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 303 = 153/[regular](#regular) + 150/[collaboration](#collaboration))</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 304 = 153/[regular](#regular) + 151/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -889,6 +889,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
+supermassive black hole of M 87. I. Model comparisons and theoretical
+interpretations](https://doi.org/10.1051/0004-6361/202451296), *Astron. &
+Astrophys.* 693 (2025) A265
 
 0. J. Röder, *et al.* (EHT Collaboration), [A multi-frequency study of
 sub-parsec jets with the Event Horizon
