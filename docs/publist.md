@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 305 = 154/[regular](#regular) + 151/[collaboration](#collaboration))</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 306 = 155/[regular](#regular) + 151/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -23,6 +23,11 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, H. Yan, Y. Kang, X. Chen,
+J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
+intermediate-mass black hole binaries with the Lunar Gravitational-wave
+Antenna](http://arxiv.org/abs/2502.02995), arXiv:2502.02995
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
