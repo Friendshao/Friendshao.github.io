@@ -901,10 +901,13 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
-supermassive black hole of M87. II. Model comparisons and theoretical
-interpretations](https://doi.org/10.1051/0004-6361/202451296), *Astron. &
-Astrophys.* 693 (2025) A265
+0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
+Very-Long-Baseline Atom Interferometry: Summary of the Second
+Workshop](https://arxiv.org/abs/2412.14960), arXiv:2412.14960
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565),
+arXiv:2410.16565
 
 0. J. Röder, *et al.* (EHT Collaboration), [A multi-frequency study of
 sub-parsec jets with the Event Horizon
@@ -913,16 +916,8 @@ arXiv:2501.05518
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational waves from known pulsars in the first part of the
-fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2501.01495),
+fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2501.01495), *Astrophys. J.* (accepted),
 arXiv:2501.01495
-
-0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
-Very-Long-Baseline Atom Interferometry: Summary of the Second
-Workshop](https://arxiv.org/abs/2412.14960), arXiv:2412.14960
-
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565),
-arXiv:2410.16565
 
 0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
 GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
@@ -932,6 +927,11 @@ arXiv:2407.12867
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
+supermassive black hole of M87. II. Model comparisons and theoretical
+interpretations](https://doi.org/10.1051/0004-6361/202451296), *Astron. &
+Astrophys.* 693 (2025) A265
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [A search using
 GEO600 for gravitational waves coincident with fast radio bursts from SGR
