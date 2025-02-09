@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 306 = 155/[regular](#regular) + 151/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 17)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 18)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
 
 ---
@@ -1956,6 +1956,10 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
+
+0. 姬佩祥<font color="#5c5c5c"><sup>(#)</sup></font>, 梁迪聪, **邵立晶**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](TBA), 《现代物理知识》,
+submitted
 
 0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes, **邵立晶**,
 [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 69 (2024) 3675
