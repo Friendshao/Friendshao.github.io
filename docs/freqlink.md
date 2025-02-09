@@ -52,7 +52,7 @@ layout: default
   ([BBS](http://bbs.pku.edu.cn/),
    [BY](http://162.105.209.64/benyan),
    [cls](https://course.pku.edu.cn), 
-   [CW](http://cwfw.pku.edu.cn/),
+   [Dean](https://dean.pku.edu.cn/service/web/courseSearch.php),
    [HPC](http://hpc.pku.edu.cn/),
    [ITS](http://its.pku.edu.cn/),
    [pan](http://pan.pku.edu.cn/),
