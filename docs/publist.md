@@ -76,7 +76,7 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, H. Yan, Y. Kang, X. Chen,
 J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
-Antenna](http://arxiv.org/abs/2502.02995), *npj Space Exploration* (accepted), arXiv:2502.02995
+Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (accepted), arXiv:2502.02995
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
