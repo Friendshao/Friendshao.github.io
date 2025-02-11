@@ -24,11 +24,6 @@ layout: default
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
 
-0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, H. Yan, Y. Kang, X. Chen,
-J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
-intermediate-mass black hole binaries with the Lunar Gravitational-wave
-Antenna](http://arxiv.org/abs/2502.02995), arXiv:2502.02995
-
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
@@ -77,6 +72,11 @@ arXiv:2312.02130
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, H. Yan, Y. Kang, X. Chen,
+J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
+intermediate-mass black hole binaries with the Lunar Gravitational-wave
+Antenna](http://arxiv.org/abs/2502.02995), *npj Space Exploration* (accepted), arXiv:2502.02995
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
