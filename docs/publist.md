@@ -81,7 +81,7 @@ Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (submitted), arXi
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
 accreting neutron stars: effect of the nuclear pasta
-phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* (accepted), arXiv:2411.11075
+phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* 980 (2025) 144
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Wang, **L. Shao**, [Effects of orbital eccentricity on continuous gravitational
