@@ -919,14 +919,13 @@ continuous gravitational waves from known pulsars in the first part of the
 fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2501.01495), *Astrophys. J.* (accepted),
 arXiv:2501.01495
 
-0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
-GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
-observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted),
-arXiv:2407.12867
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
+GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
+observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.*  980 (2025) 207
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
 supermassive black hole of M87. II. Model comparisons and theoretical
