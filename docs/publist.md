@@ -49,10 +49,6 @@ P.C.C. Freire<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P. Eatough,
 Wang, K. Liu, T. Liu, X. Zhang, M. Li, Z. Feng, B. Peng, [FAST Globular Cluster
 Pulsar Survey I.  Observations and Discoveries](TBA), arXiv:TBA
 
-0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.  Wang, Y.
-Dong, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
-the $F$-statistic method](http://www.arxiv.org/abs/2411.13333), arXiv:2411.13333
-
 0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
 Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
@@ -77,6 +73,10 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
 Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (submitted), arXiv:2502.02995
+
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.  Wang, Y.
+Dong, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
+the $F$-statistic method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* (accepted), arXiv:2411.13333
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
