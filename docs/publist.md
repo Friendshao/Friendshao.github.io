@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 306 = 155/[regular](#regular) + 151/[collaboration](#collaboration))</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 307 = 156/[regular](#regular) + 151/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 18)</small>
 - [**Miscellaneous**](#misc) <small> (in total 12)</small>
@@ -23,6 +23,14 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
+Z. Cao, W. Han, J. He, M.A. Hendry, B. Hu, Y.-M. Hu, F. P. Huang, S.-J. Huang,
+S. P. Kim, E.-K. Li, Y.-X. Liu, V. Milyukov, S. Pi, K. Postnov, M. Sasaki, C.-G.
+Shao, **L. Shao**, C. Shi, S. Sun, A. Wang, P.-P. Wang, S. Wang, S.-J. Wang,
+Z.-Z. Xianyu, H. Yang, T. Yang, J.-d. Zhang, X. Zhang, W. Zhao, L.-G. Zhu, J.
+Mei<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Fundamental Physics and
+Cosmology with TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
