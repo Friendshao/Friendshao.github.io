@@ -12,7 +12,7 @@ layout: default
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 307 = 156/[regular](#regular) + 151/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 18)</small>
-- [**Miscellaneous**](#misc) <small> (in total 12)</small>
+- [**Miscellaneous**](#misc) <small> (in total 13)</small>
 
 ---
 
@@ -2050,6 +2050,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
+
+0. 赵俊杰, **邵立晶** [翻译],
+[SN2023IXF 的距离是否够近，足以探测到其引力波信号？](https://ligo.org/science-summaries/sn2023ixf/),
+LIGO / Virgo / KAGRA Science Summaries
 
 0. 康亚城, **邵立晶** [翻译],
 [GW230529：一次中子星和未知致密天体的并合事件](https://www.ligo.org/science/Publication-GW230529/translations/science-summary-chinese-simplified.pdf),
