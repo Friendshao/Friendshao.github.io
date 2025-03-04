@@ -32,7 +32,7 @@ tr:nth-child(odd) {
 ### <u>Fall 2025, Peking University</u>
 
 <div style="display: flex; justify-content: center;">
-<img src="../sr26/lightcone.png" width="300">
+<img src="../sr25/lightcone.png" width="300">
 </div>
 
 <p align="center">
@@ -50,7 +50,7 @@ physics clearly stated.  In this class, students are supposed to learn,
 0. the limitation of the class, as well as the direction to explore if one wants to master more advanced materials.
 
 <div style="display: flex; justify-content: center;">
-<img src="../sr26/DALI.jpg" width="450">
+<img src="../sr25/DALI.jpg" width="450">
 </div>
 
 <p></p>
