@@ -29,7 +29,7 @@ tr:nth-child(odd) {
 # <b>Special Relativity & Spacetime</b>
 ## <b>狭义相对论与时空观</b>
 
-### <u>Spring 2026, Peking University</u>
+### <u>Fall 2025, Peking University</u>
 
 <div style="display: flex; justify-content: center;">
 <img src="../sr26/lightcone.png" width="300">
