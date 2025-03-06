@@ -62,17 +62,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
 Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
-0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
-Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
-Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
-Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
-Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
-Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, **L. Shao**, A.
-Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
-Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
-Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
-arXiv:2312.02130
-
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
@@ -81,6 +70,18 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
 Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (submitted), arXiv:2502.02995
+
+0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
+Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
+Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
+Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
+Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
+Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, **L. Shao**, A.
+Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
+Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
+Next-Generation Event Horizon 
+Telescope](http://arxiv.org/abs/2312.02130), 
+*Living Rev. Relativ.* (accepted), arXiv:2312.02130
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.  Wang, Y.
 Dong, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
