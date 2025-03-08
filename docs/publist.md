@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 307 = 156/[regular](#regular) + 151/[collaboration](#collaboration))</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 307 = 157/[regular](#regular) + 151/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 18)</small>
 - [**Miscellaneous**](#misc) <small> (in total 13)</small>
@@ -23,6 +23,12 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
+Yang, Z. Wang, E. Troja<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B.
+Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Li,
+[Implications for Shared Properties of Merger-driven Long-duration Gamma-Ray
+Bursts](TBA), arXiv:TBA
 
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, B. Hu, Y.-M. Hu, F. P. Huang, S.-J. Huang,
