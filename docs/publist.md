@@ -91,7 +91,7 @@ Telescope](http://arxiv.org/abs/2312.02130),
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.  Wang, Y.
 Dong, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
-the $F$-statistic method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* (accepted), arXiv:2411.13333
+the $F$-statistic method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
