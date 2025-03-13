@@ -70,10 +70,10 @@ $$\delta S = 0$$
 | 0. 课程介绍 | |
 | 1. 矢量力学 | |
 | 2. 拉格朗日方程 | HW1 (ddl: Mar 6)<br>HW2 (ddl: Mar 13) |
-| 3. 有心运动  | HW3 (ddl: ) |
-| 4. 小振动  | HW4 (ddl: ) |
-| <font color="blue"><b>期中答疑</b></font> | 科维理所K217；时间待定 |  
-| <font color="red"><b>期中考试（闭卷，笔试）</b></font> | |
+| 3. 有心运动  | HW3 (ddl: Mar 25) |
+| 4. 小振动  | HW4 (ddl: Apr 1) |
+| <font color="blue"><b>期中答疑</b></font> | 2025年4月2日·19:00-20:00PM；科维理所K217 |  
+| <font color="red"><b>期中考试（闭卷，笔试）</b></font> | 2025年4月3日·15:10-17:00PM；理教410 |
 | 5. 刚体运动学 |  HW5 (ddl: ) |
 | 6. 刚体动力学 |  HW6 (ddl: ) |
 | 7. 哈密顿力学 |  HW7 (ddl: ) |
