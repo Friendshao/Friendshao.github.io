@@ -71,6 +71,7 @@ grand *Beauty*, as well as a bit of stubbornness/persistence.
 
 ## General Information
 
+| **课程性质** | 全校公选课 |
 | **Space & Time** |  周二10-11节，地点待定 |
 | **主要面向群体** | 理工科非物理学院和其他感兴趣的本科生 |
 | **先修课程** | 高等数学、普通物理 |
@@ -103,7 +104,7 @@ grand *Beauty*, as well as a bit of stubbornness/persistence.
 | 6. 狭义相对论的实验验证 |  |
 | 7. 超出狭义相对论的理论与实验探索 | 作业（下）；截止时间：?? |
 | 8. 广义相对论简介 |  | 
-| *期末答疑* | |
+| <font color="green"><i>期末答疑</i></font> | |
 | <font color="blue"><b>期末考试（开卷）</b></font> | |
 
 <p></p>
