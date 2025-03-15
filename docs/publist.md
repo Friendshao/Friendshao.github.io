@@ -9,7 +9,7 @@ layout: default
 
 <p></p>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 308 = 157/[regular](#regular) + 151/[collaboration](#collaboration))</small>
+- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 309 = 157/[regular](#regular) + 152/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
 - [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 18)</small>
 - [**Miscellaneous**](#misc) <small> (in total 13)</small>
@@ -915,6 +915,9 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
+Telescope](TBA), arXiv:TBA
 
 0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
 Very-Long-Baseline Atom Interferometry: Summary of the Second
