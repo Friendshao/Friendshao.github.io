@@ -917,7 +917,7 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
-Telescope](TBA), arXiv:TBA
+Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
 
 0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
 Very-Long-Baseline Atom Interferometry: Summary of the Second
