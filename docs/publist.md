@@ -11,7 +11,7 @@ layout: default
 
 - [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 309 = 157/[regular](#regular) + 152/[collaboration](#collaboration))</small>
 - [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 18)</small>
+- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 19)</small>
 - [**Miscellaneous**](#misc) <small> (in total 13)</small>
 
 ---
@@ -1973,6 +1973,9 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
+
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
+[《探知无界：天文学中的基础物理》](TBA), 北京大学出版社 (2025)
 
 0. 姬佩祥<font color="#5c5c5c"><sup>(#)</sup></font>, 梁迪聪, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](TBA), 《现代物理知识》,
