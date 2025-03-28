@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-## <b>About me</b> [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
+## <b>About me</b> [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)&thinsp;<span class="hovertext" data-hover="K217"><img src="location.png" alt="email" style="width:20px;height:20px;"></span>&thinsp;[<img src="email2.png" alt="email" style="width:20px;height:20px;">](mailto:lshao@pku.edu.cn) 
 
 <img style="float: right;" src="shao2.png" width="180" hspace="10"> 
 
@@ -41,18 +41,26 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Machine learning, data analysis & statistics
 - <b><i>Projects</i></b>: LIGO/Virgo/KAGRA, EHT, SKA, eXTP, *etc.*
 
-### Services and Duties
+<p></p>
 
-- Advisory Panel Member of *Classical and Quantum Gravity* (2020.5-)
-- Editorial Board Member of *Chinese Physics C* (2024.12-2028.11)
-- Joint Youth Editor for *Chinese Physics Letters*, *Chinese Physics B*, *物理学报*, *物理* (2024.5-2026.5)
-- KSC member for PKU-KIAA group of KAGRA Collaboration (2018.12-)
-- Joint Guest Editor for *Science Bulletin* and *科学通报* (2023.1-2024.12)
-- Executive Member of Editorial Board for *Science Bulletin* (2019.1-2022.12)
-- Head of a Max Planck Partner Group  between PKU-KIAA and MPIfR (2021.1-2025.12)
-- 国家重点研发计划项目“引力波探测”重点专项专家组成员 (2024.12-)
-- 科技部“SKA专项”项目负责人 (2020.12-2025.11)
-- 浙江省余姚市低塘初级中学“科学副校长” (2024.2-)
+### Want to join our research?
+
+Please read the following articles carefully, for
+**(a)** [Postdoc](https://kiaagravity.github.io/assets/postdoc) <font color="gray"><small>(博后)</small></font>,
+**(b)** [PhD Student](https://kiaagravity.github.io/assets/phd) <font color="gray"><small>(博士生)</small></font>, 
+**(c)** [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate) <font color="gray"><small>(本科生科研)</small></font>, and 
+**(d)** [Bachelor Dissertation](https://kiaagravity.github.io/assets/bachelor) <font color="gray"><small>(本科生毕设)</small></font>.  
+You can get more information from [current
+members](https://kiaagravity.github.io/member/), [past
+students](https://friendshao.github.io/docs/theses), and [this Q&A
+sheet](https://kiaagravity.github.io/assets/QA).
+
+ <img src="group.png" width="50"> &nbsp;&nbsp; **For more, please check at [<big>our Group Page</big>](https://kiaagravity.github.io)**  <img src="team.png" width="50">
+
+
+---
+
+<p></p>
 
 ### Teaching
 
@@ -76,26 +84,25 @@ University](http://www.pku.edu.cn/), Beijing China.
 
 <p></p>
 
-### Want to join our research?
+### Services and Duties
 
-Please read the following articles carefully, for
-**(a)** [Postdoc](https://kiaagravity.github.io/assets/postdoc) <font color="gray"><small>(博后)</small></font>,
-**(b)** [PhD Student](https://kiaagravity.github.io/assets/phd) <font color="gray"><small>(博士生)</small></font>, 
-**(c)** [Undergraduate Research Study](https://kiaagravity.github.io/assets/undergraduate) <font color="gray"><small>(本科生科研)</small></font>, and 
-**(d)** [Bachelor Dissertation](https://kiaagravity.github.io/assets/bachelor) <font color="gray"><small>(本科生毕设)</small></font>.  
-You can get more information from [current
-members](https://kiaagravity.github.io/member/), [past
-students](https://friendshao.github.io/docs/theses), and [this Q&A
-sheet](https://kiaagravity.github.io/assets/QA).
-
- <img src="group.png" width="50"> &nbsp;&nbsp; **For more, please check at [<big>our Group Page</big>](https://kiaagravity.github.io)**  <img src="team.png" width="50">
-
-<p></p>
-
----
+- Advisory Panel Member of *Classical and Quantum Gravity* (2020.5-)
+- Editorial Board Member of *Chinese Physics C* (2024.12-2028.11)
+- Joint Youth Editor for *Chinese Physics Letters*, *Chinese Physics B*, *物理学报*, *物理* (2024.5-2026.5)
+- KSC member for PKU-KIAA group of KAGRA Collaboration (2018.12-)
+- Joint Guest Editor for *Science Bulletin* and *科学通报* (2023.1-2024.12)
+- Executive Member of Editorial Board for *Science Bulletin* (2019.1-2022.12)
+- Head of a Max Planck Partner Group  between PKU-KIAA and MPIfR (2021.1-2025.12)
+- 国家重点研发计划项目“引力波探测”重点专项专家组成员 (2024.12-)
+- 科技部“SKA专项”项目负责人 (2020.12-2025.11)
+- 浙江省余姚市低塘初级中学“科学副校长” (2024.2-)
 
 <p></p>
 
+<img src="../whatsmore/schedule.png">
+
+
+<!-- 
 ### Contact
 
 
@@ -108,4 +115,5 @@ width="20">pku.edu.cn
 
 <img src="meet.png" width="32"> **Group Meeting:** Sundays 9:00-11:00 AM (meeting room in auditorium)
 
-<img src="open.jpg" width="30"> **Office Hours:** Sundays 13:30-14:30PM and other time (by appointment)
+<img src="open.jpg" width="30"> **Office Hours:** by appointments, please email me 
+-->

@@ -926,11 +926,6 @@ Workshop](https://arxiv.org/abs/2412.14960), arXiv:2412.14960
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* (accepted), arXiv:2410.16565
 
-0. J. Röder, *et al.* (EHT Collaboration), [A multi-frequency study of
-sub-parsec jets with the Event Horizon
-Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* (accepted),
-arXiv:2501.05518
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational waves from known pulsars in the first part of the
 fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2501.01495), *Astrophys. J.* (accepted),
@@ -939,6 +934,9 @@ arXiv:2501.01495
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. J. Röder, *et al.* (EHT Collaboration), [A multifrequency study of sub-parsec
+jets with the Event Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695 (2025) A233
 
 0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
 GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
