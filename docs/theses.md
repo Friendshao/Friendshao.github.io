@@ -126,9 +126,9 @@ tr:nth-child(odd) {
 <big><big> **Undergraduate Student Research Study**
 
 0. **杨奕博**，北京市自然科学基金本科生启研计划，Probing Axion with Binary Pulsars（PKU'25·秋）
-0. **楚开尧**，Pinning Mechanism and Continuous Gravitational Waves（PKU'25·秋）
-0. **张逸伦**，Spin Dynamics in Scalar-tensor Theories（PKU'25·秋）
-0. **刘文帅**，Gravitational-wave Data Analysis and Machine Learning（PKU'25·秋）
+0. **楚开尧**，校长基金，Pinning Mechanism and Continuous Gravitational Waves（PKU'25·秋）
+0. **张逸伦**，校长基金，Spin Dynamics in Scalar-tensor Theories（PKU'25·秋）
+0. **刘文帅**，校长基金，Gravitational-wave Data Analysis and Machine Learning（PKU'25·秋）
 0. **刘宇堃**，北京市自然科学基金本科生启研计划，Dark-matter-admixed Neutron Stars（PKU'24·秋）
 0. **章弘毅**，校长基金，Characteristic Signals in Gravitational Waves（PKU'24·秋）
 0. **李柏霖**，䇹政基金，Testing Gravity with Pulsar Timing Arrays（PKU'24·秋）
