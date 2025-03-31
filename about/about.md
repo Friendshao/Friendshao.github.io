@@ -83,13 +83,13 @@ sheet](https://kiaagravity.github.io/assets/QA).
 <p></p>
 
 <div style="display: flex; justify-content: left;">
-<img src="../teaching/img/ced.png" width="20%">
-&nbsp; &nbsp;
-<img src="../teaching/img/sr.png" width="20%">
-&nbsp; &nbsp;
-<img src="../teaching/phy22/lecturenote_mechanics.png" width="20%">
-&nbsp; &nbsp;
-<img src="../teaching/phy22/lecturenote_electromagnetism.png" width="20%">
+<a href="https://friendshao.github.io/teaching/img/ced.png" target="_blank"><img src="../teaching/img/ced.png" width="150"></a>
+&nbsp; 
+<a href="http:///friendshao.github.io/teaching/img/sr.png" target="_blank"><img src="../teaching/img/sr.png" width="150"></a>
+&nbsp; 
+<a href="http:///friendshao.github.io/teaching/img/mechanics.png" target="_blank"><img src="../teaching/img/mechanics.png" width="150"></a>
+&nbsp; 
+<a href="http:///friendshao.github.io/teaching/img/EM.png" target="_blank"><img src="../teaching/img/EM.png" width="150"></a>
 </div>
 
 <!-- 

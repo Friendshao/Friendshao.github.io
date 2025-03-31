@@ -54,9 +54,9 @@ tr:nth-child(odd) {
   - **Electromagnetism** (电磁学)
 
 <div style="display: flex; justify-content: center;">
-<a href="https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843" target="_blank"><img src="lecturenote_mechanics.png" width="100%"></a>
+<a href="https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843" target="_blank"><img src="../img/mechanics.png" width="100%"></a>
 &nbsp; &nbsp;
-<a href="https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843" target="_blank"><img src="lecturenote_electromagnetism.png" width="94%"></a>
+<a href="https://disk.pku.edu.cn/link/DFD02EC7E930172C5B6B31EF57327843" target="_blank"><img src="../img/EM.png" width="94%"></a>
 </div>
 
 | **时间** | 周一3-4节，周四3-4节 |
