@@ -30,16 +30,20 @@ University](http://www.pku.edu.cn/), Beijing China.
   Physics](https://friendshao.github.io/docs/breakthrough_Certificate_2020.pdf) awarded to the EHTC (shared by 347 members)
 - World's Top 2% Scientists [2020-2024](top2.png) ([data](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7))
 
+
+<img style="float: right;" src="../whatsmore/schedule.png" width="48%">
+
 ### Research Interests
 
 - Tests of gravity theories
 - Gravitational waves
 - Pulsars and neutron stars
-- Black-hole spacetime & black-hole astrophysics
+- Black-hole spacetime & astrophysics
 - Precision tests of fundamental physics
 - Astrophysical studies of dark matter
 - Machine learning, data analysis & statistics
 - <b><i>Projects</i></b>: LIGO/Virgo/KAGRA, EHT, SKA, eXTP, *etc.*
+
 
 <p></p>
 
@@ -76,31 +80,23 @@ sheet](https://kiaagravity.github.io/assets/QA).
 | &nbsp; &nbsp; <small>00431133</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2020年（秋）">普通物理（II）</span> | 4学分 | General Physics (II) |
 | &nbsp; &nbsp; <small>00432296</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2022年（春）">天体粒子物理</span> | 2学分 | Astroparticle Physics |
 
+<p></p>
+
+<div style="display: flex; justify-content: left;">
+<img src="../teaching/img/ced.png" width="20%">
+&nbsp; &nbsp;
+<img src="../teaching/img/sr.png" width="20%">
+&nbsp; &nbsp;
+<img src="../teaching/phy22/lecturenote_mechanics.png" width="20%">
+&nbsp; &nbsp;
+<img src="../teaching/phy22/lecturenote_electromagnetism.png" width="20%">
+</div>
+
 <!-- 
 | &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">广义相对论</span> &nbsp; &nbsp; &nbsp; | 4学分 &nbsp; &nbsp; &nbsp; | General Relativity |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">狭义相对论</span>  <font color="gray"><small><small> *** 建设中</small></small></font> | 2学分 | Special Relativity |
 | &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">百年物理</span>  <font color="gray"><small><small> *** 建设中</small></small></font> | 2学分 | Centenary Physics |
 -->
-
-<p></p>
-
-### Services and Duties
-
-- Advisory Panel Member of *Classical and Quantum Gravity* (2020.5-)
-- Editorial Board Member of *Chinese Physics C* (2024.12-2028.11)
-- Joint Youth Editor for *Chinese Physics Letters*, *Chinese Physics B*, *物理学报*, *物理* (2024.5-2026.5)
-- KSC member for PKU-KIAA group of KAGRA Collaboration (2018.12-)
-- Joint Guest Editor for *Science Bulletin* and *科学通报* (2023.1-2024.12)
-- Executive Member of Editorial Board for *Science Bulletin* (2019.1-2022.12)
-- Head of a Max Planck Partner Group  between PKU-KIAA and MPIfR (2021.1-2025.12)
-- 国家重点研发计划项目“引力波探测”重点专项专家组成员 (2024.12-)
-- 科技部“SKA专项”项目负责人 (2020.12-2025.11)
-- 浙江省余姚市低塘初级中学“科学副校长” (2024.2-)
-
-<p></p>
-
-<img src="../whatsmore/schedule.png">
-
 
 <!-- 
 ### Contact
