@@ -28,12 +28,12 @@ tr:nth-child(odd) {
 | **TIME** | **ROLE** |
 | 2020-now |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
 | 2024-2028 |  Editorial Board Member of [Chinese Physics C](http://cpc.ihep.ac.cn/) |
+| 2023-2026 | Guest Editor for [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) and [《科学通报》](https://www.sciengine.com/CSB/home) |
 | 2024-2026 | Joint Youth Editorial Board Member<br>[Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X), [Chinese Physics B](https://cpb.iphy.ac.cn/), [《物理学报》](https://wulixb.iphy.ac.cn/index.htm), [《物理》](http://www.wuli.ac.cn/) |
-| 2024-now | Vice Principal of Science, Ditang Middle School, Yuyao China |
 | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
 | 2024-2025 | Special Issue Editor for *Symmetry*<br><small>[Symmetries in Compact Stars and Advances in Gravitational Waves](https://www.mdpi.com/journal/symmetry/special_issues/55L9VJ681U)</small> |
+| 2024-now | Vice Principal of Science, Ditang Middle School, Yuyao China |
 | | **PAST ROLE** |
-| 2023-2024 | Guest Editor for [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) and [《科学通报》](https://www.sciengine.com/CSB/home) |
 | 2019-2022 | Executive Member of Editorial Board for [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
 | 2023-2024 | Special Issue Editor for *Universe*<br><small>[Newest Results in Gravitational Waves and Machine Learning](https://www.mdpi.com/journal/universe/special_issues/48U1E55JLC)</small> |
