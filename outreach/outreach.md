@@ -32,7 +32,6 @@ tr:nth-child(odd) {
 | 2024-2026 | Joint Youth Editorial Board Member<br>[Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X), [Chinese Physics B](https://cpb.iphy.ac.cn/), [《物理学报》](https://wulixb.iphy.ac.cn/index.htm), [《物理》](http://www.wuli.ac.cn/) |
 | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
 | 2024-2025 | Special Issue Editor for *Symmetry*<br><small>[Symmetries in Compact Stars and Advances in Gravitational Waves](https://www.mdpi.com/journal/symmetry/special_issues/55L9VJ681U)</small> |
-| 2024-now | Vice Principal of Science, Ditang Middle School, Yuyao China |
 | | **PAST ROLE** |
 | 2019-2022 | Executive Member of Editorial Board for [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2020-2022 | [MDPI](https://www.mdpi.com/) Open Science Ambassador |
