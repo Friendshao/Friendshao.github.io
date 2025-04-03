@@ -919,10 +919,6 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
 
-0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
-Very-Long-Baseline Atom Interferometry: Summary of the Second
-Workshop](https://arxiv.org/abs/2412.14960), arXiv:2412.14960
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* (accepted), arXiv:2410.16565
 
@@ -934,6 +930,10 @@ arXiv:2501.01495
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
+Very-Long-Baseline Atom Interferometry: Summary of the Second
+Workshop](https://arxiv.org/abs/2412.14960), *EPJ Quantum Technol.* 12 (2025) 42
 
 0. J. Röder, *et al.* (EHT Collaboration), [A multifrequency study of sub-parsec
 jets with the Event Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695 (2025) A233
