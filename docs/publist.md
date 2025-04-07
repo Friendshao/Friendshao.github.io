@@ -1735,7 +1735,7 @@ Scales* (Springer Cham, 2023), p. 385
 <p></p>
 
 <a name="contribution"></a>
-<big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
+<big><big>**Academic Contribution**</big></big> **conference proceedings, white papers, and more**
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
@@ -2013,7 +2013,7 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 <p></p>
 
 <a name="chinese"></a>
-<big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
+<big><big>**Chinese Articles**</big></big> **published in Chinese journals and popular science**
 
 0. 姬佩祥<font color="#5c5c5c"><sup>(#)</sup></font>, 梁迪聪, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](TBA), 《现代物理知识》, in press
