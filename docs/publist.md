@@ -7,12 +7,31 @@ layout: default
   <font color="#5c5c5c">star<sup>($\ast$)</sup></font> marking
   corresponding authors</b></font>
 
-<p></p>
+<table style="border-collapse: collapse; border: none;">
+     <tr>
 
-- [**Academic Papers**](#papers) <small>**published in refereed journals** (in total 309 = 157/[regular](#regular) + 152/[collaboration](#collaboration))</small>
-- [**Academic Contribution**](#contribution) <small>**conference proceedings, book chapters, and more** (in total 39)</small>
-- [**Chinese Articles**](#chinese) <small>**published in Chinese journals and books** (in total 19)</small>
-- [**Miscellaneous**](#misc) <small> (in total 13)</small>
+       <td style="background-color:white; border: none">
+         1. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
+         2. <a href="https://friendshao.github.io/docs/publist#books"><b>Books & Chapters</b></a><br>
+         3. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (36)
+       </td>
+ 
+      <td style="background-color:white; border: none">            
+         <small> [1a] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (157) </small> <br>
+         <small> [2a] <a href="https://friendshao.github.io/docs/publist#book">Books</a> (1) </small><br>
+         4. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (17)
+       </td>
+
+       <td style="background-color:white; border: none">            
+         <small> [1b] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (152) </small><br>
+         <small> [2b] <a href="https://friendshao.github.io/docs/publist#chapter">Chapters</a> (4) </small><br>
+         5. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (13)
+       </td>
+
+     </tr>
+</table>
+
+<p></p>
 
 ---
 
@@ -933,7 +952,7 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 
 0. A.S. Abdalla, *et al.* (TVLBAI Collaboration), [Terrestrial
 Very-Long-Baseline Atom Interferometry: Summary of the Second
-Workshop](https://arxiv.org/abs/2412.14960), *EPJ Quantum Technol.* 12 (2025) 42
+Workshop](https://arxiv.org/abs/2412.14960), *EPJ Quant. Technol.* 12 (2025) 42
 
 0. J. Röder, *et al.* (EHT Collaboration), [A multifrequency study of sub-parsec
 jets with the Event Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695 (2025) A233
@@ -1673,11 +1692,18 @@ run with a hidden Markov model](https://arxiv.org/abs/1704.03719), *Phys. Rev. D
 
 <p></p>
 
-<a name="contribution"></a>
-<big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
+<a name="books"></a>
+<big><big>**Books**</big></big> **books and book chapters**
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
-the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
+<a name="book"></a>
+<big>**&nbsp; &nbsp; &#9654; Books**</big>
+
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
+[《探知无界：天文学中的基础物理》](TBA), 北京大学出版社 (2025)
+{: reversed="reversed"}
+
+<a name="chapter"></a>
+<big>**&nbsp; &nbsp; &#9654;  Book Chapters**</big>
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
 relativistic gravity with radio timing of neutron
@@ -1685,10 +1711,34 @@ stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
 Scientific Publishing, 2025), p. 375
 
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 徐睿<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[致密双星旋近的引力波简介](https://www.ecsponline.com/goods.php?id=225405), 
+收编于《引力波物理》, 科学出版社 (2024), p. 21 
+
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
 radio pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
 Tests* (Springer Series in Astrophysics and Cosmology, Singapore 2024), p. 61
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars
+as a laboratory for strong-field gravity
+tests](https://arxiv.org/abs/2206.15187), *Lect. Notes Phys.* 1017 (2023) 385,
+in *Modified and Quantum Gravity: From theory to Experimental Searches on All
+Scales* (Springer Cham, 2023), p. 385
+{: reversed="reversed"}
+
+<p></p>
+
+---
+
+<p></p>
+
+<a name="contribution"></a>
+<big><big>**Academic Contribution**</big></big> **conference proceedings, book chapters, and more**
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
+the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
 0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
@@ -1697,12 +1747,6 @@ Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
 deci-Hertz gravitational waves over the
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
 Phys. Mech. Astron.* 66 (2023) 119531
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Radio pulsars
-as a laboratory for strong-field gravity
-tests](https://arxiv.org/abs/2206.15187), *Lect. Notes Phys.* 1017 (2023) 385,
-in *Modified and Quantum Gravity: From theory to Experimental Searches on All
-Scales* (Springer Cham, 2023), p. 385
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Gravity tests
 with radio pulsars in perturbative and nonperturbative
@@ -1971,19 +2015,11 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and books**
 
-0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
-[《探知无界：天文学中的基础物理》](TBA), 北京大学出版社 (2025)
-
 0. 姬佩祥<font color="#5c5c5c"><sup>(#)</sup></font>, 梁迪聪, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](TBA), 《现代物理知识》, in press
 
 0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes, **邵立晶**,
 [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 69 (2024) 3675
-
-0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 徐睿<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>,
-[致密双星旋近的引力波简介](https://www.ecsponline.com/goods.php?id=225405), 
-收编于《引力波物理》, 科学出版社 (2024), p. 21 
 
 0. 路瑞鹏<font color="#5c5c5c"><sup>(#)</sup></font>, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光,
 **邵立晶**, 王平, 汪卫华, 王维扬, 夏铖君, 胥恒, 徐仁新<font
@@ -2132,3 +2168,20 @@ center](http://adsabs.harvard.edu/abs/2019AAS...23336124D),
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+</style>
