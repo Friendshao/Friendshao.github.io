@@ -1699,7 +1699,7 @@ run with a hidden Markov model](https://arxiv.org/abs/1704.03719), *Phys. Rev. D
 <big>**&nbsp; &nbsp; &#9654; Books**</big>
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
-[《探知无界：天文学中的基础物理》](TBA), 北京大学出版社 (2025)
+[《探知无界：天文学中的基础物理》](https://item.jd.com/10145729050617.html), 北京大学出版社 (2025)
 {: reversed="reversed"}
 
 <a name="chapter"></a>
@@ -1711,11 +1711,6 @@ stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
 Scientific Publishing, 2025), p. 375
 
-0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 徐睿<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>,
-[致密双星旋近的引力波简介](https://www.ecsponline.com/goods.php?id=225405), 
-收编于《引力波物理》, 科学出版社 (2024), p. 21 
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, X. Miao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of classical gravity with
 radio pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
@@ -1726,6 +1721,11 @@ as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), *Lect. Notes Phys.* 1017 (2023) 385,
 in *Modified and Quantum Gravity: From theory to Experimental Searches on All
 Scales* (Springer Cham, 2023), p. 385
+
+0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 徐睿<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[致密双星旋近的引力波简介](https://www.ecsponline.com/goods.php?id=225405), 
+收编于《引力波物理》, 科学出版社 (2024), p. 21 
 {: reversed="reversed"}
 
 <p></p>
