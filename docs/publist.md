@@ -12,19 +12,19 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         B. <a href="https://friendshao.github.io/docs/publist#books"><b>Books & Chapters</b></a><br>
-         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (36)
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (157) </small> <br>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (152) </small>
        </td>
  
       <td style="background-color:white; border: none">            
-         <small> [A1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (157) </small> <br>
-         <small> [B1] <a href="https://friendshao.github.io/docs/publist#book">Books</a> (1) </small><br>
-         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (17)
+         B. <a href="https://friendshao.github.io/docs/publist#books"><b>Books & Chapters</b></a><br>
+         <small> [b1] <a href="https://friendshao.github.io/docs/publist#book">Books</a> (1) </small><br>
+         <small> [b2] <a href="https://friendshao.github.io/docs/publist#chapter">Chapters</a> (4) </small>
        </td>
 
        <td style="background-color:white; border: none">            
-         <small> [A2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (152) </small><br>
-         <small> [B2] <a href="https://friendshao.github.io/docs/publist#chapter">Chapters</a> (4) </small><br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (36)<br>
+         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (17)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (13)
        </td>
 
