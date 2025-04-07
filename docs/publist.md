@@ -11,21 +11,21 @@ layout: default
      <tr>
 
        <td style="background-color:white; border: none">
-         1. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         2. <a href="https://friendshao.github.io/docs/publist#books"><b>Books & Chapters</b></a><br>
-         3. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (36)
+         A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
+         B. <a href="https://friendshao.github.io/docs/publist#books"><b>Books & Chapters</b></a><br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (36)
        </td>
  
       <td style="background-color:white; border: none">            
-         <small> [1a] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (157) </small> <br>
-         <small> [2a] <a href="https://friendshao.github.io/docs/publist#book">Books</a> (1) </small><br>
-         4. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (17)
+         <small> [A1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (157) </small> <br>
+         <small> [B1] <a href="https://friendshao.github.io/docs/publist#book">Books</a> (1) </small><br>
+         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (17)
        </td>
 
        <td style="background-color:white; border: none">            
-         <small> [1b] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (152) </small><br>
-         <small> [2b] <a href="https://friendshao.github.io/docs/publist#chapter">Chapters</a> (4) </small><br>
-         5. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (13)
+         <small> [A2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (152) </small><br>
+         <small> [B2] <a href="https://friendshao.github.io/docs/publist#chapter">Chapters</a> (4) </small><br>
+         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (13)
        </td>
 
      </tr>
