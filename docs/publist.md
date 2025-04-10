@@ -25,7 +25,7 @@ layout: default
        <td style="background-color:white; border: none">            
          C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (36)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (17)<br>
-         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (13)
+         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (14)
        </td>
 
      </tr>
@@ -2095,6 +2095,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
+
+0. J. Roeder, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: VLBI
+core fluxes and brightness temperatures (Roeder+,
+2025)](https://ui.adsabs.harvard.edu/abs/2025yCat..36950233R/abstract), VizieR
+On-line Data Catalog: J/A+A/695/A233
 
 0. 赵俊杰, **邵立晶** [翻译],
 [SN2023IXF 的距离是否够近，足以探测到其引力波信号？](https://ligo.org/science-summaries/sn2023ixf/),
