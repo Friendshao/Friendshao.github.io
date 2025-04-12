@@ -25,6 +25,7 @@ layout: default
   [Bing](https://www.bing.com/),
   [Baidu](http://www.baidu.com/),
   [Google](http://www.google.com/ncr),
+  [grok](https://x.com/i/grok),
   [Deepseek](https://chat.deepseek.com/)
 - [smallpdf](http://smallpdf.com/),
   [kdocs](https://www.kdocs.cn/latest) ([rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
