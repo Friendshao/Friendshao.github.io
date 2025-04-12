@@ -24,7 +24,8 @@ layout: default
   [Evernote](https://www.evernote.com/Home.action),
   [Bing](https://www.bing.com/),
   [Baidu](http://www.baidu.com/),
-  [Google](http://www.google.com/ncr)
+  [Google](http://www.google.com/ncr),
+  [Deepseek](https://chat.deepseek.com/)
 - [smallpdf](http://smallpdf.com/),
   [kdocs](https://www.kdocs.cn/latest) ([rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
   [time.is](https://time.is/),
