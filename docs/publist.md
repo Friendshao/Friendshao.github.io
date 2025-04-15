@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (157) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (158) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (152) </small>
        </td>
  
@@ -42,6 +42,11 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
+Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
+anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
 Yang, Z. Wang, E. Troja<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B.
