@@ -27,7 +27,7 @@ tr:nth-child(odd) {
 > 十年树木，百年树人。
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
-| 2029 | &#9975; Z. Zhang <small>(张泽)</small><br>&#9975; Z. Li <small>(李竹海)</small><br>&#9975; J. Yu <small>(于江川)</small><br>&#9975; C. Zhao <small>(赵乘辉)</small> | | | |
+| 2029 | &#9975; Z. Zhang <small>(张泽)</small><br>&#9975; J. Yu <small>(于江川)</small><br>&#9975; C. Zhao <small>(赵乘辉)</small> | | | |
 | 2028 | &#9975; Z. Wang <small>(王子铭)</small><br>&#9975; Y. Dong <small>(董益铭)</small> | | | |
 | 2027 | &#9975; Y. Kang <small>(康亚城)</small><br>&#9975; Z. Hu <small>(胡泽昕)</small><br>&#9975; P. Ji <small>(姬佩祥)</small> | | | &#9975; H. Wang <small>(王晗)<sup>$\ast$</sup></small> |
 | 2026 | | | &#9975; J. Deng <small>(邓锦文)</small><br>&#9975; J. Zhong <small>(钟佳航)<sup>$\ast$</sup></small><br>&#9975; J. Zhang <small>(张景灏)</small><br>&#9975; Z. Zheng <small>(郑智豪)</small><br>&#9975; Y. Fan <small>(范逸恒)</small> | &#9975; W. Feng <small>(冯文凡)</small> |
