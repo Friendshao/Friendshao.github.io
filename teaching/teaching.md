@@ -120,7 +120,7 @@ tr:nth-child(odd) {
 | PKU'26F | [**General Relativity & Astrophysics**](gr26)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
 | PKU'26S | [**Theoretical Mechanics**](tm26)<br>**理论力学** | **Lecturer** <small><small> * TAs: Zexin Hu & Ze Zhang |
 | PKU'25F | [**Special Relativity & Spacetime**](sr25)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: Ze Zhang |
-| PKU'25F | [**Electrodynamics (A)**](ced25)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Chenghui Zhao & Zhuhai Li |
+| PKU'25F | [**Electrodynamics (A)**](ced25)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Chenghui Zhao & ?? |
 | PKU'25S | [**Theoretical Mechanics (A)**](tm25a)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & Peixiang Ji |
 | PKU'24F | [**Electrodynamics (A)**](ced24)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Yiming Dong & Huapeng Gu |
 | PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Hanlin Song |
