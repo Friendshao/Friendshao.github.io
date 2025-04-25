@@ -26,6 +26,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Alibaba [DAMO Academy Young Fellow](https://damo.alibaba.com/damo-academy-young-fellow) (达摩院青橙学者)
 - Head of a [Max Planck Partner Group](http://kiaa.pku.edu.cn/info/1129/7050.htm)  between [KIAA](http://kiaa.pku.edu.cn/) and [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en)
 - Elected to the Young Elite Scientists Sponsorship Program (青年人才托举工程) by the [CAST](http://www.cast.org.cn/)
+- Committee Member of [Gravitation and Relativistic Astrophysics Division](http://www.cps-net.org.cn/News/Content/show/id/5325.do), Chinese Physical Society
 - [2020 Breakthrough Prize in Fundamental
   Physics](https://friendshao.github.io/docs/breakthrough_Certificate_2020.pdf) awarded to the EHTC (shared by 347 members)
 - World's Top 2% Scientists [2020-2024](top2.png) ([data](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7))
