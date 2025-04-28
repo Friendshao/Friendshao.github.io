@@ -57,7 +57,7 @@ layout: default
    [Dean](https://dean.pku.edu.cn/service/web/courseSearch.php),
    [HPC](http://hpc.pku.edu.cn/),
    [ITS](http://its.pku.edu.cn/),
-   [pan](http://pan.pku.edu.cn/),
+   [pan](http://disk.pku.edu.cn/),
    [PHY](http://www.phy.pku.edu.cn/), 
    [SD](https://treehole.pku.edu.cn/web/),
    [ZC](https://bodaqmf.pku.edu.cn/phymeetplan), 

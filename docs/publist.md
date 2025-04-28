@@ -1697,7 +1697,7 @@ run with a hidden Markov model](https://arxiv.org/abs/1704.03719), *Phys. Rev. D
 <p></p>
 
 <a name="books"></a>
-<big><big>**Books**</big></big> **books and book chapters**
+<big><big>**Books**</big></big> **and book chapters**
 
 <a name="book"></a>
 <big>**&nbsp; &nbsp; &#9654; Books**</big>
