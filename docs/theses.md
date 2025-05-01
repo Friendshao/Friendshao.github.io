@@ -40,8 +40,8 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Thesis**
 
-0. **杨一秋**，[黑洞微扰](theses/YangYiqiu.pdf)（北京大学，2025年·夏）
-  - <small>Perturbations of Black Holes
+0. **杨一秋**，[黑洞准正模共振](theses/YangYiqiu.pdf)（北京大学，2025年·夏）
+  - <small>Black Hole Resonance between Quasinormal Modes
 0. **郭雨欣**，[基于数值相对论波形的黑洞并合参数估计方法](theses/GuoYuxin.pdf)（北京航空航天大学，2024年·夏）
   - <small>Estimating Black Hole Merger Parameters Based on Numerical Relativity Waveforms
 0. **潘奕晨**，[人工智能技术在脉冲星和快速射电暴搜寻中的应用](theses/PanYichen.pdf)（北京大学，2024年·夏）
