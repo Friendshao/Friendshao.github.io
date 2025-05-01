@@ -43,6 +43,8 @@ layout: default
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
 
+<!-- 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
+
 0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
