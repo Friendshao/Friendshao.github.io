@@ -51,10 +51,9 @@ Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
-Yang, Z. Wang, E. Troja<font color="#5c5c5c"><sup>($\ast$)</sup></font>, B.
-Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Li,
-[Shared Properties of Merger-driven Long-duration Gamma-Ray Bursts](TBA),
-arXiv:TBA
+Yang, Z. Wang, E. Troja, B. Zhang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Li, [Shared Properties of
+Merger-driven Long-duration Gamma-Ray Bursts](TBA), *Astron. & Astrophys.* (submitted), arXiv:TBA
 
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, B. Hu, Y.-M. Hu, F. P. Huang, S.-J. Huang,

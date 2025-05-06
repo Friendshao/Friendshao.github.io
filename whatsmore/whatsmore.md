@@ -79,7 +79,7 @@ tr:nth-child(odd) {
 ### <img src="link.png" style="height:45px;"> &nbsp;  <b>Services & Duties</b>
 
 | **时间** | **任务** |
-| 2025.4-2029.3 | Committee Member of Gravitation and Relativistic Astrophysics Division, CPS |
+| 2025.4-2029.3 | Committee Member of Division of Gravitation and Relativistic Astrophysics, CPS |
 | 2020.5-now | Advisory Panel Member of *Classical and Quantum Gravity* |
 | 2024.12-2028.11 | Editorial Board Member of *Chinese Physics C* |
 | 2023.1-2026.12 | Joint Guest Editor for *Science Bulletin* and *科学通报* |
