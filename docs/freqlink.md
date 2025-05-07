@@ -72,7 +72,8 @@ layout: default
   [Committee](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA/KSC#committees), 
   [Maillist](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=12150),
   [System-B](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=14750),
-  [wiki](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA#links),
+  [Wiki](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA#links),
+  [Pub](https://pubplan.ligo.org/),
   [JEB](https://dac.icrr.u-tokyo.ac.jp/KAGRA/KSC/JEB))  
 
 **Collections**
