@@ -105,7 +105,7 @@ grand *Beauty*, as well as a bit of stubbornness/persistence.
 | 7. 超出狭义相对论的理论与实验探索 | 作业（下）；截止时间：?? |
 | 8. 广义相对论简介 |  | 
 | <font color="green"><i>期末答疑</i></font> | |
-| <font color="blue"><b>期末考试（开卷）</b></font> | |
+| <font color="blue"><b>期末考试（开卷）</b></font> | 2025年12月23日·随堂考 |
 
 <p></p>
 
