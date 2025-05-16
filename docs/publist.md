@@ -105,7 +105,7 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
 Yang, Z. Wang, E. Troja, B. Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
 Z. Li, [Shared Properties of Merger-driven Long-duration Gamma-Ray
-Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* (submitted),
+Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* (accepted),
 arXiv:2505.10165
 
 0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, H. Yan, Y. Kang, X. Chen,
