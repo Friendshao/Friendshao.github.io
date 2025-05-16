@@ -12,8 +12,8 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (159) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (152) </small>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (160) </small> <br>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (153) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -45,6 +45,11 @@ layout: default
 
 <!-- 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Fermionic Dark Matter
+with Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
+
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
    [Galactic double neutron stars as dual-line
    gravitational-wave sources: Prospects with LISA and Cosmic
@@ -54,11 +59,6 @@ layout: default
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
-
-0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
-Yang, Z. Wang, E. Troja, B. Zhang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Li, [Shared Properties of
-Merger-driven Long-duration Gamma-Ray Bursts](TBA), *Astron. & Astrophys.* (submitted), arXiv:TBA
 
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, B. Hu, Y.-M. Hu, F. P. Huang, S.-J. Huang,
@@ -101,6 +101,12 @@ Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
+Yang, Z. Wang, E. Troja, B. Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+Z. Li, [Shared Properties of Merger-driven Long-duration Gamma-Ray
+Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* (submitted),
+arXiv:2505.10165
 
 0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, H. Yan, Y. Kang, X. Chen,
 J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
@@ -945,6 +951,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. R. Dahale, *et al.* (EHT Collaboration), [Origin of the ring ellipticity in
+the black hole images of M87*](https://arxiv.org/abs/2505.10333),
+arXiv:2505.10333
 
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
