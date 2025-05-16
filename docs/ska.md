@@ -8,6 +8,14 @@ layout: default
 
 <big><big> **第一标注**
 
+0. Hu, Z., **Shao, L.**, 2024, [Measuring the Spin of the Galactic Center Supermassive Black Hole with Two Pulsars](https://ui.adsabs.harvard.edu/abs/2024PhRvL.133w1402H/abstract), PhRvL, 133, 231402
+
+0. **Xia, C.-J.**, Xie, W.-J., Bakhiet, M., 2024, [Astrophysical constraints on nuclear EOSs and coupling constants in relativistic-mean-field models](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110k4009X/abstract), PhRvD, 110, 114009
+
+0. Pang, S.-L., **Dai, Z.-G.**, 2024, [Reverse Shock Emission from Misaligned Structured Jets in Gamma-Ray Bursts](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..123P/abstract), ApJ, 977, 123
+
+0. Ji, P., Li, Z., Yang, L., Xu, R., Hu, Z., **Shao, L.**, 2024, [Neutron stars in the bumblebee theory of gravity](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110j4057J/abstract), PhRvD, 110, 104057
+
 0. Zhou, Y., Zhang, C., Zhao, J., Kiuchi, K., Fujibayashi, S., **Zhou, E.**, 2024, [Constraints of the maximum mass of quark stars based on postmerger evolutions](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110j3012Z/abstract), PhRvD, 110, 103012
 
 0. Yan, Y.-L., Cheng, Q., **Zheng, X.-P.**, 2024, [Investigating the neutron star physics through observations of several young pulsars in the dipole-field re-emergence scenario](https://ui.adsabs.harvard.edu/abs/2024SCPMA..6729513Y/abstract), SCPMA, 67, 129513
@@ -251,6 +259,20 @@ layout: default
 
 
 <big><big> **其他标注**
+
+0. **Xia, C.-J.**, Maruyama, T., Yasutake, N., Tatsumi, T., 2024, [Mixed phases of compact star matter in a unified mean-field approach](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110k4024X/abstract), PhRvD, 110, 114024
+
+0. Luo, J.-J., Zhang, L., Zhang, L.-Y., **Huang, Y.-F.**, Lin, J.-Q., Lu, J.-W., Dong, X.-F., 2024, [The Classification and Formation Rate of Swift/BAT Gamma-Ray Bursts](https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..52L/abstract), ApJL, 977, L52
+
+0. Bao, D.-W., Guo, W.-J., Zhang, Z.-X., Cheng, C., Yao, Z.-H., Li, Y.-R., **Yuan, Y.-F.**, Xue, S.-J., Wang, J.-M., Tsai, C.-W., Zou, H., Chen, Y.-J., Li, W., Zhong, S., Chen, Z.-Q., 2024, [Gleeok's Fire-breathing: Triple Flares of AT 2021aeuk within Five Years from the Active Galaxy SDSS J161259.83+421940.3](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..279B/abstract), ApJ, 977, 279
+
+0. Du, C., **Huang, Y.-F.**, Zhang, Z.-B., Rodin, A., Fedorova, V., Kurban, A., Li, D., 2024, [A Thorough Search for Short-timescale Periodicity in Four Active Repeating Fast Radio Bursts](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..129D/abstract), ApJ, 977, 129
+
+0. Dong, X.-F., **Huang, Y.-F.**, Zhang, Z.-B., Li, X.-J., Zou, Z.-C., Hu, C.-R., Deng, C., Liu, Y., 2024, [Mass Function of Stellar Black Holes as Revealed by the LIGO–Virgo–KAGRA Observations](https://ui.adsabs.harvard.edu/abs/2024ApJ...977...29D/abstract), ApJ, 977, 29
+
+0. Zhang, S. B., Yang, X., Geng, J. J., Yang, Y. P., Wu, X. F., 2024, [Detection of Hidden Emissions in Two Rotating Radio Transients with High Surface Magnetic Fields](https://ui.adsabs.harvard.edu/abs/2024ApJ...976L..26Z/abstract), ApJL, 976, L26
+
+0. Wang, Z., Gao, Y., Liang, D., Zhao, J., **Shao, L.**, 2024, [Vetting quark-star models with gravitational waves in the hierarchical Bayesian framework](https://ui.adsabs.harvard.edu/abs/2024JCAP...11..038W/abstract), JCAP, 11, 038
 
 0. Zhang, H.-H., Zhu, J.-P., **Yu, Y.-W.**, 2024, [Propagation of Gamma-Ray Burst Relativistic Jets in Active Galactic Nucleus Disks and Its Implication for Gamma-Ray Burst Detection](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...63Z/abstract), ApJ, 976, 63 
 
