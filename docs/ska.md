@@ -8,6 +8,14 @@ layout: default
 
 <big><big> **第一标注**
 
+0. **Zheng, X.-P.**, Wang, W.-H., Huang, C., Yuan, J.-P., Yuan, S.-J., 2025, [The Persistent Shift in Spin-down Rate Following the Largest Crab Pulsar Glitch Rules Out External Torque Variations due to Starquakes](https://ui.adsabs.harvard.edu/abs/2025ApJ...982..181Z/abstract), ApJ, 982, 181
+
+0. Liu, P., Yuan, J.-P., Ge, M.-Y., Ye, W.-T., Zhou, S.-Q., Dang, S.-J., Zhou, Z.-R., Gügercinoğlu, E., Tu, Z.-H., Wang, P., **Li, A.**, Li, D., Wang, N., 2025, [A multiband study of pulsar glitches with Fermi-LAT and Parkes](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.1720L/abstract), MNRAS, 537, 1720
+
+0. **Tong, H.**, Wang, H. H., 2025, [Precession for the Mode Change in a Gamma-Ray Pulsar](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..232T/abstract), ApJ, 980, 232
+
+0. Zhu, P.-X., **Zheng, X.-P.**, 2025, [Glitches and Glitching Clusters in Rotation-powered Pulsars](https://ui.adsabs.harvard.edu/abs/2025ApJ...978...49Z/abstract), ApJ, 978, 49
+
 0. Hu, Z., **Shao, L.**, 2024, [Measuring the Spin of the Galactic Center Supermassive Black Hole with Two Pulsars](https://ui.adsabs.harvard.edu/abs/2024PhRvL.133w1402H/abstract), PhRvL, 133, 231402
 
 0. **Xia, C.-J.**, Xie, W.-J., Bakhiet, M., 2024, [Astrophysical constraints on nuclear EOSs and coupling constants in relativistic-mean-field models](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110k4009X/abstract), PhRvD, 110, 114009
@@ -259,6 +267,42 @@ layout: default
 
 
 <big><big> **其他标注**
+
+0. Geng, J.-J., Hu, D.-F., Gao, H.-X., Liang, Y.-F., Hua, Y.-L., Zhang, G.-R., Sun, T.-R., Li, B., Liu, Y.-Q., Xu, F., Deng, C., Hu, C.-R., Xu, M., **Huang, Y.-F.**, Zhang, M.-M., Fang, M., Yan, J.-Z., An, T., Wu, X.-F., 2025, [Gamma-Ray Burst Timing: Decoding the Hidden Slow Jets in GRB 060729](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..65G/abstract), ApJ, 984, 65
+
+0. Wang, H.-T., Wang, Z., Dong, Y., Yim, G., **Shao, L.**, 2025, [Reanalyzing the ringdown signal of GW150914 using the F-statistic method](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111f4037W/abstract), PhRvD, 111, 064037
+
+0. Zheng, Z.-Y., Sun, T.-T., Wei, J.-B., Chen, H., **Zheng, X.-P.**, Burgio, G. F., Schulze, H.-J., 2025, [f-mode oscillations of hybrid stars with pasta construction](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111f3069Z/abstract), PhRvD, 111, 063069
+
+0. Amat, O., Fan, H.-H., Tang, S., **Huang, Y.-F.**, Xie, B.-S., 2025, [Spin resolved momentum spectra for vacuum pair production via a generalized two level model](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111e6020A/abstract), PhRvD, 111, 056020
+
+0. Xie, S.-L., Cai, C., **Yu, Y.-W.**, Xiong, S.-L., Lin, L., Zhao, Y., Zhang, S.-N., Song, L.-M., Wang, P., Li, X.-B., Xue, W.-C., Zhang, P., Zheng, C., Zhang, Y.-Q., Liu, J.-C., Wang, C.-W., Tan, W.-J., Wang, Y., Yu, Z.-H., Feng, P.-Y., Zhang, J.-P., Xiao, S., Zhao, H.-S., Zhang, W.-L., Zhang, Y.-T., Huang, ., Zhao, X.-Y., Ma, X., Zheng, S.-J., Li, X.-Q., Wen, X.-Y., Gong, K., An, Z.-H., Zhang, D.-L., Yang, S., Liu, X.-J., Zhang, F., 2025, [GECAM Observations of the Galactic Magnetar SGR J1935+2154 during the 2021 and 2022 Burst Active Episodes. I. Burst Catalog](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....5X/abstract), ApJS, 277, 5
+
+0. Xu, F., Anderson, G. E., Tian, J., Meyers, B. W., Tingay, S. J., **Huang, Y.-F.**, Wang, Z.-T., Venville, B., Lee, C. P., Rowlinson, A., Hancock, P., Williams, A., Sokolowski, M., 2025, [A Search for Low-frequency Radio Pulses from Long Gamma-Ray Bursts with the Murchison Widefield Array](https://ui.adsabs.harvard.edu/abs/2025ApJ...982...32X/abstract), ApJ, 982, 32
+
+0. Wu, X.-J., Luo, Y., Li, J., **Yuan, Y.-F.**, Lin, W., 2025, [Tidal Disruptions of Stars by Supermassive and Intermediate-mass Black Hole Binaries: The Effects of the First-order Post-Newtonian Cross Terms](https://ui.adsabs.harvard.edu/abs/2025ApJ...981...23W/abstract), ApJ, 981, 23
+
+0. Chang, C., Zhang, S., Xiao, D., Tang, Z., Li, Y., Wei, J., Wu, X., 2025, [A lensed FRB candidate in the first CHIME/FRB Catalogue and its potential implications](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537L..61C/abstract), MNRAS, 537, 61
+
+0. Yang, X., Hobbs, G., Zhang, S.-B., Zic, A., Toomey, L., Li, Y., Wang, J.-S., Dai, S., Wu, X.-F., 2025, [Searching for short-time-scale radio anomalies using non-linear dimensionality reduction techniques](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..991Y/abstract), MNRAS, 537, 991
+
+0. Deng, C., **Huang, Y.-F.**, Xu, F., Kurban, A., 2025, [The Observed Luminosity Correlations of Gamma-Ray Bursts and Their Applications](https://ui.adsabs.harvard.edu/abs/2025Galax..13...15D/abstract), Galax, 13, 15
+
+0. Li, C.-M., Zheng, H.-R., Zuo, S.-Y., Zhao, Y.-P., Wang, F., **Huang, Y.-F.**, 2025, [Study of Hybrid Stars with Nonstrange Quark Matter Cores](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..231L/abstract), ApJ, 980, 231
+
+0. Li, H.-B., **Shao, L.**, **Xia, C.-J.**, Xu, R.-X., 2025, [Continuous Gravitational Waves from Thermal Mountains on Accreting Neutron Stars: Effect of the Nuclear Pasta Phase](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..144L/abstract), ApJ, 980, 144
+
+0. Wei, J.-P., **Huang, Y.-F.**, Cui, L., Liu, X., Geng, J.-J., Wu, X.-F., 2025, [Intrinsic Pulse Widths of FRB 20121102A and Calculation of Broadening from Propagation and Instrumental Effects](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..114W/abstract), ApJ, 980, 114
+
+0. Wu, Q., Wang, F. Y., Zhao, Z. Y., Wang, P., Xu, H., Zhang, Y. K., Zhou, D. J., Niu, J. R., Wang, W. Y., Yi, S. X., Hua, Z. Q., Zhang, S. B., Han, J. L., Zhu, W. W., Lee, K. J., Li, D., Wu, X. F., **Dai, Z. G.**, Zhang, B., 2025, [A Universal Break in Energy Functions of Three Hyperactive Repeating Fast Radio Bursts](https://ui.adsabs.harvard.edu/abs/2025ApJ...979L..42W/abstract), ApJL, 979, L42
+
+0. Huang, X.-R., Zha, S., Chu, M.-c., O'Connor, E. P., **Chen, L.-W.**, 2025, [Phase-transition-induced Collapse of Proto-compact Stars and Its Implication for Supernova Explosions](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..151H/abstract), ApJ, 979, 151
+
+0. Wang, X., Lan, M. X., Tang, Q. W., Wu, X. F., **Dai, Z. G.**, 2025, [Time-integrated polarizations in the prompt phase of gamma-ray bursts via the multi-window interpretation](https://ui.adsabs.harvard.edu/abs/2025A%26A...694A.214W/abstract), A&A, 694, A214
+
+0. Feng, W.-F., Liu, T., Wang, Y., **Shao, L.**, 2025, [Effects of orbital eccentricity on continuous gravitational waveforms from triaxially deformed precessing neutron stars in tight binaries](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111b3053F/abstract), PhRvD, 111, 023053
+
+0. Shu, J., Cheng, Q., **Zheng, X.-P.**, 2025, [Revealing the internal magnetic fields of magnetars via their associated periodic signals](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111b3038S/abstract), PhRvD, 111, 023038
 
 0. **Xia, C.-J.**, Maruyama, T., Yasutake, N., Tatsumi, T., 2024, [Mixed phases of compact star matter in a unified mean-field approach](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110k4024X/abstract), PhRvD, 110, 114024
 
