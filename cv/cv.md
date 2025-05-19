@@ -41,7 +41,6 @@ tr:nth-child(odd) {
 
 | **TIME** | **MEMBERSHIP** |
 | 2014-present | SKA Pulsar and Gravitational Wave Science Working Groups |
-| 2018-present | Event Horizon Telescope Collaboration |
 | 2018-present | KAGRA Scientific Collaboration |
 | 2018-present | International Astronomical Union, Individual Member |
 | 2018-present | Gravitation and Relativistic Astrophysics, Chinese Physical Society |
@@ -49,6 +48,7 @@ tr:nth-child(odd) {
 | 2020-present | Beijing Astronomical Society |
 | 2021-present | Chinese Institute of Electronics |
 | 2022-present | Chinese Physical Society |
+| 2018-2025 | Event Horizon Telescope Collaboration |
 | 2017-2021 | BlackHoleCam Project |
 | 2015-2017 | LIGO Scientific Collaboration |
 
