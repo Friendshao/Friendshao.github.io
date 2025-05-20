@@ -12,8 +12,8 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (160) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (153) </small>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (161) </small> <br>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (154) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -44,6 +44,10 @@ layout: default
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
 
 <!-- 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Linear analysis of I-C-Love
+universal relations for neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -958,6 +962,11 @@ arXiv:2505.10333
 
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
+
+0. C. Goddi, D.F. Carlos, *et al.* (EHT Collaboration), [First polarization
+study of the M87 jet and active galactic nuclei at submillimeter wavelengths
+with ALMA](https://arxiv.org/abs/2505.10181), *Astron. & Astrophys.* (accepted),
+arXiv:2505.10181
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* (accepted), arXiv:2410.16565
