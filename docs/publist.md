@@ -968,12 +968,12 @@ study of the M87 jet and active galactic nuclei at submillimeter wavelengths
 with ALMA](https://arxiv.org/abs/2505.10181), *Astron. & Astrophys.* (accepted),
 arXiv:2505.10181
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* (accepted), arXiv:2410.16565
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* 985 (2025) 183
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 continuous gravitational waves from known pulsars in the first part of the
