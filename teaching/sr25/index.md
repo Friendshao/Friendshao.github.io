@@ -72,7 +72,7 @@ grand *Beauty*, as well as a bit of stubbornness/persistence.
 ## General Information
 
 | **课程性质** | 全校公选课 |
-| **Space & Time** |  周二10-11节，地点待定 |
+| **Space & Time** |  周二10-11节，三教307 |
 | **主要面向群体** | 理工科非物理学院和其他感兴趣的本科生 |
 | **先修课程** | 高等数学、普通物理 |
 | **参考书** | 《**狭义相对论**(第二版)》，刘辽，费保俊，张允中，科学出版社，2008年 |
