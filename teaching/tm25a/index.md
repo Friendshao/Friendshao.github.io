@@ -21,11 +21,11 @@ tr:nth-child(odd) {
 </style>
 
 
-<!-- <h2>
+<h2>
 <font color="red">
 *** Notice: links are not maintained after the end of course! 
 </font>
-</h2> -->
+</h2>
 
 # <b>Theoretical Mechanics (理论力学)</b>
 
@@ -80,7 +80,7 @@ $$\delta S = 0$$
 | 8. 力学中的变分方法  | HW8 (ddl: May 27) |
 | 9. 连续介质动力学 | HW9 (ddl: ) |
 | 10. 相对论性的分析力学 | HW10（免交） |
-| <font color="blue"><b>期末答疑</b></font> | 科维理所K217；时间待定 |
+| <font color="blue"><b>期末答疑</b></font> | 科维理所K217；6月8日·13:00-14:30PM |
 | <font color="red"><b>期末考试（闭卷，笔试）</b></font> |  2025年6月10日·下午 | 
 
 <!-- <p></p>
