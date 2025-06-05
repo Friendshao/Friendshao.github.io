@@ -87,7 +87,7 @@ grand *Beauty*, as well as a bit of stubbornness/persistence.
 | **教员** | Lijing Shao (邵立晶)；Office KIAA-217；lshao@pku.edu.cn | 
 | | 【答疑时间】每周日14:00-14:45PM（建议来前联系，以免空跑） | 
 | **助教** | 张泽，2401110287@stu.pku.edu.cn |
-| <font color="red"><b>网盘链接</b></font> | [猛戳这里](TBA) （倘若打开有误，请尝试重新刷新） |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AADA3F37080DE34F9D85830B93EC78E666) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
 
