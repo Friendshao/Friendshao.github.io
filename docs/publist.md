@@ -122,12 +122,11 @@ Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
 Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
 Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
 Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
-Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, **L. Shao**, A.
-Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
-Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
-Next-Generation Event Horizon 
-Telescope](http://arxiv.org/abs/2312.02130), 
-*Living Rev. Relativ.* (accepted), arXiv:2312.02130
+Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, **L. Shao**, S.
+Tahura, A.  Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X.
+Xue, K.  Yakut, H. Yang, Z. Younsi, [Fundamental physics opportunities with
+future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130), 
+*Living Rev. Relativ.* 28 (2025) 4
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.  Wang, Y.
 Dong, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
