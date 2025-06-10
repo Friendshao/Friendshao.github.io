@@ -95,14 +95,15 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
 using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
 
-0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, 
-Z. Pan<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
-H. Zhang<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
-S. Cao<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
-P.C.C. Freire<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.P. Eatough,
-**L. Shao**, L. Qian, D. Yin, B. Li, Y. Dai, Y. Wu, Y. Li, L. Zhang, Y. Pan, L.
-Wang, K. Liu, T. Liu, X. Zhang, M. Li, Z. Feng, B. Peng, [FAST Globular Cluster
-Pulsar Survey I.  Observations and Discoveries](TBA), arXiv:TBA
+0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Pan<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Cao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, P.C.C. Freire<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Qian, R.P. Eatough,
+**L. Shao**, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
+Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
+Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
+(GC FANS)](https://arxiv.org/abs/2506.07970), arXiv:2506.07970
 
 0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
