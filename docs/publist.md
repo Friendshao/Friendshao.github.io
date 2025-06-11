@@ -95,16 +95,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
 using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
 
-0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Pan<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Cao<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, P.C.C. Freire<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Qian, R.P. Eatough,
-**L. Shao**, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
-Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
-Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
-(GC FANS)](https://arxiv.org/abs/2506.07970), arXiv:2506.07970
-
 0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
 Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
@@ -113,6 +103,17 @@ Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Pan<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, S. Cao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, P.C.C. Freire<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Qian, R.P. Eatough,
+**L. Shao**, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
+Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
+Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
+(GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* (accepted),
+arXiv:2506.07970
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
 Yang, Z. Wang, E. Troja, B. Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
