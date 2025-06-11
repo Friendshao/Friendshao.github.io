@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (162) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (154) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (156) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -963,6 +963,13 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A. Li, *et al.* (eXTP Collaboration), [Dense Matter in Neutron Stars with
+eXTP](https://arxiv.org/abs/2506.08104), arXiv:2506.08104
+
+0. S.-X. Yi, *et al.* (eXTP Collaboration), [Prospects for Time-Domain and
+Multi-Messenger Science with eXTP](https://arxiv.org/abs/2506.08368),
+arXiv:2506.08368
 
 0. R. Dahale, *et al.* (EHT Collaboration), [Origin of the ring ellipticity in
 the black hole images of M87*](https://arxiv.org/abs/2505.10333),
