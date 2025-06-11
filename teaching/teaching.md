@@ -56,7 +56,6 @@ tr:nth-child(odd) {
 
 | [CED-2025F](ced25) | **Electrodynamics (A)**<br>**电动力学（A）** | 周二1-2节 & 周四3-4节；二教507<br><small>**习题课**：周一10-11节(双)；三教301 | 
 | [SR-2025F](sr25) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节；三教307 | 
-| [TM-2025S](tm25a) | **Theoretical Mechanics (A)**<br>**理论力学（A）** | 周二5-6节 & 周四7-8节；理教410<br><small>**习题课**: 周三10-11节(双)；理教201 |
 
 <!-- 
 | [TM-2025F](tm25) | **Theoretical Mechanics**<br>**理论力学** | 周二5-6节 & 周四7-8节；理教410<br><small>**习题课**: 周三10-11节(双)；理教201 |
