@@ -115,16 +115,15 @@ Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
 (GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* (accepted),
 arXiv:2506.07970
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
-Yang, Z. Wang, E. Troja, B. Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
-Z. Li, [Shared Properties of Merger-driven Long-duration Gamma-Ray
-Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* (accepted),
-arXiv:2505.10165
-
 0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, H. Yan, Y. Kang, X. Chen,
 J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
 Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (accepted), arXiv:2502.02995
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
+Yang, Z. Wang, E. Troja, B. Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
+Z. Li, [Shared Properties of Merger-driven Long-duration Gamma-Ray
+Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* 698 (2025) A250
 
 0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
 Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
