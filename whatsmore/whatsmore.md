@@ -50,7 +50,6 @@ tr:nth-child(odd) {
 | 2024.01-2026.12 | **主持** | **北京市自然科学基金面上项目** <br> <small> 用中低频引力波探测致密天体的物理性质</small> | 1242018 |
 | 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | NULL |
 | 2020.12-2025.11 | **主持** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | 2020SKA0120300 |
-| 2024.03-2024.12 | **主持** | **北京大学新工科交叉青年专项** <br> <small> 用机器学习优化空间引力波的搜寻与参数估计</small> | <font color="gray"><small>已结题</small></font> |
 | 2021.01-2023.12 | **入选** | **国家海外高层次人才青年项目** | <font color="gray"><small>已结题</small></font> |
 | 2020.01-2024.12 | 参与 | **国家自然科学重大基金项目·课题四** <br> <small> 黑洞烛光的宇宙学应用 </small> | <font color="gray"><small>已结题</small></font> |
 | 2020.01-2023.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究</small> | <font color="gray"><small>已结题</small></font> |
@@ -59,6 +58,7 @@ tr:nth-child(odd) {
 
 <!-- 
 | 2024.07-2024.09 | **主持** | **举办第九届SKA暑期学校** | <font color="gray"><small>已结题</small></font> |
+| 2024.03-2024.12 | **主持** | **北京大学新工科交叉青年专项** <br> <small> 用机器学习优化空间引力波的搜寻与参数估计</small> | <font color="gray"><small>已结题</small></font> |
 | 2019.01-2021.12 | **主持** | **北京大学学科建设项目** <br> <small> 引力天体物理团队建设、科学研究与国内外交流</small> | <font color="gray"><small>已结题</small></font> |
 | 2016.06-2021.05 | 参与 | **中国科学院先导B专项** <br> <small> 基于FAST的脉冲星测时和引力波探测预研究 </small> | <font color="gray"><small>已结题</small></font> |
 | 2011.01-2013.12 | 参与 | **国家自然科学青年科学基金项目** <br> <small> 横动量依赖的夸克分布函数及其在高能散射过程中的唯像学 </small> | <font color="gray"><small>已结题</small></font> |
