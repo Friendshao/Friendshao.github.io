@@ -45,6 +45,9 @@ layout: default
 
 <!-- 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+<!-- 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P. Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P. Torne, and R. S. Wharton, [A survey for radio pulsars and transients in the 10 pc region around Sgr A$^\ast$](TBA), arXiv:TBA -->
+
+
 0. J.-C. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, S. Cao, J. Jiang, Y.
 Liu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.-H. Cao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
