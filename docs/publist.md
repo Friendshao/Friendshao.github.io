@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (162) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (156) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (157) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -965,6 +965,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW231123: a Binary
+Black Hole Merger with Total Mass 190-265
+$M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
 
 0. A. Li, *et al.* (eXTP Collaboration), [Dense Matter in Neutron Stars with
 eXTP](https://arxiv.org/abs/2506.08104), arXiv:2506.08104
