@@ -990,8 +990,8 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
 
 0. R. Dahale, *et al.* (EHT Collaboration), [Origin of the ring ellipticity in
-the black hole images of M87*](https://arxiv.org/abs/2505.10333), *Astron. &
-Astrophys.* 699 (2025) A279
+the black hole images of M87$^\ast$](https://arxiv.org/abs/2505.10333), *Astron.
+& Astrophys.* 699 (2025) A279
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* 985 (2025) 183
