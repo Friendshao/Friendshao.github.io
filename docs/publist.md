@@ -64,11 +64,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Fermionic Dark Matter
 with Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
 
-0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
-   [Galactic double neutron stars as dual-line
-   gravitational-wave sources: Prospects with LISA and Cosmic
-   Explorer](https://arxiv.org/abs/2505.05900), arXiv:2505.05900
-
 0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
@@ -106,6 +101,10 @@ Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
+[Galactic double neutron stars as dual-line gravitational-wave sources:
+Prospects with LISA and Cosmic Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* (accepted), arXiv:2505.05900
 
 0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Pan<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Zhang<font
