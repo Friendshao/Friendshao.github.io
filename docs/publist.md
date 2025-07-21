@@ -1757,7 +1757,7 @@ run with a hidden Markov model](https://arxiv.org/abs/1704.03719), *Phys. Rev. D
 <big>**&nbsp; &nbsp; &#9654; Books**</big>
 
 0. **邵立晶**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
-[《探知无界：天文学中的基础物理》](https://item.jd.com/10145729050617.html), 北京大学出版社 (2025)
+[《探知无界：天文学中的基础物理》](2025_shao_cover.png), 北京大学出版社 (2025)
 {: reversed="reversed"}
 
 <a name="chapter"></a>
