@@ -12,8 +12,8 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (162) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (159) </small>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (163) </small> <br>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (160) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -45,8 +45,10 @@ layout: default
 
 <!-- 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
-<!-- 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P. Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P. Torne, and R. S. Wharton, [A survey for radio pulsars and transients in the 10 pc region around Sgr A$^\ast$](TBA), arXiv:TBA -->
-
+0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
+Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.
+Torne, R. S. Wharton, [A survey for radio pulsars and transients in the 10
+pc region around Sgr A$^\ast$](https://arxiv.org/abs/2507.08534), arXiv:2507.08534
 
 0. J.-C. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, S. Cao, J. Jiang, Y.
 Liu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.-H. Cao<font
@@ -964,6 +966,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Identification of
+Noise-Associated Glitches in KAGRA O3GK with
+Hveto](https://arxiv.org/abs/2506.21021), arXiv:2506.21021
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave transients in the first part of the fourth
