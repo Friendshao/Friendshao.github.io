@@ -2077,7 +2077,8 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, in press
 
 0. 姬佩祥<font color="#5c5c5c"><sup>(#)</sup></font>, 梁迪聪, **邵立晶**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](TBA), 《现代物理知识》, in press
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](TBA),
+《现代物理知识》 37 (2025) 12
 
 0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes, **邵立晶**,
 [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 69 (2024) 3675
