@@ -1113,7 +1113,7 @@ Jiang, R.-S. Lu, U.-L.  Pen, A.W. Raymond, **L.  Shao**, Z.  Shen, *et al.*
 Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 *Astrophys. J.* 959 (2023) 14
 
-0. R. Freek<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, M.D. Johnson, *et
+0. F. Roelofs<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, M.D. Johnson, *et
 al.* (EHT Collaboration), [Polarimetric Geometric Modeling for mm-VLBI
 Observations of Black
 Holes](https://iopscience.iop.org/article/10.3847/2041-8213/acff6f), *Astrophys.
