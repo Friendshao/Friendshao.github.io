@@ -994,14 +994,13 @@ arXiv:2506.08368
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
 
-0. C. Goddi, D.F. Carlos, *et al.* (EHT Collaboration), [First polarization
-study of the M87 jet and active galactic nuclei at submillimeter wavelengths
-with ALMA](https://arxiv.org/abs/2505.10181), *Astron. & Astrophys.* (accepted),
-arXiv:2505.10181
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. C. Goddi, D.F. Carlos, *et al.* (EHT Collaboration), [First polarization
+study of the M87 jet and active galactic nuclei at submillimeter wavelengths
+with ALMA](https://arxiv.org/abs/2505.10181), *Astron. & Astrophys.* 699 (2025) A265
 
 0. R. Dahale, *et al.* (EHT Collaboration), [Origin of the ring ellipticity in
 the black hole images of M87$^\ast$](https://arxiv.org/abs/2505.10333), *Astron.
