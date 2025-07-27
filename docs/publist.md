@@ -967,10 +967,6 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
-0. T. Akutsu, *et al.* (KAGRA Collaboration), [Identification of
-Noise-Associated Glitches in KAGRA O3GK with
-Hveto](https://arxiv.org/abs/2506.21021), arXiv:2506.21021
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave transients in the first part of the fourth
 LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282),
@@ -993,6 +989,11 @@ arXiv:2506.08368
 
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
+
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Identification of
+Noise-Associated Glitches in KAGRA O3GK with Hierarchical
+Veto](https://arxiv.org/abs/2506.21021), *Prog. Theor. Exp. Phys.* (accepted),
+arXiv:2506.21021
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
