@@ -22,6 +22,12 @@ tr:nth-child(odd) {
 
 <big><big> **Doctoral Thesis**
 
+0. **胡泽昕**，[脉冲星-黑洞测时模型](theses/HuZexin2.pdf)（北京大学，2027年·夏）
+  - <small> Black Hole-pulsar Timing Model
+0. **康亚城**，[引力波多信使天文学](theses/KangYacheng2.pdf)（北京大学，2027年·夏）
+  - <small> Multi-messenger Gravitational-wave Astrophysics
+0. **姬佩祥**，[修改引力理论中的中子星模型](theses/JiPeixiang2.pdf)（北京大学，2027年·夏）
+  - <small> Neutron Stars in Modified Gravity
 0. **李洪波**，[致密星的星震学](theses/LiHongbo.pdf)（北京大学，2024年·夏）
   - <small> The Asteroseismology of Compact Stars
 0. **刘畅**，[空间引力波探测器的科学目标](theses/LiuChang.pdf)（北京大学，2024年·夏）
@@ -105,6 +111,8 @@ tr:nth-child(odd) {
 
 <big><big> **Postdoctoral Report**
 
+0. **王晗**，[引力波数据处理](theses/WangHan.pdf)（北京大学，2027年·夏）
+  - <small> Gravitational Wave Data Analysis
 0. **冯文凡**，[双星系统中有椭率中子星的连续引力波辐射](theses/FengWenfan.pdf)（北京大学，2026年·夏）
   - <small> Continuous Gravitational Waves from Elliptical Neutron Stars in Binaries
 0. **吕振伟**，[引力波数据中物理信息的提取](theses/LyuZhenwei.pdf)（北京大学，2024年·夏）
