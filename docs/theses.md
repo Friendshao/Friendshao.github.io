@@ -38,7 +38,7 @@ tr:nth-child(odd) {
   - <small>Testing Spacetime Symmetries with Radio Pulsars
 {: reversed="reversed"}
 
-<big><big> **Bachelor Thesis**
+<big><big> **Bachelor Dissertation**
 
 0. **杨一秋**，[黑洞准正模共振](theses/YangYiqiu.pdf)（北京大学，2025年·夏）
   - <small>Black Hole Resonance between Quasinormal Modes
@@ -105,6 +105,8 @@ tr:nth-child(odd) {
 
 <big><big> **Postdoctoral Report**
 
+0. **冯文凡**，[双星系统中有椭率中子星的连续引力波辐射](theses/FengWenfan.pdf)（北京大学，2026年·夏）
+  - <small> Continuous Gravitational Waves from Elliptical Neutron Stars in Binaries
 0. **吕振伟**，[引力波数据中物理信息的提取](theses/LyuZhenwei.pdf)（北京大学，2024年·夏）
   - <small> Unveiling Physical Insights from Gravitational Waves
 0. **王海天**，[铃宕信号的引力波数据分析](theses/WangHaitian.pdf)（北京大学，2024年·夏）
