@@ -28,6 +28,7 @@ layout: default
   [grok](https://x.com/i/grok),
   [Deepseek](https://chat.deepseek.com/)
 - [smallpdf](http://smallpdf.com/),
+  [iLoveIMG](https://www.iloveimg.com/remove-background),
   [kdocs](https://www.kdocs.cn/latest) ([rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
   [time.is](https://time.is/),
   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)
