@@ -8,15 +8,15 @@ layout: default
 
 <big><big> **第一标注**
 
-0. Tu, Z., **Li, A.**, [Delayed Thermal Relaxation of Rapid Cooling Neutron Stars: Nucleon Superfluidity and Nonnucleon Particles](https://ui.adsabs.harvard.edu/abs/2025ApJ...987....6T/abstract), ApJ, 987, 6
+0. Tu, Z., **Li, A.**, 2025, [Delayed Thermal Relaxation of Rapid Cooling Neutron Stars: Nucleon Superfluidity and Nonnucleon Particles](https://ui.adsabs.harvard.edu/abs/2025ApJ...987....6T/abstract), ApJ, 987, 6
 
-0. Ye, J.-T., Wang, R., Wang, S.-P., **Chen, L.-W.**, [High-density Symmetry Energy: A Key to the Solution of the Hyperon Puzzle](https://ui.adsabs.harvard.edu/abs/2025ApJ...985..238Y/abstract), ApJ, 985, 238
+0. Ye, J.-T., Wang, R., Wang, S.-P., **Chen, L.-W.**, 2025, [High-density Symmetry Energy: A Key to the Solution of the Hyperon Puzzle](https://ui.adsabs.harvard.edu/abs/2025ApJ...985..238Y/abstract), ApJ, 985, 238
 
-0. Kang, Y., Zhu, J.-P., Yang, Y.-H., Wang, Z., Troja, E., Zhang, B., **Shao, L.**, Li, Z., [Shared properties of merger-driven long-duration gamma-ray bursts](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.250K/abstract), A&A, 698, A250
+0. Kang, Y., Zhu, J.-P., Yang, Y.-H., Wang, Z., Troja, E., Zhang, B., **Shao, L.**, Li, Z., 2025, [Shared properties of merger-driven long-duration gamma-ray bursts](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.250K/abstract), A&A, 698, A250
 
-0. Sun, H., Niu, J.-X., Li, H.-B., **Xia, C.-J.**, **Zhou, E.**, Ma, Y., Zhang, Y.-X., [Effects of inner crusts on g-mode oscillations in neutron stars](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111j3019S/abstract), PhRvD, 111, 103019
+0. Sun, H., Niu, J.-X., Li, H.-B., **Xia, C.-J.**, **Zhou, E.**, Ma, Y., Zhang, Y.-X., 2025, [Effects of inner crusts on g-mode oscillations in neutron stars](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111j3019S/abstract), PhRvD, 111, 103019
 
-0. Tu, Z., **Li, A.**, [Exploring Nuclear Forces with Pulsar Glitch Observations](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..200T/abstract), ApJ, 984, 200
+0. Tu, Z., **Li, A.**, 2025, [Exploring Nuclear Forces with Pulsar Glitch Observations](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..200T/abstract), ApJ, 984, 200
 
 0. **Zheng, X.-P.**, Wang, W.-H., Huang, C., Yuan, J.-P., Yuan, S.-J., 2025, [The Persistent Shift in Spin-down Rate Following the Largest Crab Pulsar Glitch Rules Out External Torque Variations due to Starquakes](https://ui.adsabs.harvard.edu/abs/2025ApJ...982..181Z/abstract), ApJ, 982, 181
 
@@ -278,17 +278,17 @@ layout: default
 
 <big><big> **其他标注**
 
-0. Xu, F., **Huang, Y.-F.**, Li, L., Geng, J.-J., Wu, X.-F., Zhang, S.-B., Deng, C., Hu, C.-R., Dong, X.-F., Gao, H.-X., [Softness Ratio of SWIFT Gamma-Ray Bursts and Relevant Correlations](https://ui.adsabs.harvard.edu/abs/2025ApJ...987...76X/abstract), ApJ, 987, 76
+0. Xu, F., **Huang, Y.-F.**, Li, L., Geng, J.-J., Wu, X.-F., Zhang, S.-B., Deng, C., Hu, C.-R., Dong, X.-F., Gao, H.-X., 2025, [Softness Ratio of SWIFT Gamma-Ray Bursts and Relevant Correlations](https://ui.adsabs.harvard.edu/abs/2025ApJ...987...76X/abstract), ApJ, 987, 76
 
-0. Gao, H.-X., Geng, J.-J., Liang, Y.-F., Sun, H., Xu, F., Wu, X.-F., **Huang, Y.-F.**, **Dai, Z.-G.**, Yuan, W.-M., [The Soft X-Ray Aspect of Gamma-Ray Bursts in the Einstein Probe Era](https://ui.adsabs.harvard.edu/abs/2025ApJ...986..106G/abstract), ApJ, 986, 106
+0. Gao, H.-X., Geng, J.-J., Liang, Y.-F., Sun, H., Xu, F., Wu, X.-F., **Huang, Y.-F.**, **Dai, Z.-G.**, Yuan, W.-M., 2025, [The Soft X-Ray Aspect of Gamma-Ray Bursts in the Einstein Probe Era](https://ui.adsabs.harvard.edu/abs/2025ApJ...986..106G/abstract), ApJ, 986, 106
 
-0. Liao, J., Chang, N., Cui, L., Jiang, P., Mou, D., **Huang, Y.**, An, T., Ho, L., Feng, H., Fu, Y.-C., Cao, H., Tripathi, A., Liu, X., [Tracking the Jet-like Corona of Black Hole Swift J1727.8‑1613 during a Flare State through Type-C Quasiperiodic Oscillations](https://ui.adsabs.harvard.edu/abs/2025ApJ...986....3L/abstract), ApJ, 986, 3
+0. Liao, J., Chang, N., Cui, L., Jiang, P., Mou, D., **Huang, Y.**, An, T., Ho, L., Feng, H., Fu, Y.-C., Cao, H., Tripathi, A., Liu, X., 2025, [Tracking the Jet-like Corona of Black Hole Swift J1727.8‑1613 during a Flare State through Type-C Quasiperiodic Oscillations](https://ui.adsabs.harvard.edu/abs/2025ApJ...986....3L/abstract), ApJ, 986, 3
 
-0. Zhang, K. J., Zhang, Z. B., Rodin, A. E., Fedorova, V. A., **Huang, Y. F.**, Li, D., Dong, X. F., Wang, P., Li, Q. M., Du, C., Xu, F., Hao, C. T., [Revisiting the energy distribution and formation rate of CHIME fast radio bursts](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A..18Z/abstract), A&A, 698, A18
+0. Zhang, K. J., Zhang, Z. B., Rodin, A. E., Fedorova, V. A., **Huang, Y. F.**, Li, D., Dong, X. F., Wang, P., Li, Q. M., Du, C., Xu, F., Hao, C. T., 2025, [Revisiting the energy distribution and formation rate of CHIME fast radio bursts](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A..18Z/abstract), A&A, 698, A18
 
-0. Wang, S.-P., Li, X., Wang, R., Ye, J.-T., **Chen, L.-W.**, [Extended Skyrme effective interactions with higher-order momentum dependence for transport models and neutron stars](https://ui.adsabs.harvard.edu/abs/2025PhRvC.111e4605W/abstract), PhRvC, 111, 054605
+0. Wang, S.-P., Li, X., Wang, R., Ye, J.-T., **Chen, L.-W.**, 2025, [Extended Skyrme effective interactions with higher-order momentum dependence for transport models and neutron stars](https://ui.adsabs.harvard.edu/abs/2025PhRvC.111e4605W/abstract), PhRvC, 111, 054605
 
-0. Feng, Y., **Yuan, Y.-F.**, Zhang, S.-N., [Reflection Spectra of Accretion Disks Illuminated by an Off-axis Corona](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..173F/abstract), ApJ, 984, 173
+0. Feng, Y., **Yuan, Y.-F.**, Zhang, S.-N., 2025, [Reflection Spectra of Accretion Disks Illuminated by an Off-axis Corona](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..173F/abstract), ApJ, 984, 173
 
 0. Geng, J.-J., Hu, D.-F., Gao, H.-X., Liang, Y.-F., Hua, Y.-L., Zhang, G.-R., Sun, T.-R., Li, B., Liu, Y.-Q., Xu, F., Deng, C., Hu, C.-R., Xu, M., **Huang, Y.-F.**, Zhang, M.-M., Fang, M., Yan, J.-Z., An, T., Wu, X.-F., 2025, [Gamma-Ray Burst Timing: Decoding the Hidden Slow Jets in GRB 060729](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..65G/abstract), ApJ, 984, 65
 
