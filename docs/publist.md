@@ -122,7 +122,7 @@ arXiv:2506.07970
 0. H. Song<font color="#5c5c5c"><sup>(#)</sup></font>, H. Yan, Y. Kang, X. Chen,
 J. Zhao, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
-Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (accepted), arXiv:2502.02995
+Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* 1 (2025) 2
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu, Y.-H.
 Yang, Z. Wang, E. Troja, B. Zhang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, 
