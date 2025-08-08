@@ -22,6 +22,14 @@ tr:nth-child(odd) {
 
 <big><big> **Doctoral Thesis**
 
+0. **于江川**，[轻暗物质候选体的研究](theses/YuJiangchuan.pdf)（北京大学，2029年·夏）
+  - <small> Ultralight Dark Matter Candidates
+0. **张泽**，[SKA 时代下脉冲星检验引力理论的研究](theses/ZhangZe.pdf)（北京大学，2029年·夏）
+  - <small> Testing Gravity with Radio Pulsars in the SKA Era
+0. **董益铭**，[人工智能方法在引力波数据处理中的应用](theses/DongYiming2.pdf)（北京大学，2028年·夏）
+  - <small> AI in Gravitational-wave Data Analysis
+0. **王子铭**，[引力波探测中重叠信号的研究](theses/WangZiming2.pdf)（北京大学，2028年·夏）
+  - <small> Overlapping Gravitational-wave Signals
 0. **胡泽昕**，[脉冲星-黑洞测时模型](theses/HuZexin2.pdf)（北京大学，2027年·夏）
   - <small> Black Hole-pulsar Timing Model
 0. **康亚城**，[引力波多信使天文学](theses/KangYacheng2.pdf)（北京大学，2027年·夏）
