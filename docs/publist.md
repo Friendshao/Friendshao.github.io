@@ -85,11 +85,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
 gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rigorous analytic solution to the
-gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218),
-arXiv:2501.05218
-
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
 using a new local electron density map](https://arxiv.org/abs/2411.18647),
@@ -103,6 +98,10 @@ Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rigorous analytic solution to the
+gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* (accepted), arXiv:2501.05218
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 [Galactic double neutron stars as dual-line gravitational-wave sources:
