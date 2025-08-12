@@ -10,7 +10,7 @@ layout: default
 
 | **NAME** | **INSTITUTE** | **CITY** | **COUNTRY** |
 | [**Bailey, Quentin**](https://faculty.erau.edu/Quentin.Bailey) | Embry‑Riddle Aeronautical University | Prescott | USA |
-| [**Barausse, Enrico**](https://grams-815673.wixsite.com/barausse) |  SISSA | Trieste | Italy |
+| [**Barausse, Enrico**](https://grams-815673.wixsite.com/barausse) | International School for Advanced Studies | Trieste | Italy |
 | [**Berti, Emanuele**](https://pages.jh.edu/eberti2/) | Johns Hopkins University | Baltimore | USA |
 | [**Blas, Diego**](https://mastercosmosbcn.cat/faculty/blas-diego/) | Universitat Autònoma de Barcelona | Barcelona | Spain |
 | [**Brito, Richard**](https://richardbrito.weebly.com/) | Instituto Superior Técnico | Lisbon | Portugal |
