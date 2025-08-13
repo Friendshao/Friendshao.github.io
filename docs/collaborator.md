@@ -10,7 +10,7 @@ layout: default
 
 | **NAME** | **INSTITUTE** | **CITY** | **COUNTRY** |
 | [**Bailey, Quentin**](https://faculty.erau.edu/Quentin.Bailey) | Embry‑Riddle Aeronautical University | Prescott | USA |
-| [**Barausse, Enrico**](https://grams-815673.wixsite.com/barausse) | International School for Advanced Studies | Trieste | Italy |
+| [**Barausse, Enrico**](https://grams-815673.wixsite.com/barausse) | International School for Advanced Studies &nbsp; &nbsp; | Trieste | Italy |
 | [**Berti, Emanuele**](https://pages.jh.edu/eberti2/) | Johns Hopkins University | Baltimore | USA |
 | [**Blas, Diego**](https://mastercosmosbcn.cat/faculty/blas-diego/) | Universitat Autònoma de Barcelona | Barcelona | Spain |
 | [**Brito, Richard**](https://richardbrito.weebly.com/) | Instituto Superior Técnico | Lisbon | Portugal |
@@ -27,7 +27,7 @@ layout: default
 | [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) | Peking University | Beijing | China |
 | [**Kang, Yacheng**](https://astrokang.github.io/) | Peking University | Beijing | China |
 | [**Kazempour, Sobhan**](https://inspirehep.net/authors/1864329) | Beijing Institute of Technology | Beijing | China |
-| [**Kramer, Michael**](http://www3.mpifr-bonn.mpg.de/staff/mkramer/About_Me.html) | Max-Planck-Institut für Radioastronomie &nbsp; &nbsp; | Bonn | Germany |
+| [**Kramer, Michael**](http://www3.mpifr-bonn.mpg.de/staff/mkramer/About_Me.html) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
 | [**Li, Hong-Bo**](https://kiaa.pku.edu.cn/info/1014/9374.htm) | Peking University | Beijing | China |
 | [**Liang, Dicong**](https://portal.smu.edu.cn/swyxgcxy/info/1020/11787.htm) | Southern Medical University | Guangzhou | China |
 | [**Liu, Chang**](https://orcid.org/0000-0001-7649-6792) | <font color="gray"><i>Left Academia</i></font> | Beijing | China |
