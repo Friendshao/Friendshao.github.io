@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (163) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (162) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (161) </small>
        </td>
  
@@ -23,7 +23,7 @@ layout: default
        </td>
 
        <td style="background-color:white; border: none">            
-         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (37)<br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (38)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (18)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (14)
        </td>
@@ -47,7 +47,7 @@ layout: default
 
 <!-- 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D.D. Doneva<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, V. Paschalidis<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, S.S. Yazadjiev, **L. Shao**,
+color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Bozzola, S.S. Yazadjiev, **L. Shao**,
 [Ringdown mode amplitudes of charged binary black
 holes](https://arxiv.org/abs/TBA), arXiv:TBA -->
 
@@ -95,11 +95,6 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
 using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
-
-0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
-Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
-Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
@@ -1814,6 +1809,11 @@ A$^\ast$](https://arxiv.org/abs/2508.09931), arXiv:2508.09931
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
+
+0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
+Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
+Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
 0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
