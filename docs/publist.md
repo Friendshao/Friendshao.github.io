@@ -106,7 +106,7 @@ gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 [Galactic double neutron stars as dual-line gravitational-wave sources:
-Prospects with LISA and Cosmic Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* (accepted), arXiv:2505.05900
+Prospects with LISA and Cosmic Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* 112 (2025) 043023
 
 0. Y. Lian<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Pan<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H. Zhang<font
