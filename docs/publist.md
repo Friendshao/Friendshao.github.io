@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (162) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (163) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (161) </small>
        </td>
  
@@ -50,6 +50,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, V. Paschalidis<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Bozzola, S.S. Yazadjiev, **L. Shao**,
 [Ringdown mode amplitudes of charged binary black
 holes](https://arxiv.org/abs/TBA), arXiv:TBA -->
+
+0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, L. Shao<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars with a
+highly relativistic core in scalar-tensor gravity](https://arxiv.org/abs/2508.12573),
+arXiv:2508.12573
 
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
 Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.

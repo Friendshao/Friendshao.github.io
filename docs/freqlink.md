@@ -71,6 +71,7 @@ layout: default
 - [KAGRA](https://gwcenter.icrr.u-tokyo.ac.jp/) 
  ([Account](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=12137),
   [Committee](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA/KSC#committees), 
+  [CPC](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA/CPCsubmission),
   [Maillist](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=12150),
   [System-B](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=14750),
   [Wiki](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA#links),
