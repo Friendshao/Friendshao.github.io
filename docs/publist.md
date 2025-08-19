@@ -51,7 +51,7 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Bozzola, S.S. Yazadjiev, **L. Sha
 [Ringdown mode amplitudes of charged binary black
 holes](https://arxiv.org/abs/TBA), arXiv:TBA -->
 
-0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, L. Shao<font
+0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars with a
 highly relativistic core in scalar-tensor gravity](https://arxiv.org/abs/2508.12573),
 arXiv:2508.12573
