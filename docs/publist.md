@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (163) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (164) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (161) </small>
        </td>
  
@@ -50,6 +50,21 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, V. Paschalidis<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Bozzola, S.S. Yazadjiev, **L. Shao**,
 [Ringdown mode amplitudes of charged binary black
 holes](https://arxiv.org/abs/TBA), arXiv:TBA -->
+
+<!-- 0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-D. Liu, Y.-W. Yu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
+Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/TBA),
+arXiv:TBA -->
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, J.-P. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
+[Kilonova emission from white dwarf–neutron star mergers:
+viewing-angle-dependent spectra and lightcurves](https://arxiv.org/abs/TBA),
+arXiv:TBA
 
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars with a
