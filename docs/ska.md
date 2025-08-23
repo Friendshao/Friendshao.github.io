@@ -278,6 +278,8 @@ layout: default
 
 <big><big> **其他标注**
 
+0. Song, H., Yan, H., Kang, Y., Chen, X., **L. Shao**, 2025, [Probing intermediate-mass black hole binaries with the Lunar Gravitational-wave Antenna](https://ui.adsabs.harvard.edu/abs/2025arXiv250202995S/abstract), npjSE, 1, 2
+
 0. Xu, F., **Huang, Y.-F.**, Li, L., Geng, J.-J., Wu, X.-F., Zhang, S.-B., Deng, C., Hu, C.-R., Dong, X.-F., Gao, H.-X., 2025, [Softness Ratio of SWIFT Gamma-Ray Bursts and Relevant Correlations](https://ui.adsabs.harvard.edu/abs/2025ApJ...987...76X/abstract), ApJ, 987, 76
 
 0. Gao, H.-X., Geng, J.-J., Liang, Y.-F., Sun, H., Xu, F., Wu, X.-F., **Huang, Y.-F.**, **Dai, Z.-G.**, Yuan, W.-M., 2025, [The Soft X-Ray Aspect of Gamma-Ray Bursts in the Einstein Probe Era](https://ui.adsabs.harvard.edu/abs/2025ApJ...986..106G/abstract), ApJ, 986, 106
