@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (164) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (161) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (166) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -985,6 +985,27 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
+Population Properties of Merging Compact
+Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Updating
+the Gravitational-Wave Transient Catalog with Observations from the First Part
+of the Fourth LIGO-Virgo-KAGRA Observing
+Run](https://www.arxiv.org/abs/2508.18082), arXiv:2508.18082
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
+for Identifying and Characterizing Gravitational-wave
+Transients](https://www.arxiv.org/abs/2508.18081), arXiv:2508.18081
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: An
+Introduction to Version 4.0 of the Gravitational-Wave Transient
+Catalog](https://www.arxiv.org/abs/2508.18080), arXiv:2508.18080
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
+LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
+Run](https://www.arxiv.org/abs/2508.18079), arXiv:2508.18079
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
