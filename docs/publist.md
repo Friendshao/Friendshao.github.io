@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (164) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (166) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (166) </small>
        </td>
  
@@ -51,13 +51,19 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Bozzola, S.S. Yazadjiev, **L. Sha
 [Ringdown mode amplitudes of charged binary black
 holes](https://arxiv.org/abs/TBA), arXiv:TBA -->
 
-<!-- 0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
+0. W. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Dong<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Lightweight posterior construction
+for gravitational-wave catalogs with the Kolmogorov-Arnold
+network](https://arxiv.org/abs/2508.18698), arXiv:2508.18698
+
+0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-D. Liu, Y.-W. Yu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
-Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/TBA),
-arXiv:TBA -->
+Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940),
+arXiv:2508.18940
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, J.-P. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -2135,7 +2141,7 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, in press
 
 0. 姬佩祥<font color="#5c5c5c"><sup>(#)</sup></font>, 梁迪聪, **邵立晶**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](TBA),
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](http://mp.ihep.ac.cn/article/id/27caedc0-6d45-4151-9d73-5dc23efb2d95),
 《现代物理知识》 37 (2025) 12
 
 0. 高勇<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes, **邵立晶**,
