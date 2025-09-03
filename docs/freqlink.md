@@ -62,7 +62,9 @@ layout: default
    [PHY](http://www.phy.pku.edu.cn/), 
    [SD](https://treehole.pku.edu.cn/web/),
    [ZC](https://bodaqmf.pku.edu.cn/phymeetplan), 
-   [Port](https://portal.pku.edu.cn/))
+   [Port](https://portal.pku.edu.cn/),
+   [CC](https://www.coursecommunity.com.cn/),
+   [PZXY](https://courses.pinzhixiaoyuan.com/))
 - [KIAA](http://kiaa.pku.edu.cn/),
   [Room](http://room.kiaa.club),
   [MPIfR](http://www.mpifr-bonn.mpg.de/2169/en),

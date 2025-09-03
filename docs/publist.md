@@ -1044,14 +1044,13 @@ Multi-Messenger Science with eXTP](https://arxiv.org/abs/2506.08368), *Sci. Chin
 0. A. Li, *et al.* (eXTP Collaboration), [Dense Matter in Neutron Stars with
 eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* (accepted), arXiv:2506.08104
 
-0. T. Akutsu, *et al.* (KAGRA Collaboration), [Identification of
-Noise-Associated Glitches in KAGRA O3GK with Hierarchical
-Veto](https://arxiv.org/abs/2506.21021), *Prog. Theor. Exp. Phys.* (accepted),
-arXiv:2506.21021
-
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Identification of
+Noise-Associated Glitches in KAGRA O3GK with Hierarchical
+Veto](https://arxiv.org/abs/2506.21021), *Prog. Theor. Exp. Phys.* 2025 (2025) 083F01
 
 0. C. Goddi, D.F. Carlos, *et al.* (EHT Collaboration), [First polarization
 study of the M87 jet and active galactic nuclei at submillimeter wavelengths
