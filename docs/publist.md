@@ -12,8 +12,8 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (166) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (168) </small>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (167) </small> <br>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (170) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -50,6 +50,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, V. Paschalidis<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Bozzola, S.S. Yazadjiev, **L. Shao**,
 [Ringdown mode amplitudes of charged binary black
 holes](https://arxiv.org/abs/TBA), arXiv:TBA -->
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
+parameter-estimation biases in overlapping gravitational-wave signals: detector
+network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
 
 0. W. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Dong<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, **L. Shao**<font
@@ -991,6 +996,16 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW230814:
+investigation of a loud gravitational-wave signal observed with a single
+detector](https://arxiv.org/abs/2509.07348), arXiv:2509.07348
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directed searches
+for gravitational waves from ultralight vector boson clouds around merger
+remnant and galactic black holes during the first part of the fourth
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2509.07352),
+arXiv:2509.07352
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
