@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (167) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (168) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (170) </small>
        </td>
  
@@ -45,11 +45,10 @@ layout: default
 
 <!-- 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
-<!-- 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, D.D. Doneva<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, V. Paschalidis<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, G. Bozzola, S.S. Yazadjiev, **L. Shao**,
-[Ringdown mode amplitudes of charged binary black
-holes](https://arxiv.org/abs/TBA), arXiv:TBA -->
+0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva, Z.
+Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
+amplitudes of charged binary black holes](https://arxiv.org/abs/2509.07111),
+arXiv:2509.07111
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
