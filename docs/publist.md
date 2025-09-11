@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (168) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (171) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (172) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -996,6 +996,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Black Hole
+Spectroscopy and Tests of General Relativity with
+GW250114](https://arxiv.org/abs/2509.08099), arXiv:2509.08099
+
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW230814:
 investigation of a loud gravitational-wave signal observed with a single
 detector](https://arxiv.org/abs/2509.07348), arXiv:2509.07348
@@ -1068,7 +1072,7 @@ relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW250114: Testing
-Hawking’s Area Law and the Kerr Nature of Black
+Hawking's Area Law and the Kerr Nature of Black
 Holes](https://doi.org/10.1103/kw5g-d732), *Phys. Rev. Lett.* 135 (2025) 111403
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Identification of
