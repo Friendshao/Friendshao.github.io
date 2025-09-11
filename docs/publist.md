@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (168) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (170) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (171) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1066,6 +1066,10 @@ eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* (accep
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW250114: Testing
+Hawking’s Area Law and the Kerr Nature of Black
+Holes](https://doi.org/10.1103/kw5g-d732), *Phys. Rev. Lett.* 135 (2025) 111403
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Identification of
 Noise-Associated Glitches in KAGRA O3GK with Hierarchical
