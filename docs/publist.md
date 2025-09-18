@@ -1049,13 +1049,13 @@ long-duration gravitational-wave transients in the first part of the fourth
 LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282),
 arXiv:2507.12282
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA
-observing run](https://arxiv.org/abs/2507.12374), arXiv:2507.12374
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW231123: a Binary
 Black Hole Merger with Total Mass 190$-$265
 $M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA
+observing run](https://arxiv.org/abs/2507.12374), *Phys. Rev. D* (accepted), arXiv:2507.12374
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [Horizon-scale variability of from
 2017-2021 EHT observations](https://doi.org/10.1051/0004-6361/202555855),
