@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (168) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (172) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (173) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1056,6 +1056,10 @@ observing run](https://arxiv.org/abs/2507.12374), arXiv:2507.12374
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW231123: a Binary
 Black Hole Merger with Total Mass 190$-$265
 $M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [Horizon-scale variability of from
+2017-2021 EHT observations](https://doi.org/10.1051/0004-6361/202555855),
+*Astron. & Astrophys.* (accepted)
 
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
