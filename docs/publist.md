@@ -132,7 +132,8 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rigorous analytic solution to the
-gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* (accepted), arXiv:2501.05218
+gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218),
+*Astrophys. J.* 991 (2025) 108
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 [Galactic double neutron stars as dual-line gravitational-wave sources:
