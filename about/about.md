@@ -29,7 +29,7 @@ University](http://www.pku.edu.cn/), Beijing China.
 - Committee Member of the [Division of Gravitation and Relativistic Astrophysics](http://www.cps-net.org.cn/News/Content/show/id/5325.do), CPS
 - [2020 Breakthrough Prize in Fundamental
   Physics](https://friendshao.github.io/docs/breakthrough_Certificate_2020.pdf) awarded to the EHTC (shared by 347 members)
-- World's Top 2% Scientists [2020-2024](top2.png) ([data](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7))
+- World's Top 2% Scientists [2020-2025](top2.png) ([data](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8))
 
 
 <img style="float: right;" src="../whatsmore/schedule.png" width="48%">
