@@ -35,7 +35,7 @@ layout: default
 - [feedReader](http://feedreader.com/online/),
   [Dropbox](https://www.dropbox.com/home),
   [github](https://github.com/),
-  [bitbucket](https://bitbucket.org/Friendshao),
+  [bitbucket](https://bitbucket.org/Friendshao/workspace/overview/),
   [Overleaf](https://www.overleaf.com/project) ([CST](https://sharelatex.cstcloud.cn/login), 
   [IHEP](https://latex.ihep.ac.cn/), 
   [MPG](https://sharelatex.gwdg.de))
