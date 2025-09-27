@@ -1033,10 +1033,6 @@ Run](https://www.arxiv.org/abs/2508.18082), arXiv:2508.18082
 for Identifying and Characterizing Gravitational-wave
 Transients](https://www.arxiv.org/abs/2508.18081), arXiv:2508.18081
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: An
-Introduction to Version 4.0 of the Gravitational-Wave Transient
-Catalog](https://www.arxiv.org/abs/2508.18080), arXiv:2508.18080
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), arXiv:2508.18079
@@ -1053,6 +1049,10 @@ arXiv:2507.12282
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW231123: a Binary
 Black Hole Merger with Total Mass 190$-$265
 $M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: An
+Introduction to Version 4.0 of the Gravitational-Wave Transient
+Catalog](https://www.arxiv.org/abs/2508.18080), *Astrophys. J. Lett.* (accepted), arXiv:2508.18080
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA
