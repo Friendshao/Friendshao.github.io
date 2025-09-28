@@ -1048,7 +1048,7 @@ arXiv:2507.12282
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW231123: a Binary
 Black Hole Merger with Total Mass 190$-$265
-$M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
+$M_\odot$](https://arxiv.org/abs/2507.08219), *Astrophys. J. Lett.* (accepted), arXiv:2507.08219
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: An
 Introduction to Version 4.0 of the Gravitational-Wave Transient
