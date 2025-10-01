@@ -12,7 +12,7 @@ layout: default
 **Academics**
 
 - [Inspirehep](http://inspirehep.net/),
-  [ADS](https://ui.adsabs.harvard.edu/),
+  [ADS](https://ui.adsabs.harvard.edu/)/[SciX](https://scixplorer.org/),
   [arXiv](http://www.arxiv.org/)
   ([cn](http://cn.arxiv.org/), [gr-qc](http://arxiv.org/list/gr-qc/new))
 - [APS](http://journals.aps.org/)
