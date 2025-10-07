@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (168) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (169) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (173) </small>
        </td>
  
@@ -42,8 +42,6 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
-
-<!-- 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva, Z.
 Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
@@ -129,6 +127,12 @@ arXiv:2411.18647
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K.
+Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J.
+Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.
+Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of
+general relativity](TBA), *Astron. & Astrophys.* (accepted), arXiv:TBA
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rigorous analytic solution to the
