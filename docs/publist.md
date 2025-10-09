@@ -129,7 +129,7 @@ Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 
 0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K.
-Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J.
+Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, **L. Shao**, M. Xue, D.J.
 Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.
 Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of
 general relativity](TBA), *Astron. & Astrophys.* (accepted), arXiv:TBA
