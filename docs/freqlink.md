@@ -11,11 +11,12 @@ layout: default
 
 **Academics**
 
+- [rili](https://rili.wps.cn/)
 - [Inspirehep](http://inspirehep.net/),
   [ADS](https://ui.adsabs.harvard.edu/)/[SciX](https://scixplorer.org/),
   [arXiv](http://www.arxiv.org/)
-  ([cn](http://cn.arxiv.org/), [gr-qc](http://arxiv.org/list/gr-qc/new))
-- [APS](http://journals.aps.org/)
+  ([cn](http://cn.arxiv.org/), [gr-qc](http://arxiv.org/list/gr-qc/new)),
+  [APS](http://journals.aps.org/)
   ([status](https://authors.aps.org/Submissions/status/))
 
 **Tools**
@@ -29,7 +30,7 @@ layout: default
   [Deepseek](https://chat.deepseek.com/)
 - [smallpdf](http://smallpdf.com/),
   [iLoveIMG](https://www.iloveimg.com/remove-background),
-  [kdocs](https://www.kdocs.cn/latest) ([rili](https://rili.wps.cn/), [RT](https://www.kdocs.cn/p/71506069640), [conf](https://www.kdocs.cn/p/96985097382)),
+  [kdocs](https://www.kdocs.cn/latest) ([RT](https://www.kdocs.cn/p/71506069640), [log](https://www.kdocs.cn/l/cs2tIHE22ER6), [arXiv](https://www.kdocs.cn/l/caCtjXo900PH)),
   [time.is](https://time.is/),
   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)
 - [feedReader](http://feedreader.com/online/),
