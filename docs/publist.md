@@ -1894,7 +1894,7 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Hu,
 [Fundamental Physics with Pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2508.09931), arXiv:2508.09931
+A$^\ast$](https://arxiv.org/abs/2508.09931), *J. Phys. Conf. Ser.* (accepted), arXiv:2508.09931
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
