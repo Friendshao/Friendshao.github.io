@@ -128,10 +128,11 @@ arXiv:2411.18647
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 
-0. L. Meng<font color="#5c5c5c"><sup>(#)</sup></font>, P.C.C. Freire, K.
-Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, J.M. Cordes, H. Hu, J. Jiang, E.
-Parent, **L. Shao**, I.H. Stairs, M. Xue, A. Brazier, F. Camilo, D.J.  Champion,
-S. Chatterjee, F. Crawford, Z. Fang, Q. Fu, Y. Guo, J.W.T. Hessels, M.
+0. L. Meng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, K.
+Stovall, N. Wex, X. Miao, W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, J.M. Cordes, H. Hu, J.
+Jiang, E.  Parent, **L. Shao**, I.H. Stairs, M. Xue, A. Brazier, F. Camilo, D.J.
+Champion, S. Chatterjee, F. Crawford, Z. Fang, Q. Fu, Y. Guo, J.W.T. Hessels, M.
 MacLaughlin, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.  Yue, C. Zhang, [The
 double neutron star PSR J1946+2052. I. Masses and tests of general
 relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
