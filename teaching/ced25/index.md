@@ -89,9 +89,9 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | 0. 课程介绍 & 数学基础 | HW0 (ddl: Sep 25) |
 | 1. 经典电动力学基础 | HW1  (ddl: Oct 16) |
 | 2. 静电场 | HW2  (ddl: Oct 28) |
-| 3. 静磁场 | HW3  (ddl: ) |
-| *答疑* | 科维理所K217；时间待定 | 
-| <font color="green"><b>期中考试</b></font>（闭卷，笔试） | |
+| 3. 静磁场 | HW3  (ddl: Nov 6) |
+| *答疑* | 科维理所K217；11月3日·10:00AM-11:30AM | 
+| <font color="green"><b>期中考试</b></font>（闭卷，笔试） | 11月4日·8:00AM-9:50AM |
 | 4. 电磁波的传播 | HW4  (ddl: ) |
 | 5. 电磁波的激发 | HW5  (ddl: ) |
 | 6. 狭义相对论 | HW6  (ddl: )  |
