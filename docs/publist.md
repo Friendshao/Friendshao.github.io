@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (169) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (173) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (174) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1004,6 +1004,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directional Search
+for Persistent Gravitational Waves: Results from the First Part of
+LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487),
+arXiv:2510.17487
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Black Hole
 Spectroscopy and Tests of General Relativity with
