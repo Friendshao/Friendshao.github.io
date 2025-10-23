@@ -73,12 +73,10 @@ $$\delta S = 0$$
 | 0. 课程介绍 | |
 | 1. 拉格朗日力学延伸 | HW1 (ddl: ) |
 | 2. 哈密顿力学 | HW2 (ddl: )<br>HW3 (ddl: ) |
-| <font color="blue"><b>期中答疑</b></font> |  |  
-| <font color="red"><b>期中考试（闭卷，笔试）</b></font> |  |
+| <font color="blue"><b>期中考试（闭卷，笔试）</b></font> |  |
 | 3. 连续系统分析力学  | HW4 (ddl: ) |
 | 4. 混沌现象  | HW5 (ddl: ) |
-| <font color="blue"><b>期末答疑</b></font> |  |
-| <font color="red"><b>期末考试（闭卷，笔试）</b></font> |  | 
+| <font color="blue"><b>期末考试（闭卷，笔试）</b></font> |  | 
 
 <p></p>
 
