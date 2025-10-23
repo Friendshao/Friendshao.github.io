@@ -74,11 +74,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
 viewing-angle-dependent spectra and lightcurves](https://arxiv.org/abs/TBA),
 arXiv:TBA
 
-0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars with a
-highly relativistic core in scalar-tensor gravity](https://arxiv.org/abs/2508.12573),
-arXiv:2508.12573
-
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
 Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.
 Torne, R. S. Wharton, [A survey for radio pulsars and transients in the 10
@@ -127,6 +122,11 @@ arXiv:2411.18647
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars with a
+highly relativistic core in scalar-tensor gravity](https://arxiv.org/abs/2508.12573),
+*Phys. Rev. D* (accepted), arXiv:2508.12573
 
 0. L. Meng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, K.
 Stovall, N. Wex, X. Miao, W. Zhu<font
