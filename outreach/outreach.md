@@ -99,6 +99,19 @@ tr:nth-child(odd) {
 <div class="row">
 
   <div class="column2">
+      <div class="card">
+        <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115423722868985&bvid=BV1EvsGz5EUq&cid=33332658843&p=1&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="140" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><a href="https://www.bilibili.com/video/BV1EvsGz5EUq" target="_blank"><b>2025年诺贝尔物理学奖</b></a></h5>
+          <p class="teamtitle"><small>MDPI 前瞻论坛（2025）</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+  <div class="column2">
     <div class="card">
       <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113963333323474&bvid=BV1dwNNeyECR&cid=28266859275&p=5&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="140" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
       <div class="teamcontainer" style="padding:1px; ">
