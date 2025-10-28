@@ -100,11 +100,11 @@ tr:nth-child(odd) {
 
   <div class="column2">
     <div class="card">
-      <iframe src="//player.bilibili.com/player.html?&aid=113650203365955&bvid=BV1mmBjYbECb&cid=27336246219&p=1&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="140" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+      <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113963333323474&bvid=BV1dwNNeyECR&cid=28266859275&p=5&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="140" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><a href="https://www.bilibili.com/video/BV1mmBjYbECb/" target="_blank"><b>《聊个“天”》第5集</b></a></h5>
+        <h5><a href="https://www.bilibili.com/video/BV1dwNNeyECR" target="_blank"><b>《聊个“天”》第5集</b></a></h5>
         <p class="teamtitle"><small>央视 CCTV9 纪录片（2024）</small></p>
         </center>
       </div>
