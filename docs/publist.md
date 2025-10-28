@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (169) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (171) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (174) </small>
        </td>
  
@@ -42,6 +42,17 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, Z. Hu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Detecting ultralight
+dark matter in the Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573), 
+arXiv:2510.22573
+
+0. Z. Zheng<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Deng, Y. Dong, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Inferring neutron-star Love-Q
+relations from gravitational waves in the hierarchical Bayesian
+framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva, Z.
 Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode

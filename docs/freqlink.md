@@ -30,7 +30,7 @@ layout: default
   [Deepseek](https://chat.deepseek.com/)
 - [smallpdf](http://smallpdf.com/),
   [iLoveIMG](https://www.iloveimg.com/remove-background),
-  [kdocs](https://www.kdocs.cn/latest) ([RT](https://www.kdocs.cn/p/71506069640), [log](https://www.kdocs.cn/l/cs2tIHE22ER6), [arXiv](https://www.kdocs.cn/l/caCtjXo900PH)),
+  [kdocs](https://www.kdocs.cn/latest) ([RT](https://www.kdocs.cn/p/71506069640), [log](https://www.kdocs.cn/l/cnOUaHxkN2j3), [arXiv](https://www.kdocs.cn/l/cvpIw1DlzRGF)),
   [time.is](https://time.is/),
   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)
 - [feedReader](http://feedreader.com/online/),
