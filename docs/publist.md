@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (171) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (174) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (175) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1093,6 +1093,12 @@ Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
 (accepted), arXiv:2112.06861
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW241011 and
+GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric,
+High-spin Black Hole
+Coalescences](https://iopscience.iop.org/article/10.3847/2041-8213/ae0d54),
+*Astrophys. J. Lett.* 993 (2025) L21
 
 0. S.-X. Yi, *et al.* (eXTP Collaboration), [Prospects for Time-Domain and
 Multi-Messenger Science with eXTP](https://arxiv.org/abs/2506.08368), *Sci.
