@@ -106,11 +106,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Fermionic Dark Matter
 with Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
 
-0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
-Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
-anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
-
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, B. Hu, Y.-M. Hu, F. P. Huang, S.-J. Huang,
 S. P. Kim, E.-K. Li, Y.-X. Liu, V. Milyukov, S. Pi, K. Postnov, M. Sasaki, C.-G.
@@ -148,6 +143,11 @@ MacLaughlin, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.  Yue, C. Zhang, [The
 double neutron star PSR J1946+2052. I. Masses and tests of general
 relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
 (accepted), arXiv:2510.12506
+
+0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
+Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
+anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rigorous analytic solution to the
