@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (171) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (172) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (175) </small>
        </td>
  
@@ -123,6 +123,13 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chatterjee,
+J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z. Hu, M.
+Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G. Saowanit,
+**L. Shao**, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu, [Galactic Centre
+Pulsars with the SKA](https://arxiv.org/abs/TBA)  *Open J.  Astrophys.*
+(accepted), arXiv:TBA
 
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
