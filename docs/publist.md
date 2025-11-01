@@ -1094,8 +1094,8 @@ Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
-relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D*
-(accepted), arXiv:2112.06861
+relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* 112
+(2025) 084080
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW231123: a Binary
 Black Hole Merger with Total Mass 190$-$265
