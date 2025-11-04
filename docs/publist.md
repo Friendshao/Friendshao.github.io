@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (172) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (176) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (177) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1022,6 +1022,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Cosmological and
+High Energy Physics implications from gravitational-wave background searches in
+LIGO-Virgo-KAGRA's O1-O4a runs](https://arxiv.org/abs/2510.26848),
+arXiv:2510.26848
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Direct multi-model
 dark-matter search with gravitational-wave interferometers using data from the
