@@ -101,11 +101,6 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Linear analysis of I-C-Love
 universal relations for neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 
-0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Fermionic Dark Matter
-with Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
-
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, B. Hu, Y.-M. Hu, F. P. Huang, S.-J. Huang,
 S. P. Kim, E.-K. Li, Y.-X. Liu, V. Milyukov, S. Pi, K. Postnov, M. Sasaki, C.-G.
@@ -123,6 +118,12 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Fermionic Dark Matter
+with Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark
+Univ.* (accepted), arXiv:2505.10026
 
 0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chatterjee,
 J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z. Hu, M.
