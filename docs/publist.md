@@ -1075,10 +1075,6 @@ Run](https://www.arxiv.org/abs/2508.18082), arXiv:2508.18082
 for Identifying and Characterizing Gravitational-wave
 Transients](https://www.arxiv.org/abs/2508.18081), arXiv:2508.18081
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
-LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
-Run](https://www.arxiv.org/abs/2508.18079), arXiv:2508.18079
-
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
 astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
@@ -1087,6 +1083,10 @@ astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
 long-duration gravitational-wave transients in the first part of the fourth
 LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282),
 arXiv:2507.12282
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
+LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
+Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: An
 Introduction to Version 4.0 of the Gravitational-Wave Transient
