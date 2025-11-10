@@ -110,9 +110,9 @@ tr:nth-child(odd) {
 | PKU'29F | [**General Relativity & Astrophysics**](gr29)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
 | PKU'28F | [**Special Relativity & Spacetime**](sr28)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: ?? |
 | PKU'27F | [**General Relativity & Astrophysics**](gr27)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
-| PKU'26F | [**General Relativity & Astrophysics**](gr26)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
+| PKU'26F | [**General Relativity & Astrophysics**](gr26)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Ze Zhang |
 | PKU'26F | [**Special Relativity & Spacetime**](sr26)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: ?? |
-| PKU'26S | [**Theoretical Mechanics**](tm26)<br>**理论力学** | **Lecturer** <small><small> * TAs: Zexin Hu & Ze Zhang |
+| PKU'26S | [**Theoretical Mechanics**](tm26)<br>**理论力学** | **Lecturer** <small><small> * TAs: Zexin Hu & ?? |
 | PKU'25F | [**Special Relativity & Spacetime**](sr25)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: Ze Zhang |
 | PKU'25F | [**Electrodynamics (A)**](ced25)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Shunshun Cao & Yacheng Kang |
 | PKU'25S | [**Theoretical Mechanics (A)**](tm25a)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & Peixiang Ji |

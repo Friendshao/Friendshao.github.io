@@ -72,7 +72,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | | 陈斌，《广义相对论》（2018） |
 | **Lecturer** | Lijing Shao (邵立晶)；Office KIAA-217；lshao@pku.edu.cn | 
 | | 【答疑时间】每周日14:00-15:00PM（建议来前联系，以免空跑） | 
-| **Teaching Assistant** |  |
+| **Teaching Assistant** | 张泽，zezhang@stu.pku.edu.cn |
 | <font color="red"><b>网盘链接</b></font> | [猛戳这里](TBA) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>

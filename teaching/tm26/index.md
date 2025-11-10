@@ -61,7 +61,7 @@ $$\delta S = 0$$
 | **教师** | 邵立晶；Office KIAA 217；lshao@pku.edu.cn | 
 | |【答疑时间】每周日13:30-14:30PM（建议来前联系，以免空跑） |
 | **单号班助教** |  胡泽昕，huzexin@pku.edu.cn |
-| **双号班助教** |  张泽，zezhang@stu.pku.edu.cn |
+| **双号班助教** |   |
 | **习题课** |  |
 | <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AA6ECB2B7DD4C244889D55C713342982DA) （倘若打开有误，请尝试重新刷新） |
 
