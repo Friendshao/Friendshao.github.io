@@ -8,6 +8,24 @@ layout: default
 
 <big><big> **第一标注**
 
+<!-- 0. Huang, C., **Zheng, X.-P.**, 2025, [Bayesian Insights into post-Glitch Dynamics: Model comparison and parameter constraint from decades long observation data of the Crab pulsar]() -->
+
+0. **Tong, H.**, Wang, H. G., 2025, [Pulsar Radio Emission Height as a Function of Phase](https://ui.adsabs.harvard.edu/abs/2025RAA....25k5021T/abstract), RAA, 25, 115021
+
+0. Zhong, X., **Lai, X.**, 2025, [The role of equation of state on the spin-up of millisecond pulsars](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544..293Z/abstract), MNRAS, 544, 293
+
+0. Li, J.-Y., **Yu, Y.-W.**, Liu, L.-D., Xiao, M.-Y., 2025, [The Dust Echo Emission of Fast Blue Optical Transients and Application to the Near-infrared Excess of AT 2018cow](https://ui.adsabs.harvard.edu/abs/2025ApJ...992...25L/abstract), ApJ, 992, 25
+
+0. Liu, L.-D., Zhang, Y.-H., **Yu, Y.-W.**, Du, Z.-X., Li, J.-Y., Wu, G.-L., **Dai, Z.-G.**, 2025, [TransFit: An Efficient Framework for Transient Light-curve Fitting with Time-dependent Radiative Diffusion](https://ui.adsabs.harvard.edu/abs/2025ApJ...992...20L/abstract), ApJ, 992, 20
+
+0. Wang, M., Liu, P., Yuan, J., **Li, A.**, Tuo, Y., Dang, S., Wang, W., Ge, M., Zhou, X., Wang, N., 2025, [Discovery of the Antiglitch in PSR J1835-1106](https://ui.adsabs.harvard.edu/abs/2025ApJ...991L..18W/abstract), ApJL, 991, L18
+
+0. Wu, G.-L., **Yu, Y.-W.**, Liu, L.-D., **Dai, Z.-G.**, Lei, W.-H., Wu, X.-F., Xu, D., Zhang, B., Zhu, J.-P., Zou, Y.-C., 2025, [EP241021a: A Catastrophic Collapse/Merger of Compact Star Binary Leading to the Formation of a Remnant Millisecond Magnetar?](https://ui.adsabs.harvard.edu/abs/2025ApJ...991..115W/abstract), ApJ, 991, 1
+
+0. Tu, Z., Sun, X., Han, S., Miao, Z., **Li, A.**, 2025, [Unified quark mean-field equation of state for neutron star matter: Static and dynamic properties](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112d3018T/abstract), PhRvD, 112, 043018
+
+0. Liu, P., Wang, M., Yuan, J., Tu, Z., **Li, A.**, Zhou, X., Wang, N., 2025, [Timing Results of 22 yr for PSR J0922+0638](https://ui.adsabs.harvard.edu/abs/2025ApJ...988..281L/abstract), ApJ, 988, 281
+
 0. Tu, Z., **Li, A.**, 2025, [Delayed Thermal Relaxation of Rapid Cooling Neutron Stars: Nucleon Superfluidity and Nonnucleon Particles](https://ui.adsabs.harvard.edu/abs/2025ApJ...987....6T/abstract), ApJ, 987, 6
 
 0. Ye, J.-T., Wang, R., Wang, S.-P., **Chen, L.-W.**, 2025, [High-density Symmetry Energy: A Key to the Solution of the Hyperon Puzzle](https://ui.adsabs.harvard.edu/abs/2025ApJ...985..238Y/abstract), ApJ, 985, 238
@@ -277,6 +295,40 @@ layout: default
 
 
 <big><big> **其他标注**
+
+0. Dong, X.-F., **Huang, Y.-F.**, Zhang, Z.-B., Geng, J.-J., Deng, C., Zou, Z.-C., Hu, C.-R., Amat, O., 2025, [A Statistical Study of the Gamma-Ray Burst and Supernova Association](https://ui.adsabs.harvard.edu/abs/2025ApJ...993...20D/abstract), ApJ, 993, 20
+
+0. Wang, S.-P., **Chen, L.-W.**, 2025, [Extended momentum-dependent interaction for transport models and neutron stars](https://ui.adsabs.harvard.edu/abs/2025PhRvC.112d4612W/abstract), PhRvC, 112, 044612
+
+0. Qiu, M., **Chen, L.-W.**, Li, Z. Z., Niu, Y. F., Zhang, Z., 2025, [Symmetry energy and neutron matter equation of state at ρ0/3 from the electric dipole polarizability in Ca48, Ni68, and Pb208](https://ui.adsabs.harvard.edu/abs/2025PhRvC.112d4312Q/abstract), PhRvC, 112, 044312
+
+0. Tao, Y.-L., Zheng, Z.-Y., Sun, T.-T., Chen, H., Wei, J.-B., 2025, [Non-radial oscillations and gravitational wave radiation of proto-neutron stars](https://ui.adsabs.harvard.edu/abs/2025EPJA...61..235T/abstract), EPJA, 61, 235  
+
+0. Hu, C.-R., **Huang, Y.-F.**, Cui, L., Zhang, H., Li, J.-T., Ji, L., Geng, J.-J., Amat, O., Xu, F., Du, C., Zhang, W.-L., Zou, Z.-C., Dong, X.-F., Deng, C., Jiang, P., Liao, J., 2025, [Magnetic Reconnection as a Potential Driver of X-Ray Variability in Active Galactic Nuclei](https://ui.adsabs.harvard.edu/abs/2025ApJ...992...82H/abstract), ApJ, 992, 82
+
+0. Zhou, P., Mao, J., Zhang, L., Patruno, A., Bozzo, E., Xu, Y., Santangelo, A., Zane, S., Zhang, S., Feng, H., Cavecchi, Y., de Marco, B., Fan, J., Hou, X., Jiang, P., Romano, P., Sala, G., Tao, L., Veledina, A., Vink, J., Wang, S., Wang, J., Wang, Y., Weng, S., Wu, Q., Xie, F., Zhang, G., Zhang, J., Zhao, Z., Zheng, S., Barua, S., Chen, Y., Chen, Y., Chen, S., Chen, L., Chen, Y., Cheng, X., Chi, Y., Cui, L., de Martino, D., Deng, W., Ducci, L., Farinelli, R., Feng, F., Ge, M., Gu, M., Guo, H., Han, D., Hu, X., **Huang, Y.**, in't Zand, J., Ji, L., Kang, J., Kini, Y., Li, P., Li, Z., Liu, K., Liu, J., Liu, J., Lyu, M., Marino, A., Markowitz, A., Mezcua, M., Middleton, M., Mou, G., Ng, C.-Y., Papitto, A., Pei, Z., Peng, J., Poutanen, J., Shui, Q., Simone, S., Su, Y., Tan, Y., Wang, X., Wang, P., Wang, D., Wang, F., Wang, J., Wang, M., Wang, Y., Wu, J., Xiao, H., Xiong, D., Xu, X., Xue, R., Yan, Z., Yang, M., Yang, C., Yang, W., Ye, W., Yu, Z., Yuan, Y., Zhang, X., Zhang, L., Zhao, S., Zhao, Q., Zheng, Y., Zheng, W., Zuo, W., 2025, [Observatory science with eXTP](https://ui.adsabs.harvard.edu/abs/2025SCPMA..6819507Z/abstract), SCPMA, 68, 119507
+
+0. Yi, S.-X., Zhao, W., Xu, R.-X., Wu, X.-F., Stratta, G., Dall'Osso, S., Xu, Y.-J., Santangelo, A., Zane, S., Zhang, S.-N., Feng, H., Yang, H., Mao, J., Ge, J., **Shao, L.**, Lan, M.-X., Gao, H., Lin, L., Jiang, N., Wu, Q., Liu, T., **Yu, Y.-W.**, Wang, X.-Y., Zhang, J., Guetta, D., Geng, J.-J., Xiao, D., **Huang, Y.-F.**, Kang, Y., Cao, T.-Y., Zhang, Z., Lyu, Z., Pan, Z., Chen, Y., Gao, Y., **Li, A.**, Fu, Y.-C., Xiao, S., Wang, W.-Y., Wang, F., Zhao, Z., Lei, W., Shen, R.-F., Dai, L., Wu, G.-L., Liu, L.-D., Li, B., Fan, X., Zhu, X.-J., Lu, Y., Xu, F., Cheng, K., Lin, D.-B., Zhao, X.-H., Wei, J.-J., Zhang, B.-B., Mao, J.-R., Xue, Y., Shu, X., Zhang, W., Lin, W.-L., Fiore, A., Li, Z., Martin-Carrillo, A., Fisher, J., Xie, F., Li, Y., Mereghetti, S., Xiong, S.-L., Yang, Y.-H., Troja, E., **Dai, Z.-G.**, Wei, D.-M., Liang, E.-W., Horvath, J. E., Cunha Sampaio, G. R., Barão, L. G., de Sá, L. M., 2025, [Prospects for time-domain and multi-messenger science with eXTP](https://ui.adsabs.harvard.edu/abs/2025SCPMA..6819506Y/abstract), SCPMA, 68, 119506
+
+0. **Li, A.**, Watts, A. L., Zhang, G., Guillot, S., Xu, Y., Santangelo, A., Zane, S., Feng, H., Zhang, S.-N., Ge, M., Qi, L., Salmi, T., Dorsman, B., Miao, Z., Tu, Z., Cavecchi, Y., Zhou, X., **Zheng, X.**, Wang, W., Cheng, Q., Liu, X., Wei, Y., Wang, W., Xu, Y., Weng, S., Zhu, W., Li, Z., **Shao, L.**, Tuo, Y., Dohi, A., Lyu, M., Liu, P., Yuan, J., Wang, M., Zhang, W., Li, Z., Tao, L., Zhang, L., Shen, H., Providência, C., Tolos, L., Patruno, A., Li, L., Liu, G., Zhou, K., **Chen, L.-W.**, Fan, Y., Kajino, T., Lai, D., Li, X., Meng, J., Tang, X., Xiao, Z., Xiong, S., Xu, R., Zhou, S.-G., Ballantyne, D. R., Burgio, G. F., Chenevez, J., Choudhury, D., Fantina, A. F., Galloway, D. K., Gulminelli, F., Hebeler, K., Hoogkamer, M., Horvath, J. E., Kini, Y., Kurkela, A., Linares, M., Margueron, J., Mendes, M., Oertel, M., Papitto, A., Poutanen, J., Rea, N., Schwenk, A., Song, X.-Y., Svensson, I., Tsang, D., Vuorinen, A., Andersson, N., Miller, M. C., Rezzolla, L., Stone, J. R., Thomas, A. W., 2025, [Dense matter in neutron stars with eXTP](https://ui.adsabs.harvard.edu/abs/2025SCPMA..6819503L/abstract), SCPMA, 68, 119503
+
+0. Zheng, Z.-Y., Sun, T.-T., Chen, H., Wei, J.-B., **Zheng, X.-P.**, Burgio, G. F., Schulze, H.-J., 2025, [f-mode oscillations of protoneutron stars](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112f3015Z/abstract), PhRvD, 112, 063015
+
+0. Mao, K., Tang, Z., Pan, Q., Wang, P., Chen, H., Ransom, S. M., Li, D., Tang, X., Wang, Q., Feng, Y., Chen, L., Quan, D., Ren, Z., 2025, [PrestoZL: A GPU-accelerated High-throughput Jerk Search Toolkit for Binary Pulsars](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...36M/abstract), ApJS, 280, 36
+
+0. Cao, J. H., Wang, P., Li, D., Pan, Q. H., Mao, K., Niu, C. H., Zhang, Y. K., Qu, Q. Y., Lu, W. J., Zhang, J. S., Zhu, Y. H., Wang, Y. D., Chen, H. X., Chen, X. L., Fang, J. H., Feng, Y., Gao, H., **Huang, Y. F.**, Li, J., Miao, C. C., Tsai, C. W., Yao, J. M., You, S. P., Zhao, R. S., Liu, Q. Z., Weng, S. M., Yew, S. H., Zhang, J., Zhang, L., Gügercinoğlu, E., Zhou, D. K., Zhu, W. W., [BASSET: Bandpass-adaptive Single-pulse Search Toolkit—Optimized Subband Pulse Search Strategies for Faint Narrowband Fast Radio Bursts](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...12C/abstract), ApJS, 280, 12
+
+0. Wang, Z., Hu, Z., **Shao, L.**, 2025, [Rigorous Analytic Solution to the Gravitational-wave Overlapping Event Rates](https://ui.adsabs.harvard.edu/abs/2025ApJ...991..108W/abstract), ApJ, 991, 108
+
+0. Zhang, X. L., Zhang, Z. B., **Huang, Y. F.**, Li, D., Li, X. J., Song, L. M., 2025, [Spectral Energy Correlations of Gamma-Ray Bursts from Structured Jets](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..159Z/abstract), ApJ, 990, 159
+
+0. Feng, W.-F., **Shao, L.**, 2025, [Galactic double neutron stars as dual-line gravitational-wave sources: Prospects with LISA and Cosmic Explorer](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112d3023F/abstract), PhRvD, 112, 043023
+
+0. **Xia, C.-J.**, 2025, [Unified treatment for in-medium light and heavy clusters with relativistic mean-field models](https://ui.adsabs.harvard.edu/abs/2025PhRvC.112b5801X/abstract), PhRvC, 112, 025801
+
+0. Pu, J., Li, X., Sun, K.-J., Ma, C.-W., **Chen, L.-W.**, 2025, [Atmospheric antideuteron flux within a dynamical coalescence approach](https://ui.adsabs.harvard.edu/abs/2025JHEP...08..002P/abstract), JHEP, 2025, 2
+
+0. Lian, Y., Pan, Z., Zhang, H., Cao, S., Freire, P. C. C., Qian, L., Eatough, R., **Shao, L.**, Ransom, S. M., Lorimer, D. R., Yin, D., Dai, Y., Liu, K., Wang, L., Wang, Y., Zhang, Z., Feng, Z., Li, B., Li, M., Liu, T., Li, Y., Peng, B., Pan, Y., Wu, Y., Zhang, L., Zhang, X., Jiang, P., 2025, [The FAST Globular Cluster Pulsar Survey (GC FANS)](https://ui.adsabs.harvard.edu/abs/2025ApJS..279...51L/abstract), ApJS, 279, 51
 
 0. Song, H., Yan, H., Kang, Y., Chen, X., **L. Shao**, 2025, [Probing intermediate-mass black hole binaries with the Lunar Gravitational-wave Antenna](https://ui.adsabs.harvard.edu/abs/2025arXiv250202995S/abstract), npjSE, 1, 2
 
