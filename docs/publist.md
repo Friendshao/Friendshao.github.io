@@ -119,12 +119,6 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 
-0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Fermionic Dark Matter
-with Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark
-Univ.* (accepted), arXiv:2505.10026
-
 0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chatterjee,
 J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z. Hu, M.
 Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G. Saowanit,
@@ -156,6 +150,12 @@ relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Fermionic Dark Matter
+with Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark
+Univ.* 50 (2025) 102163
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rigorous analytic solution to the
