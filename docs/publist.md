@@ -131,11 +131,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
 using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
 Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
 
-0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars with a
-highly relativistic core in scalar-tensor gravity](https://arxiv.org/abs/2508.12573),
-*Phys. Rev. D* (accepted), arXiv:2508.12573
-
 0. L. Meng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, K.
 Stovall, N. Wex, X. Miao, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, J.M. Cordes, H. Hu, J.
@@ -150,6 +145,11 @@ relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars with a
+highly relativistic core in scalar-tensor gravity](https://arxiv.org/abs/2508.12573),
+*Phys. Rev. D* 112 (2025) 104030
 
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
