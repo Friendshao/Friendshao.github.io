@@ -37,22 +37,23 @@ tr:nth-child(odd) {
 
 ### **Selected Short-author-list Papers**
 
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
+color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
+gravitational-wave ringdown analysis with multiple
+modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (submitted), arXiv:2502.01093
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2502.01093" data-style="small_rectangle"></span>
+
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring the spin of the Galactic
 center supermassive black hole with two
 pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* 133 (2024) 231402
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.133.231402" data-style="small_rectangle"></span>
 
-0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
-solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209),
-*Phys. Rev. D* 107 (2023) 024011
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.107.024011" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Combined
-search for anisotropic birefringence in the gravitational-wave transient catalog
-GWTC-1](https://arxiv.org/abs/2002.01185), *Phys. Rev. D* 101 (2020) 104019
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.101.104019" data-style="small_rectangle"></span>
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
+color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
+for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.scib.2022.09.018" data-style="small_rectangle"></span>
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex,
 M. Kramer, [Testing the universality of free fall towards dark matter with
