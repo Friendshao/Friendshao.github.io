@@ -64,12 +64,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave signals: detector
 network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
 
-0. W. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Dong<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Lightweight posterior construction
-for gravitational-wave catalogs with the Kolmogorov-Arnold
-network](https://arxiv.org/abs/2508.18698), arXiv:2508.18698
-
 0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-D. Liu, Y.-W. Yu, **L.
@@ -118,6 +112,12 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. W. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Dong<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Lightweight posterior construction
+for gravitational-wave catalogs with the Kolmogorov-Arnold
+network](https://arxiv.org/abs/2508.18698), *Phys. Rev. D* (accepted), arXiv:2508.18698
 
 0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chatterjee,
 J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z. Hu, M.
