@@ -12,7 +12,7 @@ layout: default
 | [**Bailey, Quentin**](https://faculty.erau.edu/Quentin.Bailey) | Embry‑Riddle Aeronautical University | Prescott | USA |
 | [**Barausse, Enrico**](https://grams-815673.wixsite.com/barausse) | International School for Advanced Studies &nbsp; &nbsp; | Trieste | Italy |
 | [**Berti, Emanuele**](https://pages.jh.edu/eberti2/) | Johns Hopkins University | Baltimore | USA |
-| [**Blas, Diego**](https://mastercosmosbcn.cat/faculty/blas-diego/) | Universitat Autònoma de Barcelona | Barcelona | Spain |
+| [**Blas, Diego**](https://www.icrea.cat/community/icreas/29841/diego-blas-temino/) | Institut de Física d'Altes Energies | Barcelona | Spain |
 | [**Brito, Richard**](https://richardbrito.weebly.com/) | Instituto Superior Técnico | Lisbon | Portugal |
 | [**Buonanno, Alessandra**](https://www.aei.mpg.de/alessandra-buonanno) | Albert Einstein Institute | Potsdam | Germany  |
 | [**Cao, Zhoujian**](https://physicsfaculty.bnu.edu.cn/teacher/249/index.html) | Beijing Normal University | Beijing | China |
@@ -45,5 +45,5 @@ layout: default
 | [**Yim, Garvin**](https://garvinyim.wixsite.com/home) | <font color="gray"><i>Left Academia</i></font> | Southampton &nbsp; | Britain |
 | [**Zhang, Bing**](https://www.scifac.hku.hk/people/zhang-bing) | The University of Hong Kong | Hong Kong | China |
 | [**Zhao, Junjie**](https://www.hnskxy.com/igwa/info/1033/1020.htm) | Henan Academy of Sciences | Zhengzhou | China |
-| [**Zhu, Jin-Ping**](https://jpzhu-astro.github.io/) | Monash University | Clayton | Australia |
+| [**Zhu, Jin-Ping**](https://jpzhu-astro.github.io/) | The University of Hong Kong | Hong Kong | China |
 | ... | | | |
