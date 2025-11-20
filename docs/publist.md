@@ -1039,10 +1039,6 @@ for Persistent Gravitational Waves: Results from the First Part of
 LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487),
 arXiv:2510.17487
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Black Hole
-Spectroscopy and Tests of General Relativity with
-GW250114](https://arxiv.org/abs/2509.08099), arXiv:2509.08099
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW230814:
 investigation of a loud gravitational-wave signal observed with a single
 detector](https://arxiv.org/abs/2509.07348), arXiv:2509.07348
@@ -1084,6 +1080,10 @@ long-duration gravitational-wave transients in the first part of the fourth
 LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282),
 arXiv:2507.12282
 
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Black Hole
+Spectroscopy and Tests of General Relativity with
+GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* (accepted), arXiv:2509.08099
+
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
@@ -1092,10 +1092,6 @@ Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:25
 Introduction to Version 4.0 of the Gravitational-Wave Transient
 Catalog](https://www.arxiv.org/abs/2508.18080), *Astrophys. J. Lett.* (accepted), arXiv:2508.18080
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
-short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA
-observing run](https://arxiv.org/abs/2507.12374), *Phys. Rev. D* (accepted), arXiv:2507.12374
-
 0. K. Akiyama, *et al.* (EHT Collaboration), [Horizon-scale variability of from
 2017-2021 EHT observations](https://arxiv.org/abs/2509.24593),
 *Astron. & Astrophys.* (accepted), arXiv:2509.24593
@@ -1103,6 +1099,10 @@ observing run](https://arxiv.org/abs/2507.12374), *Phys. Rev. D* (accepted), arX
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA
+observing run](https://arxiv.org/abs/2507.12374), *Phys. Rev. D* 112 (2025) 102005
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Tests of general
 relativity with GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* 112
