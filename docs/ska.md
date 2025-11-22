@@ -10,6 +10,8 @@ layout: default
 
 <!-- 0. Huang, C., **Zheng, X.-P.**, 2025, [Bayesian Insights into post-Glitch Dynamics: Model comparison and parameter constraint from decades long observation data of the Crab pulsar]() -->
 
+0. Ding, S. Y., Sun, X. D., Sun, B. Y., **Li, A.**, 2025, [Impact of Ξ-hypernuclear constraints on relativistic equation of states and properties of hyperon stars](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112j3008D/abstract), PhRvD, 112, 103008
+
 0. **Tong, H.**, Wang, H. G., 2025, [Pulsar Radio Emission Height as a Function of Phase](https://ui.adsabs.harvard.edu/abs/2025RAA....25k5021T/abstract), RAA, 25, 115021
 
 0. Zhong, X., **Lai, X.**, 2025, [The role of equation of state on the spin-up of millisecond pulsars](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544..293Z/abstract), MNRAS, 544, 293
