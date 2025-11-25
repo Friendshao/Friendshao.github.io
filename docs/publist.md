@@ -1024,6 +1024,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
+continuous gravitational-wave signals from unknown neutron stars in binary
+systems in the first part of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2511.16863), arXiv:2511.16863
+
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Cosmological and
 High Energy Physics implications from gravitational-wave background searches in
 LIGO-Virgo-KAGRA's O1-O4a runs](https://arxiv.org/abs/2510.26848),
