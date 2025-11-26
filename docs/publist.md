@@ -77,7 +77,7 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940),
 arXiv:2508.18940
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, J.-P. Zhu<font
+0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
 [Kilonova emission from white dwarf–neutron star mergers:
