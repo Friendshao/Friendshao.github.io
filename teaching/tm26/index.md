@@ -76,7 +76,7 @@ $$\delta S = 0$$
 | <font color="blue"><b>期中考试（闭卷，笔试）</b></font> |  |
 | 3. 连续系统分析力学  | HW4 (ddl: ) |
 | 4. 混沌现象  | HW5 (ddl: ) |
-| <font color="blue"><b>期末考试（闭卷，笔试）</b></font> |  | 
+| <font color="blue"><b>期末考试（闭卷，笔试）</b></font> | 2026年6月22日·8:30-10:30AM | 
 
 <p></p>
 
