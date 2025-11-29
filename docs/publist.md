@@ -1049,10 +1049,6 @@ for Persistent Gravitational Waves: Results from the First Part of
 LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487),
 arXiv:2510.17487
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW230814:
-investigation of a loud gravitational-wave signal observed with a single
-detector](https://arxiv.org/abs/2509.07348), arXiv:2509.07348
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directed searches
 for gravitational waves from ultralight vector boson clouds around merger
 remnant and galactic black holes during the first part of the fourth
@@ -1089,6 +1085,10 @@ astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
 long-duration gravitational-wave transients in the first part of the fourth
 LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282),
 arXiv:2507.12282
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW230814:
+investigation of a loud gravitational-wave signal observed with a single
+detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), arXiv:2509.07348
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Black Hole
 Spectroscopy and Tests of General Relativity with
