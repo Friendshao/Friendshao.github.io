@@ -49,8 +49,8 @@ tr:nth-child(odd) {
 | **时间** | **职责** | **课题** | **基金号** | 
 | 2026.01-2029.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 中子星作为暗物质实验室</small> | 12573042 |
 | 2024.01-2026.12 | **主持** | **北京市自然科学基金面上项目** <br> <small> 用中低频引力波探测致密天体的物理性质</small> | 1242018 |
-| 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | NULL |
-| 2020.12-2025.11 | **主持** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | 2020SKA0120300 |
+| 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | <font color="gray"><small>资助期满</small></font> |
+| 2020.12-2025.11 | **主持** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | <font color="gray"><small>资助期满</small></font> |
 | 2021.01-2023.12 | **入选** | **国家海外高层次人才青年项目** | <font color="gray"><small>已结题</small></font> |
 | 2020.01-2024.12 | 参与 | **国家自然科学重大基金项目·课题四** <br> <small> 黑洞烛光的宇宙学应用 </small> | <font color="gray"><small>已结题</small></font> |
 | 2020.01-2023.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究</small> | <font color="gray"><small>已结题</small></font> |
