@@ -1064,11 +1064,6 @@ arXiv:2509.07352
 Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
 Propagation](https://www.arxiv.org/abs/2509.04348), arXiv:2509.04348
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper Limits on
-the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo,
-and KAGRA's fourth Observing Run](https://www.arxiv.org/abs/2508.20721),
-arXiv:2508.20721
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
@@ -1090,6 +1085,11 @@ astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
 long-duration gravitational-wave transients in the first part of the fourth
 LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282),
 arXiv:2507.12282
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper Limits on
+the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo,
+and KAGRA's fourth Observing Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted),
+arXiv:2508.20721
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW230814:
 investigation of a loud gravitational-wave signal observed with a single
