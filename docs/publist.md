@@ -75,8 +75,7 @@ arXiv:2508.18940
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
-[Kilonova emission from white dwarf–neutron star mergers:
-viewing-angle-dependent spectra and lightcurves](https://arxiv.org/abs/TBA),
+[Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent spectra and lightcurves](https://arxiv.org/abs/TBA),
 arXiv:TBA
 
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
