@@ -117,12 +117,6 @@ Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
 amplitudes of charged binary black holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* (accepted),
 arXiv:2509.07111
 
-0. W. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Dong<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Lightweight posterior construction
-for gravitational-wave catalogs with the Kolmogorov-Arnold
-network](https://arxiv.org/abs/2508.18698), *Phys. Rev. D* (accepted), arXiv:2508.18698
-
 0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chatterjee,
 J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z. Hu, M.
 Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G. Saowanit,
@@ -149,6 +143,12 @@ relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. W. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Dong<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Lightweight posterior construction
+for gravitational-wave catalogs with the Kolmogorov-Arnold
+network](https://arxiv.org/abs/2508.18698), *Phys. Rev. D* 112 (2025) 122003
 
 0. P. Ji<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Scalarized neutron stars with a
