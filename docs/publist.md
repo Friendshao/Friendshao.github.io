@@ -75,8 +75,8 @@ arXiv:2508.18940
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
-[Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent spectra and lightcurves](https://arxiv.org/abs/TBA),
-arXiv:TBA
+[Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent
+spectra and lightcurves](https://arxiv.org/abs/2512.04378), arXiv:2512.04378
 
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
 Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.
