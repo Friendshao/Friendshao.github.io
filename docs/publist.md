@@ -24,7 +24,7 @@ layout: default
 
        <td style="background-color:white; border: none">            
          C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (38)<br>
-         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (17)<br>
+         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (18)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (14)
        </td>
 
@@ -2239,6 +2239,11 @@ observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
 
 <!-- 0. 赵乘辉<font color="#5c5c5c"><sup>(#)</sup></font>, 李洪波<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, in press -->
+
+0. 张泽<font color="#5c5c5c"><sup>(#)</sup></font>, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂,
+仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 夏铖君, 俞云伟, 袁业飞, 郑小平, **邵立晶**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [用SKA探索基础物理与脉冲星物理](TBA), 
+《中国科学：物理学 力学 天文学》, to be submitted
 
 0. 姬佩祥<font color="#5c5c5c"><sup>(#)</sup></font>, 梁迪聪, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](http://mp.ihep.ac.cn/article/id/27caedc0-6d45-4151-9d73-5dc23efb2d95),
