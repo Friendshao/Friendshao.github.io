@@ -69,7 +69,7 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-D. Liu, Y.-W. Yu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 [Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
-Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940),
+Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys.* (submitted),
 arXiv:2508.18940
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
