@@ -72,12 +72,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
 Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys.* (submitted),
 arXiv:2508.18940
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
-[Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent
-spectra and lightcurves](https://arxiv.org/abs/2512.04378), arXiv:2512.04378
-
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
 Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.
 Torne, R. S. Wharton, [A survey for radio pulsars and transients in the 10
@@ -111,6 +105,12 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
+[Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent
+spectra and lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva, Z.
 Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
