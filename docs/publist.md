@@ -121,7 +121,7 @@ arXiv:2509.07111
 J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z. Hu, M.
 Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G. Saowanit,
 **L. Shao**, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu, [Galactic Centre
-Pulsars with the SKA](https://arxiv.org/abs/TBA)  *Open J.  Astrophys.*
+Pulsars with the SKA](https://arxiv.org/abs/TBA),  *Open J.  Astrophys.*
 (accepted), arXiv:TBA
 
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
