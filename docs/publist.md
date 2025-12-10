@@ -1081,8 +1081,7 @@ astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave transients in the first part of the fourth
-LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282),
-arXiv:2507.12282
+LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* (accepted), arXiv:2507.12282
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper Limits on
 the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo,
