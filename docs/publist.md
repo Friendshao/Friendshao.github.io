@@ -129,6 +129,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
 using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
 Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
 
+0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
+Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
+anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
 0. L. Meng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, K.
 Stovall, N. Wex, X. Miao, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer, J.M. Cordes, H. Hu, J.
@@ -136,13 +141,7 @@ Jiang, E.  Parent, **L. Shao**, I.H. Stairs, M. Xue, A. Brazier, F. Camilo, D.J.
 Champion, S. Chatterjee, F. Crawford, Z. Fang, Q. Fu, Y. Guo, J.W.T. Hessels, M.
 MacLaughlin, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.  Yue, C. Zhang, [The
 double neutron star PSR J1946+2052. I. Masses and tests of general
-relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
-(accepted), arXiv:2510.12506
-
-0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
-Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
-anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.* 704 (2025) A153
 
 0. W. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Dong<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Wang, **L. Shao**<font
