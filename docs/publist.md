@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (173) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (179) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (180) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1078,6 +1078,11 @@ Transients](https://www.arxiv.org/abs/2508.18081), arXiv:2508.18081
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
 astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
+
+0. Saurabh, *et al.* (EHT Collaboration), [Probing jet base emission of M87*
+with the 2021 Event Horizon Telescope
+observations](https://arxiv.org/abs/2512.08970),
+*Astron. & Astrophys.* (accepted), arXiv:2512.08970
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave transients in the first part of the fourth
