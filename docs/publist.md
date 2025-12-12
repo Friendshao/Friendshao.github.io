@@ -104,7 +104,8 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
 Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.
 Torne, R. S. Wharton, [A survey for radio pulsars and transients in the 10
-pc region around Sgr A*](https://arxiv.org/abs/2507.08534), <i>Astron. & Astrophys.</i> (accepted), arXiv:2507.08534
+pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
+*Astron. & Astrophys.* (accepted), arXiv:2507.08534
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -401,8 +402,8 @@ Sci.* 10 (2023) 1334642
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, F. Zhang, [Prospects for probing
-small-scale dark matter models with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2312.01889), *Phys. Rev. D* 108 (2023) 123034
+small-scale dark matter models with pulsars around Sagittarius A*](https://arxiv.org/abs/2312.01889),
+*Phys. Rev. D* 108 (2023) 123034
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Effect of noise
@@ -524,8 +525,8 @@ model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* 106 (2022) 124019
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu, X. Miao, Z. Wang, [Prospects
-for constraining the Yukawa gravity with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* 11 (2022) 051
+for constraining the Yukawa gravity with pulsars around Sagittarius A*](https://arxiv.org/abs/2210.16130),
+*J. Cosmol. Astropart. Phys.* 11 (2022) 051
 
 0. M. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, C. Liu, Y.-M. Hu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -1261,7 +1262,7 @@ Chatterjee, R. Wharton, R. Karuppusamy, L. Blackburn, M.  Janssen, C.-k. Chan,
 G.B. Crew, L.D. Matthews, C. Goddi, H. Rottmann, J. Wagner, S. Sanchez, I. Ruiz,
 F. Abbate, G.C. Bower, J.J. Salamanca, A.I. Gomez-Ruiz, A.  Herrera-Aguilar, W.
 Jiang, R.-S. Lu, U.-L.  Pen, A.W. Raymond, **L.  Shao**, Z.  Shen, *et al.*
-(EHT Collaboration), [A search for pulsars around Sgr A$^\ast$ in the first
+(EHT Collaboration), [A search for pulsars around Sgr A* in the first
 Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 *Astrophys. J.* 959 (2023) 14
 
@@ -1446,27 +1447,27 @@ all-frequency directional search for persistent gravitational waves from
 Advanced LIGO's and Advanced Virgo's first three observing
 runs](https://arxiv.org/abs/2110.09834),  *Phys. Rev. D* 105 (2022) 122002
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
 Telescope results. VI. Testing the black hole
 metric](https://iopscience.iop.org/article/10.3847/2041-8213/ac6756), *Astrophys. J. Lett.* 930 (2022) L17
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
 Telescope results. V. Testing astrophysical models of the galactic center black
 hole](https://iopscience.iop.org/article/10.3847/2041-8213/ac6672), *Astrophys. J. Lett.*930 (2022) L16
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
 Telescope results. IV. Variability, morphology, and black hole
 mass](https://iopscience.iop.org/article/10.3847/2041-8213/ac6736), *Astrophys. J. Lett.* 930 (2022) L15
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
 Telescope results. III. Imaging of the galactic center supermassive black
 hole](https://iopscience.iop.org/article/10.3847/2041-8213/ac6429), *Astrophys. J. Lett.* 930 (2022) L14
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
 Telescope results. II. EHT and multi-wavelength observations, data processing,
 and calibration](https://iopscience.iop.org/article/10.3847/2041-8213/ac6675), *Astrophys. J. Lett.* 930 (2022) L13
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A$^\ast$ Event Horizon
+0. K. Akiyama, *et al.* (EHT Collaboration), [First Sagittarius A* Event Horizon
 Telescope results. I. The shadow of the supermassive black hole in the center of
 the Milky Way](https://iopscience.iop.org/article/10.3847/2041-8213/ac6674), *Astrophys. J. Lett.* 930 (2022) L12
 
@@ -1475,7 +1476,7 @@ Collaboration), [Selective dynamical imaging of interferometric
 data](https://iopscience.iop.org/article/10.3847/2041-8213/ac6615),   *Astrophys. J. Lett.* 930 (2022) L18
 
 0. M. Wielgus<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
-Collaboration), [Millimeter light curves of Sagittarius A$^\ast$ observed during
+Collaboration), [Millimeter light curves of Sagittarius A* observed during
 the 2017 Event Horizon Telescope
 campaign](https://iopscience.iop.org/article/10.3847/2041-8213/ac6428),   *Astrophys. J. Lett.* 930 (2022) L19
 
@@ -1954,8 +1955,8 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 <big><big>**Academic Contribution**</big></big> **conference proceedings, white papers, and more**
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Hu,
-[Fundamental Physics with Pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2508.09931), *J. Phys. Conf. Ser.* (accepted), arXiv:2508.09931
+[Fundamental Physics with Pulsars around Sagittarius A*](https://arxiv.org/abs/2508.09931),
+*J. Phys. Conf. Ser.* (accepted), arXiv:2508.09931
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
@@ -2005,8 +2006,7 @@ mission](https://doi.org/10.1038/s41550-022-01847-0),
 0. R.P. Eatough<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G. Desvignes,
 K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.  Karuppusamy, **L. Shao**, M.
 Kramer, H. Falcke, L. Rezzolla, [BlackHoleCam — Testing general relativity with
-pulsars orbiting Sagittarius
-A$^\ast$](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_0278),
+pulsars orbiting Sagittarius A*](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_0278),
 in *Proceedings of the Fifteenth Marcel Grossmann Meeting* (World Scientific,
 Singapore, 2022), p. 1866
 
