@@ -10,6 +10,12 @@ layout: default
 
 <!-- 0. Huang, C., **Zheng, X.-P.**, 2025, [Bayesian Insights into post-Glitch Dynamics: Model comparison and parameter constraint from decades long observation data of the Crab pulsar]() -->
 
+<!-- 0. Amat, O., Nurmamat, N., **Huang, Y.-F.**, Li, C.-M., Geng, J.-J., Hu, C.-R., Zou, Z.-C., Dong, X.-F., Deng, C., Xu, F., Zhang, X.-l., Du, C., 2025, [Axial current as the origin of quantum intrinsic orbital angular momentum](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112i1902A/abstract), PhRvD, 112, 091902 -->
+
+0. Luo, J., Liang, D., **Shao, L.**, 2025, [Constraining fermionic dark matter with galactic neutron stars](https://ui.adsabs.harvard.edu/abs/2025PDU....5002163L/abstract), PDU, 50, 102163
+
+0. Ji, P., **Shao, L.**, 2025, [Scalarized neutron stars with a highly relativistic core in scalar-tensor gravity](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112j4030J/abstract), PhRvD, 112, 104030
+
 0. Ding, S. Y., Sun, X. D., Sun, B. Y., **Li, A.**, 2025, [Impact of Ξ-hypernuclear constraints on relativistic equation of states and properties of hyperon stars](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112j3008D/abstract), PhRvD, 112, 103008
 
 0. **Tong, H.**, Wang, H. G., 2025, [Pulsar Radio Emission Height as a Function of Phase](https://ui.adsabs.harvard.edu/abs/2025RAA....25k5021T/abstract), RAA, 25, 115021
@@ -297,6 +303,14 @@ layout: default
 
 
 <big><big> **其他标注**
+
+0. Liu, W., Dong, Y., Wang, Z., **Shao, L.**, 2025, [Lightweight posterior construction for gravitational-wave catalogs with the Kolmogorov-Arnold network](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112l2003L/abstract), PhRvD, 112, 122003
+
+0. You, H.-S., Zhu, X., **Xia, C.-J.**, Ping, J., Xu, R.-X., 2025, [Multibaryon states in the framework of an equivparticle model](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112k4016Y/abstract), PhRvD, 112, 114016
+
+0. **Xia, C.-J.**, Rong, Y.-T., Sun, T.-T., 2025, [Light and heavy Λ hyperclusters in nuclear matter with relativistic mean-field models](https://ui.adsabs.harvard.edu/abs/2025PhRvC.112f4904X/abstract), PhRvC, 112, 064904
+
+0. Yan, Y.-L., Cheng, Q., **Zheng, X.-P.**, Yu, X.-Y., 2025, [Could the stochastic gravitational wave background from newborn magnetars be detected by the advanced LIGO and Einstein Telescope?](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112j3014Y/abstract), PhRvD, 112, 103014
 
 0. Dong, X.-F., **Huang, Y.-F.**, Zhang, Z.-B., Geng, J.-J., Deng, C., Zou, Z.-C., Hu, C.-R., Amat, O., 2025, [A Statistical Study of the Gamma-Ray Burst and Supernova Association](https://ui.adsabs.harvard.edu/abs/2025ApJ...993...20D/abstract), ApJ, 993, 20
 
