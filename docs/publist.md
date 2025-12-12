@@ -104,7 +104,7 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
 Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.
 Torne, R. S. Wharton, [A survey for radio pulsars and transients in the 10
-pc region around Sgr A*](https://arxiv.org/abs/2507.08534), *Astron. & Astrophys.* (accepted), arXiv:2507.08534
+pc region around Sgr A*](https://arxiv.org/abs/2507.08534), <i>Astron. & Astrophys.</i> (accepted), arXiv:2507.08534
 
 0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
