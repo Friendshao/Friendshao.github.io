@@ -64,14 +64,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave signals: detector
 network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
 
-0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-D. Liu, Y.-W. Yu, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
-[Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
-Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys.* (submitted),
-arXiv:2508.18940
-
 0. J.-C. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, S. Cao, J. Jiang, Y.
 Liu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.-H. Cao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -101,6 +93,14 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 
+0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-D. Liu, Y.-W. Yu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
+Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys.* (accepted),
+arXiv:2508.18940
+
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
 Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.
 Torne, R. S. Wharton, [A survey for radio pulsars and transients in the 10
@@ -114,7 +114,7 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
 spectra and lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva, Z.
-Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
+Wang, V. Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
 amplitudes of charged binary black holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* (accepted),
 arXiv:2509.07111
 
