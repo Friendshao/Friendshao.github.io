@@ -75,14 +75,6 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Linear analysis of I-C-Love
 universal relations for neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 
-0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
-Z. Cao, W. Han, J. He, M.A. Hendry, B. Hu, Y.-M. Hu, F. P. Huang, S.-J. Huang,
-S. P. Kim, E.-K. Li, Y.-X. Liu, V. Milyukov, S. Pi, K. Postnov, M. Sasaki, C.-G.
-Shao, **L. Shao**, C. Shi, S. Sun, A. Wang, P.-P. Wang, S. Wang, S.-J. Wang,
-Z.-Z. Xianyu, H. Yang, T. Yang, J.-d. Zhang, X. Zhang, W. Zhao, L.-G. Zhu, J.
-Mei<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Fundamental Physics and
-Cosmology with TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
-
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
@@ -92,6 +84,15 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
+Z. Cao, W. Han, J. He, M.A. Hendry, W. Hong, B. Hu, Y.-M. Hu, F.P. Huang, S.-J.
+Huang, S.P. Kim, E.-K. Li, Y.-X. Liu, V. Milyukov, S. Pi, K. Postnov, M. Sasaki,
+C.-G.  Shao, **L. Shao**, C. Shi, S. Sun, A. Wang, P.-P. Wang, S. Wang, S.-J.
+Wang, Z.-Z. Xianyu, H. Yang, T. Yang, J.-d. Zhang, X. Zhang, W. Zhao, L.-G. Zhu,
+J.  Mei<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Fundamental Physics
+and Cosmology with TianQin](https://arxiv.org/abs/2502.20138), **Living Rev.
+Relativ.** (accepted), arXiv:2502.20138
 
 0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
