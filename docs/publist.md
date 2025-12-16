@@ -1067,11 +1067,6 @@ Propagation](https://www.arxiv.org/abs/2509.04348), arXiv:2509.04348
 Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Updating
-the Gravitational-Wave Transient Catalog with Observations from the First Part
-of the Fourth LIGO-Virgo-KAGRA Observing
-Run](https://www.arxiv.org/abs/2508.18082), arXiv:2508.18082
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
 for Identifying and Characterizing Gravitational-wave
 Transients](https://www.arxiv.org/abs/2508.18081), arXiv:2508.18081
@@ -1079,6 +1074,11 @@ Transients](https://www.arxiv.org/abs/2508.18081), arXiv:2508.18081
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
 astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Updating
+the Gravitational-Wave Transient Catalog with Observations from the First Part
+of the Fourth LIGO-Virgo-KAGRA Observing
+Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* (accepted), arXiv:2508.18082
 
 0. Saurabh, *et al.* (EHT Collaboration), [Probing jet base emission of M87*
 with the 2021 Event Horizon Telescope
