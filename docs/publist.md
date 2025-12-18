@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (173) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (174) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (180) </small>
        </td>
  
@@ -118,6 +118,13 @@ spectra and lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys
 Wang, V. Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
 amplitudes of charged binary black holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* (accepted),
 arXiv:2509.07111
+
+0. V. Venkatraman Krishnan, **L. Shao**, V. Balakrishnan, M. Colom i Bernadich,
+A. Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
+Z. Hu, J. Kunz, M. Kramer, K. Liu, M.E. Lower, X. Miao, A. Possenti, D.
+Perrodin, D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, [Testing gravity with
+binary pulsars in the SKA era](https://arxiv.org/abs/TBA),  *Open J.
+Astrophys.* (accepted), arXiv:TBA
 
 0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chatterjee,
 J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z. Hu, M.
