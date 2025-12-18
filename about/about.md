@@ -87,13 +87,15 @@ sheet](https://kiaagravity.github.io/assets/QA).
 <p></p>
 
 <div style="display: flex; justify-content: left;">
-<a href="https://friendshao.github.io/teaching/img/ced.png" target="_blank"><img src="../teaching/img/ced.png" width="150"></a>
+<a href="https://friendshao.github.io/teaching/img/ced.png" target="_blank"><img src="../teaching/img/ced.png" width="135"></a>
 &nbsp; 
-<a href="http:///friendshao.github.io/teaching/img/sr.png" target="_blank"><img src="../teaching/img/sr.png" width="150"></a>
+<a href="http:///friendshao.github.io/teaching/img/sr.png" target="_blank"><img src="../teaching/img/sr.png" width="135"></a>
 &nbsp; 
-<a href="http:///friendshao.github.io/teaching/img/mechanics.png" target="_blank"><img src="../teaching/img/mechanics.png" width="150"></a>
+<a href="http:///friendshao.github.io/teaching/img/mechanics.png" target="_blank"><img src="../teaching/img/mechanics.png" width="135"></a>
 &nbsp; 
-<a href="http:///friendshao.github.io/teaching/img/EM.png" target="_blank"><img src="../teaching/img/EM.png" width="150"></a>
+<a href="http:///friendshao.github.io/teaching/img/EM.png" target="_blank"><img src="../teaching/img/EM.png" width="135"></a>
+&nbsp; 
+<a href="http:///friendshao.github.io/teaching/img/EM.png" target="_blank"><img src="../teaching/img/TM.png" width="135"></a>
 </div>
 
 <!-- 
