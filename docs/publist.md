@@ -126,12 +126,6 @@ Perrodin, D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, [Testing gravity with
 binary pulsars in the SKA era](https://arxiv.org/abs/2512.16161),  *Open J.
 Astrophys.* (accepted), arXiv:2512.16161
 
-0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Carleo, S.
-Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z.
-Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G.
-Saowanit, **L. Shao**, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
-[Galactic Centre Pulsars with the SKAO](https://arxiv.org/abs/2512.16155), *Open J.  Astrophys.* (accepted), arXiv:2512.16155
-
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
 using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
@@ -141,6 +135,12 @@ Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Carleo, S.
+Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z.
+Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G.
+Saowanit, **L. Shao**, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
+[Galactic Centre Pulsars with the SKAO](https://arxiv.org/abs/2512.16155), *Open J.  Astrophys.* 8 (2025) 154252
 
 0. L. Meng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, K.
 Stovall, N. Wex, X. Miao, W. Zhu<font
