@@ -131,9 +131,9 @@ arXiv:2512.16161
 Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z.
 Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G.
 Saowanit, **L. Shao**, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu, SKAO Pulsar
-*Science Working Group, [Galactic Centre Pulsars with the
-*SKAO](https://www.arxiv.org/abs/2512.16155),  *Open J.
-Astrophys.* (accepted), arXiv:2512.16155
+Science Working Group, [Galactic Centre Pulsars with the
+SKAO](https://www.arxiv.org/abs/2512.16155),  *Open J.  Astrophys.* (accepted),
+arXiv:2512.16155
 
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
