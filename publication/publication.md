@@ -26,10 +26,15 @@ tr:nth-child(odd) {
 
 ## <b>Publication</b>
 
+**Please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/public-libraries/pf-rWvqJQp63DLo0Z9UZ-Q)**
+<small><font color="gray">(LVK and EHT Collaboration papers excluded)</font></small>
+
+<!-- 
 **For a nearly complete list, please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/authors/1061576?ui-citation-summary=true)**
 
 - [**All Papers**](https://inspirehep.net/authors/1061576?ui-citation-summary=true): $80000+$ citations with $H=88$ 
 - [**Short-author-list Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALijing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true): $7000+$ citations with $H=40$
+-->
 
 ---
 
