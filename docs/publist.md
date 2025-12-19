@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (174) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (180) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (181) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -123,14 +123,14 @@ arXiv:2509.07111
 A. Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
 Z. Hu, J. Kunz, M. Kramer, K. Liu, M.E. Lower, X. Miao, A.  Possenti, D.
 Perrodin, D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, [Testing gravity with
-binary pulsars in the SKA era](https://www.arxiv.org/abs/2512.16161),  *Open J.
+binary pulsars in the SKA era](https://arxiv.org/abs/2512.16161),  *Open J.
 Astrophys.* (accepted), arXiv:2512.16161
 
 0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Carleo, S.
 Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z.
 Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G.
 Saowanit, **L. Shao**, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
-[Galactic Centre Pulsars with the SKAO](https://www.arxiv.org/abs/2512.16155), *Open J.  Astrophys.* (accepted), arXiv:2512.16155
+[Galactic Centre Pulsars with the SKAO](https://arxiv.org/abs/2512.16155), *Open J.  Astrophys.* (accepted), arXiv:2512.16155
 
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
@@ -210,7 +210,7 @@ next-generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.  Wang, Y.
 Dong, G. Yim, **L.  Shao**, [Reanalyzing the ringdown signal of GW150914 using
-the $F$-statistic method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
+the $F$-statistic method](http://arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from thermal mountains on
@@ -1035,6 +1035,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Searches
+for Gravitational-Wave Lensing Signatures](https://arxiv.org/abs/2512.16347),
+arXiv:2512.16347
+
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 planetary-mass ultra-compact objects using data from the first part of the
 LIGO-Virgo-KAGRA fourth observing run](https://arxiv.org/abs/2511.19911),
@@ -1068,15 +1072,15 @@ arXiv:2509.07352
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
-Propagation](https://www.arxiv.org/abs/2509.04348), arXiv:2509.04348
+Propagation](https://arxiv.org/abs/2509.04348), arXiv:2509.04348
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Population Properties of Merging Compact
-Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
+Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
 for Identifying and Characterizing Gravitational-wave
-Transients](https://www.arxiv.org/abs/2508.18081), arXiv:2508.18081
+Transients](https://arxiv.org/abs/2508.18081), arXiv:2508.18081
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
