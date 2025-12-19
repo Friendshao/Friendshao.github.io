@@ -119,20 +119,21 @@ Wang, V. Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
 amplitudes of charged binary black holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* (accepted),
 arXiv:2509.07111
 
-0. V. Venkatraman Krishnan<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, V. Balakrishnan, M.
-Colom i Bernadich, A. Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer,
-E. Hackmann, H. Hu, Z. Hu, J. Kunz, M. Kramer, K. Liu, M.E. Lower, X. Miao, A.
-Possenti, D.  Perrodin, D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, [Testing
-gravity with binary pulsars in the SKA era](https://arxiv.org/abs/TBA),  *Open
-J.  Astrophys.* (accepted), arXiv:TBA
+0. V. Venkatraman Krishnan, **L. Shao**, V. Balakrishnan, M.  Colom i Bernadich,
+A. Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
+Z. Hu, J. Kunz, M. Kramer, K. Liu, M.E. Lower, X. Miao, A.  Possenti, D.
+Perrodin, D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, SKA Pulsar Science
+Working Group, [Testing gravity with binary pulsars in the SKA
+era](https://www.arxiv.org/abs/2512.16161),  *Open J.  Astrophys.* (accepted),
+arXiv:2512.16161
 
-0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Chatterjee,
-J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z. Hu, M.
-Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G. Saowanit,
-**L. Shao**, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu, [Galactic Centre
-Pulsars with the SKA](https://arxiv.org/abs/TBA),  *Open J.  Astrophys.*
-(accepted), arXiv:TBA
+0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Carleo, S.
+Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann, Z.
+Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.  Ransom, G.
+Saowanit, **L. Shao**, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu, SKAO Pulsar
+*Science Working Group, [Galactic Centre Pulsars with the
+*SKAO](https://www.arxiv.org/abs/2512.16155),  *Open J.
+Astrophys.* (accepted), arXiv:2512.16155
 
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
