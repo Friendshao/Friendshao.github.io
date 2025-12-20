@@ -1117,13 +1117,13 @@ GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* (accepted), arXi
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [Horizon-scale variability of from
-2017-2021 EHT observations](https://arxiv.org/abs/2509.24593),
-*Astron. & Astrophys.* (accepted), arXiv:2509.24593
-
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
+
+0. K. Akiyama, *et al.* (EHT Collaboration), [Horizon-scale variability of M87* from
+2017-2021 EHT observations](https://arxiv.org/abs/2509.24593),
+*Astron. & Astrophys.* 704 (2025) A91
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: An
 Introduction to Version 4.0 of the Gravitational-Wave Transient
