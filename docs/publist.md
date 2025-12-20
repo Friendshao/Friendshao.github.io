@@ -119,15 +119,15 @@ Wang, V. Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
 amplitudes of charged binary black holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* (accepted),
 arXiv:2509.07111
 
-0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
-using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
-Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
-
 0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
+using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
+Cosmol. Astropart. Phys.* 12 (2025) 051
 
 0. V. Venkatraman Krishnan, **L. Shao**, V. Balakrishnan, M.  Colom i Bernadich,
 A. Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
