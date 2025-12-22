@@ -20,11 +20,11 @@ tr:nth-child(odd) {
 }
 </style>
 
-<!-- <h2>
+<h2>
 <font color="red">
 *** Notice: links are not maintained after the end of course! 
 </font>
-</h2> -->
+</h2>
 
 # <b>Classical Electrodynamics (电动力学)</b>
 
@@ -97,7 +97,7 @@ $$\vec{\nabla} \cdot \vec{B}=0, \quad \vec{\nabla} \times \vec{H}=\vec{\jmath}+\
 | 6. 狭义相对论 | HW6  (ddl: Dec 18)  |
 | 7. 带电粒子和电磁场的相互作用 | HW7  (ddl: Jan 1, 2026) |
 | *答疑* | 科维理所K217；2026年1月5日10:00-11:30AM | 
-| <font color="blue"><b>期末考试</b></font>（闭卷，笔试） | 1月6日·8:30AM-10:30AM·理教410 |
+| <font color="blue"><b>期末考试</b></font>（闭卷，笔试） | **时间：**2026年1月6日·8:30AM-10:30AM<br>**地点：**理教410 |
 
 <p></p>
 
