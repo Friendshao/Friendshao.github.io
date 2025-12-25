@@ -11,7 +11,7 @@ layout: default
 
 **Academics**
 
-- [rili](https://rili.wps.cn/)
+- [rili](https://rili.wps.cn/), [myADS](https://ui.adsabs.harvard.edu/public-libraries/pf-rWvqJQp63DLo0Z9UZ-Q), [fullADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g), [Inspire](https://inspirehep.net/authors/1061576?ui-citation-summary=true)
 - [Inspirehep](http://inspirehep.net/),
   [ADS](https://ui.adsabs.harvard.edu/)/[SciX](https://scixplorer.org/),
   [arXiv](http://www.arxiv.org/)
