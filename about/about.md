@@ -95,7 +95,7 @@ sheet](https://kiaagravity.github.io/assets/QA).
 &nbsp; 
 <a href="http:///friendshao.github.io/teaching/img/EM.png" target="_blank"><img src="../teaching/img/EM.png" width="135"></a>
 &nbsp; 
-<a href="http:///friendshao.github.io/teaching/img/EM.png" target="_blank"><img src="../teaching/img/TM.png" width="135"></a>
+<a href="http:///friendshao.github.io/teaching/img/TM.png" target="_blank"><img src="../teaching/img/TM.png" width="135"></a>
 </div>
 
 <!-- 
