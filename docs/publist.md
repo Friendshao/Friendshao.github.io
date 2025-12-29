@@ -114,15 +114,14 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
 [Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent
 spectra and lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva, Z.
-Wang, V. Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
-amplitudes of charged binary black holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* (accepted),
-arXiv:2509.07111
-
 0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
 Shao**, [Bumblebee cosmology: The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva, Z.
+Wang, V. Paschalidis, G. Bozzola, S.S. Yazadjiev, **L. Shao**, [Ringdown mode
+amplitudes of charged binary black holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* 112 (2025) 124071
 
 0. J. Bramante, K. Mack, N. Raj, **L. Shao**, N. Tyagi<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Seeking the nearest neutron stars
