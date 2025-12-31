@@ -11,7 +11,7 @@ layout: default
 
 **Academics**
 
-- [rili](https://rili.wps.cn/), [myADS](https://ui.adsabs.harvard.edu/public-libraries/pf-rWvqJQp63DLo0Z9UZ-Q), [fullADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g), [Inspire](https://inspirehep.net/authors/1061576?ui-citation-summary=true)
+- [rili](https://rili.wps.cn/), [todo](https://todo.wps.cn/?groupId=11089144), [myADS](https://ui.adsabs.harvard.edu/public-libraries/pf-rWvqJQp63DLo0Z9UZ-Q), [fullADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g), [Inspire](https://inspirehep.net/authors/1061576?ui-citation-summary=true)
 - [Inspirehep](http://inspirehep.net/),
   [ADS](https://ui.adsabs.harvard.edu/)/[SciX](https://scixplorer.org/),
   [arXiv](http://www.arxiv.org/)
@@ -30,7 +30,7 @@ layout: default
   [Deepseek](https://chat.deepseek.com/)
 - [smallpdf](http://smallpdf.com/),
   [iLoveIMG](https://www.iloveimg.com/remove-background),
-  [kdocs](https://www.kdocs.cn/latest) ([RT](https://www.kdocs.cn/p/71506069640), [log](https://www.kdocs.cn/l/cnOUaHxkN2j3), [arXiv](https://www.kdocs.cn/l/cvpIw1DlzRGF)),
+  [kdocs](https://www.kdocs.cn/latest) ([RT](https://www.kdocs.cn/p/71506069640)),
   [time.is](https://time.is/),
   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)
 - [feedReader](http://feedreader.com/online/),
