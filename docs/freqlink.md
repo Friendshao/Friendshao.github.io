@@ -11,7 +11,7 @@ layout: default
 
 **Academics**
 
-- [rili](https://rili.wps.cn/), [todo](https://todo.wps.cn/?groupId=11089144), [myADS](https://ui.adsabs.harvard.edu/public-libraries/pf-rWvqJQp63DLo0Z9UZ-Q), [fullADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g), [Inspire](https://inspirehep.net/authors/1061576?ui-citation-summary=true)
+- [rili](https://rili.wps.cn/), [todo](https://todo.wps.cn/?groupId=11089144), [myADS](https://ui.adsabs.harvard.edu/public-libraries/pf-rWvqJQp63DLo0Z9UZ-Q)/[SciX](https://scixplorer.org/public-libraries/-6macw2ETfyZcR0PdLW7mQ), [fullADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g)/[SciX](https://scixplorer.org/public-libraries/oitWa2aKQFSWNrXK1vqbMA), [Inspire](https://inspirehep.net/authors/1061576?ui-citation-summary=true)/[myInspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Lijing.Shao.1%20AND%20not%20CN%3A%2A&ui-citation-summary=true)
 - [Inspirehep](http://inspirehep.net/),
   [ADS](https://ui.adsabs.harvard.edu/)/[SciX](https://scixplorer.org/),
   [arXiv](http://www.arxiv.org/)
