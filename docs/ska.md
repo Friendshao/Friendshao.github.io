@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<big><big><big> **SKA专项：脉冲星理论研究支撑**
+<big><big><big> **SKA专项：脉冲星理论研究支撑** </big></big></big>
 
 <p></p>
 
-<big><big> **第一标注**
+<big><big> **第一标注** </big></big>
 
 <!-- 0. Huang, C., **Zheng, X.-P.**, 2025, [Bayesian Insights into post-Glitch Dynamics: Model comparison and parameter constraint from decades long observation data of the Crab pulsar]() -->
 
