@@ -59,11 +59,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Inferring neutron-star Love-Q
 relations from gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
-parameter-estimation biases in overlapping gravitational-wave signals: detector
-network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
-
 0. J.-C. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, S. Cao, J. Jiang, Y.
 Liu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Q.-H. Cao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -84,6 +79,11 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
+parameter-estimation biases in overlapping gravitational-wave signals: detector
+network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* (accepted), arXiv:2509.07737
 
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, W. Hong, B. Hu, Y.-M. Hu, F.P. Huang, S.-J.
