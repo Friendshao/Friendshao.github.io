@@ -10,7 +10,7 @@ layout: default
 
 <!-- 0. Huang, C., **Zheng, X.-P.**, 2025, [Bayesian Insights into post-Glitch Dynamics: Model comparison and parameter constraint from decades long observation data of the Crab pulsar]() -->
 
-<!-- 0. Amat, O., Nurmamat, N., **Huang, Y.-F.**, Li, C.-M., Geng, J.-J., Hu, C.-R., Zou, Z.-C., Dong, X.-F., Deng, C., Xu, F., Zhang, X.-l., Du, C., 2025, [Axial current as the origin of quantum intrinsic orbital angular momentum](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112i1902A/abstract), PhRvD, 112, 091902 -->
+0. **Xia, C.**, **Lai, X.**, Xu, R., 2025, [Strange matter](https://ui.adsabs.harvard.edu/abs/2025IJMPA..4050180X/abstract), IJMPA, 40, 2550180
 
 0. Luo, J., Liang, D., **Shao, L.**, 2025, [Constraining fermionic dark matter with galactic neutron stars](https://ui.adsabs.harvard.edu/abs/2025PDU....5002163L/abstract), PDU, 50, 102163
 
@@ -303,6 +303,16 @@ layout: default
 
 
 <big><big> **其他标注**
+
+0. Hu, Z., Doneva, D. D., Wang, Z., Paschalidis, V., Bozzola, G., Yazadjiev, S., **Shao, L.**, 2025, [Ringdown mode amplitudes of charged binary black holes](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112l4071H/abstract), PhRvD, 112, 124071
+
+0. Abbate, F., Carleo, A., Chatterjee, S., Cordes, J., Demorest, P., Desvignes, G., Eatough, R., Hackmann, E., Hu, Z., Kramer, M., Lazio, J., Lee, K. J., Liu, K., Rammala-Zitha, I., Ransom, S., Saowanit, G., **Shao, L.**, Torne, P., Wharton, R., Wongphechauxsorn, J., Zhu, W., 2025, [Galactic Centre Pulsars with the SKAO](https://ui.adsabs.harvard.edu/abs/2025OJAp....854252A/abstract), OJAp, 8, 154252
+
+0. Venkatraman Krishnan, V., **Shao, L.**, Balakrishnan, V., Colom i Bernadich, M., Carleo, A., Deller, A., Corongiu, A., Freire, P., Geyer, M., Hackmann, E., Hu, H., Hu, Z., Kunz, J., Kramer, M., Liu, K., Lower, M., Miao, X., Possenti, A., Perrodin, D., Pillay, D., Ransom, S., Stairs, I., Stappers, B., 2025, [Testing Gravity with Binary Pulsars in the SKA Era](https://ui.adsabs.harvard.edu/abs/2025OJAp....854246V/abstract), OJAp, 8, 154246
+
+0. Bramante, J., Mack, K., Raj, N., **Shao, L.**, Tyagi, N., 2025, [Seeking the nearest neutron stars using a new local electron density map](https://ui.adsabs.harvard.edu/abs/2025JCAP...12..051B/abstract), JCAP, 2025, 051
+
+0. Meng, L., Freire, P. C. C., Stovall, K., Wex, N., Miao, X., Zhu, W., Kramer, M., Cordes, J. M., Hu, H., Jiang, J., Parent, E., **Shao, L.**, Stairs, I. H., Xue, M., Brazier, A., Camilo, F., Champion, D. J., Chatterjee, S., Crawford, F., Fang, Z., Fu, Q., Guo, Y., Hessels, J. W. T., MacLaughlin, M., Miao, C., Niu, J., Wu, Z., Yao, J., Yuan, M., Yue, Y., Zhang, C., 2025, [The double neutron star PSR J1946+2052: I. Masses and tests of general relativity](https://ui.adsabs.harvard.edu/abs/2025A%26A...704A.153M/abstract), A&A, 704, A153
 
 0. Liu, W., Dong, Y., Wang, Z., **Shao, L.**, 2025, [Lightweight posterior construction for gravitational-wave catalogs with the Kolmogorov-Arnold network](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112l2003L/abstract), PhRvD, 112, 122003
 
