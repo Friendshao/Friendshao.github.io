@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (174) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (183) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (184) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1128,6 +1128,10 @@ Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:25
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
+
+0. J.L. Gómez, *et al.* (EHT Collaboration), [Spatially resolved polarization
+swings in the supermassive binary black hole candidate OJ 287 with first Event
+Horizon Telescope observations](https://doi.org/10.1051/0004-6361/202555831), *Astron. & Astrophys.* 705 (2026) A23
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [Horizon-scale variability of M87* from
 2017-2021 EHT observations](https://arxiv.org/abs/2509.24593),
