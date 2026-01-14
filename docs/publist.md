@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (174) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (182) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (183) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1033,6 +1033,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
+Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
+IceCube During the Third Observing Run of LIGO and
+Virgo](https://arxiv.org/abs/2601.07595), arXiv:2601.07595
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 gravitational waves from the 2024 Vela pulsar
