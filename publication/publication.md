@@ -46,7 +46,7 @@ tr:nth-child(odd) {
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
 gravitational-wave ringdown analysis with multiple
-modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (submitted), arXiv:2502.01093
+modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published 
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2502.01093" data-style="small_rectangle"></span>
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font

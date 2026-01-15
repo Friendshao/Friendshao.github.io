@@ -70,12 +70,6 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Linear analysis of I-C-Love
 universal relations for neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 
-0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
-color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
-gravitational-wave ringdown analysis with multiple
-modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
-
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
@@ -94,14 +88,6 @@ J.  Mei<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Fundamental Physics
 and Cosmology with TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.
 Relativ.* (accepted), arXiv:2502.20138
 
-0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-D. Liu, Y.-W. Yu, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
-[Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
-Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys.* (accepted),
-arXiv:2508.18940
-
 0. G. Desvignes<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.P.
 Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K. Liu, **L. Shao**, P.
 Torne, R. S. Wharton, [A survey for radio pulsars and transients in the 10
@@ -113,6 +99,19 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
 [Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent
 spectra and lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
+color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
+gravitational-wave ringdown analysis with multiple
+modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published 
+
+0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, L.-D. Liu, Y.-W. Yu, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>,
+[Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
+Gravitational-Wave Emission and High-Energy Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys.* 26 (2026) 035013
 
 0. R. Xu<font color="#5c5c5c"><sup>(#)</sup></font>, D. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, L. Andersson, P. Amaro-Seoane, **L.
