@@ -1066,11 +1066,6 @@ dark-matter search with gravitational-wave interferometers using data from the
 first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2510.27022), arXiv:2510.27022
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directional Search
-for Persistent Gravitational Waves: Results from the First Part of
-LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487),
-arXiv:2510.17487
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directed searches
 for gravitational waves from ultralight vector boson clouds around merger
 remnant and galactic black holes during the first part of the fourth
@@ -1092,6 +1087,10 @@ Transients](https://arxiv.org/abs/2508.18081), arXiv:2508.18081
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
 astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directional Search
+for Persistent Gravitational Waves: Results from the First Part of
+LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17487
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Updating
 the Gravitational-Wave Transient Catalog with Observations from the First Part
