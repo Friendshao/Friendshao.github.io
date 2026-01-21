@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (174) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (184) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (185) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1032,6 +1032,10 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. B. Georgiev, *et al.* (EHT Collaboration), [Locating the missing large-scale
+emission in the jet of M87* with short EHT
+baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
 
 0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
 Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
