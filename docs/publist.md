@@ -49,11 +49,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Novae breves from
 magnetar giant flares: Potential probes of neutron star
 crusts](https://arxiv.org/abs/TBA), arXiv:TBA
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, S.S. Yazadjiev, **L. Shao**,
-[Quasi-Normal Mode Ringing of Binary Black Hole Mergers in Scalar-Gauss-Bonnet
-Gravity](https://arxiv.org/abs/2511.20301), arXiv:2511.20301
-
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Detecting ultralight
 dark matter in the Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573), 
@@ -79,6 +74,11 @@ universal relations for neutron stars](https://arxiv.org/abs/2505.13110), arXiv:
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, S.S. Yazadjiev, **L. Shao**,
+[Quasi-Normal Mode Ringing of Binary Black Hole Mergers in Scalar-Gauss-Bonnet
+Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* (accepted), arXiv:2511.20301
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
