@@ -80,11 +80,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, S.S. Yazadjiev, **L. Shao**,
 [Quasi-Normal Mode Ringing of Binary Black Hole Mergers in Scalar-Gauss-Bonnet
 Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* (accepted), arXiv:2511.20301
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
-parameter-estimation biases in overlapping gravitational-wave signals: detector
-network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* (accepted), arXiv:2509.07737
-
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, W. Hong, B. Hu, Y.-M. Hu, F.P. Huang, S.-J.
 Huang, S.P. Kim, E.-K. Li, Y.-X. Liu, V. Milyukov, S. Pi, K. Postnov, M. Sasaki,
@@ -111,6 +106,11 @@ color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
 gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published 
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
+parameter-estimation biases in overlapping gravitational-wave signals: detector
+network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* 113 (2026) 023044
 
 0. J. Zhang<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, H.-B. Li<font
