@@ -67,13 +67,14 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Linear analysis of I-C-Love
-universal relations for neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
-
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Linear analysis of I-C-Love
+universal relations for neutron stars](https://arxiv.org/abs/2505.13110), *Phys.
+Rev. D* (accepted), arXiv:2505.13110
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D.D. Doneva<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, S.S. Yazadjiev, **L. Shao**,
