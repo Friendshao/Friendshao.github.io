@@ -1126,10 +1126,6 @@ arXiv:2508.20721
 investigation of a loud gravitational-wave signal observed with a single
 detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), arXiv:2509.07348
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Black Hole
-Spectroscopy and Tests of General Relativity with
-GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* (accepted), arXiv:2509.08099
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
@@ -1137,6 +1133,10 @@ Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:25
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Black Hole
+Spectroscopy and Tests of General Relativity with
+GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* 136 (2026) 041403
 
 0. J.L. Gómez, *et al.* (EHT Collaboration), [Spatially resolved polarization
 swings in the supermassive binary black hole candidate OJ 287 with first Event
