@@ -1108,11 +1108,6 @@ the Gravitational-Wave Transient Catalog with Observations from the First Part
 of the Fourth LIGO-Virgo-KAGRA Observing
 Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* (accepted), arXiv:2508.18082
 
-0. Saurabh, *et al.* (EHT Collaboration), [Probing jet base emission of M87*
-with the 2021 Event Horizon Telescope
-observations](https://arxiv.org/abs/2512.08970),
-*Astron. & Astrophys.* (accepted), arXiv:2512.08970
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave transients in the first part of the fourth
 LIGO-Virgo-KAGRA Observing run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* (accepted), arXiv:2507.12282
@@ -1133,6 +1128,11 @@ Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:25
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
+
+0. Saurabh, *et al.* (EHT Collaboration), [Probing jet base emission of M87*
+with the 2021 Event Horizon Telescope
+observations](https://arxiv.org/abs/2512.08970),
+*Astron. & Astrophys.* 706 (2026) A27
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Black Hole
 Spectroscopy and Tests of General Relativity with
