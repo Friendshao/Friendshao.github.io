@@ -23,7 +23,7 @@ layout: default
        </td>
 
        <td style="background-color:white; border: none">            
-         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (38)<br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (39)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (18)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (14)
        </td>
@@ -1985,6 +1985,12 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, white papers, and more**
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, K. Fu, H. Li, X. Zhu, Y.
+Liu, **L. Shao**, J. Ye, Z. Wang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing RLVR training instability
+through the lens of objective-level hacking](https://arxiv.org/abs/2602.01103),
+arXiv:2602.01103
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Hu,
 [Fundamental Physics with Pulsars around Sagittarius A*](https://arxiv.org/abs/2508.09931),
