@@ -96,17 +96,17 @@ Torne, R. S. Wharton, [A survey for radio pulsars and transients in the 10
 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 <i>Astron. & Astrophys.</i> (accepted), arXiv:2507.08534
 
-0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
-[Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent
-spectra and lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
-
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
 gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published 
+
+0. Y. Kang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J.-P. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Zhong, J. Zhang, B. Zhang,
+[Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent
+spectra and lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* 706 (2026) A106
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Anatomy of
