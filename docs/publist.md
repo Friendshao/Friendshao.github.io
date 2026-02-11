@@ -1091,13 +1091,13 @@ Propagation](https://arxiv.org/abs/2509.04348), arXiv:2509.04348
 Population Properties of Merging Compact
 Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
-for Identifying and Characterizing Gravitational-wave
-Transients](https://arxiv.org/abs/2508.18081), arXiv:2508.18081
-
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
 astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
+for Identifying and Characterizing Gravitational-wave
+Transients](https://arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* (accepted), arXiv:2508.18081
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directional Search
 for Persistent Gravitational Waves: Results from the First Part of
