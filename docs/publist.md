@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (175) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (178) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (185) </small>
        </td>
  
@@ -42,6 +42,22 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
+Black Hole Timing Model](TBA), arXiv:TBA
+
+0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
+Fang, Y. Kang, B. Liu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [An Enhanced Formation Channel for
+Galactic Dual-Line Gravitational-Wave Sources: von1 Zeipel-Lidov-Kozai effect in
+Triples Involving Sgr A*](TBA), arXiv:TBA
+
+0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
+Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
+Shao**, Y. Guo, D.J. Champion, [Improved proper motion and gravity tests with
+PSR J1913+1102](TBA), arXiv:TBA
 
 0. J. Zhong<font color="#5c5c5c"><sup>(#)</sup></font>, Q.-H. Chen, Y. Kang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-B. Li, J. Zhang, M.-H. Chen, **L.
