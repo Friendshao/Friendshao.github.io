@@ -28,7 +28,7 @@ tr:nth-child(odd) {
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
 | 2029 | &#9975; Z. Zhang <small>(张泽)</small><br>&#9975; J. Yu <small>(于江川)</small> | | | |
-| 2028 | &#9975; Z. Wang <small>(王子铭)</small><br>&#9975; Y. Dong <small>(董益铭)</small> | | | |
+| 2028 | &#9975; Z. Wang <small>(王子铭)</small><br>&#9975; Y. Dong <small>(董益铭)</small> | | | &#9975; S. Bhattacharya<sup>$\ast$</sup></small> |
 | 2027 | &#9975; Y. Kang <small>(康亚城)</small><br>&#9975; Z. Hu <small>(胡泽昕)</small><br>&#9975; P. Ji <small>(姬佩祥)</small> | | &#9975; T. Yu <small>(俞天麒)</small><br>&#9975; Y. Tao <small>(陶昱锦)</small> | &#9975; H. Wang <small>(王晗)<sup>$\ast$</sup></small> |
 | 2026 | | &#9975; P. Zhang <small>(张璞玉)</small> | &#9975; J. Deng <small>(邓锦文)</small><br>&#9975; J. Zhong <small>(钟佳航)<sup>$\ast$</sup></small><br>&#9975; J. Zhang <small>(张景灏)</small><br>&#9975; Z. Zheng <small>(郑智豪)</small> | &#9975; W. Feng <small>(冯文凡)</small> |
 | 2025 | | Y. Yang <small>(杨一秋)</small> | W. Liu <small>(刘文帅)</small><br>K. Chu <small>(楚开尧)</small><br>Y. Yang <small>(杨奕博)</small><br>Y. Zhang <small>(张逸伦)</small> | |
