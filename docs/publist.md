@@ -51,7 +51,7 @@ Black Hole Timing Model](TBA), arXiv:TBA
 Fang, Y. Kang, B. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [An Enhanced Formation Channel for
 Galactic Dual-Line Gravitational-Wave Sources: von1 Zeipel-Lidov-Kozai effect in
-Triples Involving Sgr A*](TBA), arXiv:TBA
+Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), arXiv:2602.10928
 
 0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
 Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
