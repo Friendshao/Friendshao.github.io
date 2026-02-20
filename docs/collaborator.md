@@ -42,6 +42,7 @@ layout: default
 | [**Wex, Norbert**](https://www3.mpifr-bonn.mpg.de/staff/nwex/index.html) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
 | [**Xu, Ren-Xin**](https://psr.pku.edu.cn/rxx/) | Peking University | Beijing | China |
 | [**Xu, Rui**](https://ryxxastroat.github.io/) | <font color="gray"><i>Left Academia</i></font> | Beijing | China |
+| [**Yazadjiev, Stoytcho**](https://relativity.phys.uni-sofia.bg/CV_SSY.html) | St. Kliment Ohridski University of Sofia | Sofia | Bulgaria |
 | [**Yim, Garvin**](https://garvinyim.wixsite.com/home) | <font color="gray"><i>Left Academia</i></font> | Southampton &nbsp; | Britain |
 | [**Zhang, Bing**](https://www.scifac.hku.hk/people/zhang-bing) | The University of Hong Kong | Hong Kong | China |
 | [**Zhao, Junjie**](https://www.hnskxy.com/igwa/info/1033/1020.htm) | Henan Academy of Sciences | Zhengzhou | China |
