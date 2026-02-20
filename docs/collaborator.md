@@ -22,9 +22,11 @@ layout: default
 | [**Doneva, Daniela**](https://producciocientifica.uv.es/investigadores/2188910/detalle) | Universitat de València | Valencia | Spain |
 | [**Dong, Yiming**](https://orcid.org/0000-0001-5371-4697) | Peking University | Beijing | China |
 | [**Eatough, Ralph**](https://www3.mpifr-bonn.mpg.de/staff/reatough/) | National Astronomical Observatories | Beijing | China
+| [**Feng, Wen-Fan**](https://inspirehep.net/authors/2592240) | Peking University | Beijing | China |
 | [**Freire, Paulo**](https://www3.mpifr-bonn.mpg.de/staff/pfreire/) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
 | [**Gao, Yong**](https://gravyong.github.io/) | Albert Einstein Institute | Potsdam | Germany |
 | [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) | Peking University | Beijing | China |
+| [**Ji, Peixiang**](https://orcid.org/0009-0007-1101-5020) | Peking University | Beijing | China |
 | [**Kang, Yacheng**](https://astrokang.github.io/) | Peking University | Beijing | China |
 | [**Kazempour, Sobhan**](https://inspirehep.net/authors/1864329) | Beijing Institute of Technology | Beijing | China |
 | [**Kramer, Michael**](http://www3.mpifr-bonn.mpg.de/staff/mkramer/About_Me.html) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
