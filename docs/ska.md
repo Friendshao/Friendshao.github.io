@@ -26,7 +26,7 @@ layout: default
 
 0. Liu, L.-D., Zhang, Y.-H., **Yu, Y.-W.**, Du, Z.-X., Li, J.-Y., Wu, G.-L., **Dai, Z.-G.**, 2025, [TransFit: An Efficient Framework for Transient Light-curve Fitting with Time-dependent Radiative Diffusion](https://ui.adsabs.harvard.edu/abs/2025ApJ...992...20L/abstract), ApJ, 992, 20
 
-0. Wang, M., Liu, P., Yuan, J., **Li, A.**, Tuo, Y., Dang, S., Wang, W., Ge, M., Zhou, X., Wang, N., 2025, [Discovery of the Antiglitch in PSR J1835-1106](https://ui.adsabs.harvard.edu/abs/2025ApJ...991L..18W/abstract), ApJL, 991, L18
+0. Kang, Y., Zhu, J.-P., **Shao, L.**, Zhong, J., Zhang, J., Zhang, B., 2026, [Mini-supernovae from white dwarf─neutron star mergers: Viewing-angle-dependent spectra and light curves](https://ui.adsabs.harvard.edu/abs/2026A%26A...706A.106K/abstract), A&A, 706, A106
 
 0. Wu, G.-L., **Yu, Y.-W.**, Liu, L.-D., **Dai, Z.-G.**, Lei, W.-H., Wu, X.-F., Xu, D., Zhang, B., Zhu, J.-P., Zou, Y.-C., 2025, [EP241021a: A Catastrophic Collapse/Merger of Compact Star Binary Leading to the Formation of a Remnant Millisecond Magnetar?](https://ui.adsabs.harvard.edu/abs/2025ApJ...991..115W/abstract), ApJ, 991, 1
 
@@ -78,7 +78,7 @@ layout: default
 
 0. Miao, Z., Qi, L., Zhang, J., **Li, A.**, Ge, M., 2024, [Thermal x-ray studies of neutron stars and the equation of state](https://ui.adsabs.harvard.edu/abs/2024PhRvD.109l3005M/abstract), PhRvD, 109, 123005
 
-0. Zhao, Z. Y., Chen, K., Wang, F. Y., **Dai, Z.-G.**, 2024, [Fast radio bursts in the discs of active galactic nuclei](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.1644Z/abstract), MNRAS, 530, 1644
+0. Huang, Y.-C., **Dai, Z.-G.**, 2024, [Fast Radio Bursts with Narrow Beaming Angles Can Escape from Magnetar Magnetospheres](https://ui.adsabs.harvard.edu/abs/2024ApJ...975..226H/abstract), ApJ, 975, 226
 
 0. Chen, Y., **Tong, H.**, 2024, [A Generic Model for a Persistent Radio Source around Fast Radio Bursts](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..179C/abstract), ApJ, 966, 179
 
@@ -212,7 +212,7 @@ layout: default
 
 0. Miao, Z.-Q., **Xia, C.-J.**, **Lai, X.-Y.**, Maruyama, T., Xu, R.-X., **Zhou, E.-P.**, 2022, [A bag model of matter condensed by the strong interaction](https://ui.adsabs.harvard.edu/abs/2022IJMPE..3150037M/abstract), IJMPE, 31, 2250037
 
-0. **Tong, H.**, Liu, J., Wang, H. G., Yan, Z., 2022, [Three aspects of the radius-to-frequency mapping in fast radio bursts](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.5679T/abstract), MNRAS, 509, 5679
+0. Zhang, B., Zhong, S.-Q., Li, L., **Dai, Z.-G.**, 2024, [Signature of Triaxially Precessing Magnetars in Gamma-Ray Burst X-Ray Afterglows](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..206Z/abstract), ApJ, 977, 206
 
 0. Xu, F., Geng, J.-J., Wang, X., Li, L., **Huang, Y.-F.**, 2022, [Is the birth of PSR J0538+2817 accompanied by a gamma-ray burst?](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4916X/abstract), MNRAS, 509, 4916
 
@@ -311,6 +311,8 @@ layout: default
 0. Venkatraman Krishnan, V., **Shao, L.**, Balakrishnan, V., Colom i Bernadich, M., Carleo, A., Deller, A., Corongiu, A., Freire, P., Geyer, M., Hackmann, E., Hu, H., Hu, Z., Kunz, J., Kramer, M., Liu, K., Lower, M., Miao, X., Possenti, A., Perrodin, D., Pillay, D., Ransom, S., Stairs, I., Stappers, B., 2025, [Testing Gravity with Binary Pulsars in the SKA Era](https://ui.adsabs.harvard.edu/abs/2025OJAp....854246V/abstract), OJAp, 8, 154246
 
 0. Bramante, J., Mack, K., Raj, N., **Shao, L.**, Tyagi, N., 2025, [Seeking the nearest neutron stars using a new local electron density map](https://ui.adsabs.harvard.edu/abs/2025JCAP...12..051B/abstract), JCAP, 2025, 051
+
+0. Wang, M., Liu, P., Yuan, J., **Li, A.**, Tuo, Y., Dang, S., Wang, W., Ge, M., Zhou, X., Wang, N., 2025, [Discovery of the Antiglitch in PSR J1835-1106](https://ui.adsabs.harvard.edu/abs/2025ApJ...991L..18W/abstract), ApJL, 991, L18
 
 0. Meng, L., Freire, P. C. C., Stovall, K., Wex, N., Miao, X., Zhu, W., Kramer, M., Cordes, J. M., Hu, H., Jiang, J., Parent, E., **Shao, L.**, Stairs, I. H., Xue, M., Brazier, A., Camilo, F., Champion, D. J., Chatterjee, S., Crawford, F., Fang, Z., Fu, Q., Guo, Y., Hessels, J. W. T., MacLaughlin, M., Miao, C., Niu, J., Wu, Z., Yao, J., Yuan, M., Yue, Y., Zhang, C., 2025, [The double neutron star PSR J1946+2052: I. Masses and tests of general relativity](https://ui.adsabs.harvard.edu/abs/2025A%26A...704A.153M/abstract), A&A, 704, A153
 
@@ -435,6 +437,8 @@ layout: default
 0. Wang, H.-T., Yim, G., Chen, X., **Shao, L.**, 2024, [Gravitational Wave Ringdown Analysis Using the F-statistic](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..230W/abstract), ApJ, 974, 230
 
 0. Deng, C., **Huang, Y.-F.**, Du, C., Wang, P., **Dai, Z.-G.**, 2024, [On the Dynamical Evolution of the Asteroid Belt in a Massive Star–Neutron Star Binary](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..215D/abstract), ApJ, 974, 215
+
+0. Zhao, Z. Y., Chen, K., Wang, F. Y., **Dai, Z.-G.**, 2024, [Fast radio bursts in the discs of active galactic nuclei](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.1644Z/abstract), MNRAS, 530, 1644
 
 0. Zhu, J.-P., Hu, R.-C., Kang, Y., Zhang, B., Tong, H., **Shao, L.**, Qin, Y., 2024, [Formation of GW230529 from Isolated Binary Evolution](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..211Z/abstract), ApJ, 974, 211 
 
@@ -629,6 +633,8 @@ layout: default
 0. Liang, D., Xu, R., Mai, Z.-F., **Shao, L.**, 2023, [Probing vector hair of black holes with extreme-mass-ratio inspirals](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107d4053L/abstract), PhRvD, 107, 044053
 
 0. Cheng, Q., **Zheng, X.-P.**, Fan, X.-L., Huang, X., 2023, [Gravitational Wave Radiation from Newborn Accreting Magnetars](https://ui.adsabs.harvard.edu/abs/2023RAA....23b5001C/abstract), RAA, 23, 025001
+
+0. **Tong, H.**, Liu, J., Wang, H. G., Yan, Z., 2022, [Three aspects of the radius-to-frequency mapping in fast radio bursts](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.5679T/abstract), MNRAS, 509, 5679
 
 0. Liang, D., Xu, R., Lu, X., **Shao, L.**, 2022, [Polarizations of gravitational waves in the bumblebee gravity model](https://ui.adsabs.harvard.edu/abs/2022PhRvD.106l4019L/abstract), PhRvD, 106, 124019
 
