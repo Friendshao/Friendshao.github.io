@@ -45,12 +45,12 @@ layout: default
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
-Black Hole Timing Model](TBA), arXiv:TBA
+Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Fang, Y. Kang, B. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [An Enhanced Formation Channel for
-Galactic Dual-Line Gravitational-Wave Sources: von1 Zeipel-Lidov-Kozai effect in
+Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in
 Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), arXiv:2602.10928
 
 0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
