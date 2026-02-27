@@ -62,8 +62,8 @@ $$\delta S = 0$$
 | | *鞠国兴，《理论力学学习指导与习题解析(第二版)》，2018* |
 | **教师** | 邵立晶；Office KIAA 217；lshao@pku.edu.cn | 
 | |【答疑时间】每周日13:00-14:00PM<font color="blue">（建议来前联系，以免空跑）</font> |
-| **单号班助教** |  胡泽昕，huzexin@pku.edu.cn |
-| **双号班助教** |   |
+| **单号班助教** |  胡泽昕，科维理所，huzexin@pku.edu.cn |
+| **双号班助教** |  祁昊洋，理科二号楼9楼，qhy021@pku.edu.cn |
 | **习题课** | 周一1-2节(双)，理教309 |
 | <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AA6ECB2B7DD4C244889D55C713342982DA) （倘若打开有误，请尝试重新刷新） |
 
