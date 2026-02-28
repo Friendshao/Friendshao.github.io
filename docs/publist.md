@@ -23,9 +23,9 @@ layout: default
        </td>
 
        <td style="background-color:white; border: none">            
-         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (39)<br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (27)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (18)<br>
-         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (14)
+         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (26)
        </td>
 
      </tr>
@@ -2012,17 +2012,6 @@ arXiv:2602.01103
 [Fundamental Physics with Pulsars around Sagittarius A*](https://arxiv.org/abs/2508.09931),
 <i>J. Phys. Conf. Ser.</i> (accepted), arXiv:2508.09931
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
-the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
-
-0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
-Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
-Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
-
-0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
-Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
 deci-Hertz gravitational waves over the
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
@@ -2074,60 +2063,6 @@ Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8),  *Nat. Astron.* 6 (2
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [General
 relativity withstands double pulsar's
 scrutiny](https://physics.aps.org/articles/v14/173), *Physics* 14 (2021) 173
-
-0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
-Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
-Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Weir, [Legacy of the first
-workshop on Gravitational Wave Astrophysics for Early Career
-Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
-
-0. V. Kalogera<font color="#5c5c5c"><sup>(#)</sup></font>, B.S. Sathyaprakash,
-M. Bailes, M.-A.  Bizouard, A. Buonanno, A.
-Burrows, M. Colpi, M. Evans, S. Fairhurst, S. Hild, M.M. Kasliwal, L. Lehner, I.
-Mandel, V. Mandic, S. Nissanke, M.A. Papa, S. Reddy, S.  Rosswog, C. Van Den
-Broeck, P. Ajith, S. Anand, I. Andreoni, K.G.  Arun, E. Barausse, M. Baryakhtar,
-E. Belgacem, C.P.L.  Berry, D. Bertacca, R. Brito, C. Caprini, K.
-Chatziioannou, M. Coughlin, G. Cusin, T. Dietrich, Y. Dirian, W.E. East, X. Fan,
-D. Figueroa, S. Foffa, A. Ghosh, E. Hall, J. Harms, I. Harry, T. Hinderer, T.
-Janka, S.  Justham, D. Kasen, K. Kotake, G. Lovelace, M. Maggiore, A.
-Mangiagli, M. Mapelli, A. Maselli, A. Matas, J. McIver, B. Messer, T.
-Mezzacappa, C. Mills, B. Mueller, E.  Müller, M. Pürrer, P. Pani, G. Pratten, T.
-Regimbau, M. Sakellariadou, R. Schneider, A. Sesana, **L. Shao**, P.T.
-Sotiriou, N. Tamanini, T. Tauris, E. Thrane, R. Valiante, M. van de Meent, V.
-Varma, J. Vines, S. Vitale, H. Yang, N. Yunes, M. Zumalacarregui, M. Punturo, D.
-Reitze, P.  Couvares, S. Katsanevas, T. Kajita, H. Lueck, D. McClelland, S.
-Rowan, G. Sanders, D. Shoemaker, J. van den Brand, [The next generation global
-gravitational wave observatory: the science
-book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
-
-0. B. Altschul, J. Díaz, J.P. Harding, T. Katori, B. Keating, F. Kislat, A.
-Kostelecký, H. Krawczynski, R. Lehnert<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Mészáros, M. Mewes, D.F.
-Phillips, M. Schreck, **L. Shao**, J. Tasson, R. Walsworth, [Probes of Lorentz
-and CPT symmetry with particles and radiation of astrophysical
-origin](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF0-208.pdf),
-Letter of Interest for Snowmass2021
-
-0. K. Jani, *et al.*, [A deci-Hz Gravitational-Wave Lunar Observatory for
-Cosmology](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF6_CF5_Karan_Jani-239.pdf),
-Letter of Interest for Snowmass2021
-
-0. P. Laguna, G. Lovelace, H. Witek, *et al.*, [Numerical relativity for
-next-generation gravitational-wave probes of fundamental
-physics](https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-CF7_CF0-080.pdf),
-Letter of Interest for Snowmass2021
-
-0. E. Berti, V. Cardoso, B. Sathyaprakash, N. Yunes, *et al.*, [Fundamental
-physics with gravitational wave
-detectors](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF3-TF9_TF10_Emanuele_Berti-044.pdf),
-Letter of Interest for Snowmass2021
-
-0. S. Mukherjee, A. Palmese, T. Baker, T.D.P. Edwards, Z. Haiman, R. Caldwell,
-*et al.*, [Multi-messenger Probes of Cosmology and Fundamental Physics using
-Gravitational
-Waves](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF6-TF9_TF0_SnowMass_2021_Multi_Messenger_Cosmology-143.pdf),
-Letter of Interest for Snowmass2021
 
 0. Y. Gao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**,
 [Precession of triaxially deformed neutron
@@ -2184,35 +2119,6 @@ with the ngVLA](https://arxiv.org/abs/1810.06623), in *Science with a Next
 Generation Very Large Array* (ASP Conference Series, San Francisco, 2018),
 p.793
 
-0. D. Muna<font color="#5c5c5c"><sup>(#)</sup></font>, M. Alexander, A.
-Allen, R. Ashley, D. Asmus, R. Azzollini, M. Bannister, R. Beaton, A.
-Benson, G.B. Berriman, M. Bilicki, P. Boyce, J. Bridge, J. Cami, E. Cangi,
-X. Chen, N. Christiny, C. Clark, M. Collins, J.C. Comparat, D. Croton, I.
-Delberth Davids, É. Depagne, J. Donor, L.A. dos Santos, S. Douglas, A. Du,
-M. Durbin, D. Erb, D. Faes, J.G. Fernández-Trincado, A. Foley, S.
-Fotopoulou, S. Frimann, P. Frinchaboy, R. Garcia-Dias, A. Gawryszczak, E.
-George, S. Gonzalez, K. Gordon, N. Gorgone, C. Gosmeyer, K. Grasha, P.
-Greenfield, R. Grellmann, J. Guillochon, M. Gurwell, M. Haas, A. Hagen, D.
-Haggard, T. Haines, P. Hall, W. Hellwing, E.C. Herenz, S. Hinton, R.
-Hlozek, J. Hoffman, D. Holman, B.W. Holwerda, A. Horton, C. Hummels, D.
-Jacobs, J. Juel Jensen, D. Jones, A. Karick, L. Kelley, M. Kenworthy, B.
-Kitchener, D. Klaes, S. Kohn, P. Konorski, C. Krawczyk, K. Kuehn, T.
-Kuutma, M.T. Lam, R. Lane, J. Liske, D. Lopez-Camara, K. Mack, S. Mangham,
-Q. Mao, D.J.E. Marsh, C. Mateu, L. Maurin, J. McCormac, I. Momcheva, H.
-Monteiro, M. Mueller, R. Munoz, R. Naidu, N. Nelson, C. Nitschelm, C.
-North, J. Nunez-Iglesias, S. Ogaz, R. Owen, J. Parejko, V. Patrício, J.
-Pepper, M. Perrin, T. Pickering, J. Piscionere, R. Pogge, R. Poleski, A.
-Pourtsidou, A.M. Price-Whelan, M.L. Rawls, S. Read, G. Rees, H. Rein, T.
-Rice, S. Riemer-Sørensen, N. Rusomarov, S.F. Sanchez, M. Santander-García,
-G. Sarid, W. Schoenell, A. Scholz, R.L. Schuhmann, W. Schuster, P.
-Scicluna, M. Seidel, **L. Shao**, P. Sharma, A. Shulevski, D. Shupe, C.
-Sifón, B. Simmons, M. Sinha, I. Skillen, B. Soergel, T. Spriggs, S.
-Srinivasan, A. Stevens, O. Streicher, E. Suchyta, J. Tan, O.G. Telford, R.
-Thomas, C. Tonini, G. Tremblay, S. Tuttle, T. Urrutia, S. Vaughan, M.
-Verdugo, A. Wagner, J. Walawender, A. Wetzel, K. Willett, P.K.G. Williams,
-G. Yang, G. Zhu, A. Zonca, [The astropy
-problem](https://arxiv.org/abs/1610.03159), arXiv:1610.03159
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
 [Experimental studies on the Lorentz symmetry in post-Newtonian gravity
 with pulsars](http://dx.doi.org/10.3390/universe2040029), *Universe* 2 (2016) 29
@@ -2239,10 +2145,6 @@ M. Kramer, [New tests of local Lorentz invariance and local position
 invariance of gravity with pulsars](https://arxiv.org/abs/1211.6558), in
 *Proceedings of the Thirteenth Marcel Grossmann Meeting* (World Scientific, Singapore, 2015), p. 1704
 
-0. A. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Wang, **L.
-Shao**, R.-X. Xu, [The amount of crustal entrainment and the type of
-Vela-like pulsars](https://arxiv.org/abs/1406.4994), arXiv:1406.4994
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.
 Wex<font color="#5c5c5c"><sup>($\ast$)</sup></font>, M. Kramer<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [New constraints on preferred
@@ -2257,35 +2159,6 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 {: reversed="reversed"}
 
 <p></p>
-
-<!-- 
-0. H. Abe, *et al.* (KAGRA Collaboration), [Development of Gravity Field
-Calibrator for KAGRA](https://doi.org/10.22323/1.444.1550), *PoS* (ICRC2023)
-1550
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Calibration of the integrating
-sphere for O4 in KAGRA gravitational wave
-telescope](https://doi.org/10.22323/1.444.1553), *PoS* (ICRC2023) 1553
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Status of
-KAGRA](https://doi.org/10.22323/1.444.1555), *PoS* (ICRC2023) 1555
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Investigation of the environmental
-noise at KAGRA detector](https://doi.org/10.22323/1.444.1557), *PoS* (ICRC2023)
-1557
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Calibration of the gravitational
-wave telescope KAGRA](https://doi.org/10.22323/1.444.1549), *PoS* (ICRC2023)
-1549
-
-0. H. Abe, *et al.* (KAGRA Collaboration), [Detector characterization of KAGRA
-for the fourth observing run](https://doi.org/10.22323/1.444.1564), *PoS*
-(ICRC2023) 1564
-
-0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [The first joint
-observation by KAGRA with GEO 600](https://pos.sissa.it/444/1579), *PoS*
-(ICRC2023) 1579 
--->
 
 ---
 
@@ -2399,6 +2272,17 @@ LIGO / Virgo / KAGRA Science Summaries
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: M87* EHT image (Event Horizon Tel. Coll.+, 2024)](https://ui.adsabs.harvard.edu/abs/2024yCat..36810079E/abstract), VizieR On-line Data Catalog: J/A+A/681/A79
 
+0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
+the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
+
+0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
+Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
+Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
+
+0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
+Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
+
 0. Y. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Brown, **L.
 Shao**, W. Zhao, [Tests of gravitational-wave birefringence with the open
 gravitational-wave
@@ -2412,6 +2296,32 @@ April Meeting 2022, abstract id.Y16.001
 
 0. **邵立晶**, [宇宙舍利子](https://mp.weixin.qq.com/s/8eGjm3huO5pXU-tkywVCiw), 赛先生天文
 
+0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
+Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
+Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Weir, [Legacy of the first
+workshop on Gravitational Wave Astrophysics for Early Career
+Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
+
+0. V. Kalogera<font color="#5c5c5c"><sup>(#)</sup></font>, B.S. Sathyaprakash,
+M. Bailes, M.-A.  Bizouard, A. Buonanno, A.
+Burrows, M. Colpi, M. Evans, S. Fairhurst, S. Hild, M.M. Kasliwal, L. Lehner, I.
+Mandel, V. Mandic, S. Nissanke, M.A. Papa, S. Reddy, S.  Rosswog, C. Van Den
+Broeck, P. Ajith, S. Anand, I. Andreoni, K.G.  Arun, E. Barausse, M. Baryakhtar,
+E. Belgacem, C.P.L.  Berry, D. Bertacca, R. Brito, C. Caprini, K.
+Chatziioannou, M. Coughlin, G. Cusin, T. Dietrich, Y. Dirian, W.E. East, X. Fan,
+D. Figueroa, S. Foffa, A. Ghosh, E. Hall, J. Harms, I. Harry, T. Hinderer, T.
+Janka, S.  Justham, D. Kasen, K. Kotake, G. Lovelace, M. Maggiore, A.
+Mangiagli, M. Mapelli, A. Maselli, A. Matas, J. McIver, B. Messer, T.
+Mezzacappa, C. Mills, B. Mueller, E.  Müller, M. Pürrer, P. Pani, G. Pratten, T.
+Regimbau, M. Sakellariadou, R. Schneider, A. Sesana, **L. Shao**, P.T.
+Sotiriou, N. Tamanini, T. Tauris, E. Thrane, R. Valiante, M. van de Meent, V.
+Varma, J. Vines, S. Vitale, H. Yang, N. Yunes, M. Zumalacarregui, M. Punturo, D.
+Reitze, P.  Couvares, S. Katsanevas, T. Kajita, H. Lueck, D. McClelland, S.
+Rowan, G. Sanders, D. Shoemaker, J. van den Brand, [The next generation global
+gravitational wave observatory: the science
+book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
 0. 梁迪聪, **邵立晶** [翻译], [GEO-KAGRA O3
 观测运行的结果](https://www.ligo.org/science/Publication-O3GEO-KAGRA/translations/science-summary-chinese-simplified.pdf),
 LIGO / Virgo / KAGRA Science Summaries
@@ -2423,6 +2333,34 @@ LIGO / Virgo / KAGRA Science Summaries
 0. 刘畅, **邵立晶** [翻译], [GWTC-3, 引力波探测星表
 第3版](https://www.ligo.org/science/Publication-O3bCatalog/translations/science-summary-chinese-simplified.pdf),
 LIGO / Virgo / KAGRA Science Summaries
+
+0. B. Altschul, J. Díaz, J.P. Harding, T. Katori, B. Keating, F. Kislat, A.
+Kostelecký, H. Krawczynski, R. Lehnert<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Mészáros, M. Mewes, D.F.
+Phillips, M. Schreck, **L. Shao**, J. Tasson, R. Walsworth, [Probes of Lorentz
+and CPT symmetry with particles and radiation of astrophysical
+origin](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF0-208.pdf),
+Letter of Interest for Snowmass2021
+
+0. K. Jani, *et al.*, [A deci-Hz Gravitational-Wave Lunar Observatory for
+Cosmology](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF6_CF5_Karan_Jani-239.pdf),
+Letter of Interest for Snowmass2021
+
+0. P. Laguna, G. Lovelace, H. Witek, *et al.*, [Numerical relativity for
+next-generation gravitational-wave probes of fundamental
+physics](https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-CF7_CF0-080.pdf),
+Letter of Interest for Snowmass2021
+
+0. E. Berti, V. Cardoso, B. Sathyaprakash, N. Yunes, *et al.*, [Fundamental
+physics with gravitational wave
+detectors](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF3-TF9_TF10_Emanuele_Berti-044.pdf),
+Letter of Interest for Snowmass2021
+
+0. S. Mukherjee, A. Palmese, T. Baker, T.D.P. Edwards, Z. Haiman, R. Caldwell,
+*et al.*, [Multi-messenger Probes of Cosmology and Fundamental Physics using
+Gravitational
+Waves](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF6-TF9_TF0_SnowMass_2021_Multi_Messenger_Cosmology-143.pdf),
+Letter of Interest for Snowmass2021
 
 0. B.P. Abbott, *et al.* (LIGO / Virgo Collaboration), [VizieR Online Data
 Catalog: 2015-2017 LIGO obs. analysis for 221 pulsars (Abbott+,
@@ -2447,6 +2385,13 @@ Lazio, S.M. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA searches for
 pulsars at the Galactic
 center](http://adsabs.harvard.edu/abs/2019AAS...23336124D),
 *American Astronomical Society*, AAS Meeting no. 233, id. no. 361.24
+
+0. D. Muna<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.*, [The astropy
+problem](https://arxiv.org/abs/1610.03159), arXiv:1610.03159
+
+0. A. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Wang, **L.
+Shao**, R.-X. Xu, [The amount of crustal entrainment and the type of
+Vela-like pulsars](https://arxiv.org/abs/1406.4994), arXiv:1406.4994
 {: reversed="reversed"}
 
 
