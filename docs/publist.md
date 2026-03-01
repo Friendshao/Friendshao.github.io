@@ -2275,22 +2275,20 @@ LIGO / Virgo / KAGRA Science Summaries
 0. K. Akiyama, *et al.* (EHT Collaboration), [Mid-Range Science Objectives for
 the Event Horizon Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
-0. Z. Lyu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Measuring Mass Transfer Rates in
-Coalescing Neutron Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
+0. Z. Lyu, **L. Shao**, [Measuring Mass Transfer Rates in Coalescing Neutron
+Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
 0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
 
-0. Y. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S. Brown, **L.
-Shao**, W. Zhao, [Tests of gravitational-wave birefringence with the open
-gravitational-wave
+0. Y. Wang, S. Brown, **L.  Shao**, W. Zhao, [Tests of gravitational-wave
+birefringence with the open gravitational-wave
 catalog](https://ui.adsabs.harvard.edu/abs/2022APS..APRZ16006W/abstract), APS
 April Meeting 2022, abstract id.Z16.006
 
-0. Y. Izadi<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A.R. Akbarieh, S.
-Aslmarand, S. Kazempour, **L. Shao**, [Extended dRGT massive gravity via cubic
+0. Y. Izadi, A.R. Akbarieh, S.  Aslmarand, S. Kazempour, **L. Shao**, [Extended
+dRGT massive gravity via cubic
 Galileon](https://ui.adsabs.harvard.edu/abs/2022APS..APRY16001I/abstract), APS
 April Meeting 2022, abstract id.Y16.001
 
@@ -2298,13 +2296,11 @@ April Meeting 2022, abstract id.Y16.001
 
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
-Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Weir, [Legacy of the first
-workshop on Gravitational Wave Astrophysics for Early Career
+Shah, G. Shaifullah, **L. Shao**, L. Speri, N. Tamanini, D. Weir, [Legacy of the
+first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
-0. V. Kalogera<font color="#5c5c5c"><sup>(#)</sup></font>, B.S. Sathyaprakash,
-M. Bailes, M.-A.  Bizouard, A. Buonanno, A.
+0. V. Kalogera, B.S. Sathyaprakash, M. Bailes, M.-A.  Bizouard, A. Buonanno, A.
 Burrows, M. Colpi, M. Evans, S. Fairhurst, S. Hild, M.M. Kasliwal, L. Lehner, I.
 Mandel, V. Mandic, S. Nissanke, M.A. Papa, S. Reddy, S.  Rosswog, C. Van Den
 Broeck, P. Ajith, S. Anand, I. Andreoni, K.G.  Arun, E. Barausse, M. Baryakhtar,
@@ -2335,10 +2331,9 @@ LIGO / Virgo / KAGRA Science Summaries
 LIGO / Virgo / KAGRA Science Summaries
 
 0. B. Altschul, J. Díaz, J.P. Harding, T. Katori, B. Keating, F. Kislat, A.
-Kostelecký, H. Krawczynski, R. Lehnert<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, P. Mészáros, M. Mewes, D.F.
-Phillips, M. Schreck, **L. Shao**, J. Tasson, R. Walsworth, [Probes of Lorentz
-and CPT symmetry with particles and radiation of astrophysical
+Kostelecký, H. Krawczynski, R. Lehnert, P. Mészáros, M. Mewes, D.F.  Phillips,
+M. Schreck, **L. Shao**, J. Tasson, R. Walsworth, [Probes of Lorentz and CPT
+symmetry with particles and radiation of astrophysical
 origin](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF0-208.pdf),
 Letter of Interest for Snowmass2021
 
@@ -2372,26 +2367,24 @@ Event Horizon Telescope imaging (Kim+,
 2020)](https://ui.adsabs.harvard.edu/abs/2020yCat..36400069K/abstract), VizieR
 On-line Data Catalog: J/A+A/640/A69
 
-0. G. Bower<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, S.
-Chatterjee, J. Cordes, P. Demorest, J. Deneva, J. Dexter, R. Eatough, M.
-Kramer, T. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R. Wharton,
-[ngVLAKey Science Goal 4: Fundamental Physics with Galactic Center
+0. G. Bower, S.  Chatterjee, J. Cordes, P. Demorest, J. Deneva, J. Dexter, R.
+Eatough, M.  Kramer, T. Lazio, K. Liu, S. Ransom, **L. Shao**, N. Wex, R.
+Wharton, [ngVLAKey Science Goal 4: Fundamental Physics with Galactic Center
 Pulsars](https://ui.adsabs.harvard.edu/abs/2020AAS...23536421B/abstract),
 *American Astronomical Society*, AAS Meeting no. 235, id. no. 364.21
 
-0. P. Demorest<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, G.C.
-Bower, S. Chatterjee, J. Cordes, J. Deneva, J. Dexter, M. Kramer, T.J.W.
-Lazio, S.M. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA searches for
-pulsars at the Galactic
+0. P. Demorest, G.C.  Bower, S. Chatterjee, J. Cordes, J. Deneva, J. Dexter, M.
+Kramer, T.J.W.  Lazio, S.M. Ransom, **L. Shao**, N. Wex, R. Wharton, [ngVLA
+searches for pulsars at the Galactic
 center](http://adsabs.harvard.edu/abs/2019AAS...23336124D),
 *American Astronomical Society*, AAS Meeting no. 233, id. no. 361.24
 
-0. D. Muna<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.*, [The astropy
-problem](https://arxiv.org/abs/1610.03159), arXiv:1610.03159
+0. D. Muna, *et al.*, [The astropy problem](https://arxiv.org/abs/1610.03159),
+arXiv:1610.03159
 
-0. A. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, J. Wang, **L.
-Shao**, R.-X. Xu, [The amount of crustal entrainment and the type of
-Vela-like pulsars](https://arxiv.org/abs/1406.4994), arXiv:1406.4994
+0. A. Li, J. Wang, **L.  Shao**, R.-X. Xu, [The amount of crustal entrainment
+and the type of Vela-like pulsars](https://arxiv.org/abs/1406.4994),
+arXiv:1406.4994
 {: reversed="reversed"}
 
 
