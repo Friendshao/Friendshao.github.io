@@ -1060,11 +1060,6 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 emission in the jet of M87* with short EHT
 baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
 
-0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
-Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
-IceCube During the Third Observing Run of LIGO and
-Virgo](https://arxiv.org/abs/2601.07595), arXiv:2601.07595
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 gravitational waves from the 2024 Vela pulsar
 glitch](https://arxiv.org/abs/2512.17990), arXiv:2512.17990
@@ -1110,6 +1105,11 @@ Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
 astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
+
+0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
+Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
+IceCube During the Third Observing Run of LIGO and
+Virgo](https://arxiv.org/abs/2601.07595), *Astrophys. J.* (accepted), arXiv:2601.07595
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
 for Identifying and Characterizing Gravitational-wave
