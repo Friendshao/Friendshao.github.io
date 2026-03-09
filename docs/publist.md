@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (178) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (185) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (186) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1105,6 +1105,10 @@ Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
 astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
+
+0. E. Albentosa-Ruiz, *et al.* (EHT Collaboration), [Full-polarization
+millimeter wavelength variability of Sagittarius A* during the 2018 EHT
+campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.* (accepted)
 
 0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
 Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
