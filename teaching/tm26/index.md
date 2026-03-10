@@ -73,7 +73,7 @@ $$\delta S = 0$$
 
 | **内容** | **备注** |
 | 0. 课程介绍 | |
-| 1. 拉格朗日力学延伸 | HW1 (ddl: )<br>HW2 (ddl: ) |
+| 1. 拉格朗日力学延伸 | HW1 (ddl: Mar 23)<br>HW2 (ddl: ) |
 | 2. 哈密顿力学 | HW3 (ddl: )<br>HW4 (ddl: )<br>HW5 (ddl: ) |
 | <font color="blue"><b>期中考试（闭卷，笔试）</b></font> |  |
 | 3. 连续系统分析力学  | HW6 (ddl: )<br>HW7 (ddl: ) |
