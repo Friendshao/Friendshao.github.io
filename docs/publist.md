@@ -63,7 +63,7 @@ PSR J1913+1102](TBA), arXiv:TBA
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-B. Li, J. Zhang, M.-H. Chen, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Novae breves from
 magnetar giant flares: Potential probes of neutron star
-crusts](https://arxiv.org/abs/TBA), arXiv:TBA
+crusts](https://arxiv.org/abs/2603.10500), arXiv:2603.10500
 
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Detecting ultralight
