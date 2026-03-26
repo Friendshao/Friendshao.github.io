@@ -25,7 +25,7 @@ layout: default
        <td style="background-color:white; border: none">            
          C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (27)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (18)<br>
-         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (26)
+         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (28)
        </td>
 
      </tr>
@@ -2278,6 +2278,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
 
+0. Y. Kang, Q. Wang, R. Shi, Z. Wu, Z. Liu, Y. Dong, Z. Wang, C. Bao, F. Ren,
+**L.  Shao**, Z. Li, S. Dong, [GRB 260310A / AT2026fgk: R- and I-band
+observations with the PKU 60 cm optical
+telescope](https://gcn.nasa.gov/circulars/44119), GCN Circular 44119
+
 0. J. Roeder, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: VLBI
 core fluxes and brightness temperatures (Roeder+,
 2025)](https://ui.adsabs.harvard.edu/abs/2025yCat..36950233R/abstract), VizieR
@@ -2286,6 +2291,10 @@ On-line Data Catalog: J/A+A/695/A233
 0. 赵俊杰, **邵立晶** [翻译],
 [SN2023IXF 的距离是否够近，足以探测到其引力波信号？](https://ligo.org/science-summaries/sn2023ixf/),
 LIGO / Virgo / KAGRA Science Summaries
+
+0. LIGO / Virgo / KAGRA Collaboration, [LIGO/Virgo/KAGRA S250118t:
+Identification of a GW compact binary merger
+candidate](https://gcn.nasa.gov/circulars/38971), GCN Circular 38971
 
 0. 康亚城, **邵立晶** [翻译],
 [GW230529：一次中子星和未知致密天体的并合事件](https://www.ligo.org/science/Publication-GW230529/translations/science-summary-chinese-simplified.pdf),
