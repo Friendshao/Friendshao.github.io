@@ -144,8 +144,8 @@ tr:nth-child(odd) {
 <big><big> **Undergraduate Student Research Study**
 
 0. **钟佳航**，北京市NSF本科生启研计划，Kilonovae in the multimessenger era（PKU'26·秋）
-0. **张景灏**，Supernovae in the multimessenger era（PKU'26·秋）
-0. **邓锦文**，AI in gravitational-wave data analysis（PKU'26·秋）
+0. **张景灏**，校长基金，Supernovae in the multimessenger era（PKU'26·秋）
+0. **邓锦文**，AI+X专项，AI in gravitational-wave data analysis（PKU'26·秋）
 0. **郑智豪**，北京市NSF本科生启研计划，Bayesian analysis of NS universal relation（PKU'26·秋）
 0. **杨奕博**，北京市NSF本科生启研计划，Probing Axion with Binary Pulsars（PKU'25·秋）
 0. **楚开尧**，校长基金，Pinning Mechanism and Continuous Gravitational Waves（PKU'25·秋）
