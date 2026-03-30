@@ -25,7 +25,7 @@ layout: default
        <td style="background-color:white; border: none">            
          C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (27)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (18)<br>
-         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (28)
+         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (29)
        </td>
 
      </tr>
@@ -2278,9 +2278,14 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 <a name="misc"></a>
 <big><big>**Miscellaneous**</big></big>
 
+0. Y. Kang, Z. Wu, Q. Wang, R. Shi, X. Zhao, Z. Liu, C. Bao, Y. Dong, Z. Wang,
+F. Ren, **L. Shao**, Z. Li, S. Dong, X. Chen (PKU HiTF Group), [EP260324a /
+AT2026hir: g- and r-band optical follow-up with the PKU 60cm
+Telescope](https://gcn.nasa.gov/circulars/44156), GCN Circular 44156
+
 0. Y. Kang, Q. Wang, R. Shi, Z. Wu, Z. Liu, Y. Dong, Z. Wang, C. Bao, F. Ren,
-**L.  Shao**, Z. Li, S. Dong, [GRB 260310A / AT2026fgk: R- and I-band
-observations with the PKU 60 cm optical
+**L.  Shao**, Z. Li, S. Dong  (PKU HiTF Group), [GRB 260310A / AT2026fgk: R- and
+I-band observations with the PKU 60 cm optical
 telescope](https://gcn.nasa.gov/circulars/44119), GCN Circular 44119
 
 0. J. Roeder, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: VLBI
