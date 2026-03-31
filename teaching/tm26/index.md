@@ -74,7 +74,7 @@ $$\delta S = 0$$
 | **内容** | **备注** |
 | 0. 课程介绍 | |
 | 1. 拉格朗日力学延伸 | HW1 (ddl: Mar 23)<br>HW2 (ddl: Apr 1) |
-| 2. 哈密顿力学 | HW3 (ddl: )<br>HW4 (ddl: )<br>HW5 (ddl: ) |
+| 2. 哈密顿力学 | HW3 (ddl: Apr 15)<br>HW4 (ddl: )<br>HW5 (ddl: ) |
 | 3. 连续系统分析力学  | HW6 (ddl: )<br>HW7 (ddl: ) |
 | 4. *混沌现象*  | |
 | <font color="blue"><b>期末考试（闭卷，笔试）</b></font> | 2026年6月22日·8:30-10:30AM | 
