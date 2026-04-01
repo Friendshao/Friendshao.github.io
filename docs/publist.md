@@ -1173,8 +1173,8 @@ LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
 
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
-Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
-(accepted), arXiv:2503.12263
+Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.* 03
+(2026) 081
 
 0. Saurabh, *et al.* (EHT Collaboration), [Probing jet base emission of M87*
 with the 2021 Event Horizon Telescope
