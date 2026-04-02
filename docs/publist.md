@@ -59,12 +59,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
 Shao**, Y. Guo, D.J. Champion, [Improved proper motion and gravity tests with
 PSR J1913+1102](TBA), arXiv:TBA
 
-0. J. Zhong<font color="#5c5c5c"><sup>(#)</sup></font>, Q.-H. Chen, Y. Kang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-B. Li, J. Zhang, M.-H. Chen, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Novae breves from
-magnetar giant flares: Potential probes of neutron star
-crusts](https://arxiv.org/abs/2603.10500), arXiv:2603.10500
-
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Detecting ultralight
 dark matter in the Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573), 
@@ -86,6 +80,13 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. J. Zhong<font color="#5c5c5c"><sup>(#)</sup></font>, Q.-H. Chen, Y. Kang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-B. Li, J. Zhang, M.-H. Chen, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Novae breves from
+magnetar giant flares: Potential probes of neutron star
+crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* (accepted),
+arXiv:2603.10500
 
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, W. Hong, B. Hu, Y.-M. Hu, F.P. Huang, S.-J.
