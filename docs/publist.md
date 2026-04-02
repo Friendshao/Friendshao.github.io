@@ -2041,7 +2041,7 @@ arXiv:2602.01103
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Hu,
 [Fundamental Physics with Pulsars around Sagittarius A*](https://arxiv.org/abs/2508.09931),
-<i>J. Phys. Conf. Ser.</i> (accepted), arXiv:2508.09931
+<i>J. Phys. Conf. Ser.</i> 3177 (2026) 012043
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Perceiving
 deci-Hertz gravitational waves over the
