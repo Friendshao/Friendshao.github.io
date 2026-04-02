@@ -24,7 +24,7 @@ layout: default
 
        <td style="background-color:white; border: none">            
          C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (27)<br>
-         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (18)<br>
+         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (19)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (29)
        </td>
 
@@ -2200,6 +2200,9 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 
 <!-- 0. 赵乘辉<font color="#5c5c5c"><sup>(#)</sup></font>, 李洪波<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, in press -->
+
+0. 康亚城<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, 邵立晶,
+[GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, submitted
 
 0. 张泽<font color="#5c5c5c"><sup>(#)</sup></font>, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂,
 仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 夏铖君, 俞云伟, 袁业飞, 郑小平, **邵立晶**<font
