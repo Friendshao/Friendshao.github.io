@@ -1090,7 +1090,7 @@ baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 gravitational waves from the 2024 Vela pulsar
-glitch](https://arxiv.org/abs/2512.17990), arXiv:2512.17990
+glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Searches
 for Gravitational-Wave Lensing Signatures](https://arxiv.org/abs/2512.16347),
