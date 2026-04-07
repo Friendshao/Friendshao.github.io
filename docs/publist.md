@@ -1088,10 +1088,6 @@ Run](https://arxiv.org/abs/2603.14168), arXiv:2603.14168
 emission in the jet of M87* with short EHT
 baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
-gravitational waves from the 2024 Vela pulsar
-glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Searches
 for Gravitational-Wave Lensing Signatures](https://arxiv.org/abs/2512.16347),
 arXiv:2512.16347
@@ -1133,6 +1129,10 @@ Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
 KAGRA toward post-O5 gravitational-wave
 astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
+gravitational waves from the 2024 Vela pulsar
+glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
 
 0. E. Albentosa-Ruiz, *et al.* (EHT Collaboration), [Full-polarization
 millimeter wavelength variability of Sagittarius A* during the 2018 EHT
