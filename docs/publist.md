@@ -1139,10 +1139,6 @@ astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
 gravitational waves from the 2024 Vela pulsar
 glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
 
-0. E. Albentosa-Ruiz, *et al.* (EHT Collaboration), [Full-polarization
-millimeter wavelength variability of Sagittarius A* during the 2018 EHT
-campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.* (accepted)
-
 0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
 Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
 IceCube During the Third Observing Run of LIGO and
@@ -1177,6 +1173,10 @@ detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), a
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
+
+0. E. Albentosa-Ruiz, *et al.* (EHT Collaboration), [Full-polarization
+millimeter wavelength variability of Sagittarius A* during the 2018 EHT
+campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.* 708 (2026) A179
 
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.* 03
