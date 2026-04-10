@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (178) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (179) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (192) </small>
        </td>
  
@@ -42,6 +42,11 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Ultralight
+Scalar Dark Matter in the Galactic Center with the S2
+Orbit](https://arxiv.org/abs/2604.08053), arXiv:2604.08053
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
