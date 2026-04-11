@@ -12,8 +12,8 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (179) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (192) </small>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (180) </small> <br>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (191) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -23,7 +23,7 @@ layout: default
        </td>
 
        <td style="background-color:white; border: none">            
-         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (27)<br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (28)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (19)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (29)
        </td>
@@ -42,6 +42,11 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
+Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking Gravitational Wave
+Multiple Ringdown Modes in Space](TBA), arXiv:TBA
 
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Ultralight
@@ -1132,10 +1137,6 @@ Propagation](https://arxiv.org/abs/2509.04348), arXiv:2509.04348
 Population Properties of Merging Compact
 Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
 
-0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
-KAGRA toward post-O5 gravitational-wave
-astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 gravitational waves from the 2024 Vela pulsar
 glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
@@ -2040,6 +2041,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, white papers, and more**
 
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
+KAGRA toward post-O5 gravitational-wave
+astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
+
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, K. Fu, H. Li, X. Zhu, Y.
 Liu, **L. Shao**, J. Ye, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing RLVR training instability
@@ -2204,9 +2209,6 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and popular science**
-
-<!-- 0. 赵乘辉<font color="#5c5c5c"><sup>(#)</sup></font>, 李洪波<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, in press -->
 
 0. 康亚城<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**,
 [GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, submitted
