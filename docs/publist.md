@@ -513,13 +513,13 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Lu, R.-X. Xu, **L. Shao**, H.-G.
 Wang, L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D.
 Li, C.  Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
 [High-altitude magnetospheric  emissions from two
-pulsars](https://doi.org/10.3847/1538-4357/accb9a), *Astrophys. J.* 949 (2023) 115
+pulsars](https://arxiv.org/abs/2306.04935), *Astrophys. J.* 949 (2023) 115
 
 0. X. Liu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Cao<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**, [Upgraded waveform
 model of eccentric binary black hole based on
 effective-one-body-numerical-relativity for spin-aligned binary black
-holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
+holes](https://arxiv.org/abs/2306.15277), *Int. J. Mod.  Phys. D* 32 (2023) 2350015
 
 0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bumblebee black holes
@@ -1178,7 +1178,7 @@ Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:25
 
 0. E. Albentosa-Ruiz, *et al.* (EHT Collaboration), [Full-polarization
 millimeter wavelength variability of Sagittarius A* during the 2018 EHT
-campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.* 708 (2026) A179
+campaign](https://arxiv.org/abs/2604.10287), *Astron. & Astrophys.* 708 (2026) A179
 
 0. A. Abac, *et al.* (ET Collaboration), [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.* 03
@@ -1233,7 +1233,7 @@ eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* 68
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW250114: Testing
 Hawking's Area Law and the Kerr Nature of Black
-Holes](https://doi.org/10.1103/kw5g-d732), *Phys. Rev. Lett.* 135 (2025) 111403
+Holes](https://arxiv.org/abs/2509.08054), *Phys. Rev. Lett.* 135 (2025) 111403
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Identification of
 Noise-Associated Glitches in KAGRA O3GK with Hierarchical
@@ -1275,7 +1275,7 @@ GEO600 for gravitational waves coincident with fast radio bursts from SGR
 1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* 977 (2024) 255
 
 0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
-1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* 692
+1052](https://arxiv.org/abs/2501.08685), *Astron. & Astrophys.* 692
 (2024) A205
 
 0. J.C. Algaba, *et al.* (EHT / Fermi LAT / H.E.S.S. / MAGIC / VERITAS / EAVN
@@ -1288,7 +1288,7 @@ eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* 973 (2024) 132
 
 0. A.W. Raymond, *et al.* (EHT Collaboration), [First Very Long Baseline
-Interferometry Detections at 870 $\mu$m](https://doi.org/10.3847/1538-3881/ad5bdb), *Astron. J.* 168 (2024) 130
+Interferometry Detections at 870 $\mu$m](https://arxiv.org/abs/2410.07453), *Astron. J.* 168 (2024) 130
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Ultralight vector
 dark matter search using data from the KAGRA O3GK
@@ -1330,7 +1330,7 @@ J. Lett.* 964 (2024) L25
 
 0. G.F. Paraschos<font color="#5c5c5c"><sup>(#)</sup></font>, *et al.* (EHT
 Collaboration), [Ordered magnetic fields around the 3C 84 central black
-hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682
+hole](https://arxiv.org/abs/2402.00927), *Astron. & Astrophys.* 682
 (2024) L3
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [The persistent shadow of the
@@ -1643,7 +1643,7 @@ data](https://arxiv.org/abs/2107.00600), *Phys. Rev. D* 104 (2021) 082004
 
 0. M. Janssen<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
 Collaboration), [Event Horizon Telescope observations of the jet launching and
-collimation in Centaurus A](https://doi.org/10.1038/s41550-021-01417-w), *Nat.
+collimation in Centaurus A](https://arxiv.org/abs/2111.03356), *Nat.
 Astron.* 5 (2021) 1017
 
 0. R. Abbott, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
@@ -1691,28 +1691,26 @@ campaign](https://arxiv.org/abs/2104.06855), *Astrophys. J. Lett.* 911 (2021) L1
 
 0. C. Goddi, *et al.* (EHT Collaboration), [Polarimetric properties of
 Event Horizon Telescope targets from
-ALMA](http://doi.org/10.3847/2041-8213/abee6a), *Astrophys. J. Lett.* 910
+ALMA](https://arxiv.org/abs/2105.02272), *Astrophys. J. Lett.* 910
 (2021) L14
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon
 Telescope results. VIII. Magnetic field structure near the event
-horizon](https://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
+horizon](https://arxiv.org/abs/2105.01173), *Astrophys. J. Lett.*
 910 (2021) L13
 
 0. K. Akiyama, *et al.* (EHT Collaboration), [First M87 Event Horizon Telescope
-   results. VII. Polarization of the
-ring](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d), *Astrophys.
-J. Lett.* 910 (2021) L12
+results. VII. Polarization of the ring](https://arxiv.org/abs/2105.01169), *Astrophys.  J. Lett.* 910 (2021) L12
 
 0. T. Akutsu, *et al.* (KAGRA Collaboration), [Vibration isolation systems
 for the beam splitter and signal recycling mirrors of the KAGRA
 gravitational wave
 detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922), *Class. Quantum Grav.* 38 (2021) 065011
 
-0. D. Psaltis<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.*
-(EHT Collaboration), [Gravitational test beyond the first post-Newtonian
-order with the shadow of the M87 black
-hole](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.141104), *Phys. Rev. Lett.* 125 (2020) 141104
+0. D. Psaltis<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, *et al.* (EHT
+Collaboration), [Gravitational test beyond the first post-Newtonian order with
+the shadow of the M87 black hole](https://arxiv.org/abs/2010.01055), *Phys. Rev.
+Lett.* 125 (2020) 141104
 
 0. B.P. Abbott, *et al.* (KAGRA / LIGO / Virgo Collaboration), [Prospects
 for observing and localizing gravitational-wave transients with Advanced
