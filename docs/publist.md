@@ -2216,6 +2216,11 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [用SKA探索基础物理与脉冲星物理](TBA), 
 《中国科学：物理学 力学 天文学》, submitted
 
+0. 赵乘辉<font color="#5c5c5c"><sup>(#)</sup></font>, 李洪波<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**,
+[晶格化对白矮星振荡模式的影响](https://shao.cas.cn/twxjz/wzll/202601/202601yfb/202604/P020260402387656317269.pdf),
+《天文学进展》, in press
+
 0. 姬佩祥<font color="#5c5c5c"><sup>(#)</sup></font>, 梁迪聪, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [以天为则：从弱场到强场的引力检验](http://mp.ihep.ac.cn/article/id/27caedc0-6d45-4151-9d73-5dc23efb2d95),
 《现代物理知识》 37 (2025) 12
