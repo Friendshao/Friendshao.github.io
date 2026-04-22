@@ -1068,11 +1068,6 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
-Continuous Gravitational Waves from Supernova Remnants in the first part of the
-LIGO-Virgo-KAGRA Fourth Observing run](https://arxiv.org/abs/2603.25808),
-arXiv:2603.25808
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
 searches for continuous gravitational waves from known pulsars in the first two
 parts of the fourth LIGO-Virgo-KAGRA observing
@@ -1136,6 +1131,11 @@ Propagation](https://arxiv.org/abs/2509.04348), arXiv:2509.04348
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Population Properties of Merging Compact
 Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
+Continuous Gravitational Waves from Supernova Remnants in the first part of the
+LIGO-Virgo-KAGRA Fourth Observing run](https://arxiv.org/abs/2603.25808), *Astrophys. J.* (accepted), 
+arXiv:2603.25808
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 gravitational waves from the 2024 Vela pulsar
