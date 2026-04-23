@@ -112,7 +112,7 @@ Relativ.* (accepted), arXiv:2502.20138
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A practical Bayesian method for
 gravitational-wave ringdown analysis with multiple
-modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published 
+modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* 10 (2026) 564
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Gao, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Linear analysis of I-C-Love
