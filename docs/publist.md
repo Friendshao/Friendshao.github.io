@@ -46,7 +46,7 @@ layout: default
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
 Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking Gravitational Wave
-Multiple Ringdown Modes in Space](TBA), arXiv:TBA
+Multiple Ringdown Modes in Space](2604.20914), arXiv:2604.20914
 
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Ultralight
