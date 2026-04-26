@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (180) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (181) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (191) </small>
        </td>
  
@@ -43,10 +43,15 @@ layout: default
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
 
+0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
+Multiband Gravitational Waves from Eccentric Binary Black
+Holes](https://arxiv.org/abs/TBA), arXiv:TBA
+
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
 Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking Gravitational Wave
-Multiple Ringdown Modes in Space](2604.20914), arXiv:2604.20914
+Multiple Ringdown Modes in Space](https://arxiv.org/abs/2604.20914), arXiv:2604.20914
 
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Ultralight
