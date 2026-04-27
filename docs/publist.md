@@ -1095,10 +1095,6 @@ for Continuous Gravitational Waves from Isolated Neutron Stars in the Data from
 the First Part of the Fourth LIGO-Virgo-KAGRA Observing
 Run](https://arxiv.org/abs/2603.14168), arXiv:2603.14168
 
-0. B. Georgiev, *et al.* (EHT Collaboration), [Locating the missing large-scale
-emission in the jet of M87* with short EHT
-baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Searches
 for Gravitational-Wave Lensing Signatures](https://arxiv.org/abs/2512.16347),
 arXiv:2512.16347
@@ -1180,6 +1176,10 @@ detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), a
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
+
+0. B. Georgiev, *et al.* (EHT Collaboration), [Locating the missing large-scale
+emission in the jet of M87* with short EHT
+baselines](https://arxiv.org/abs/2601.13356), *Astron. & Astrophys.* 709 (2026) A26
 
 0. E. Albentosa-Ruiz, *et al.* (EHT Collaboration), [Full-polarization
 millimeter wavelength variability of Sagittarius A* during the 2018 EHT
