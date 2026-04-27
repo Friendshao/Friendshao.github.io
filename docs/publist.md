@@ -111,7 +111,7 @@ C.-G.  Shao, **L. Shao**, C. Shi, S. Sun, A. Wang, P.-P. Wang, S. Wang, S.-J.
 Wang, Z.-Z. Xianyu, H. Yang, T. Yang, J.-d. Zhang, X. Zhang, W. Zhao, L.-G. Zhu,
 J.  Mei<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Fundamental Physics
 and Cosmology with TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.
-Relativ.* (accepted), arXiv:2502.20138
+Relativ.* 29 (2026) 1
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
