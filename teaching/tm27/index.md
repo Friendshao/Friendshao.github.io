@@ -32,7 +32,7 @@ tr:nth-child(odd) {
 ### <u>Spring 2027, Peking University</u>
 
 <div style="display: flex; justify-content: center;">
-<img src="double_pendulum.gif" width="350" height="200">
+<img src="../tm26/double_pendulum.gif" width="350" height="200">
 </div>
 <div style="display: flex; justify-content: center;">
 <img src="http://friendshao.github.io/teaching/thmech19/thmech.png" width="550" height="250">
