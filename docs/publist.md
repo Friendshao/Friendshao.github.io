@@ -46,7 +46,7 @@ layout: default
 0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
 Multiband Gravitational Waves from Eccentric Binary Black
-Holes](https://arxiv.org/abs/TBA), arXiv:TBA
+Holes](https://arxiv.org/abs/2604.27734), arXiv:2604.27734
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
 Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
@@ -2052,7 +2052,7 @@ astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
 Liu, **L. Shao**, J. Ye, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing RLVR training instability
 through the lens of objective-level hacking](https://arxiv.org/abs/2602.01103),
-arXiv:2602.01103
+ICML2026 (accepted), arXiv:2602.01103
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Hu,
 [Fundamental Physics with Pulsars around Sagittarius A*](https://arxiv.org/abs/2508.09931),
