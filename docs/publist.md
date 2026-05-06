@@ -62,12 +62,6 @@ Orbit](https://arxiv.org/abs/2604.08053), arXiv:2604.08053
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
 Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
 
-0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
-Fang, Y. Kang, B. Liu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [An Enhanced Formation Channel for
-Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in
-Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), arXiv:2602.10928
-
 0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
 Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
@@ -89,6 +83,13 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Can a star be smaller than a black hole of the same
 mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
+
+0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
+Fang, Y. Kang, B. Liu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [An Enhanced Formation Channel for
+Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in
+Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), *Astrophys. J.
+Lett.* (accepted), arXiv:2602.10928
 
 0. Z. Zheng<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Deng, Y. Dong, **L. Shao**<font
