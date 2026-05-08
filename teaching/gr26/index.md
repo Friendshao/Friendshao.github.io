@@ -63,7 +63,7 @@ advanced undergraduates) with *Science & Engineering* background.
 
 ## General Information
 
-| **When** |  周一10-11节(暂) |
+| **When** |  周一10-11节 |
 | **Where** | |
 | **Prerequisite** | Mathematics, Theoretical Mechanics, Electrodynamics  |
 | **Textbook** | **俞允强，《广义相对论引论(第二版)》（1997）**
