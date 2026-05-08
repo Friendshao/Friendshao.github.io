@@ -88,8 +88,8 @@ mass?](https://arxiv.org/abs/2312.01406), arXiv:2312.01406
 Fang, Y. Kang, B. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [An Enhanced Formation Channel for
 Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in
-Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), *Astrophys. J.
-Lett.* (accepted), arXiv:2602.10928
+Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), <i>Astrophys. J.
+Lett.</i> (accepted), arXiv:2602.10928
 
 0. Z. Zheng<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Deng, Y. Dong, **L. Shao**<font
@@ -102,8 +102,7 @@ arXiv:2510.22137
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-B. Li, J. Zhang, M.-H. Chen, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Novae breves from
 magnetar giant flares: Potential probes of neutron star
-crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* (accepted),
-arXiv:2603.10500
+crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* 709 (2026) A195
 
 0. J. Luo<font color="#5c5c5c"><sup>(#)</sup></font>, H. An, L. Bian, R.-G. Cai,
 Z. Cao, W. Han, J. He, M.A. Hendry, W. Hong, B. Hu, Y.-M. Hu, F.P. Huang, S.-J.
