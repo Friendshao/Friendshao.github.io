@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (181) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (182) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (191) </small>
        </td>
  
@@ -42,6 +42,11 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
+Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
+agentic framework for gravitational-wave counterpart association in the
+multi-messenger era](https://arxiv.org/abs/2605.10584), arXiv:2605.10584
 
 0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
