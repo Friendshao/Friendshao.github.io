@@ -1147,11 +1147,6 @@ arXiv:2603.25808
 gravitational waves from the 2024 Vela pulsar
 glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
 
-0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
-Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
-IceCube During the Third Observing Run of LIGO and
-Virgo](https://arxiv.org/abs/2601.07595), *Astrophys. J.* (accepted), arXiv:2601.07595
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
 for Identifying and Characterizing Gravitational-wave
 Transients](https://arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* (accepted), arXiv:2508.18081
@@ -1177,6 +1172,11 @@ detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), a
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
+
+0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
+Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
+IceCube During the Third Observing Run of LIGO and
+Virgo](https://arxiv.org/abs/2601.07595), *Astrophys. J.* 1003 (2026) 41
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 long-duration gravitational-wave transients in the first part of the fourth
