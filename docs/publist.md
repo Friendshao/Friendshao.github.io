@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (182) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (191) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (193) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1078,6 +1078,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
 
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
+Binary Mergers with Sub-solar Mass Components in Data from the First Part of
+LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2605.05444),
+arXiv:2605.05444
+
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
 searches for continuous gravitational waves from known pulsars in the first two
 parts of the fourth LIGO-Virgo-KAGRA observing
@@ -1133,6 +1138,11 @@ arXiv:2509.07352
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Population Properties of Merging Compact
 Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW240925 and
+GW250207: Astrophysical Calibration of Gravitational-wave
+Detectors](https://arxiv.org/abs/2605.11703), *Phys. Rev. Lett.* (accepted),
+arXiv:2605.11703
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
