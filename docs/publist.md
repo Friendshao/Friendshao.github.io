@@ -23,9 +23,9 @@ layout: default
        </td>
 
        <td style="background-color:white; border: none">            
-         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (28)<br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (27)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (20)<br>
-         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (29)
+         E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (30)
        </td>
 
      </tr>
@@ -2059,10 +2059,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, white papers, and more**
 
-0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
-KAGRA toward post-O5 gravitational-wave
-astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
-
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, K. Fu, H. Li, X. Zhu, Y.
 Liu, **L. Shao**, J. Ye, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing RLVR training instability
@@ -2332,6 +2328,10 @@ Telescope](https://gcn.nasa.gov/circulars/44156), GCN Circular 44156
 **L.  Shao**, Z. Li, S. Dong  (PKU HiTF Group), [GRB 260310A / AT2026fgk: R- and
 I-band observations with the PKU 60 cm optical
 telescope](https://gcn.nasa.gov/circulars/44119), GCN Circular 44119
+
+0. T. Akutsu, *et al.* (KAGRA Collaboration), [Decadal upgrade strategy for
+KAGRA toward post-O5 gravitational-wave
+astronomy](https://arxiv.org/abs/2508.03392), arXiv:2508.03392
 
 0. J. Roeder, *et al.* (EHT Collaboration), [VizieR Online Data Catalog: VLBI
 core fluxes and brightness temperatures (Roeder+,
