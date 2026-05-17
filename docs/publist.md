@@ -24,7 +24,7 @@ layout: default
 
        <td style="background-color:white; border: none">            
          C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (28)<br>
-         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (19)<br>
+         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (20)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (29)
        </td>
 
