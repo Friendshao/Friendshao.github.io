@@ -143,6 +143,9 @@ tr:nth-child(odd) {
 
 <big><big> **Undergraduate Student Research Study**
 
+0. **陶昱锦**，Probing cosmology with gravitational waves（PKU'27·秋）
+0. **颜张岩**，Testing gravity with gravitational waves（PKU'27·秋）
+0. **俞天琪**，北京市NSF本科生启研计划，Extreme statistic in GW data analysis（PKU'27·秋）
 0. **钟佳航**，北京市NSF本科生启研计划，Kilonovae in the multimessenger era（PKU'26·秋）
 0. **张景灏**，校长基金，Supernovae in the multimessenger era（PKU'26·秋）
 0. **邓锦文**，AI+X项目，AI in gravitational-wave data analysis（PKU'26·秋）
