@@ -1109,11 +1109,6 @@ Run](https://arxiv.org/abs/2603.14168), arXiv:2603.14168
 for Gravitational-Wave Lensing Signatures](https://arxiv.org/abs/2512.16347),
 arXiv:2512.16347
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-planetary-mass ultra-compact objects using data from the first part of the
-LIGO-Virgo-KAGRA fourth observing run](https://arxiv.org/abs/2511.19911),
-arXiv:2511.19911
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [All-sky search for
 continuous gravitational-wave signals from unknown neutron stars in binary
 systems in the first part of the fourth LIGO-Virgo-KAGRA observing
@@ -1138,6 +1133,11 @@ arXiv:2509.07352
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Population Properties of Merging Compact
 Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+planetary-mass ultra-compact objects using data from the first part of the
+LIGO-Virgo-KAGRA fourth observing run](https://arxiv.org/abs/2511.19911), *Phys.
+Rev. D* (accepted), arXiv:2511.19911
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW240925 and
 GW250207: Astrophysical Calibration of Gravitational-wave
