@@ -101,8 +101,7 @@ Lett.</i> (accepted), arXiv:2602.10928
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Deng, Y. Dong, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Inferring neutron-star Love-Q
 relations from gravitational waves in the hierarchical Bayesian
-framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), 
-arXiv:2510.22137
+framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* 05 (2026) 086
 
 0. J. Zhong<font color="#5c5c5c"><sup>(#)</sup></font>, Q.-H. Chen, Y. Kang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, H.-B. Li, J. Zhang, M.-H. Chen, **L.
