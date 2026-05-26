@@ -55,6 +55,18 @@ center supermassive black hole with two
 pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* 133 (2024) 231402
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.133.231402" data-style="small_rectangle"></span>
 
+0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
+with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), *Phys.
+Rev. D* 107 (2023) 044053
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.107.044053" data-style="small_rectangle"></span>
+
+0. R. Xu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, D. Liang, **L.
+Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Static spherical vacuum
+solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107 (2023) 024011
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.107.024011" data-style="small_rectangle"></span>
+
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, K. Yagi<font
 color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
 for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
