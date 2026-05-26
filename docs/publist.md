@@ -95,7 +95,7 @@ Fang, Y. Kang, B. Liu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [An Enhanced Formation Channel for
 Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in
 Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), <i>Astrophys. J.
-Lett.</i> (accepted), arXiv:2602.10928
+Lett.</i> 1003 (2026) L35
 
 0. Z. Zheng<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, J. Deng, Y. Dong, **L. Shao**<font
