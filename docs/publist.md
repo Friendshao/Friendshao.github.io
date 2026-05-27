@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (182) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (193) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (199) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1077,6 +1077,32 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
+LIGO, Virgo, and KAGRA through the Second Part of the Fourth Observing
+Run](https://arxiv.org/abs/2605.27090), arXiv:2605.27090
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: An
+Introduction to Version 5.0 of the Gravitational-Wave Transient
+Catalog](https://arxiv.org/abs/2605.27223), arXiv:2605.27223
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: Methods
+for Identifying and Characterizing Gravitational-wave
+Transients](https://arxiv.org/abs/2605.27224), arXiv:2605.27224
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0:
+Observations from the Second Part of the Fourth LIGO-Virgo-KAGRA Observing Run
+and Updates to the Gravitational-Wave Transient
+Catalog](https://arxiv.org/abs/2605.27225), arXiv:2605.27225
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0:
+Population Properties of Merging Compact
+Objects](https://arxiv.org/abs/2605.27226), arXiv:2605.27226
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0:
+Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
+Propagation](https://arxiv.org/abs/2605.27227), arXiv:2605.27227
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 Binary Mergers with Sub-solar Mass Components in Data from the First Part of
