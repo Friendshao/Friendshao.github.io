@@ -47,14 +47,14 @@ tr:nth-child(odd) {
 ### <img src="funds.png" style="height:40px;"> &nbsp; <b>Projects & Funds</b>
 
 | **时间** | **职责** | **课题** | **基金号** | 
-| 2026.01-2029.12 | **项目负责人** | **国家自然科学面上基金项目** <br> <small> 中子星作为暗物质实验室</small> | 12573042 |
-| 2024.01-2026.12 | **项目负责人** | **北京市自然科学基金面上项目** <br> <small> 用中低频引力波探测致密天体的物理性质</small> | 1242018 |
-| 2021.01-2025.12 | **Group Lead** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | <font color="gray"><small>已结题</small></font> |
-| 2020.12-2025.11 | **项目负责人** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | <font color="gray"><small>已结题</small></font> |
-| 2021.01-2023.12 | **项目入选人** | **国家海外高层次人才青年项目** | <font color="gray"><small>已结题</small></font> |
-| 2020.01-2024.12 | 课题参与人 | **国家自然科学重大基金项目·课题四** <br> <small> 黑洞烛光的宇宙学应用 </small> | <font color="gray"><small>已结题</small></font> |
-| 2020.01-2023.12 | **项目负责人** | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究</small> | <font color="gray"><small>已结题</small></font> |
-| 2018.01-2020.12 | **被托举人** | **第四届中国科协青年人才托举工程** | <font color="gray"><small>已结题</small></font> |
+| 2026.01-2029.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 中子星作为暗物质实验室</small> | 12573042 |
+| 2024.01-2026.12 | **主持** | **北京市自然科学基金面上项目** <br> <small> 用中低频引力波探测致密天体的物理性质</small> | 1242018 |
+| 2021.01-2025.12 | **主持** | **The Max Planck Partner Group** <br> <small> Funded by the Max Planck Society</small> | <font color="gray"><small>已结题</small></font> |
+| 2020.12-2025.11 | **主持** | **科技部 SKA 专项** <br> <small> 脉冲星理论研究支撑</small> | <font color="gray"><small>已结题</small></font> |
+| 2021.01-2023.12 | **入选** | **国家海外高层次人才青年项目** | <font color="gray"><small>已结题</small></font> |
+| 2020.01-2024.12 | 参与 | **国家自然科学重大基金项目·课题四** <br> <small> 黑洞烛光的宇宙学应用 </small> | <font color="gray"><small>已结题</small></font> |
+| 2020.01-2023.12 | **主持** | **国家自然科学面上基金项目** <br> <small> 关于致密双星并合的引力波波形的研究</small> | <font color="gray"><small>已结题</small></font> |
+| 2018.01-2020.12 | **入选** | **第四届中国科协青年人才托举工程** | <font color="gray"><small>已结题</small></font> |
 
 
 <!-- 
