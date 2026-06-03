@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (182) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (184) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (199) </small>
        </td>
  
@@ -42,6 +42,15 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
+pulsar – supermassive black hole system](TBA), arXiv:TBA
+
+0. J. Yang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.-F. Mai<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Exact
+asymptotically flat black hole solutions in Bumblebee gravity and their
+thermodynamics](TBA), arXiv:TBA
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
 Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
@@ -1109,11 +1118,6 @@ Binary Mergers with Sub-solar Mass Components in Data from the First Part of
 LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2605.05444),
 arXiv:2605.05444
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
-searches for continuous gravitational waves from known pulsars in the first two
-parts of the fourth LIGO-Virgo-KAGRA observing
-run](https://arxiv.org/abs/2603.25938), arXiv:2603.25938
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Tests of
 General Relativity. III. Tests of the
 Remnants](https://arxiv.org/abs/2603.19021), arXiv:2603.19021
@@ -1156,9 +1160,14 @@ remnant and galactic black holes during the first part of the fourth
 LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2509.07352),
 arXiv:2509.07352
 
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
+searches for continuous gravitational waves from known pulsars in the first two
+parts of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2603.25938), *Astrophys. J.* (accepted), arXiv:2603.25938
+
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
 Population Properties of Merging Compact
-Binaries](https://arxiv.org/abs/2508.18083), arXiv:2508.18083
+Binaries](https://arxiv.org/abs/2508.18083),  *Astrophys. J. Lett.* (accepted), arXiv:2508.18083
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 planetary-mass ultra-compact objects using data from the first part of the
