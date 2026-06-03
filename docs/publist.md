@@ -79,8 +79,8 @@ Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
 0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
 Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
-Shao**, Y. Guo, D.J. Champion, [Improved proper motion and gravity tests with
-PSR J1913+1102](TBA), arXiv:TBA
+Shao**, Y. Guo, D.J. Champion, Y. Yue, [Improved proper motion and gravity tests with
+PSR J1913+1102](TBA), *Astron. & Astrophys.* (accepted), arXiv:TBA
 
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Detecting ultralight
