@@ -45,7 +45,8 @@ layout: default
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
-pulsar – supermassive black hole system](TBA), arXiv:TBA
+pulsar – supermassive black hole system](http://arxiv.org/abs/2606.04762),
+arXiv:2606.04762
 
 0. J. Yang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.-F. Mai<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Exact
