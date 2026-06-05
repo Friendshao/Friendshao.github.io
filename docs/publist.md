@@ -49,9 +49,9 @@ pulsar – supermassive black hole system](http://arxiv.org/abs/2606.04762),
 arXiv:2606.04762
 
 0. J. Yang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.-F. Mai<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Exact
-asymptotically flat black hole solutions in Bumblebee gravity and their
-thermodynamics](TBA), arXiv:TBA
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**,
+[Asymptotically-flat Black holes in Bumblebee Gravity: Exact Solutions and
+Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
 Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
