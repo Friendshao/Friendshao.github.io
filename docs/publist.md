@@ -1158,8 +1158,8 @@ run](https://arxiv.org/abs/2510.27022), arXiv:2510.27022
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directed searches
 for gravitational waves from ultralight vector boson clouds around merger
 remnant and galactic black holes during the first part of the fourth
-LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2509.07352),
-arXiv:2509.07352
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2509.07352), *Phys. Rev.
+D* (accepted), arXiv:2509.07352
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Narrowband
 searches for continuous gravitational waves from known pulsars in the first two
