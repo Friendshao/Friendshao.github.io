@@ -72,7 +72,7 @@ grand *Beauty*, as well as a bit of stubbornness/persistence.
 ## General Information
 
 | **课程性质** | 全校通选课 |
-| **Space & Time** | 周二10-11节 |
+| **Space & Time** | 周二10-11节 · 理教209 |
 | **主要面向群体** | 理工科非物理学院和其他感兴趣的本科生 |
 | **先修课程** | 高等数学、普通物理 |
 | **成绩评定** | 等级制 |
