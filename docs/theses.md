@@ -119,9 +119,11 @@ tr:nth-child(odd) {
 
 <big><big> **Postdoctoral Report**
 
+0. **郭弘**，[修改引力下的致密星](theses/GuoHong.pdf)（北京大学，2028年·夏）
+  - <small> Compact Objects in Modified Gravity
 0. **王晗**，[引力波数据处理](theses/WangHan.pdf)（北京大学，2027年·夏）
   - <small> Gravitational Wave Data Analysis
-0. **冯文凡**，[双星系统中有椭率中子星的连续引力波辐射](theses/FengWenfan.pdf)（北京大学，2026年·夏）
+0. **冯文凡**，[双星系统中有椭率中子星的连续引力波辐射](theses/FengWenfan.pdf)（北京大学，2026年·秋）
   - <small> Continuous Gravitational Waves from Elliptical Neutron Stars in Binaries
 0. **吕振伟**，[引力波数据中物理信息的提取](theses/LyuZhenwei.pdf)（北京大学，2024年·夏）
   - <small> Unveiling Physical Insights from Gravitational Waves
