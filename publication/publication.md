@@ -75,7 +75,7 @@ for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 194
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex,
 M. Kramer, [Testing the universality of free fall towards dark matter with
 radio pulsars](https://arxiv.org/abs/1805.08408), *Phys. Rev. Lett.* 120 (2018) 241104
-<font color="red"><b>&nbsp; &#x2794; my favorite</b></font>
+<span style="color:red; font-weight:bold;">&nbsp; &#x2794; my favorite</span>
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.120.241104" data-style="small_rectangle"></span>
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.  Sennett,
