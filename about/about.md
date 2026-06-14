@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-## <b>About me</b> [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)&thinsp;<span class="hovertext" data-hover="K217"><img src="location.png" alt="email" style="width:20px;height:20px;"></span>&thinsp;[<img src="email2.png" alt="email" style="width:20px;height:20px;">](mailto:lshao@pku.edu.cn) 
+## <b>About me</b> [<img src="email2.png" alt="email" style="width:20px;height:20px;">](mailto:lshao@pku.edu.cn)&thinsp;[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)&thinsp;<span class="hovertext" data-hover="K217"><img src="location.png" alt="email" style="width:20px;height:20px;"></span>&thinsp;[<img src="https://kiaagravity.github.io/assets/icon-group.png" alt="group" style="width:20px;height:20px;">](https://kiaagravity.github.io/)
 
 <img style="float: right;" src="shao2.png" width="180" hspace="10"> 
 
