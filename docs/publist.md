@@ -1184,11 +1184,6 @@ arXiv:2605.11703
 Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
 Propagation](https://arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted), arXiv:2509.04348
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
-Continuous Gravitational Waves from Supernova Remnants in the first part of the
-LIGO-Virgo-KAGRA Fourth Observing run](https://arxiv.org/abs/2603.25808), *Astrophys. J.* (accepted), 
-arXiv:2603.25808
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 gravitational waves from the 2024 Vela pulsar
 glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
@@ -1218,6 +1213,10 @@ detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), a
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
 Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
+Continuous Gravitational Waves from Supernova Remnants in the first part of the
+LIGO-Virgo-KAGRA Fourth Observing run](https://arxiv.org/abs/2603.25808), *Astrophys. J.* 1004 (2026) 204
 
 0. R. Abbasi, *et al.* (IceCube / LIGO / Virgo / KAGRA Collaboration), [Deep
 Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with
