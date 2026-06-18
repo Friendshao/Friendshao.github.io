@@ -49,4 +49,5 @@ layout: default
 | [**Zhang, Bing**](https://www.scifac.hku.hk/people/zhang-bing) | The University of Hong Kong | Hong Kong | China |
 | [**Zhao, Junjie**](https://www.hnskxy.com/igwa/info/1033/1020.htm) | Henan Academy of Sciences | Zhengzhou | China |
 | [**Zhu, Jin-Ping**](https://jpzhu-astro.github.io/) | The University of Hong Kong | Hong Kong | China |
+| [**Zhu, Weiwei**](http://groups.bao.ac.cn/psr/tzsx/) | National Astronomical Observatories | Beijing | China |
 | ... | | | |
