@@ -102,6 +102,19 @@ tr:nth-child(odd) {
 
   <div class="column2">
       <div class="card">
+        <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116752478374761&bvid=BV1iBJ36yELZ&cid=39130366237&p=1&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="140" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><a href="https://www.bilibili.com/video/BV1iBJ36yELZ" target="_blank"><b>专家志愿者讲科学</b></a></h5>
+          <p class="teamtitle"><small>科普志愿者能力提升培训（2026）</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+  <div class="column2">
+      <div class="card">
         <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115423722868985&bvid=BV1EvsGz5EUq&cid=33332658843&p=1&autoplay=0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="140" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
         <div class="teamcontainer" style="padding:1px; ">
           <center>
