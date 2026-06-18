@@ -77,12 +77,6 @@ Orbit](https://arxiv.org/abs/2604.08053), arXiv:2604.08053
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
 Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
 
-0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
-Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
-Shao**, Y. Guo, D.J. Champion, Y. Yue, [Improved proper motion and gravity tests with
-PSR J1913+1102](TBA), *Astron. & Astrophys.* (accepted), arXiv:TBA
-
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Detecting ultralight
 dark matter in the Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573), 
@@ -94,6 +88,12 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
+Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
+Shao**, Y. Guo, D.J. Champion, Y. Yue, [Improved proper motion and gravity tests
+with PSR J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* (accepted), arXiv:2606.19276
 
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Neutron stars more compact than black holes as a probe
