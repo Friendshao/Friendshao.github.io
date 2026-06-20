@@ -1184,10 +1184,6 @@ arXiv:2605.11703
 Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
 Propagation](https://arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted), arXiv:2509.04348
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
-gravitational waves from the 2024 Vela pulsar
-glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directional Search
 for Persistent Gravitational Waves: Results from the First Part of
 LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17487
@@ -1196,6 +1192,10 @@ LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487), *Phy
 the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo,
 and KAGRA's fourth Observing Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted),
 arXiv:2508.20721
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
+gravitational waves from the 2024 Vela pulsar
+glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* 1005 (2026) 12
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
 for Identifying and Characterizing Gravitational-wave
