@@ -1188,31 +1188,31 @@ Propagation](https://arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted)
 gravitational waves from the 2024 Vela pulsar
 glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
-for Identifying and Characterizing Gravitational-wave
-Transients](https://arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* (accepted), arXiv:2508.18081
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directional Search
 for Persistent Gravitational Waves: Results from the First Part of
 LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17487
-
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Updating
-the Gravitational-Wave Transient Catalog with Observations from the First Part
-of the Fourth LIGO-Virgo-KAGRA Observing
-Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* (accepted), arXiv:2508.18082
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper Limits on
 the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo,
 and KAGRA's fourth Observing Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted),
 arXiv:2508.20721
 
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Methods
+for Identifying and Characterizing Gravitational-wave
+Transients](https://arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* 1004 (2026) L21
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Updating
+the Gravitational-Wave Transient Catalog with Observations from the First Part
+of the Fourth LIGO-Virgo-KAGRA Observing
+Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* 1004 (2026) L22
+
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW230814:
 investigation of a loud gravitational-wave signal observed with a single
-detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), arXiv:2509.07348
+detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* 1004 (2026) L23
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing
-Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
+Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* 1004 (2026) 232
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
 Continuous Gravitational Waves from Supernova Remnants in the first part of the
