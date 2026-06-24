@@ -117,7 +117,7 @@ tr:nth-child(odd) {
 | PKU'25S | [**Theoretical Mechanics (A)**](tm25a)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & Peixiang Ji |
 | PKU'24F | [**Electrodynamics (A)**](ced24)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Yiming Dong & Huapeng Gu |
 | PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Hanlin Song |
-| PKU'24F | **Lectures on Frontiers of Modern Physics Ⅰ**<br>**现代物理前沿讲座（Ⅰ）** | **co-Lecturer** (2 hr) <small><small><br><i>with</i> Profs. Kaihui Liu *et al.* |
+| PKU'24F | **Lectures on Frontiers of Modern Physics Ⅰ**<br>**现代物理前沿讲座（Ⅰ）** | **co-Lecturer** <small>(2 hr)</small> <small><small><br><i>with</i> Profs. Kaihui Liu *et al.* |
 | PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & Fangcheng Wang |
 | PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & Zexin Hu & Jierui Hu |
 | AYEP'23 | [**Fundamental Physics in Astronomy**](https://pkutalent.learnworlds.com/course/astronomy)<br>**天文学中的基础物理** | **Lecturer** <small><small> * Asian Youth Exchange Program |
@@ -126,7 +126,7 @@ tr:nth-child(odd) {
 | PKU'22F | [**Electrodynamics (B)**](ced22)<br>**电动力学（B）** | **Lecturer** <small><small> * TA: Yong Gao |
 | PKU'22F | [**Theoretical Mechanics (A)**](thmech22)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Muxin Liu & Hanlin Song |
 | PKU'22S | [**General Physics (I)**](phy22)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Ping He & Zipu Fan |
-| PKU'22S | [**Astroparticle Physics**](astroparticle22)<br>**天体粒子物理** | **co-Lecturer** (2 hr) <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
+| PKU'22S | [**Astroparticle Physics**](astroparticle22)<br>**天体粒子物理** | **co-Lecturer** <small>(2 hr)</small> <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
 | PKU'21F | [**Theoretical Mechanics (A)**](thmech21)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
 | PKU'21F | [**General Relativity & Astrophysics**](gr21)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Zihang Wang |
 | PKU'21S | [**General Physics (I)**](phy21)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Yong Gao & Zhongfu Zhang |
