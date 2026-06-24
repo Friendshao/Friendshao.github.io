@@ -78,7 +78,7 @@ sheet](https://kiaagravity.github.io/assets/QA).
 | &nbsp; &nbsp; <small>00431132</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（春） 2022年（春） 2021年（春）">普通物理（I）</span> | 4学分 | General Physics (I)  |
 | &nbsp; &nbsp; <small>00431133</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2020年（秋）">普通物理（II）</span> | 4学分 | General Physics (II) |
 | &nbsp; &nbsp; <small>00432296</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2022年（春）">天体粒子物理</span> | 2学分 | Astroparticle Physics |
-| &nbsp; &nbsp; <small>00430151</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（秋）">现代物理前沿讲座（Ⅰ）</span> | 2学分 | Lectures on The Frontiers of Modern Physics (Ⅰ) |
+| &nbsp; &nbsp; <small>00430151</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="2024年（秋）">现代物理前沿讲座（Ⅰ）</span> | 2学分 | Lectures on Frontiers of Modern Physics (Ⅰ) |
 
 <!-- 
 | &nbsp; &nbsp; <small>00432213</small> | &nbsp; &nbsp; &nbsp; <span class="hovertext" data-hover="尚未开课">电动力学</span> | 3学分 | Electrodynamics  |
