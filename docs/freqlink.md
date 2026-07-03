@@ -38,6 +38,7 @@ layout: default
   [github](https://github.com/),
   [bitbucket](https://bitbucket.org/Friendshao/workspace/overview/),
   [Overleaf](https://www.overleaf.com/project) ([CST](https://sharelatex.cstcloud.cn/login), 
+  [CSTnew](https://latex.cstcloud.cn),
   [IHEP](https://latex.ihep.ac.cn/), 
   [MPG](https://sharelatex.gwdg.de))
 - [Sage](http://www.sagemath.org/index.html)
@@ -76,6 +77,7 @@ layout: default
   [Committee](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA/KSC#committees), 
   [CPC](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA/CPCsubmission),
   [Maillist](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=12150),
+  [Roster](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=11095),
   [System-B](https://gwdoc.icrr.u-tokyo.ac.jp/cgi-bin/private/DocDB/ShowDocument?docid=14750),
   [Wiki](https://gwwiki.icrr.u-tokyo.ac.jp/JGWwiki/KAGRA#links),
   [Pub](https://pubplan.ligo.org/),
