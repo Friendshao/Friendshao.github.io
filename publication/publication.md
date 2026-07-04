@@ -48,13 +48,6 @@ agentic framework for gravitational-wave counterpart association in the
 multi-messenger era](https://arxiv.org/abs/2605.10584), *The Innovation* (submitted), arXiv:2605.10584
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2605.10584" data-style="small_rectangle"></span>
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
-Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking gravitational wave
-multiple ringdown modes in space](https://arxiv.org/abs/2604.20914), *Sci.
-Bull.* (submitted), arXiv:2604.20914
-<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2604.20914" data-style="small_rectangle"></span>
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A realistic pulsar - supermassive
 black hole timing model](https://arxiv.org/abs/2602.19546), *Astrophys. J.
@@ -125,13 +118,6 @@ pulsars](https://arxiv.org/abs/1307.2552), *Class. Quantum Grav.* 30 (2013)
 165019
 <span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/30/16/165019" data-style="small_rectangle"></span>
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.  Wex<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [New tests of local Lorentz
-invariance of gravity with small-eccentricity binary
-pulsars](https://arxiv.org/abs/1209.4503), *Class. Quantum Grav.* 29 (2012)
-215018
-<span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/29/21/215018" data-style="small_rectangle"></span>
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Xiao, B.-Q.
 Ma<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Lorentz violation from
 cosmological objects with very high energy photon
@@ -140,6 +126,20 @@ emissions](https://arxiv.org/abs/0911.2276), *Astropart. Phys.* 33 (2010) 312
 {: reversed="reversed"}
 
 <!-- 
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
+Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking gravitational wave
+multiple ringdown modes in space](https://arxiv.org/abs/2604.20914), *Sci.
+Bull.* (submitted), arXiv:2604.20914
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2604.20914" data-style="small_rectangle"></span>
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.  Wex<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [New tests of local Lorentz
+invariance of gravity with small-eccentricity binary
+pulsars](https://arxiv.org/abs/1209.4503), *Class. Quantum Grav.* 29 (2012)
+215018
+<span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/29/21/215018" data-style="small_rectangle"></span>
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [New pulsar
 limit on local Lorentz invariance violation of gravity in the standard-model
