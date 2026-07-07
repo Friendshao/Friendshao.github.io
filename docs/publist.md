@@ -1166,10 +1166,6 @@ searches for continuous gravitational waves from known pulsars in the first two
 parts of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2603.25938), *Astrophys. J.* (accepted), arXiv:2603.25938
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
-Population Properties of Merging Compact
-Binaries](https://arxiv.org/abs/2508.18083),  *Astrophys. J. Lett.* (accepted), arXiv:2508.18083
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
 planetary-mass ultra-compact objects using data from the first part of the
 LIGO-Virgo-KAGRA fourth observing run](https://arxiv.org/abs/2511.19911), *Phys.
@@ -1192,6 +1188,10 @@ LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2510.17487), *Phy
 the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo,
 and KAGRA's fourth Observing Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted),
 arXiv:2508.20721
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
+Population Properties of Merging Compact
+Binaries](https://arxiv.org/abs/2508.18083),  *Astrophys. J. Lett.* 1005 (2026) L51
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 gravitational waves from the 2024 Vela pulsar
