@@ -23,7 +23,7 @@ layout: default
        </td>
 
        <td style="background-color:white; border: none">            
-         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (28)<br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (29)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (20)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (30)
        </td>
@@ -2094,12 +2094,20 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, white papers, and more**
 
-0. V. Venkatraman Krishnan, **L. Shao**, V. Balakrishnan, A. Carleo, M. Colom i
-Bernadich, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
-Z. Hu, M. Kramer, J. Kunz, K. Liu, M.E. Lower, X. Miao, D. Perrodin, D.S.
-Pillay, A. Possenti, S. Ransom, I. Stairs, B. Stappers, [Testing Gravity with
-Binary Pulsars in the SKA Era](https://arxiv.org/abs/2607.02064), in *Advancing
-Astrophysics with the SKA II* (AASKAII), 2026
+0. F. Abbate<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, A. Carleo, S.
+Chatterjee, J. Cordes, P.B. Demorest, G. Desvignes, R.P. Eatough, E. Hackmann,
+Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I.  Rammala-Zitha, S.M. Ransom, G.
+Saowanit, **L. Shao**, P. Torne, R. Wharton, J.  Wongphechauxsorn, W. Zhu,
+[Galactic Centre Pulsars with the SKAO](https://arxiv.org/abs/2607.03078), in
+*Advancing Astrophysics with the SKA II* (AASKAII), 2026
+
+0. V. Venkatraman Krishnan<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>,
+**L. Shao**, V. Balakrishnan, A. Carleo, M. Colom i Bernadich, A. Corongiu, A.
+Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu, Z. Hu, M. Kramer, J. Kunz,
+K. Liu, M.E. Lower, X. Miao, D. Perrodin, D.S.  Pillay, A. Possenti, S. Ransom,
+I. Stairs, B. Stappers, [Testing Gravity with Binary Pulsars in the SKA
+Era](https://arxiv.org/abs/2607.02064), in *Advancing Astrophysics with the SKA
+II* (AASKAII), 2026
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, K. Fu, H. Li, X. Zhu, Y.
 Liu, **L. Shao**, J. Ye, Z. Wang<font
