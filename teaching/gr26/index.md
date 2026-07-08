@@ -69,10 +69,12 @@ advanced undergraduates) with *Science & Engineering* background.
 | **Reference** | Bernard Schutz, *A First Course in General Relativity* (2009) |
 | | Matthias Blau, *Lecture Notes on General Relativity* [[link](http://www.blau.itp.unibe.ch/GRLecturenotes.html)] |
 | | 陈斌，《广义相对论》（2018） |
+| | 龚云贵，《简明广义相对论》（2024） |
+| | 黄超光，《广义相对论讲义》（2023）|
 | **Lecturer** | Lijing Shao (邵立晶)；Office KIAA-217；lshao@pku.edu.cn | 
 | | 【答疑时间】每周日14:00-15:00PM（建议来前联系，以免空跑） | 
 | **Teaching Assistant** | 张泽，zezhang@stu.pku.edu.cn |
-| <font color="red"><b>网盘链接</b></font> | [猛戳这里](TBA) （倘若打开有误，请尝试重新刷新） |
+| <font color="red"><b>网盘链接</b></font> | [猛戳这里](https://disk.pku.edu.cn/link/AA1C5B031ED3A4412CA4725BF1B7F3122F) （倘若打开有误，请尝试重新刷新） |
 
 <p></p>
 
@@ -80,15 +82,15 @@ advanced undergraduates) with *Science & Engineering* background.
 
 | **Content** | **Note** |
 | 0. 课程介绍 | |
-| 1. 牛顿、麦克斯韦、爱因斯坦 | |
-| 2. 狭义相对论 | HW1 (ddl: ) |
+| 1. 他们仨：Newton、Maxwell、Einstein | |
+| 2. 狭义相对论温习 | HW1 (ddl: ) |
 | 3. 黎曼几何简介 | HW2 (ddl: ) |
 | 4. Einstein 场方程 |  |
-| 5. 真空球对称解 | HW3 (ddl: ) |
+| 5. 真空球对称解和宇宙学简介 | HW3 (ddl: ) |
 | 6. 弱场近似与实验检验 | HW4 (ddl: ) |
-| 7. 中子星与黑洞 | HW5 (ddl: ) |
-| 8. 引力波简介 |  | 
-| 9. 宇宙学简介* | |
+| 7. 中子星与黑洞 |  |
+| 8. 引力波简介 | HW5 (ddl: ) |
+| 9. 超出广义相对论* | *不属于考试范围* |
 | *期末答疑* | |
 | **期末考试（开卷）** | |
 
