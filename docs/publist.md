@@ -58,11 +58,6 @@ Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
 agentic framework for gravitational-wave counterpart association in the
 multi-messenger era](https://arxiv.org/abs/2605.10584), arXiv:2605.10584
 
-0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
-Multiband Gravitational Waves from Eccentric Binary Black
-Holes](https://arxiv.org/abs/2604.27734), arXiv:2604.27734
-
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
 Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking Gravitational Wave
@@ -88,6 +83,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
+Multiband Gravitational Waves from Eccentric Binary Black
+Holes](https://arxiv.org/abs/2604.27734), *Phys. Rev. D* (accepted), arXiv:2604.27734
 
 0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
 Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
