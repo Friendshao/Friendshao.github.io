@@ -68,10 +68,6 @@ Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Ultralight
 Scalar Dark Matter in the Galactic Center with the S2
 Orbit](https://arxiv.org/abs/2604.08053), arXiv:2604.08053
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
-Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
-
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, Z. Hu, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Detecting ultralight
 dark matter in the Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573), 
@@ -83,6 +79,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
+Black Hole Timing Model](https://arxiv.org/abs/2602.19546), *Astrophys. J.
+Suppl.* (accepted), arXiv:2602.19546
 
 0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
