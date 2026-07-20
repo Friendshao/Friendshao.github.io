@@ -92,6 +92,7 @@ tr:nth-child(odd) {
 
 <big>**3，其他**</big>
 
+| <small>★★☆☆☆ | 2025 | **未来10000天的可能** | Kevin Kelly |
 | <small>★★★☆☆ | 2025 | **波斯人** | Lloyd Llewellyn-Jones |
 | <small>★☆☆☆☆ | 2024 | **物理学和哲学** | Paul Feyerabend |
 | <small>★☆☆☆☆ | 2023 | **离开学术界：实用指南** | Christopher Caterine |
