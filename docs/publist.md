@@ -98,8 +98,8 @@ with PSR J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* (
 
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Neutron stars more compact than black holes as a probe
-of strong-field gravity](https://arxiv.org/abs/2312.01406), *Phys. Rev. D*
-(accepted), arXiv:2312.01406
+of strong-field gravity](https://arxiv.org/abs/2312.01406), *Phys. Rev. D* 114
+(2026) L021504
 
 0. W.-F. Feng<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, T. Liu, Y.
 Fang, Y. Kang, B. Liu, **L. Shao**<font
