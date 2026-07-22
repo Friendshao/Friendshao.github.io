@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (184) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (200) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (201) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1088,6 +1088,9 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: Tests of
+General Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA / PEGS Collaboration),
 [Sub-Torque-Balance Upper Limits on Continuous Gravitational Waves from Scorpius
