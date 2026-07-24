@@ -30,6 +30,7 @@ tr:nth-child(odd) {
 | **TIME** | **ROLE** |
 | 2020-now |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
 | 2024-2028 |  Editorial Board Member of [Chinese Physics C](http://cpc.ihep.ac.cn/) |
+| 2026-now |  Editorial Board Member of [Progress in High Energy Astrophysics](https://www.sciengine.com/PHEA/home) |
 | 2023-2026 | Guest Editor for [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) and [《科学通报》](https://www.sciengine.com/CSB/home) |
 | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
 | | **PAST ROLE** |

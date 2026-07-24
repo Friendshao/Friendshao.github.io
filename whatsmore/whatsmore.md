@@ -87,6 +87,7 @@ tr:nth-child(odd) {
 | 2025.4-2029.3 | Committee Member of Division of Gravitation and Relativistic Astrophysics, CPS |
 | 2020.5-now | Advisory Panel Member of *Classical and Quantum Gravity* |
 | 2024.12-2028.11 | Editorial Board Member of *Chinese Physics C* |
+| 2026-now |  Editorial Board Member of *Progress in High Energy Astrophysics* |
 | 2023.1-2026.12 | Joint Guest Editor for *Science Bulletin* and *科学通报* |
 | 2024.5-2026.5 | Joint Youth Editor for *Chinese Physics Letters*, *Chinese Physics B*, *物理学报*, *物理* |
 | 2018.12-now | KSC member for PKU-KIAA group of KAGRA Collaboration |
