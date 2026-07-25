@@ -1166,11 +1166,6 @@ remnant and galactic black holes during the first part of the fourth
 LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2509.07352), *Phys. Rev.
 D* (accepted), arXiv:2509.07352
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
-planetary-mass ultra-compact objects using data from the first part of the
-LIGO-Virgo-KAGRA fourth observing run](https://arxiv.org/abs/2511.19911), *Phys.
-Rev. D* (accepted), arXiv:2511.19911
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GW240925 and
 GW250207: Astrophysical Calibration of Gravitational-wave
 Detectors](https://arxiv.org/abs/2605.11703), *Phys. Rev. Lett.* (accepted),
@@ -1184,6 +1179,11 @@ Propagation](https://arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted)
 the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo,
 and KAGRA's fourth Observing Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted),
 arXiv:2508.20721
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for
+planetary-mass ultra-compact objects using data from the first part of the
+LIGO-Virgo-KAGRA fourth observing run](https://arxiv.org/abs/2511.19911), *Phys.
+Rev. D* 114 (2026) 022005
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directional Search
 for Persistent Gravitational Waves: Results from the First Part of
