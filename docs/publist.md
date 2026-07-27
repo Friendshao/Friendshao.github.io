@@ -1131,10 +1131,6 @@ General Relativity. III. Tests of the
 Remnants](https://arxiv.org/abs/2603.19021), arXiv:2603.19021
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Tests of
-General Relativity. II. Parameterized Tests](https://arxiv.org/abs/2603.19020),
-arXiv:2603.19020
-
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Tests of
 General Relativity. I. Overview and General
 Tests](https://arxiv.org/abs/2603.19019), arXiv:2603.19019
 
@@ -1152,6 +1148,11 @@ run](https://arxiv.org/abs/2511.16863), arXiv:2511.16863
 dark-matter search with gravitational-wave interferometers using data from the
 first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2510.27022), arXiv:2510.27022
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Tests
+   of General Relativity. II. Parameterized
+Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (accepted),
+arXiv:2603.19020
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Cosmological and
 High Energy Physics implications from gravitational-wave background searches in
