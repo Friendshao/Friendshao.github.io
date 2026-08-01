@@ -127,13 +127,6 @@ emissions](https://arxiv.org/abs/0911.2276), *Astropart. Phys.* 33 (2010) 312
 
 <!-- 
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
-Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking gravitational wave
-multiple ringdown modes in space](https://arxiv.org/abs/2604.20914), *Sci.
-Bull.* (submitted), arXiv:2604.20914
-<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2604.20914" data-style="small_rectangle"></span>
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.  Wex<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [New tests of local Lorentz
 invariance of gravity with small-eccentricity binary
@@ -146,64 +139,11 @@ limit on local Lorentz invariance violation of gravity in the standard-model
 extension](https://arxiv.org/abs/1412.2320), *Phys. Rev. D* 90 (2014) 122009
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.90.122009" data-style="small_rectangle"></span>
 
-0. Y. Gao<font color="#5c5c5c"><sup>(#)</sup></font>, X.-Y. Lai, **L.
-Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, R.-X. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Rotation and deformation of
-strangeon stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
-*Mon. Not. R. Astron. Soc.* 509 (2022) 2758
-<span class="__dimensions_badge_embed__" data-doi="10.1093/mnras/stab3181" data-style="small_rectangle"></span>
-
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, C. Liu, [New limits on the
-Lorentz/CPT symmetry through fifty gravitational-wave
-events](https://arxiv.org/abs/2108.02974), *Astrophys. J.* 921 (2021) 158
-<span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/ac223c" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N. Wex, S.-Y.
-Zhou, [New graviton mass bound from binary
-pulsars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020) 024069
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.102.024069" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Q.G.
-Bailey<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Testing the
-gravitational weak equivalence principle in the standard-model extension
-with binary pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99
-(2019) 084017
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.99.084017" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Q.G.
-Bailey<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Testing
-velocity-dependent CPT-violating gravitational forces with radio
-pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D* 98 (2018) 084049
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.98.084049" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, B.  Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Bayesian framework to constrain the
-photon mass with a catalog of fast radio
-bursts](https://arxiv.org/abs/1705.01278), *Phys. Rev. D* 95 (2017) 123010
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.95.123010" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.  Wex<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Tests of gravitational symmetries
-with radio pulsars](https://arxiv.org/abs/1604.03662), *Sci. China Phys. Mech.
-Astron.* 59 (2016) 699501
-<span class="__dimensions_badge_embed__" data-doi="10.1007/s11433-016-0087-6" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Testing
-the strong equivalence principle with the triple pulsar PSR
-J0337+1715](https://arxiv.org/abs/1602.05725), *Phys. Rev. D* 93 (2016) 084023
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.93.084023" data-style="small_rectangle"></span>
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, N.  Wex<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [New limits on the violation of
 local position invariance of gravity](https://arxiv.org/abs/1307.2637), *Class.
 Quantum Grav.* 30 (2013) 165020
 <span class="__dimensions_badge_embed__" data-doi="10.1088/0264-9381/30/16/165020" data-style="small_rectangle"></span>
-
-0. **L. Shao**<font color="#5c5c5c"><sup>(#)</sup></font>, B.-Q. Ma<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [The significant digit law in
-statistical physics](https://arxiv.org/abs/1005.0660), *Physica A* 389 (2010) 3109
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2010.04.021" data-style="small_rectangle"></span>
 
 -->
 
