@@ -43,6 +43,11 @@ layout: default
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
 
+0. Y. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Pan, L. Qian, **L. Shao**, D.
+Yin, Y. Lian, [A Massive Binary Pulsar with Eccentricity 0.12 in the Globular
+Cluster M10](TBA), arXiv:TBA
+
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing an Intermediate-Mass Black
 Hole Companion of Sagittarius A* with Pulsar
@@ -90,16 +95,16 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
 Black Hole Timing Model](https://arxiv.org/abs/2602.19546), *Astrophys. J.
 Suppl.* (accepted), arXiv:2602.19546
 
-0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
-Multiband Gravitational Waves from Eccentric Binary Black
-Holes](https://arxiv.org/abs/2604.27734), *Phys. Rev. D* (accepted), arXiv:2604.27734
-
 0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
 Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
 Shao**, Y. Guo, D.J. Champion, Y. Yue, [Improved proper motion and gravity tests
 with PSR J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* (accepted), arXiv:2606.19276
+
+0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
+Multiband Gravitational Waves from Eccentric Binary Black
+Holes](https://arxiv.org/abs/2604.27734), *Phys. Rev. D* 114 (2026) 024089
 
 0. S. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, H. Lü, Y. Gao, R.
 Xu, **L. Shao**, H. Yu, [Neutron stars more compact than black holes as a probe
