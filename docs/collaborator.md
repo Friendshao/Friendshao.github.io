@@ -25,6 +25,7 @@ layout: default
 | [**Feng, Wen-Fan**](https://inspirehep.net/authors/2592240) | Peking University | Beijing | China |
 | [**Freire, Paulo**](https://www3.mpifr-bonn.mpg.de/staff/pfreire/) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
 | [**Gao, Yong**](https://gravyong.github.io/) | Albert Einstein Institute | Potsdam | Germany |
+| [**Hu, Yi-Ming**](https://tianqin.sysu.edu.cn/members/hu-yi-ming) | Sun Yat-sen University | Zhuhai | China |
 | [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) | Peking University | Beijing | China |
 | [**Ji, Peixiang**](https://orcid.org/0009-0007-1101-5020) | Peking University | Beijing | China |
 | [**Kang, Yacheng**](https://astrokang.github.io/) | Peking University | Beijing | China |
@@ -51,3 +52,4 @@ layout: default
 | [**Zhu, Jin-Ping**](https://jpzhu-astro.github.io/) | The University of Hong Kong | Hong Kong | China |
 | [**Zhu, Weiwei**](http://groups.bao.ac.cn/psr/tzsx/) | National Astronomical Observatories | Beijing | China |
 | ... | | | |
+
