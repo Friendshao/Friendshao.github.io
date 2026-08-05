@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (185) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (186) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (201) </small>
        </td>
  
@@ -42,6 +42,12 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, J.-C. Yu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing Dynamical Friction of Dark
+Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
 
 0. Y. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Zhang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Pan, L. Qian, **L. Shao**, D.
