@@ -56,6 +56,7 @@ tr:nth-child(odd) {
 ### <img src="../whatsmore/conference.jpeg" style="height:45px;"> &nbsp; <b>Serving for Academic Conferences</b>
 
 | **ROLE** | **CONFERENCE** |
+| Organizer | [PhenoX 2026: Phenomenology meets Experiment]([https://indico-tdli.sjtu.edu.cn/event/3993/](https://indico.ihep.ac.cn/event/30376/))<br><small>November 20-23, 2026, Beijing China |
 | SOC | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
 | <span style="background-color:black"><small><font color="gold">&nbsp; Chair &nbsp;</font></small></span><br>Organizer | [SKA Pulsar Science Symposium 2025](https://psr.pku.edu.cn/conference/ska/ska2025/ska2025.html)<br><small>July 2-4, 2025, Qingdao China |
 | Organizer | [3nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2025)](https://indico-tdli.sjtu.edu.cn/event/3993/)<br><small>June 6-10, 2025, Guangzhou China |
