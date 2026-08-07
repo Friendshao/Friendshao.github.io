@@ -1171,14 +1171,14 @@ GW250207: Astrophysical Calibration of Gravitational-wave
 Detectors](https://arxiv.org/abs/2605.11703), *Phys. Rev. Lett.* (accepted),
 arXiv:2605.11703
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
-Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
-Propagation](https://arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted), arXiv:2509.04348
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Upper Limits on
 the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo,
 and KAGRA's fourth Observing Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted),
 arXiv:2508.20721
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
+Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave
+Propagation](https://arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* 1007 (2026) L17
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Directed searches
 for gravitational waves from ultralight vector boson clouds around merger
