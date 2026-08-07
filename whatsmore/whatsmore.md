@@ -93,6 +93,7 @@ tr:nth-child(odd) {
 | 2018.12-now | KSC member for PKU-KIAA group of KAGRA Collaboration |
 | 2019.1-2022.12 | Executive Member of Editorial Board for *Science Bulletin* |
 | 2021.1-2025.12 | Head of a Max Planck Partner Group  between PKU-KIAA and MPIfR |
+| 2025.7-now | 中国天文学会青年工作委员会委员 |
 | 2024.12-now | 国家重点研发计划项目“引力波探测”重点专项专家组成员 |
 | 2020.12-2025.11 | 科技部“SKA专项”项目负责人 |
 | 2024.2-now | 浙江省余姚市低塘初级中学“科学副校长” |
