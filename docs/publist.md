@@ -69,11 +69,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**,
 [Asymptotically-flat Black holes in Bumblebee Gravity: Exact Solutions and
 Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
 
-0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
-Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
-agentic framework for gravitational-wave counterpart association in the
-multi-messenger era](https://arxiv.org/abs/2605.10584), arXiv:2605.10584
-
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
 Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking Gravitational Wave
@@ -95,6 +90,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
+Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
+agentic framework for gravitational-wave counterpart association in the
+multi-messenger era](https://arxiv.org/abs/2605.10584), *Innovation* (accepted), arXiv:2605.10584
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
