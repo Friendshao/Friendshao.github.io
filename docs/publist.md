@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (186) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (201) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (202) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1104,6 +1104,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
+ultralight bosons from merging binary and remnant black holes observed
+during the second and third parts of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2608.11620), arXiv:2608.11620
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: Tests of
 General Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
