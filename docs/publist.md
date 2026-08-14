@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (186) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (187) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (202) </small>
        </td>
  
