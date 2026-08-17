@@ -91,11 +91,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 
-0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
-Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
-agentic framework for gravitational-wave counterpart association in the
-multi-messenger era](https://arxiv.org/abs/2605.10584), *Innovation* (accepted), arXiv:2605.10584
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
 Black Hole Timing Model](https://arxiv.org/abs/2602.19546), *Astrophys. J.
@@ -106,6 +101,11 @@ Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
 Shao**, Y. Guo, D.J. Champion, Y. Yue, [Improved proper motion and gravity tests
 with PSR J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* (accepted), arXiv:2606.19276
+
+0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
+Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
+agentic framework for gravitational-wave counterpart association in the
+multi-messenger era](https://arxiv.org/abs/2605.10584), *Innovation* 7 (2026) 101538
 
 0. H. Wang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Dipole Radiation with
