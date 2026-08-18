@@ -2304,7 +2304,7 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 0. 张泽<font color="#5c5c5c"><sup>(#)</sup></font>, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂,
 仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 夏铖君, 俞云伟, 袁业飞, 郑小平, **邵立晶**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [用SKA探索基础物理与脉冲星物理](TBA), 
-《中国科学：物理学 力学 天文学》, submitted
+《中国科学：物理学 力学 天文学》, accepted
 
 0. 康亚城<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**,
 [GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, accepted
