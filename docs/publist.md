@@ -1118,10 +1118,6 @@ run](https://arxiv.org/abs/2608.11620), arXiv:2608.11620
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: Tests of
 General Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA / PEGS Collaboration),
-[Sub-Torque-Balance Upper Limits on Continuous Gravitational Waves from Scorpius
-X-1](https://arxiv.org/abs/2607.07765), arXiv:2607.07765
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Open Data from
 LIGO, Virgo, and KAGRA through the Second Part of the Fourth Observing
 Run](https://arxiv.org/abs/2605.27090), arXiv:2605.27090
@@ -1165,6 +1161,10 @@ Run](https://arxiv.org/abs/2603.14168), arXiv:2603.14168
 continuous gravitational-wave signals from unknown neutron stars in binary
 systems in the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2511.16863), arXiv:2511.16863
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA / PEGS Collaboration),
+[Sub-Torque-Balance Upper Limits on Continuous Gravitational Waves from Scorpius
+X-1](https://arxiv.org/abs/2607.07765), *Astrophys. J. Lett.* (accepted), arXiv:2607.07765
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: An
 Introduction to Version 5.0 of the Gravitational-Wave Transient
