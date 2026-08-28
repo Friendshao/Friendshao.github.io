@@ -100,7 +100,8 @@ Suppl.* (accepted), arXiv:2602.19546
 Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, R.  Ferdman, M. Kramer, H. Hu, **L.
 Shao**, Y. Guo, D.J. Champion, Y. Yue, [Improved proper motion and gravity tests
-with PSR J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* (accepted), arXiv:2606.19276
+with PSR J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.*
+713 (2026) A1
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
 Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
