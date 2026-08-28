@@ -2313,7 +2313,8 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [用SKA探索基础物理与脉冲�
 《中国科学：物理学 力学 天文学》, accepted
 
 0. 康亚城<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, **邵立晶**,
-[GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, accepted
+[GW231123：聆听宇宙深处的极端黑洞并合](http://mp.ihep.ac.cn/article/id/5768bc69-b11e-4add-b44a-52a116dc342e), 
+《现代物理知识》 38 (2026) 49
 
 0. 赵乘辉<font color="#5c5c5c"><sup>(#)</sup></font>, 李洪波<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **邵立晶**,
