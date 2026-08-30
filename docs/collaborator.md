@@ -47,6 +47,7 @@ layout: default
 | [**Xu, Rui**](https://ryxxastroat.github.io/) | <font color="gray"><i>&nbsp; &#9654; Left Academia</i></font> | Beijing | China |
 | [**Yazadjiev, Stoytcho**](https://relativity.phys.uni-sofia.bg/CV_SSY.html) | St. Kliment Ohridski University of Sofia | Sofia | Bulgaria |
 | [**Yim, Garvin**](https://garvinyim.wixsite.com/home) | <font color="gray"><i>&nbsp; &#9654; Left Academia</i></font> | Manchester &nbsp; &nbsp; | Britain |
+| [**Yu, Jiang-Chuan**](https://orcid.org/0000-0002-4509-4747) | Peking University | Beijing | China |
 | [**Zhang, Bing**](https://www.scifac.hku.hk/people/zhang-bing) | The University of Hong Kong | Hong Kong | China |
 | [**Zhao, Junjie**](https://www.hnskxy.com/igwa/info/1033/1020.htm) | Henan Academy of Sciences | Zhengzhou | China |
 | [**Zhu, Jin-Ping**](https://jpzhu-astro.github.io/) | The University of Hong Kong | Hong Kong | China |
