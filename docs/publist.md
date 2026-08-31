@@ -24,7 +24,7 @@ layout: default
 
        <td style="background-color:white; border: none">            
          C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (29)<br>
-         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (20)<br>
+         D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (21)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (30)
        </td>
 
@@ -2306,6 +2306,11 @@ model](https://arxiv.org/abs/1008.1689), *Chin. Phys. C* 34 (2010) 1417
 
 <a name="chinese"></a>
 <big><big>**Chinese Articles**</big></big> **published in Chinese journals and popular science**
+
+0. 陈海亮, 陈文, 党世军, 丁浩, 郭彦君, 何秋忆, 侯贤<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, 胡奂晨, 李志玄, 刘阔, 缪雪丽, 潘之辰, 平劲松,
+**邵立晶**, 石洵, 王洪光, 吴子为, 胥恒, 徐钧, 徐永华, 薛梦瑶, 颜一, 王陈, 闫振, 姚菊枚, 袁建平, 张春风, 张颜荣, 朱炜玮,
+朱幸芝, [利用景东120米射电望远镜开展脉冲星科学研究](TBA), submitted
 
 0. 张泽<font color="#5c5c5c"><sup>(#)</sup></font>, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂,
 仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 夏铖君, 俞云伟, 袁业飞, 郑小平, **邵立晶**<font
