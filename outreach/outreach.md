@@ -28,7 +28,7 @@ tr:nth-child(odd) {
 <!-- | 2026-now | Editorial Board Member of [Progress in High Energy Astrophysics]() | -->
 
 | **TIME** | **ROLE** |
-| 2026-now | Handling Editor of [The Innovation Astronomy](https://www.the-innovation.org/the-innovation-astronomy) |
+| 2026-now | Handling Editor of [Innovation Astronomy](https://www.the-innovation.org/the-innovation-astronomy) |
 | 2020-now |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
 | 2024-2028 |  Editorial Board Member of [Chinese Physics C](http://cpc.ihep.ac.cn/) |
 | 2026-now |  Editorial Board Member of [Progress in High Energy Astrophysics](https://www.sciengine.com/PHEA/home) |
