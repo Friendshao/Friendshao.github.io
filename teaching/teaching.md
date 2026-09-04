@@ -51,7 +51,7 @@ tr:nth-child(odd) {
 
 ### **Recent Courses**
 
-| [SR-2026F](sr26) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节；理教209 | 
+| [SR-2026F](sr26) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节；二教411 | 
 | [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周四10-11节；三教505 |
 | [TM-2027S](tm27) | **Theoretical Mechanics**<br>**理论力学** | 暂时不能给你明确答复<br><small>**习题课**：待定 |
 | [SR-2027F](sr27) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节；地点待定 | 
