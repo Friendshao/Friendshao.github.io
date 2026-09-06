@@ -40,6 +40,7 @@ layout: default
 | [**Miao, Xueli**](https://www.mpifr-bonn.mpg.de/person/136271/2169) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
 | [**Rezaei Akbarieh, Amin**](https://ipm.ac.ir/personalinfo.jsp?PeopleCode=IP1200093) &nbsp; &nbsp; | University of Tabriz | Tabriz | Iran |
 | [**Torne, Pablo**](https://www.researchgate.net/profile/Pablo-Torne) | Instituto de Radioastronomía Milimetrica | Granada | Spain |
+| [**Wang, Han**](https://kiaa.pku.edu.cn/info/1014/10192.htm) | Peking University | Beijing | China |
 | [**Wang, Hai-Tian**](https://faculty.dlut.edu.cn/wanghaitian/zh_CN/index.htm) | Dalian University of Technology | Dalian | China |
 | [**Wang, Ziming**](https://orcid.org/0000-0002-8742-8397) | Peking University | Beijing | China |
 | [**Wex, Norbert**](https://www3.mpifr-bonn.mpg.de/staff/nwex/index.html) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
