@@ -52,7 +52,7 @@ Suppl.* (accepted), arXiv:2602.19546
 Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
 agentic framework for gravitational-wave counterpart association in the
 multi-messenger era](https://arxiv.org/abs/2605.10584), *Innovation* 7 (2026) 101538
-<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2605.10584" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.xinn.2026.101538" data-style="small_rectangle"></span>
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang<font
 color="#5c5c5c"><sup>(#)</sup></font>, H.-T. Wang, J. Zhao, **L. Shao**<font
