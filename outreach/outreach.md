@@ -58,7 +58,7 @@ tr:nth-child(odd) {
 
 | **ROLE** | **CONFERENCE** |
 | Organizer | [PhenoX 2026: Phenomenology meets Experiment](https://indico.ihep.ac.cn/event/30376/)<br><small>November 27-30, 2026, Beijing China |
-| Organizer | [以天之语 解物之道](TBA)<br><small>October 19-20, 2026, Beijing China |
+| Organizer | [以天之语 解物之道](https://psr.pku.edu.cn/conference/tianyujiewu2/)<br><small>October 19-20, 2026, Beijing China |
 | SOC | [The 24th International Conference on General Relativity and Gravitation](https://iop.eventsair.com/gr24-amaldi16)<br><small>July 14-18, 2025, Glasgow UK |
 | <span style="background-color:black"><small><font color="gold">&nbsp; Chair &nbsp;</font></small></span><br>Organizer | [SKA Pulsar Science Symposium 2025](https://psr.pku.edu.cn/conference/ska/ska2025/ska2025.html)<br><small>July 2-4, 2025, Qingdao China |
 | Organizer | [3nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC 2025)](https://indico-tdli.sjtu.edu.cn/event/3993/)<br><small>June 6-10, 2025, Guangzhou China |
