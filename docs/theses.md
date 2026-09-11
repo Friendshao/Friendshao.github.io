@@ -124,7 +124,7 @@ tr:nth-child(odd) {
 0. **王晗**，[引力波数据处理](theses/WangHan.pdf)（北京大学，2027年·夏）
   - <small> Gravitational Wave Data Analysis
 0. **冯文凡**，[银河系双星与三体系统中快速自旋中子星引力波建模及应用](theses/FengWenfan.pdf)（北京大学，2026年·秋）
-  - <small> Gravitational-Wave Modeling and Applications for Rapidly Spinning Neutron Stars in Galactic Binary and Triple Systems
+  - <small> Gravitational-wave modeling and application for rapidly spinning neutron stars in galactic binary and triple systems
 0. **吕振伟**，[引力波数据中物理信息的提取](theses/LyuZhenwei.pdf)（北京大学，2024年·夏）
   - <small> Unveiling Physical Insights from Gravitational Waves
 0. **王海天**，[铃宕信号的引力波数据分析](theses/WangHaitian.pdf)（北京大学，2024年·夏）
