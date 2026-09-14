@@ -94,7 +94,7 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
 Black Hole Timing Model](https://arxiv.org/abs/2602.19546), *Astrophys. J.
-Suppl.* (accepted), arXiv:2602.19546
+Suppl.* 286 (2026) 41
 
 0. X. Miao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, N.
 Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu<font
