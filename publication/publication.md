@@ -46,7 +46,7 @@ tr:nth-child(odd) {
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A realistic pulsar - supermassive
 black hole timing model](https://arxiv.org/abs/2602.19546), *Astrophys. J.
 Suppl.* 286 (2026) 41
-<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2602.19546" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4365/ae8d23" data-style="small_rectangle"></span>
 
 0. Y. Dong<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Kang, J. Zhao, X. Zhu,
 Z. Wang, **L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [An
