@@ -91,8 +91,11 @@ tr:nth-child(odd) {
 | 00432198<br><br><br>00432211 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Theoretical Mechanics (A)**<br>**理论力学（A）**<br><span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 3学分·51学时 &nbsp;</font></small></span><br>**Theoretical Mechanics**<br>**理论力学**<br><small><small> * exercise class ID: 00432205 | [**2027S**](tm27) (?? ppl.)<br>[**2026S**](tm26) (130 ppl.)<br>[**2025S**](tm25a) (68 ppl.)<br>[**2024S**](tm24) (100 ppl.)<br>[**2022F**](thmech22) (101 ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
 | 00432140<br><br><br>00432141 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Electrodynamics (A)**<br>**电动力学（A）**<br><span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 3学分·51学时 &nbsp;</font></small></span><br>**Electrodynamics (B)**<br>**电动力学（B）**<br><small><small> * exercise class ID: 00432160 | [**2025F**](ced25) (75 ppl.)<br>[**2024F**](ced24) (88 ppl.)<br>[**2023F**](ced23) (92 ppl.)<br>[**2022F**](ced22) (30 ppl.) | 
 | 00431132<br><br><br>00431133 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (I)**<br>**普通物理（I）**<br><span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**General Physics (II)**<br>**普通物理（II）**<br><small><small> * exercise class ID: 00431680 | [**2024S**](phy24) (173 ppl.)<br>[**2022S**](phy22) (95 ppl.)<br>[**2021S**](phy21) (159 ppl.)<br>[**2020F**](phy20) (75 ppl.) |  
+
+<!-- 
 | 00432296 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Astroparticle Physics**<br>**天体粒子物理** | [**2022S**](astroparticle22) (8 ppl.) | 
-| 00430151 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Lectures on Frontiers of Modern Physics (Ⅰ)**<br>**现代物理前沿讲座（Ⅰ）** | **2024F** (101 ppl.) | 
+| 00430151 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Lectures on Frontiers of Modern Physics (Ⅰ)**<br>**现代物理前沿讲座（Ⅰ）** | **2024F** (101 ppl.) |  
+-->
 
 <!-- 
 | 00432001 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Fundamentals of Theoretical Physics (I)**<br>**理论物理基础（I）**<br><small><small> * exercise class ID: 00432011 | [**202X**](tp25) (?? ppl.) |  
@@ -117,7 +120,6 @@ tr:nth-child(odd) {
 | PKU'25S | [**Theoretical Mechanics (A)**](tm25a)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Ziming Wang & Peixiang Ji |
 | PKU'24F | [**Electrodynamics (A)**](ced24)<br>**电动力学（A）** | **Lecturer** <small><small> * TAs: Yiming Dong & Huapeng Gu |
 | PKU'24F | [**General Relativity & Astrophysics**](gr24)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Hanlin Song |
-| PKU'24F | **Lectures on Frontiers of Modern Physics Ⅰ**<br>**现代物理前沿讲座（Ⅰ）** | **co-Lecturer** <small>(2 hr)</small> <small><small><br><i>with</i> Profs. Kaihui Liu *et al.* |
 | PKU'24S | [**Theoretical Mechanics (A)**](tm24)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Yacheng Kang & Fangcheng Wang |
 | PKU'24S | [**General Physics (I)**](phy24)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Peixiang Ji & Zexin Hu & Jierui Hu |
 | AYEP'23 | [**Fundamental Physics in Astronomy**](https://pkutalent.learnworlds.com/course/astronomy)<br>**天文学中的基础物理** | **Lecturer** <small><small> * Asian Youth Exchange Program |
@@ -126,7 +128,6 @@ tr:nth-child(odd) {
 | PKU'22F | [**Electrodynamics (B)**](ced22)<br>**电动力学（B）** | **Lecturer** <small><small> * TA: Yong Gao |
 | PKU'22F | [**Theoretical Mechanics (A)**](thmech22)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Muxin Liu & Hanlin Song |
 | PKU'22S | [**General Physics (I)**](phy22)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Ping He & Zipu Fan |
-| PKU'22S | [**Astroparticle Physics**](astroparticle22)<br>**天体粒子物理** | **co-Lecturer** <small>(2 hr)</small> <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu |
 | PKU'21F | [**Theoretical Mechanics (A)**](thmech21)<br>**理论力学（A）** | **Lecturer** <small><small> * TAs: Hongbo Li & Hulin Li |
 | PKU'21F | [**General Relativity & Astrophysics**](gr21)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Zihang Wang |
 | PKU'21S | [**General Physics (I)**](phy21)<br>**普通物理（I）** | **Lecturer** <small><small> * TAs: Yong Gao & Zhongfu Zhang |
@@ -138,6 +139,11 @@ tr:nth-child(odd) {
 | PKU'10F | **What is Science?**<br>**科学是什么** | **TA** <small><small> * Lectured by Profs. Yi Rao & Guosheng Wu |
 | PKU'10S | **Probability Theory and Statistics**<br>**概率统计** | **TA** <small><small> * Lectured by Prof. Zhenxi Dong |
 | PKU'09F | **Linear Algebra**<br>**线性代数** | **TA** <small><small> * Lectured by Prof. Maoying Tian <br> ** <b> Excellent Teaching Assistant</b> Award |
+
+<!-- 
+| PKU'24F | **Lectures on Frontiers of Modern Physics Ⅰ**<br>**现代物理前沿讲座（Ⅰ）** | **co-Lecturer** <small>(2 hr)</small> <small><small><br><i>with</i> Profs. Kaihui Liu *et al.* |
+| PKU'22S | [**Astroparticle Physics**](astroparticle22)<br>**天体粒子物理** | **co-Lecturer** <small>(2 hr)</small> <small><small><br><i>with</i> Profs. B.-Q. Ma, R.-X. Xu, B. Chen, Z. Li, J. Liu | 
+-->
 
 <br>
 <p></p>
