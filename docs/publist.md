@@ -49,11 +49,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing Dynamical Friction of Dark
 Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
 
-0. Y. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Pan, L. Qian, **L. Shao**, D.
-Yin, Y. Lian, [A Massive Binary Pulsar with Eccentricity 0.12 in the Globular
-Cluster M10](TBA), arXiv:TBA
-
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing an Intermediate-Mass Black
 Hole Companion of Sagittarius A* with Pulsar
@@ -90,6 +85,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Y. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Zhang<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Pan, L. Qian, **L. Shao**, D.
+Yin, Y. Lian, [A Massive Binary Pulsar with Eccentricity 0.12 in the Globular
+Cluster M10](TBA), *Astrophys. J.* (accepted),  arXiv:TBA
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
@@ -2146,7 +2146,7 @@ II* (AASKAII), 2026
 Liu, **L. Shao**, J. Ye, Z. Wang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing RLVR training instability
 through the lens of objective-level hacking](https://arxiv.org/abs/2602.01103),
-ICML2026 (accepted), arXiv:2602.01103
+ICML (2026)
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Hu,
 [Fundamental Physics with Pulsars around Sagittarius A*](https://arxiv.org/abs/2508.09931),
