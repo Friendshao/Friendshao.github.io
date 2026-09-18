@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (187) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (188) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (203) </small>
        </td>
  
@@ -42,6 +42,11 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. H. Guo<font color="#5c5c5c"><sup>(#)</sup></font>, Y.S. Myung, **L. Shao**,
+[Extremal Scalarization of Charged Black Holes: Miransky Scaling across
+Reissner-Nordström Extremality](https://arxiv.org/abs/2609.20040),
+arXiv:2609.20040
 
 0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, J.-C. Yu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu<font
