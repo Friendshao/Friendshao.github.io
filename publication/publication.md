@@ -26,7 +26,7 @@ tr:nth-child(odd) {
 
 ## <b>Publication</b>
 
-**Please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/public-libraries/pf-rWvqJQp63DLo0Z9UZ-Q)**
+**Please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [SciX](https://scixplorer.org/public-libraries/-6macw2ETfyZcR0PdLW7mQ)**
 <small><font color="gray">(LVK and EHT Collaboration papers excluded)</font></small>
 
 <!-- 
