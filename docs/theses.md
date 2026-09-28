@@ -54,6 +54,9 @@ tr:nth-child(odd) {
 
 <big><big> **Bachelor Dissertation**
 
+
+0. **熊秋豪**，[面向科学计算的智能体 Harness 设计与评测研究](theses/XiongQiuhao.pdf)（北京大学，2027年·夏）
+  - <small>Design and Evaluation of Agent Harnesses for Scientific Computing
 0. **杨一秋**，[黑洞准正模共振](theses/YangYiqiu.pdf)（北京大学，2025年·夏）
   - <small>Black Hole Resonance between Quasinormal Modes
 0. **郭雨欣**，[基于数值相对论波形的黑洞并合参数估计方法](theses/GuoYuxin.pdf)（北京航空航天大学，2024年·夏）
