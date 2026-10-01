@@ -27,6 +27,7 @@ tr:nth-child(odd) {
 > 十年树木，百年树人。
 
 | **YEAR** | **DOCTOR** | **BACHELOR** | **UNDERGRADUATE** | **POSTDOC** |
+| 2030 | | | | |
 | 2029 | &#9975; Z. Zhang <small>(张泽)</small><br>&#9975; J. Yu <small>(于江川)</small> | | | &#9975; S. Bhattacharya<small><sup>$\ast$</sup></small> |
 | 2028 | &#9975; Z. Wang <small>(王子铭)</small><br>&#9975; Y. Dong <small>(董益铭)</small> | | | &#9975; H. Guo <small>(郭弘)</small><br>&#9975; P. Routaray |
 | 2027 | &#9975; Y. Kang <small>(康亚城)</small><br>&#9975; Z. Hu <small>(胡泽昕)</small><br>&#9975; P. Ji <small>(姬佩祥)</small> | &#9975; Q. Xiong <small>(熊秋豪)</small> | &#9975; Z. Yan <small>(颜张岩)</small><br>&#9975; T. Yu <small>(俞天麒)</small><br>&#9975; Y. Tao <small>(陶昱锦)</small> | &#9975; H. Wang <small>(王晗)<sup>$\ast$</sup></small> |
