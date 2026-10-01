@@ -22,7 +22,7 @@ layout: default
 | [**Doneva, Daniela**](https://producciocientifica.uv.es/investigadores/2188910/detalle) | Universitat de València | Valencia | Spain |
 | [**Dong, Yiming**](https://orcid.org/0000-0001-5371-4697) | Peking University | Beijing | China |
 | [**Eatough, Ralph**](https://www3.mpifr-bonn.mpg.de/staff/reatough/) | National Astronomical Observatories | Beijing | China
-| [**Feng, Wen-Fan**](https://inspirehep.net/authors/2592240) | Peking University | Beijing | China |
+| [**Feng, Wen-Fan**](https://inspirehep.net/authors/2592240) | Yangtze University | Jingzhou | China |
 | [**Freire, Paulo**](https://www3.mpifr-bonn.mpg.de/staff/pfreire/) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
 | [**Gao, Yong**](https://gravyong.github.io/) | Albert Einstein Institute | Potsdam | Germany |
 | [**Hu, Yi-Ming**](https://tianqin.sysu.edu.cn/members/hu-yi-ming) | Sun Yat-sen University | Zhuhai | China |
