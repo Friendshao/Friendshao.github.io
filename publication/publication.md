@@ -29,13 +29,6 @@ tr:nth-child(odd) {
 **Please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [SciX](https://scixplorer.org/public-libraries/-6macw2ETfyZcR0PdLW7mQ)**
 <small><font color="gray">(LVK and EHT Collaboration papers excluded)</font></small>
 
-<!-- 
-**For a nearly complete list, please check at [<big><big><font color="blue">This Link</font></big></big>](https://friendshao.github.io/docs/publist), or [ADS](https://ui.adsabs.harvard.edu/#/public-libraries/_Wy76FR4TQutMoiU0wKO_g) / [Inspirehep](https://inspirehep.net/authors/1061576?ui-citation-summary=true)**
-
-- [**All Papers**](https://inspirehep.net/authors/1061576?ui-citation-summary=true): $80000+$ citations with $H=88$ 
-- [**Short-author-list Papers**](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3ALijing.Shao.1%20AND%20not%20cn%3A%2A&ui-citation-summary=true): $7000+$ citations with $H=40$
--->
-
 ---
 
 <p></p>
@@ -72,12 +65,6 @@ center supermassive black hole with two
 pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* 133 (2024) 231402
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.133.231402" data-style="small_rectangle"></span>
 
-0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Extended
-thermodynamics of the bumblebee black holes](https://arxiv.org/abs/2304.08030),
-*Phys. Rev. D* 108 (2023) 024004
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.108.024004" data-style="small_rectangle"></span>
-
 0. D. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, R. Xu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z.-F. Mai, **L.  Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing vector hair of black holes
@@ -94,18 +81,6 @@ solutions in the bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Ph
 color="#5c5c5c"><sup>(#)</sup></font>, [Neutron stars as extreme laboratories
 for gravity tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.scib.2022.09.018" data-style="small_rectangle"></span>
-
-0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
-**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
-gravitational waves in the bumblebee gravity
-model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* 106 (2022) 124019
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.106.124019" data-style="small_rectangle"></span>
-
-0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
-Kramer, **L. Shao**, N. Wex, [Closing a spontaneous-scalarization window with
-binary pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* 39
-(2022) 11LT01
-<span class="__dimensions_badge_embed__" data-doi="10.1088/1361-6382/ac69a3" data-style="small_rectangle"></span>
 
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [Combined
 search for anisotropic birefringence in the gravitational-wave transient
@@ -139,11 +114,6 @@ with pulsars](https://arxiv.org/abs/1402.6452), *Phys. Rev. Lett.* 112 (2014)
 111103
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.112.111103" data-style="small_rectangle"></span>
 
-0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [New pulsar
-limit on local Lorentz invariance violation of gravity in the standard-model
-extension](https://arxiv.org/abs/1412.2320), *Phys. Rev. D* 90 (2014) 122009
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.90.122009" data-style="small_rectangle"></span>
-
 0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R.N.
 Caballero, M. Kramer, N. Wex, D.J. Champion, A. Jessner, [A new limit on local
 Lorentz invariance violation of gravity from solitary
@@ -165,6 +135,32 @@ emissions](https://arxiv.org/abs/0911.2276), *Astropart. Phys.* 33 (2010) 312
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.astropartphys.2010.03.003" data-style="small_rectangle"></span> 
 {: reversed="reversed"}
 
+<!-- 
+
+0. Z.-F. Mai<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**, [Extended
+thermodynamics of the bumblebee black holes](https://arxiv.org/abs/2304.08030),
+*Phys. Rev. D* 108 (2023) 024004
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.108.024004" data-style="small_rectangle"></span>
+
+0. D. Liang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, R. Xu, X. Lu,
+**L. Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Polarizations of
+gravitational waves in the bumblebee gravity
+model](http://arxiv.org/abs/2207.14423), *Phys. Rev. D* 106 (2022) 124019
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.106.124019" data-style="small_rectangle"></span>
+
+0. J. Zhao<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, P.C.C. Freire, M.
+Kramer, **L. Shao**, N. Wex, [Closing a spontaneous-scalarization window with
+binary pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* 39
+(2022) 11LT01
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1361-6382/ac69a3" data-style="small_rectangle"></span>
+
+0. **L. Shao**<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, [New pulsar
+limit on local Lorentz invariance violation of gravity in the standard-model
+extension](https://arxiv.org/abs/1412.2320), *Phys. Rev. D* 90 (2014) 122009
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.90.122009" data-style="small_rectangle"></span> 
+
+-->
 
 ### **Selected Collaboration Papers**
 
