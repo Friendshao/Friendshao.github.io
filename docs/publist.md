@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (188) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (190) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (203) </small>
        </td>
  
@@ -43,6 +43,15 @@ layout: default
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
 
+0. H.-T. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L. Shao**,
+Y.-X. Liu, [Testing Extra-Dimensional Gravitational-Wave Polarizations with
+Compact-Binary Observations](TBA), arXiv:TBA
+
+0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Wang, **L.
+Shao**, R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Continuous
+Gravitational Waves from Thermo-Elastic Mountains in Ultraluminous X-ray
+Pulsars](TBA), arXiv:TBA
+
 0. H. Guo<font color="#5c5c5c"><sup>(#)</sup></font>, Y.S. Myung, **L. Shao**,
 [Extremal Scalarization of Charged Black Holes: Miransky Scaling across
 Reissner-Nordström Extremality](https://arxiv.org/abs/2609.20040),
@@ -61,7 +70,7 @@ Timing](http://arxiv.org/abs/2607.24201), arXiv:2607.24201
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
-pulsar – supermassive black hole system](http://arxiv.org/abs/2606.04762),
+pulsar - supermassive black hole system](http://arxiv.org/abs/2606.04762),
 arXiv:2606.04762
 
 0. J. Yang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.-F. Mai<font
