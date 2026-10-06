@@ -68,11 +68,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing an Intermediate-Mass Black
 Hole Companion of Sagittarius A* with Pulsar
 Timing](http://arxiv.org/abs/2607.24201), arXiv:2607.24201
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
-pulsar - supermassive black hole system](http://arxiv.org/abs/2606.04762),
-arXiv:2606.04762
-
 0. J. Yang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.-F. Mai<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**,
 [Asymptotically-flat Black holes in Bumblebee Gravity: Exact Solutions and
@@ -99,6 +94,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
+pulsar - supermassive black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.* (accepted), arXiv:2606.04762
 
 0. Y. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Zhang<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Pan, L. Qian, **L. Shao**, D.

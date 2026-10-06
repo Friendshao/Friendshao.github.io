@@ -37,7 +37,7 @@ tr:nth-child(odd) {
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
-pulsar - supermassive black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.* (submitted), arXiv:2606.04762
+pulsar - supermassive black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.* (accepted), arXiv:2606.04762
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2606.04762" data-style="small_rectangle"></span>
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
