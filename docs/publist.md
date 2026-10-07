@@ -50,7 +50,7 @@ Compact-Binary Observations](TBA), arXiv:TBA
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Wang, **L.
 Shao**, R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Continuous
 Gravitational Waves from Thermo-Elastic Mountains in Ultraluminous X-ray
-Pulsars](TBA), arXiv:TBA
+Pulsars](https://arxiv.org/abs/2610.06299), arXiv:2610.06299
 
 0. H. Guo<font color="#5c5c5c"><sup>(#)</sup></font>, Y.S. Myung, **L. Shao**,
 [Extremal Scalarization of Charged Black Holes: Miransky Scaling across
