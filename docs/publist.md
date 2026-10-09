@@ -45,7 +45,8 @@ layout: default
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L. Shao**,
 Y.-X. Liu, [Testing Extra-Dimensional Gravitational-Wave Polarizations with
-Compact-Binary Observations](TBA), arXiv:TBA
+Compact-Binary Observations](https://arxiv.org/abs/2610.11855),
+arXiv:2610.11855
 
 0. H.-B. Li<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z. Wang, **L.
 Shao**, R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Continuous
