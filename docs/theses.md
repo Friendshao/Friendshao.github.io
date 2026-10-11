@@ -55,6 +55,8 @@ tr:nth-child(odd) {
 <big><big> **Bachelor Dissertation**
 
 
+0. **张子健**，[人工智能在引力波数据分析中的应用](theses/ZhangZijian.pdf)（北京大学，2027年·夏）
+  - <small>AI in Gravitational-wave Data Analysis
 0. **熊秋豪**，[面向科学计算的智能体 Harness 设计与评测研究](theses/XiongQiuhao.pdf)（北京大学，2027年·夏）
   - <small>Design and Evaluation of Agent Harnesses for Scientific Computing
 0. **杨一秋**，[黑洞准正模共振](theses/YangYiqiu.pdf)（北京大学，2025年·夏）
