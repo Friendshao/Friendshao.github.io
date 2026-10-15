@@ -13,7 +13,7 @@ layout: default
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
          <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (190) </small> <br>
-         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (203) </small>
+         <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (204) </small>
        </td>
  
       <td style="background-color:white; border: none">            
@@ -1119,6 +1119,11 @@ nucleon](https://arxiv.org/abs/0812.3294), *Phys. Lett. B* 671 (2009) 30
 
 <a name="collaboration"></a>
 <big>**&nbsp; &nbsp; &#9654; Collaboration Papers**</big>
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Search for Compact
+Binary Coalescences with Sub-solar Mass Components in Data from the Second Part
+of LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2610.20276),
+arXiv:2610.20276
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Updated Upper
 Limits on the Isotropic Gravitational-Wave Background from LIGO, Virgo, and
