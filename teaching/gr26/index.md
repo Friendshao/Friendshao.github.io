@@ -84,7 +84,7 @@ advanced undergraduates) with *Science & Engineering* background.
 | 0. 课程介绍 | |
 | 1. 他们仨：Newton、Maxwell、Einstein | |
 | 2. 狭义相对论温习 | HW1 (ddl: Oct. 8) |
-| 3. 黎曼几何简介 | HW2 (ddl: ) |
+| 3. 黎曼几何简介 | HW2 (ddl: Oct. 29) |
 | 4. Einstein 场方程 |  |
 | 5. 真空球对称解和宇宙学简介 | HW3 (ddl: ) |
 | 6. 弱场近似与实验检验 | HW4 (ddl: ) |
