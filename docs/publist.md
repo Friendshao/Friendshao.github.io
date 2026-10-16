@@ -94,8 +94,8 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
 Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking Gravitational Wave
-Multiple Ringdown Modes in Space](https://arxiv.org/abs/2604.20914), **Sci.
-China Phys. Mech. Astron.** (accepted), arXiv:2604.20914
+Multiple Ringdown Modes in Space](https://arxiv.org/abs/2604.20914), *Sci.
+China Phys. Mech. Astron.* (accepted), arXiv:2604.20914
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
