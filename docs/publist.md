@@ -74,11 +74,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**,
 [Asymptotically-flat Black holes in Bumblebee Gravity: Exact Solutions and
 Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
 
-0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
-Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking Gravitational Wave
-Multiple Ringdown Modes in Space](https://arxiv.org/abs/2604.20914), arXiv:2604.20914
-
 0. J.-C. Yu<font color="#5c5c5c"><sup>(#)</sup></font>, Y. Cao, **L.
 Shao**<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Constraining Ultralight
 Scalar Dark Matter in the Galactic Center with the S2
@@ -95,6 +90,12 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
+Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Cracking Gravitational Wave
+Multiple Ringdown Modes in Space](https://arxiv.org/abs/2604.20914), **Sci.
+China Phys. Mech. Astron.** (accepted), arXiv:2604.20914
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
