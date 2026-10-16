@@ -64,11 +64,6 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing Dynamical Friction of Dark
 Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
 
-0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing an Intermediate-Mass Black
-Hole Companion of Sagittarius A* with Pulsar
-Timing](http://arxiv.org/abs/2607.24201), arXiv:2607.24201
-
 0. J. Yang<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, Z.-F. Mai<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, D. Liang, **L. Shao**,
 [Asymptotically-flat Black holes in Bumblebee Gravity: Exact Solutions and
@@ -90,6 +85,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
+color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing an Intermediate-Mass Black
+Hole Companion of Sagittarius A* with Pulsar
+Timing](http://arxiv.org/abs/2607.24201), *Sci.  China Phys. Mech. Astron.* (accepted), arXiv:2607.24201
 
 0. Z. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, H. Wang, Y. Yang, Y.
 Dong, H.-T. Wang, Y.-M. Hu, **L. Shao**<font
