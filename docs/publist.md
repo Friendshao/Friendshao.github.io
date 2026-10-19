@@ -1138,10 +1138,6 @@ General Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 LIGO, Virgo, and KAGRA through the Second Part of the Fourth Observing
 Run](https://arxiv.org/abs/2605.27090), arXiv:2605.27090
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: Methods
-for Identifying and Characterizing Gravitational-wave
-Transients](https://arxiv.org/abs/2605.27224), arXiv:2605.27224
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0:
 Observations from the Second Part of the Fourth LIGO-Virgo-KAGRA Observing Run
 and Updates to the Gravitational-Wave Transient
@@ -1177,6 +1173,10 @@ Run](https://arxiv.org/abs/2603.14168), arXiv:2603.14168
 continuous gravitational-wave signals from unknown neutron stars in binary
 systems in the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2511.16863), arXiv:2511.16863
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: Methods
+for Identifying and Characterizing Gravitational-wave
+Transients](https://arxiv.org/abs/2605.27224), *Astrophys. J. Lett.* (accepted), arXiv:2605.27224
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
 ultralight bosons from merging binary and remnant black holes observed
