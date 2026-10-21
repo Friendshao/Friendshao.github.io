@@ -28,12 +28,11 @@ tr:nth-child(odd) {
 <!-- | 2026-now | Editorial Board Member of [Progress in High Energy Astrophysics]() | -->
 
 | **TIME** | **ROLE** |
-| 2026-now | Handling Editor of [Innovation Astronomy](https://www.the-innovation.org/the-innovation-astronomy) |
 | 2020-now |  Advisory Panel Member of [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381/page/Advisory%20Panel) |
 | 2024-2028 |  Editorial Board Member of [Chinese Physics C](http://cpc.ihep.ac.cn/) |
 | 2026-now |  Editorial Board Member of [Progress in High Energy Astrophysics](https://www.sciengine.com/PHEA/home) |
 | 2023-2026 | Guest Editor for [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) and [《科学通报》](https://www.sciengine.com/CSB/home) |
-| 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) |
+| 2026-now | Handling Editor of [Innovation Astronomy](https://www.the-innovation.org/the-innovation-astronomy) |
 | | **PAST ROLE** |
 | 2019-2022 | Executive Member of Editorial Board for [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) |
 | 2024-2026 | Joint Youth Editorial Board Member<br>[Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X), [Chinese Physics B](https://cpb.iphy.ac.cn/), [《物理学报》](https://wulixb.iphy.ac.cn/index.htm), [《物理》](http://www.wuli.ac.cn/) |
@@ -50,6 +49,8 @@ tr:nth-child(odd) {
 | 2019 | Outstanding Reviewer for [Classical and Quantum Gravity](https://publishingsupport.iopscience.iop.org/questions/classical-quantum-gravity-2019-reviewer-awards/) |
 | 2018 | Outstanding Reviewer for [Classical and Quantum Gravity](https://publishingsupport.iopscience.iop.org/questions/classical-and-quantum-gravity-2018-reviewer-awards/) | 
 | 2018 | Outstanding Reviewer for [Universe](https://www.mdpi.com/journal/universe/awards/591/download) |
+
+<!-- | 2018-now | Editorial Board Member of [Universe](https://www.mdpi.com/journal/universe/editors#editorialboard) | -->
 
 <br>
 <p></p>
