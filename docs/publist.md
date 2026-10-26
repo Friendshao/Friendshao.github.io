@@ -1192,12 +1192,12 @@ Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted), ar
 Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (accepted),
 arXiv:2603.19020
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Cosmological and
-High Energy Physics implications from gravitational-wave background searches in
-LIGO-Virgo-KAGRA's O1-O4a runs](https://arxiv.org/abs/2510.26848), *Phys. Rev. X* (accepted), arXiv:2510.26848
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Searches
 for Gravitational-Wave Lensing Signatures](https://arxiv.org/abs/2512.16347), *Astrophys. J.* (accepted), arXiv:2512.16347
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Cosmological and
+High Energy Physics implications from gravitational-wave background searches in
+LIGO-Virgo-KAGRA's O1-O4a runs](https://arxiv.org/abs/2510.26848), *Phys. Rev. X* 16 (2026) 041023
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA / PEGS Collaboration),
 [Sub-Torque-Balance Upper Limits on Continuous Gravitational Waves from Scorpius
