@@ -25,6 +25,7 @@ layout: default
 | [**Feng, Wen-Fan**](https://inspirehep.net/authors/2592240) | China University of Mining and Technology | Xuzhou | China |
 | [**Freire, Paulo**](https://www3.mpifr-bonn.mpg.de/staff/pfreire/) | Max-Planck-Institut für Radioastronomie | Bonn | Germany |
 | [**Gao, Yong**](https://gravyong.github.io/) | Albert Einstein Institute | Potsdam | Germany |
+| [**Guo, Hong**](https://kiaa.pku.edu.cn/info/1014/11442.htm) | Peking University | Beijing | China |
 | [**Hu, Yi-Ming**](https://tianqin.sysu.edu.cn/members/hu-yi-ming) | Sun Yat-sen University | Zhuhai | China |
 | [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) | Peking University | Beijing | China |
 | [**Ji, Peixiang**](https://orcid.org/0009-0007-1101-5020) | Peking University | Beijing | China |
