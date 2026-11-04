@@ -102,9 +102,10 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
 pulsar - supermassive black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.* (accepted), arXiv:2606.04762
 
 0. Y. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Zhang<font
-color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Pan, L. Qian, **L. Shao**, D.
-Yin, Y. Lian, [A Massive Binary Pulsar with Eccentricity 0.12 in the Globular
-Cluster M10](TBA), *Astrophys. J.* (accepted),  arXiv:TBA
+   color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Pan, L. Qian, **L. Shao**, D.
+Yin, Y. Lian, [A Massive and Eccentric Binary Millisecond Pulsar in the
+Globular Cluster M10](https://arxiv.org/abs/2611.02397), *Astrophys. J.* 1011
+(2026) 130
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Wang, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [A Realistic Pulsar - Supermassive
