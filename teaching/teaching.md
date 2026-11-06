@@ -53,8 +53,8 @@ tr:nth-child(odd) {
 
 | [SR-2026F](sr26) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节；理教203 | 
 | [GRA-2026F](gr26) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 周四10-11节；三教505 |
-| [TM-2027S](tm27) | **Theoretical Mechanics**<br>**理论力学** | 周一1-2节(单) & 周三5-6节；地点待定<br><small>**习题课**：待定 |
-| [SR-2027F](sr27) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 某天10-11节；地点待定 | 
+| [TM-2027S](tm27) | **Theoretical Mechanics**<br>**理论力学** |  周三5-6节 & 周五1-2节(单)；地点待定<br><small>**习题课**：待定 |
+| [SR-2027S](sr27) | **Special Relativity & Spacetime**<br>**狭义相对论与时空观** | 周二10-11节；地点待定 | 
 | [GRA-2027F](gr27) | **General Relativity & Astrophysics**<br>**广义相对论与天体物理** | 某天10-11节；地点待定 |
 
 <br>
@@ -86,7 +86,7 @@ tr:nth-child(odd) {
 ### **Summary Table**
 
 | **ID** | **COURSE** | **RECORD** |
-| 00433340 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Special Relativity & Spacetime**<br>**狭义相对论与时空观** | [**2027F**](sr27) (?? ppl.)<br>[**2026F**](sr26) (155 ppl.)<br>[**2025F**](sr25) (32 ppl.) | 
+| 00433340 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**Special Relativity & Spacetime**<br>**狭义相对论与时空观** | [**2027S**](sr27) (?? ppl.)<br>[**2026F**](sr26) (155 ppl.)<br>[**2025F**](sr25) (32 ppl.) | 
 | 00407794 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 2学分·34学时 &nbsp;</font></small></span><br>**General Relativity & Astrophysics**<br>**广义相对论与天体物理** | [**2027F**](gr27) (?? ppl.)<br>[**2026F**](gr26) (90 ppl.)<br>[**2024F**](gr24) (75 ppl.)<br>[**2023F**](gr23) (75 ppl.)<br>[**2021F**](gr21) (18 ppl.)<br>[**2020F**](gr20) (34 ppl.)<br>[**2019F**](gr19) (24 ppl.) | 
 | 00432198<br><br><br>00432211 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Theoretical Mechanics (A)**<br>**理论力学（A）**<br><span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 3学分·51学时 &nbsp;</font></small></span><br>**Theoretical Mechanics**<br>**理论力学**<br><small><small> * exercise class ID: 00432205 | [**2027S**](tm27) (?? ppl.)<br>[**2026S**](tm26) (130 ppl.)<br>[**2025S**](tm25a) (68 ppl.)<br>[**2024S**](tm24) (100 ppl.)<br>[**2022F**](thmech22) (101 ppl.)<br>[**2021F**](thmech21) (105 ppl.)<br>[**2019F**](thmech19) (96 ppl.) | 
 | 00432140<br><br><br>00432141 | <span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 4学分·68学时 &nbsp;</font></small></span><br>**Electrodynamics (A)**<br>**电动力学（A）**<br><span style="background-color:#C0C0C0"><small><font color="white">&nbsp; 3学分·51学时 &nbsp;</font></small></span><br>**Electrodynamics (B)**<br>**电动力学（B）**<br><small><small> * exercise class ID: 00432160 | [**2025F**](ced25) (75 ppl.)<br>[**2024F**](ced24) (88 ppl.)<br>[**2023F**](ced23) (92 ppl.)<br>[**2022F**](ced22) (30 ppl.) | 
