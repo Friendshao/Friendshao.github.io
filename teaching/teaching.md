@@ -110,7 +110,7 @@ tr:nth-child(odd) {
 
 | **SEMESTER** | **COURSE** | **ROLE** | 
 | PKU'27F | [**General Relativity & Astrophysics**](gr27)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: ?? |
-| PKU'27F | [**Special Relativity & Spacetime**](sr27)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: ?? |
+| PKU'27S | [**Special Relativity & Spacetime**](sr27)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: Jinghao Zhang |
 | PKU'27S | [**Theoretical Mechanics**](tm27)<br>**理论力学** | **Lecturer** <small><small> * TAs: Jiangchuan Yu & ?? |
 | PKU'26F | [**General Relativity & Astrophysics**](gr26)<br>**广义相对论与天体物理** | **Lecturer** <small><small> * TA: Ze Zhang |
 | PKU'26F | [**Special Relativity & Spacetime**](sr26)<br>**狭义相对论与时空观** | **Lecturer** <small><small> * TA: Jiangchuan Yu |
