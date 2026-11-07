@@ -1193,8 +1193,9 @@ Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted), ar
 Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (accepted),
 arXiv:2603.19020
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0: Searches
-for Gravitational-Wave Lensing Signatures](https://arxiv.org/abs/2512.16347), *Astrophys. J.* (accepted), arXiv:2512.16347
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
+   Searches for Gravitational-Wave Lensing
+Signatures](https://arxiv.org/abs/2512.16347), *Astrophys. J.* 1011 (2026) 240
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Cosmological and
 High Energy Physics implications from gravitational-wave background searches in
