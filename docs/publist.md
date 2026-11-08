@@ -1127,11 +1127,6 @@ Binary Coalescences with Sub-solar Mass Components in Data from the Second Part
 of LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2610.20276),
 arXiv:2610.20276
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Updated Upper
-Limits on the Isotropic Gravitational-Wave Background from LIGO, Virgo, and
-KAGRA Data through April 2025](https://arxiv.org/abs/2608.23477),
-arXiv:2608.23477
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: Tests of
 General Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 
@@ -1169,6 +1164,10 @@ Run](https://arxiv.org/abs/2603.14168), arXiv:2603.14168
 continuous gravitational-wave signals from unknown neutron stars in binary
 systems in the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2511.16863), arXiv:2511.16863
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Updated Upper
+Limits on the Isotropic Gravitational-Wave Background from LIGO, Virgo, and
+KAGRA Data through April 2025](https://arxiv.org/abs/2608.23477), *Phys. Rev. D* (accepted), arXiv:2608.23477
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Searches for
    Binary Mergers with Sub-solar Mass Components in Data from the First Part of
