@@ -12,7 +12,7 @@ layout: default
 
        <td style="background-color:white; border: none">
          A. <a href="https://friendshao.github.io/docs/publist#papers"><b>Refereed Papers</b></a><br>
-         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (190) </small> <br>
+         <small> [a1] <a href="https://friendshao.github.io/docs/publist#regular">Regular</a> (191) </small> <br>
          <small> [a2] <a href="https://friendshao.github.io/docs/publist#collaboration">Collaboration</a> (204) </small>
        </td>
  
@@ -42,6 +42,13 @@ layout: default
 
 <a name="regular"></a>
 <big>**&nbsp; &nbsp; &#9654; Regular Papers**</big>
+
+0. B. Liang<font color="#5c5c5c"><sup>(#)</sup></font>, 
+J. Deng<font color="#5c5c5c"><sup>(#)</sup></font>, 
+M. Du, H. Song, X. Fan, 
+P. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Luo, **L. Shao**,
+[Toward Solving the Galactic Foreground Problem in Gravitational-Wave Astronomy
+with Machine Learning](TBA), arXiv:TBA
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L. Shao**,
 Y.-X. Liu, [Testing Extra-Dimensional Gravitational-Wave Polarizations with
@@ -1135,11 +1142,6 @@ LIGO, Virgo, and KAGRA through the Second Part of the Fourth Observing
 Run](https://arxiv.org/abs/2605.27090), arXiv:2605.27090
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0:
-Observations from the Second Part of the Fourth LIGO-Virgo-KAGRA Observing Run
-and Updates to the Gravitational-Wave Transient
-Catalog](https://arxiv.org/abs/2605.27225), arXiv:2605.27225
-
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0:
 Population Properties of Merging Compact
 Objects](https://arxiv.org/abs/2605.27226), arXiv:2605.27226
 
@@ -1164,6 +1166,12 @@ Run](https://arxiv.org/abs/2603.14168), arXiv:2603.14168
 continuous gravitational-wave signals from unknown neutron stars in binary
 systems in the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2511.16863), arXiv:2511.16863
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0:
+   Observations from the Second Part of the Fourth LIGO-Virgo-KAGRA Observing
+Run and Updates to the Gravitational-Wave Transient
+Catalog](https://arxiv.org/abs/2605.27225), *Astrophys. J. Lett.* (accepted),
+arXiv:2605.27225
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Updated Upper
 Limits on the Isotropic Gravitational-Wave Background from LIGO, Virgo, and
