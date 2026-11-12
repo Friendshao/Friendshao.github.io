@@ -91,7 +91,8 @@ tr:nth-child(odd) {
 | 2026-now |  Editorial Board Member of *Progress in High Energy Astrophysics* |
 | 2023.1-2026.12 | Joint Guest Editor for *Science Bulletin* and *科学通报* |
 | 2018.12-now | KSC member for PKU-KIAA group of KAGRA Collaboration |
-| 2025.7-now | 中国天文学会青年工作委员会委员 |
+| 2026.10-now | Associate Chair of the Education Working Committee, Chinese Astronomical Society |
+| 2026.10-now | Member of the Youth Working Committee, Chinese Astronomical Society |
 | 2024.2-now | 浙江省余姚市低塘初级中学“科学副校长” |
 | | **PAST ROLE** |
 | 2024.5-2026.5 | Joint Youth Editor for *Chinese Physics Letters*, *Chinese Physics B*, *物理学报*, *物理* |
