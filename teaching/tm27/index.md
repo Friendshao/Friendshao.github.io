@@ -41,9 +41,10 @@ tr:nth-child(odd) {
 
 <p align="center">
 <font color="blue">
-$$\frac{ {\rm d} }{ {\rm d} t} \frac{\partial L }{\partial \dot q} - \frac{\partial L}{\partial q}  = 0$$
-$$\frac{ {\rm d} {\bf p}}{ {\rm d} t} = - \frac{\partial H}{\partial {\bf q}} ~~ \& ~~ \frac{ {\rm d} {\bf q}}{ {\rm d} t} = + \frac{\partial H}{\partial {\bf p}}$$
-$$\delta S = 0$$
+$$\delta S [q(t)] = 0 \quad\quad \partia_\mu \frac{\partial {\cal L}}{\partial (\partial_\mu \eta^\alpha)} - \frac{\partial {\cal L}}{\partial \eta^\alpha} = 0 $$
+$$\dot\xi^\alpha = \omega^{\alpha\beta} \frac{\partial H}{\partial \xi^\beta} $$
+$$H \left( q, \frac{S(q, t; B)}{\partial q}, t \right) + \frac{\partial S(q, t; B)}{\partial t} = 0$$
+$$[G, H] = 0$$
 </font>
 </p>
 
