@@ -41,7 +41,7 @@ tr:nth-child(odd) {
 
 <p align="center">
 <font color="blue">
-$$\delta S [q(t)] = 0 \quad\quad \partia_\mu \frac{\partial {\cal L}}{\partial (\partial_\mu \eta^\alpha)} - \frac{\partial {\cal L}}{\partial \eta^\alpha} = 0 $$
+$$\delta S [q(t)] = 0 \quad\quad \to \quad\quad \partial_\mu \frac{\partial {\cal L}}{\partial (\partial_\mu \eta^\alpha)} - \frac{\partial {\cal L}}{\partial \eta^\alpha} = 0 $$
 $$\dot\xi^\alpha = \omega^{\alpha\beta} \frac{\partial H}{\partial \xi^\beta} $$
 $$H \left( q, \frac{S(q, t; B)}{\partial q}, t \right) + \frac{\partial S(q, t; B)}{\partial t} = 0$$
 $$[G, H] = 0$$
