@@ -1186,11 +1186,6 @@ LIGO-Virgo-KAGRA's Fourth Observing Run](https://arxiv.org/abs/2605.05444),
 for Identifying and Characterizing Gravitational-wave
 Transients](https://arxiv.org/abs/2605.27224), *Astrophys. J. Lett.* (accepted), arXiv:2605.27224
 
-0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
-ultralight bosons from merging binary and remnant black holes observed
-during the second and third parts of the fourth LIGO-Virgo-KAGRA observing
-run](https://arxiv.org/abs/2608.11620), *Phys. Rev. D* (accepted), arXiv:2608.11620
-
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-5.0: An
 Introduction to Version 5.0 of the Gravitational-Wave Transient
 Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted), arXiv:2605.27223
@@ -1199,6 +1194,11 @@ Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted), ar
    of General Relativity. II. Parameterized
 Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (accepted),
 arXiv:2603.19020
+
+0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [Constraints on
+ultralight bosons from merging binary and remnant black holes observed
+during the second and third parts of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2608.11620), *Phys. Rev. D* 114 (2026) 103025
 
 0. A.G. Abac, *et al.* (LIGO / Virgo / KAGRA Collaboration), [GWTC-4.0:
    Searches for Gravitational-Wave Lensing
