@@ -106,7 +106,7 @@ China Phys. Mech. Astron.* (accepted), arXiv:2604.20914
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Granular mass perturbations on the
-pulsar - supermassive black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.* (accepted), arXiv:2606.04762
+pulsar - supermassive black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.* 137 (2026) 211401
 
 0. Y. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, Z. Zhang<font
    color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Pan, L. Qian, **L. Shao**, D.
