@@ -23,7 +23,7 @@ layout: default
        </td>
 
        <td style="background-color:white; border: none">            
-         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (30)<br>
+         C. <a href="https://friendshao.github.io/docs/publist#contribution"><b>Academic Contribution</b></a> (31)<br>
          D. <a href="https://friendshao.github.io/docs/publist#chinese"><b>Chinese Articles</b></a> (21)<br>
          E. <a href="https://friendshao.github.io/docs/publist#misc"><b>Miscellaneous</b></a> (30)
        </td>
@@ -2154,6 +2154,9 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>,
 
 <a name="contribution"></a>
 <big><big>**Academic Contribution**</big></big> **conference proceedings, white papers, and more**
+
+0. R.  Schödel, *et al.*, [Multi-epoch imaging observations of the Galactic
+Center with NIRCam and MIRI](https://arxiv.org/abs/2611.24110), arXiv:2611.24110
 
 0. K. Liu<font color="#5c5c5c"><sup>(#,$\ast$)</sup></font>, M. Cruces, G.
 Desvignes, M. Kramer, M. De Laurentis, N. Lewandowska, N. Masoongnoen,  D.D.
