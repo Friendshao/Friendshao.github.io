@@ -41,9 +41,8 @@ tr:nth-child(odd) {
 
 <p align="center">
 <font color="blue">
-$$\dot\xi^\alpha = \omega^{\alpha\beta} \frac{\partial H}{\partial \xi^\beta} $$
-$$H \left( q, \frac{S(q, t; B)}{\partial q}, t \right) + \frac{\partial S(q, t; B)}{\partial t} = 0$$
-$$\delta S = 0 , \quad\quad [G, H] = 0$$
+$$\dot\xi^\alpha = \omega^{\alpha\beta} \frac{\partial H}{\partial \xi^\beta} , \quad\quad \delta S = 0 , \quad\quad [G, H] = 0$$
+$$H \left( q, \frac{ \partial S(q, t; B)}{\partial q}, t \right) + \frac{\partial S(q, t; B)}{\partial t} = 0$$
 </font>
 </p>
 
