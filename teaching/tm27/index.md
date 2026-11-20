@@ -62,7 +62,7 @@ $$H \left( q, \frac{ \partial S(q, t; B)}{\partial q}, t \right) + \frac{\partia
 | **教师** | 邵立晶；Office KIAA 217；lshao@pku.edu.cn | 
 | |【答疑时间】每周日13:00-14:00PM<font color="blue">（建议来前联系，以免空跑）</font> |
 | **单号班助教** |  于江川，科维理所，jcyu25@stu.pku.edu.cn |
-| **双号班助教** |   |
+| **双号班助教** |  姬佩祥，科维理所，2201110290@stu.pku.edu.cn |
 | **习题课** | 周五1-2节(双) |
 | <font color="red"><b>网盘链接</b></font> | [猛戳这里](TBA) （倘若打开有误，请尝试重新刷新） |
 
