@@ -76,7 +76,7 @@ $$H \left( q, \frac{ \partial S(q, t; B)}{\partial q}, t \right) + \frac{\partia
 | 2. 哈密顿力学 | HW3 (ddl: )<br>HW4 (ddl: )<br>HW5 (ddl: ) |
 | 3. 连续系统分析力学  | HW6 (ddl: )<br>HW7 (ddl: ) |
 | 4. *混沌现象*  | |
-| <font color="blue"><b>期末考试（闭卷，笔试）</b></font> |  | 
+| <font color="blue"><b>期末考试（闭卷，笔试）</b></font> | 6月16日·14:00-16:00PM | 
 
 <p></p>
 
