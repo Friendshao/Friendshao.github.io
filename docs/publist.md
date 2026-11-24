@@ -60,11 +60,6 @@ Shao**, R.-X. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, [Continuous
 Gravitational Waves from Thermo-Elastic Mountains in Ultraluminous X-ray
 Pulsars](https://arxiv.org/abs/2610.06299), arXiv:2610.06299
 
-0. H. Guo<font color="#5c5c5c"><sup>(#)</sup></font>, Y.S. Myung, **L. Shao**,
-[Extremal Scalarization of Charged Black Holes: Miransky Scaling across
-Reissner-Nordström Extremality](https://arxiv.org/abs/2609.20040),
-arXiv:2609.20040
-
 0. Y. Yang<font color="#5c5c5c"><sup>(#)</sup></font>, J.-C. Yu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Hu<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
@@ -92,6 +87,11 @@ color="#5c5c5c"><sup>($\ast$)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [First Constraint on Axion-Photon
 Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. H. Guo<font color="#5c5c5c"><sup>(#)</sup></font>, Y.S. Myung, **L. Shao**,
+[Extremal Scalarization of Charged Black Holes: Miransky Scaling across
+Reissner-Nordström Extremality](https://arxiv.org/abs/2609.20040),
+*Phys. Rev. D* (accepted), arXiv:2609.20040
 
 0. Z. Hu<font color="#5c5c5c"><sup>(#)</sup></font>, **L. Shao**<font
 color="#5c5c5c"><sup>($\ast$)</sup></font>, [Probing an Intermediate-Mass Black
