@@ -48,7 +48,7 @@ J. Deng<font color="#5c5c5c"><sup>(#)</sup></font>,
 M. Du, H. Song, X. Fan, 
 P. Xu<font color="#5c5c5c"><sup>($\ast$)</sup></font>, Z. Luo, **L. Shao**,
 [Toward Solving the Galactic Foreground Problem in Gravitational-Wave Astronomy
-with Machine Learning](TBA), arXiv:TBA
+with Machine Learning](https://arxiv.org/abs/2611.32800), arXiv:2611.32800
 
 0. H.-T. Wang<font color="#5c5c5c"><sup>(#)</sup></font>, D. Liang, **L. Shao**,
 Y.-X. Liu, [Testing Extra-Dimensional Gravitational-Wave Polarizations with
